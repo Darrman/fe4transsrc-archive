@@ -1,0 +1,116 @@
+# Fontcheck: Reformatted
+
+# Last modified: 13/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the 2A-type scripts for
+# Chapter 9
+
+[blocked]
+
+# 0x33a6e8
+# @@3267488@@
+[block b000]
+
+[resolve b001]
+[cs]
+Arion! Don't you understand what you're causing Altenna to go through?[k]
+
+[exit]
+
+
+# 0x33a606:
+# @@3267499@@
+[block b001]
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+
+[TWinTop] # Selis
+Levin, does Arion still intend to fight?
+
+[TWinBtm] # (null)
+[Wait 10]
+We've sent several messengers calling for a truce already, but he won't listen.[k]
+[dcs]
+I guess the pride of being a Dragon Knight leaves no allowances for conceding in battle.[k]
+[cs]
+I truly believed Arion of Thracia would have been a more reasonable man...[k]
+[cs]
+Celice, you know we can't turn around now. We MUST engage this final battle.[k]
+[cs]
+
+[TWinTop] # Selis
+Grr... Why!? Why must Arion be so stubborn about this?[k]
+
+[exit]
+
+
+# 0x338c1e
+# @@3266403@@
+[block b002]
+
+[resolve b003]
+[dcs]
+
+[DlgCls][xChr]
+
+[TWinBtm][DlgOpn]['Oifaye' 0027]
+[sp][sp][sp]I'd like to say something here, if I'm alive, but it isn't translated yet![k]
+[cs]
+
+[TWinTop]
+[sp][sp][sp]But leaving it out makes the game black-screen, Oifaye![k]
+[cs]
+[sp][sp][sp]What should we do![k]
+[cs]
+
+[DlgCls][xChr]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[sp][sp][sp]We could just spout random filler in the meantime...[k]
+[cs]
+[sp][sp][sp]Oh right...[k]
+[cs]
+[sp][sp][sp]We just did, didn't we.[k]
+
+[exit]
+
+
+# 0x338aca:
+# @@3266414@@
+[block b003]
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Selis' 0019]
+
+[TWinTop] # (null)
+A battalion of Dragon Knights just left Thracia. Get ready, Celice. We're going back in.
+
+[TWinBtm] # Selis
+[Wait 10]
+But Levin, the empire is our enemy. Is there any reason we should take on Thracia, too?[k]
+[dcs]
+
+[TWinTop] # (null)
+The reasons'll become apparent if you handle this properly.[k]
+[cs]
+This battle is already well underway, Celice. There's no going back.
+
+[TWinBtm] # Selis
+[Wait 10]
+But the dragon knight on that mountain top back there... She looked so sad.[k]
+[dcs]
+The thought of having to fight her as well...[k]
+[cs]
+
+[TWinTop] # (null)
+Celice! Get over it!! This is war.[k]
+[cs]
+If you can't handle the heat, then you belong back at Tilnanogue!
+
+[TWinBtm] # Selis
+[Wait 10]
+Levin...[k]
+
+[exit]

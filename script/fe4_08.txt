@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 8.
@@ -38,7 +40,7 @@
 [TWinBtm][DlgOpn]['(null)' 0255]
 
 [TWinTop] # (null)
-Dammit! Those rebels have truly gone too far this time![k]
+Damn it! Those rebels have really gone too far this time![k]
 [cs]
 Vampa, I never imagined they'd pose a threat to the three of you.
 
@@ -74,7 +76,7 @@ Hrmph...[n]
 Well, we'll handle the rebel army with or without him.[k]
 [cs]
 Vampa, Fetra, Eliu... move out.[n]
-This time no survivors!
+This time, no survivors!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -92,7 +94,7 @@ Without fail![k]
 [TWinTop] # (null)
 [$00$2C$35$00], when do you honestly think we'll get Manster back?[k]
 [cs]
-We've had just about all we can take of King Bloom's rule!
+We've had just about all we can take of King Blume's rule!
 
 [TWinBtm] # Sety
 [Wait 10]
@@ -114,11 +116,11 @@ Believe me! Freedom is just on the horizon![k]
 [TWinTop] # (null)
 Father, King Blume has sent another request for backup.[k]
 [cs]
-He claims the empire has lost both Lenster and Alster Castle to the rebels.
+He claims the empire has lost both Lenster and Alster to the rebels.
 
 [TWinBtm] # (null)
 [Wait 10]
-That's Sigurd's boy, right? Blume must be getting pretty old to have some kid walk all over him.[k]
+That's Sigurd's boy, right? Blume must be getting pretty old to let some kid walk all over him.[k]
 [dcs]
 Arion, don't worry about Blume. Let the empire and the rebel army fight it out.[k]
 [cs]
@@ -142,9 +144,10 @@ Father, I know how you must feel. If only we could take on Grandbell outright...
 
 [TWinBtm] # (null)
 [Wait 10]
-Everything rests on the unification of the peninsula.[n]
-The fertile lands to the north hold the key to eliminating poverty within our kingdom.[k]
+Everything rests on the unification of the peninsula.[k]
 [dcs]
+The fertile lands to the north hold the key to eliminating poverty within our kingdom.[k]
+[cs]
 Arion, our ways have often been likened to that of hyenas...[k]
 [cs]
 Yet our mercenary work for foreign lands has meant the kingdom's survival.[k]
@@ -177,7 +180,7 @@ Well, there's definitely room for improvement. You think I should send reinforce
 [TWinTop] # (null)
 Yeah, I do. I can bet you King Blume isn't wasting any time over at Conote.[k]
 [cs]
-The citizens of Manster have also requested your help. We need to move... FAST!
+The citizens of Manster have also requested your help. We need to move... fast!
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -192,7 +195,7 @@ Alright. We'll set out at once![k]
 [TWinBtm][DlgOpn]['(null)' 025E]
 The rebel army is nothing to fear! Now go get Alster Castle back.[k]
 [cs]
-I'll take your head off if any one of you can't follow my orders... Now attack![k]
+I'll take your head off if any one of you doesn't follow my orders... Now attack![k]
 
 [exit]
 
@@ -201,7 +204,9 @@ I'll take your head off if any one of you can't follow my orders... Now attack![
 # @@1031223@@
 
 [TWinBtm][DlgOpn]['(null)' 025D]
-It's a straight shot from here to Lenster. We're not about to let General Muhammad's squad show us up, understood!?[k]
+It's a straight shot from here to Lenster.[k]
+[cs]
+We're not about to let General Muhammad's squad show us up, understood!?[k]
 
 [exit]
 
@@ -230,15 +235,15 @@ Ah, [$00$2C$33$00], I've been waiting for you.[k]
 [dcs]
 
 [TWinTop] # Faval
-Look, I'm busy, OK? So if you've got something for me, spit it out.
+Look, I'm busy, okay? So if you've got something for me, spit it out.
 
 [TWinBtm] # (null)
 [Wait 10]
-Grmph... (ahem..) I had you summoned because I have a favor to ask of you.[k]
+Grmph... I had you summoned because I have a favour to ask of you.[k]
 [dcs]
 
 [TWinTop] # Faval
-What kind of favor?
+What kind of favour?
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -256,7 +261,9 @@ I hear your younger sister has resorted to theft to make ends meet. That doesn't
 [cs]
 
 [TWinTop] # Faval
-([$00$2C$39$00][sp]really goes out of her way for those kids...) Hmph... we could use the cash.
+[$00$2C$39$00][sp]really goes out of her way for those kids...[k]
+[cs]
+Hmph... we could use the cash.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -264,7 +271,8 @@ Then we have an agreement? You finish off Celice and all the money you want is y
 [dcs]
 
 [TWinTop] # Faval
-Agreed. (I've a feeling I'm going to regret this one...) I'll help you but just this once.[k]
+Agreed.[n]
+I've a feeling I'm going to regret this... but I'll help you just this once.[k]
 
 [exit]
 
@@ -288,7 +296,7 @@ Father, this so unlike you! How could a petty band of rebels get you so worked u
 
 [TWinBtm] # (null)
 [Wait 10]
-They've already killed your brother Ishtor, and we've lost [$00$2C$3D$00][sp]as well.[k]
+They've already killed your brother, Ishtor, and we've lost [$00$2C$3D$00][sp]as well.[k]
 [dcs]
 I can't rely on Vampa and her sisters either... You're all I have left![k]
 [cs]
@@ -300,7 +308,7 @@ I can take care of the enemy blindfolded with that in my possession.
 
 [TWinBtm] # (null)
 [Wait 10]
-You want th... the Tor Hammer!? Humph... Alright, take it. Just don't slip up![k]
+You want th... the Tor Hammer!? Hmph... Alright, take it. Just don't slip up![k]
 [dcs]
 
 [TWinTop] # (null)
@@ -372,7 +380,7 @@ Keep an eye on him, Celice. He's up to something.[k]
 [TWinBtm][DlgOpn]['Altena' 002C]
 
 [TWinTop] # (null)
-Heh heh... Blume's dead, is he... The empire has finally been purged from Thracia![k]
+Heh heh... Blume's dead, is he? The empire has finally been purged from Thracia![k]
 [cs]
 It's time to take action, and Manster is first on the list.[k]
 [cs]
@@ -384,11 +392,11 @@ Kill anyone who offers resistance. Women... children... I don't care. Kill 'em a
 [Wait 10]
 Father! If you want me to fight the empire, fine. But I'm not about to kill innocent people![k]
 [dcs]
-We should be aligning with the liberation army not against them![k]
+We should be aligning with the liberation army, not against them![k]
 [cs]
 
 [TWinTop] # (null)
-Altenna! I don't have time for your lecture. You do as I've told you and you do it now!
+Altenna! I don't have time for a lecture. You do as I've told you and you do it now!
 
 [TWinBtm] # Altena
 [Wait 10]
@@ -414,7 +422,7 @@ But Arion... Alright, I'll do it.[k]
 [DlgCls][xChr]
 
 [TWinTop][DlgOpn]['(null)' 0260]
-Well, don't just stand there - get going!![k]
+Well, don't just stand there! Get going!![k]
 
 [exit]
 
@@ -428,7 +436,7 @@ Well, don't just stand there - get going!![k]
 [TWinTop] # (null)
 ...Did Altenna finally leave? Boy, that girl doesn't give in easy.[k]
 [cs]
-Her mother was real brazen, as well. Humph... Like mother, like daughter.
+Her mother was real brazen, as well. Hmph... Like mother, like daughter.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -436,7 +444,7 @@ Father, Altenna means no disrespect. Please give her the benefit of the doubt.[k
 [dcs]
 
 [TWinTop] # (null)
-Why do I need you to tell me that!? Arion, I'm heading back to the capital.[k]
+Why do I need you to tell me that!? In any case, let's head back to the capital.[k]
 [cs]
 I'm going to round up the army and take this peninsula once and for all![k]
 [cs]
@@ -469,7 +477,7 @@ Yes sir![k]
 
 [TWinBtm] # Sety
 [Wait 10]
-We JUST regained control of Manster from the empire! Now we have Thracia to deal with!?[k]
+We just regained control of Manster from the empire! Now we have Thracia to deal with!?[k]
 [dcs]
 So that's why King Trabant has been so damn quiet all this time![k]
 [cs]
@@ -487,7 +495,7 @@ You take everybody and head for Conote. I'll hold off the enemy for as long as I
 [DlgCls][xChr]
 
 [TWinTop][DlgOpn]['(null)' 02B0]
-[$00$2C$35$00], please be reasonable! You will perish out here all alone!
+[$00$2C$35$00], please be reasonable! You'll perish out here all alone!
 
 [TWinBtm] # Sety
 [Wait 10]
@@ -513,7 +521,7 @@ Sir, is everything alright? Manster Castle is just ahead. We shall proceed as pl
 
 [TWinBtm] # Altena
 [Wait 10]
-Corutta, wait. These are mere citizens we're up against... We shouldn't be fighting them.[k]
+Coruta, wait. These are mere citizens we're up against... We shouldn't be fighting them.[k]
 [dcs]
 Wait for me here. I'll try to get them to lay down their arms.[k]
 [cs]
@@ -529,13 +537,13 @@ I am in command here! Do you wish to disobey me!?[k]
 [dcs]
 
 [TWinTop] # Coluda
-This is my squadron! If you wish not to get involved, then step aside.[k]
+This is my squadron! If you wish to not get involved, then step aside.[k]
 [cs]
 Troops, prepare to attack! Remember, no survivors!
 
 [TWinBtm] # Altena
 [Wait 10]
-No, w..wait! Coruta!![k]
+No! W, wait! Coruta!![k]
 
 [exit]
 
@@ -558,11 +566,11 @@ Strengthen the castle's defense until His Majesty returns! We must hold Mease at
 [TWinBtm][DlgOpn]['Yuria' 002B]
 
 [TWinTop] # Selis
-Julia!? Oh my god! You're all right!
+Julia!? Oh my god! You're alright!
 
 [TWinBtm] # Yuria
 [Wait 10]
-Yes, I'm fine. They locked me up in this castle, but I just knew you'd come for me.[k]
+Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k]
 
 [exit]
 
@@ -580,7 +588,7 @@ They fight with such intensity... Where does that come from?
 
 [TWinBtm] # (null)
 [Wait 10]
-Well, for starters Thracia is not as well-off as most countries.[k]
+Well, for starters Thracia is not as well off as most countries.[k]
 [dcs]
 Its steep mountain ranges make agriculture just about impossible. Simply having enough food to eat is a job in and of itself.[k]
 [cs]
@@ -588,7 +596,7 @@ So the men do mercenary work, and the women take whatever work they can get.[k]
 [cs]
 King Trabant's methods may be diabolical, but his actions aren't all personally motivated.[k]
 [cs]
-The soldiers of Thracia have sworn their loyalty to Trabant because they believe he is the one true emancipator.[k]
+The soldiers of Thracia have sworn their loyalty to Trabant because they believe he is their one true emancipator.[k]
 [cs]
 
 [TWinTop] # Selis
@@ -613,7 +621,7 @@ And that is to remove Thracia's royal family from power, and create an environme
 # @@1032342@@
 
 [TWinBtm][DlgOpn]['Altena' 002C]
-Mease has fallen! Have I been wrong all this time? Oh, dear brother...[k]
+Mease has fallen! Have I been wrong all this time? Oh, Arion...[k]
 
 [exit]
 
@@ -625,9 +633,7 @@ Mease has fallen! Have I been wrong all this time? Oh, dear brother...[k]
 [TWinBtm][DlgOpn]['Faval' 0033]
 
 [TWinTop] # Patty
-[$00$2C$33$00]? What're you doing here!?[k]
-[cs]
-Don't tell me you're working for Blume!
+[$00$2C$33$00]? What're you doing here!? Don't tell me you're working for Blume!
 
 [TWinBtm] # Faval
 [Wait 10]
@@ -637,7 +643,7 @@ Don't tell me you're working for Blume!
 [TWinTop] # Patty
 That's right! We're here helping the people and we're gonna finish off Blume![k]
 [cs]
-It was the Imperial Guard that killed the parents of all the orphans. Remember!?
+It was the Imperial Guard that killed the parents of all the orphans. Remember!?[k]
 [cs]
 And now YOU are fighting with the very same army! What's wrong with you!
 
@@ -671,11 +677,11 @@ Who, me? Heehee![k]
 
 [TWinBtm] # Sety
 [Wait 10]
-Sir Celice... I can't tell you how I've waited for your arrival.[k]
+Sir Celice... I can't tell you how long I've waited for your arrival.[k]
 [dcs]
 Sir, please... save the world from despair. Too many people have given up hope as it is.[k]
 [cs]
-Manster also had a great number of children seized and sent to the shrine in Miletos.[k]
+Manster had a great number of children seized and sent to the shrine in Miletos.[k]
 [cs]
 I was unable to prevent it... I'm no hero, sir. I'm a coward if anything.[k]
 [cs]
@@ -689,7 +695,7 @@ It was everybody's combined strength that brought us this far.[k]
 
 [TWinBtm] # Sety
 [Wait 10]
-With honor, Sir Celice. I'll fight for you till the very end![k]
+With honour, Sir Celice. I'll fight for you till the very end![k]
 
 [exit]
 
@@ -702,7 +708,8 @@ We heard the people over at Manster are planning a revolt.[k]
 [cs]
 They've put their full trust behind a young Silesian mage named [$00$2C$35$00].[k]
 [cs]
-But they also have Thracia breathing down their neck... I hope they're alright.[k]
+But they also have Thracia breathing down their neck...[n]
+I hope they're alright.[k]
 
 [exit]
 
@@ -715,7 +722,7 @@ The liberation army is here![k]
 [cs]
 Oh, how I've waited for this day to come. Prince Celice is our only glimmer of hope![k]
 [cs]
-Here, please accept this Power Ring. It's just a small token of our gratitude[k]
+Here, please accept this Power Ring. It's just a small token of our gratitude.[k]
 
 [exit]
 
@@ -726,7 +733,7 @@ Here, please accept this Power Ring. It's just a small token of our gratitude[k]
 [TWinBtm][DlgOpn]['(null)' 02AE]
 Thracia has been after this area for as long as I can remember.[k]
 [cs]
-The royal family of Lenster and their Holy Gae Bolg always kept us safe, however.[k]
+The royal family of Lenster and the Holy Gae Bolg always kept us safe, however.[k]
 [cs]
 Unfortunately, the Gae Bolg was lost when Cuan, Ethlin, and their daughter Altenna were ambushed in the Yied Desert.[k]
 
@@ -750,7 +757,7 @@ But the two became bitter enemies at one point. Why can't they just get along...
 [TWinBtm][DlgOpn]['(null)' 02AB]
 The Kingdom of Thracia was founded by a Dragon Knight named Dain.[k]
 [cs]
-He took the divine Gungnir lance in hand and took on the devil himself.[k]
+He took the Divine Gungnir in hand and took on the devil himself.[k]
 [cs]
 Supposedly the founder of the Lenster Kingdom, Crusader Noba, was Dain's younger sister.[k]
 
@@ -765,7 +772,7 @@ Well, for landsake! What'd bring ya to this neck of th' woods?[k]
 [cs]
 I reckon yer th' curious type... Well, ya did come all this way. Here, try this on fer size.[k]
 [cs]
-It's called a thief bracelet. You'll be thievin' in no time with this fine accessory.[k]
+It's called a Thief Bracelet. You'll be thievin' in no time with this fine accessory.[k]
 [cs]
 Ya take care now, ya hear! Ho ho ho...[k]
 
@@ -810,7 +817,7 @@ Sir Celice's liberation army? Yes! You made it!![k]
 # @@1032733@@
 
 [TWinBtm][DlgOpn]['(null)' 02AF]
-Thank you... thank you so much![k]
+Thank you... Thank you so much![k]
 
 [exit]
 
@@ -828,7 +835,8 @@ Cheers to Sir Celice![k]
 # @@1032761@@
 
 [TWinBtm][DlgOpn]['(null)' 02B0]
-You're a brave warrior... Thank you so very much![k]
+You're a brave warrior...[n]
+Thank you so very much![k]
 
 [exit]
 
@@ -858,7 +866,7 @@ Thracia's Dragon Knights are attacking... Be on the lookout![k]
 [TWinBtm][DlgOpn]['Asaello' 001C]
 
 [TWinTop] # (null)
-Uaaah!! The hit man from Conote has returned! Everybody, run for your life![k]
+Uwaa!! The hitman from Conote has returned! Everybody, run for your life![k]
 [cs]
 
 [DlgCls][xChr]
@@ -866,15 +874,15 @@ Uaaah!! The hit man from Conote has returned! Everybody, run for your life![k]
 [Wait 10]
 
 [TWinBtm] # Asaello
-. . . . .[k]
+...[k]
 [cs]
 
 [TWinTop][DlgOpn]['(null)' 02B2]
-. . . . .
+...
 
 [TWinBtm] # Asaello
 [Wait 10]
-...Aren't you going to run too?[k]
+...Aren't you going to run, too?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -886,7 +894,7 @@ Hmm? Yeah, maybe I am a little.[k]
 [dcs]
 
 [TWinTop] # (null)
-Here, take this! They're berries we gathered in the woods.[k]
+Here, take these! They're berries we gathered in the woods.[k]
 [cs]
 Cheer up! They'll make you big and strong!
 
@@ -901,7 +909,7 @@ Cheer up! They'll make you big and strong!
 # @@1032844@@
 
 [TWinBtm][DlgOpn]['Leif' 001D]
-That Dragon Knight over there is a woman! She appears to be sad...[k]
+That Dragon Knight over there is a woman! She looks sad...[k]
 
 [exit]
 
@@ -910,7 +918,8 @@ That Dragon Knight over there is a woman! She appears to be sad...[k]
 # @@1032858@@
 
 [TWinBtm][DlgOpn]['Fee' 003C]
-Whew, I'm pretty high up. Sety, where could you be... How're you holding up, Mahnya?[k]
+Whew, I'm pretty high up. Sety, where could you be...[n]
+How're you holding up, Mahnya?[k]
 [cs]
 Being named after a hero of the kingdom, my aunt no less, must count for something...[k]
 [cs]
@@ -968,7 +977,7 @@ We can't just leave things the way they are. We need to help out any way we can.
 [TWinTop] # Mana
 I'm sorry, sir. I didn't mean to make you worry. I'll try a little harder.[k]
 [cs]
-But please be extra careful, OK? If we ever lost you.....
+But please be extra careful, okay? If we ever lost you.....
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -1006,7 +1015,7 @@ I'm fighting to restore peace to the land with Sir Celice.[k]
 [dcs]
 
 [TWinTop] # (null)
-YOU are a member of the liberation army!? Hahahaa! T'think I'd find you guys here![k]
+You're a member of the liberation army!? Hahahaa! T'think I'd find you guys here![k]
 [cs]
 Actually, I was just on my way home. This hurts to admit, but I kinda scared myself out here.[k]
 [cs]
@@ -1030,7 +1039,7 @@ Yes, it's Linda.[k]
 [dcs]
 
 [TWinTop] # (null)
-Linda? Hmmm... Where have I've heard that name before?[k]
+Linda? Hmm... Where have I've heard that name before?[k]
 [cs]
 Well, I should get moving. Here's an amulet for ya. I won't be needing it anymore.
 
@@ -1040,7 +1049,7 @@ Thank you...[k]
 [dcs]
 
 [TWinTop] # (null)
-Good luck to ya and may the grace of Narga be with ya![k]
+Good luck to ya and may the grace of Narga be with you![k]
 
 [exit]
 
@@ -1080,7 +1089,7 @@ I'm worthless, I tell ya.
 
 [TWinBtm] # Amid
 [Wait 10]
-Look, just stick with me and you'll be fine. If an enemy shows up get behind me, OK?[k]
+Look, just stick with me and you'll be fine. If an enemy shows up get behind me, okay?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -1092,7 +1101,7 @@ Well, you'd do the same for me if I were in trouble.[k]
 [dcs]
 
 [TWinTop] # (null)
-I'm not kidding, friend... You're like (sniff..) as good as they come.[k]
+I'm not kidding, friend... You're like as good as they come.[k]
 [cs]
 Here, I've got an amulet for you too. I brought an extra one just in case. Heh heh...
 
@@ -1117,5 +1126,3 @@ Well, before that we need to get over these mountains. Follow me.[k]
 Hey, wait up![k]
 
 [exit]
-
-

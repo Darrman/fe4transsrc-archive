@@ -1,4 +1,6 @@
-# Last modified: 09/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering the dialogue which plays on the triggering of any

@@ -1,4 +1,6 @@
-# Last Modified: 26/05/04
+# Fontcheck: Reformatted
+
+# Last Modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 [ASMPTR3]

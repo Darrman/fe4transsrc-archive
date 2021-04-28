@@ -1,5 +1,7 @@
 ## 0 0 PUBLIC
 
+# Fontcheck: Tiled
+
 # Last modified: 02/05/04
 # This file was added by Dark Twilkitri
 
@@ -12,7 +14,7 @@
 Normal[exit]
 
 # @@633208@@
-Siln[exit]
+Mute[exit]
 
 # @@633211@@
 Slep[exit]

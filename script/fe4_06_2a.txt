@@ -1,0 +1,84 @@
+# Fontcheck: Reformatted
+
+# Last modified: 12/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the 2A-type scripts for
+# Chapter 6
+
+[blocked]
+
+# 0x32d6b5
+# @@1169237@@
+[block b000]
+
+[TWinTop][DlgOpn]['Lakche' 003A]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+
+[resolve b001]
+[resolve b002]
+[resolve b003]
+
+[exit]
+
+
+# 0x32d697
+# @@1169284@@
+[block b004]
+
+[TWinTop][DlgOpn]['Lakche' 003A]
+[TWinBtm][DlgOpn]['Johan' 001E]
+
+[resolve b001]
+[resolve b005]
+[resolve b003]
+
+[exit]
+
+
+# 0x32d6d3
+# @@0@@
+[block b001]
+
+[TWinTop]
+Hey![n]
+Quit hanging around, it's depressing!
+
+[TWinBtm][Wait 10]
+[exit]
+
+
+# 0x32d747
+# @@0@@
+[block b002]
+
+Uh...[n]
+I'm just trying my best to protect you...[k]
+
+[TWinTop]
+[dcs]
+
+[exit]
+
+
+# 0x32d76f
+# @@0@@
+[block b003]
+
+...[k]
+
+[exit]
+
+
+# 0x32d6f7
+# @@0@@
+[block b005]
+
+Don't say such heartless things![n]
+This is an expression of my love![k]
+[dcs]
+I'll always watch over you! Please don't forget that![k]
+[cs]
+
+[TWinTop]
+[exit]

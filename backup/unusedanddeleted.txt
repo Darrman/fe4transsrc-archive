@@ -1,0 +1,80 @@
+# Alec/Ethlin from Prologue
+
+# 0x2e885f:
+# @@3340839@@
+
+[TWinTop][DlgOpn]['Alec' 0003]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
+
+[TWinTop] # Alec
+Your Highness, you better pull out of this while you still can.[k]
+[cs]
+Things are going to get pretty nasty once we cross over into Verdane.
+
+[TWinBtm] # Ethlin
+[Wait 10]
+Alec? Wow, good to see you. Thanks for your concern.[k]
+[dcs]
+But I'll be just fine. My father thinks I'm nuts, but I love this kind of stuff.[k]
+[cs]
+
+[TWinTop] # Alec
+Yeah, but...
+
+[TWinBtm] # Ethlin
+[Wait 10]
+Alec, Etain and I have been friends forever. I'm just as worried as everybody else.[k]
+[dcs]
+That girl's in a bad spot. The sooner we get to her the better.[k]
+[cs]
+
+[TWinTop] # Alec
+You don't budge an inch, do you... Reminds me a lot of Sir Sigurd.[k]
+[cs]
+We'll do what we can to keep you safe, but don't you go doin' anything crazy, OK?
+
+[TWinBtm] # Ethlin
+[Wait 10]
+Thanks, Alec. I'll try not to.[k]
+
+[exit]
+
+
+# Alec/Noish from Chapter 1
+
+# 0x2e8dc8:
+# @@3340917@@
+
+[TWinTop][DlgOpn]['Noish' 0002]
+[TWinBtm][DlgOpn]['Alec' 0003]
+
+[TWinTop] # Noish
+Alright. We're about to go into Verdane territory. Alec, you have any last words?
+
+[TWinBtm] # Alec
+[Wait 10]
+Noish, dammit! Would you lay off that crap!?[k]
+[dcs]
+You take every little thing we do too damn serious![k]
+[cs]
+
+[TWinTop] # Noish
+While serving under Sir Sigurd, we, as knights, must always be ready to give our life.
+
+[TWinBtm] # Alec
+[Wait 10]
+Yeah, don't remind me.[k]
+[dcs]
+Look, Sir Sigurd doesn't want us to get wasted out here under some loyalty pretext.[k]
+[cs]
+If you really want to show your loyalty to him, then do it by stayin' alive![k]
+[cs]
+
+[TWinTop] # Noish
+I don't need to be told that![k]
+[cs]
+Besides you're the one who seems to have trouble staying alive.[k]
+
+[exit]
+
+

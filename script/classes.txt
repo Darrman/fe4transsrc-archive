@@ -1,6 +1,8 @@
 # 5 4 knight
 
-# Last modified: 02/05/04
+# Fontcheck: Tiled
+
+# Last modified: 11/03/05
 # This file was added by Dark Twilkitri
 
 # This file is used for altering the class names whereever they appear in a status sense.
@@ -230,7 +232,7 @@ DrgMstr
 # @@232669@@
 
 #?{?E?t?@?C?^?[
-BowFghtr
+Bowfghtr
 
 #*# [exit]
 
@@ -239,7 +241,7 @@ BowFghtr
 # @@232671@@
 
 #?\?[?h?t?@?C?^?[
-SwdFghtr
+Swdfghtr
 
 #*# [exit]
 
@@ -248,7 +250,7 @@ SwdFghtr
 # @@232673@@
 
 #?\?[?h?}?X?^?[
-SwdMstr
+Swdmstr
 
 #*# [exit]
 
@@ -266,7 +268,7 @@ Sniper
 # @@232677@@
 
 #?t?H?[???X?g
-Forest
+Forrest
 
 #*# [exit]
 
@@ -302,7 +304,7 @@ Baron
 # @@232685@@
 
 #?\???W???[
-
+# Soldier
 
 #*# [exit]
 
@@ -311,7 +313,7 @@ Baron
 # @@232687@@
 
 #?X?s?A?\???W???[
-
+# Spear Soldier
 
 #*# [exit]
 
@@ -320,7 +322,7 @@ Baron
 # @@232689@@
 
 #?A?N?X?\???W???[
-
+# Axe Soldier
 
 #*# [exit]
 
@@ -329,7 +331,7 @@ Baron
 # @@232691@@
 
 #?A?[?`???[
-
+# Archer
 
 #*# [exit]
 
@@ -338,7 +340,7 @@ Baron
 # @@232693@@
 
 #?\?[?h?\???W???[
-
+# Sword Soldier
 
 #*# [exit]
 
@@ -392,7 +394,7 @@ Brigand
 # @@232705@@
 
 #?A?N?X?t?@?C?^?[
-AxeFghtr
+Axefghtr
 
 #*# [exit]
 
@@ -446,7 +448,7 @@ JrLord
 # @@232717@@
 
 #?}?[?W?t?@?C?^?[
-MagFghtr
+Magfghtr
 
 #*# [exit]
 
@@ -473,7 +475,7 @@ Princess
 # @@232723@@
 
 #?}?[?W?t?@?C?^?[
-MagFghtr
+Magfghtr
 
 #*# [exit]
 
@@ -617,7 +619,7 @@ Thief
 # @@232755@@
 
 #?V?[?t?t?@?C?^?[
-ThfFghtr
+Thffghtr
 
 #*# [exit]
 
@@ -671,7 +673,8 @@ KillArc
 # @@232767@@
 
 #?O???[?g?A?[?`
-GoldArc
+# Great Arch
+
 
 #*# [exit]
 

@@ -76,7 +76,6 @@ if test ! -e .LICENSE.read; then
    read
 
    echo "Now the whole licence."
-   more LICENSE
    echo
    echo "You automatically agree to the GPL licence by using this project."
    echo "If you do not agree, you may delete this project."

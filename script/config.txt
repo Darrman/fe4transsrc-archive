@@ -1,5 +1,7 @@
 # 0 0 BANK80
 
+# Fontcheck: Tiled
+
 # Last modified: 20/06/04
 # This file was modified by Dark Twilkitri
 

@@ -1,4 +1,6 @@
-# Last modified: 02/05/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 10.
@@ -46,7 +48,7 @@ They're proceeding smoothly, Your Highness.[k]
 [dcs]
 
 [TWinTop] # (null)
-Hrmph... The sacrifices to the Dark Lord must be quite a scare for the people.
+Hmph... The sacrifices to the Dark Lord must be quite a scare for the people.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -64,7 +66,7 @@ How shall I handle the excess of children? This castle is full as it is.[k]
 [dcs]
 
 [TWinTop] # (null)
-Have them sent to the capitol. I'll groom them myself.[k]
+Have them sent to the capital. I'll groom them myself.[k]
 [cs]
 After breaking all sibling and friendship ties, I'll match them up in a duel to the death.[k]
 [cs]
@@ -78,7 +80,7 @@ He has made it clear that he is strictly opposed to any child hunts.[k]
 [cs]
 
 [TWinTop] # (null)
-Shesh... Don't mind my father. Just let me handle this.[k]
+Sheesh... Don't worry about my father. Just let me handle this.[k]
 [cs]
 
 [DlgCls][xChr]
@@ -109,7 +111,7 @@ I don't know.[k]
 Ishtar, you listen up![n]
 We Freeges are of noble rank within Grandbell.[k]
 [cs]
-And I'm from Velthomer just as the Imperial family is.[k]
+And I'm originally from Velthomer, just as the Imperial family is.[k]
 [cs]
 Who could possibly make a more worthy partner for His Highness than yourself!?
 
@@ -119,7 +121,7 @@ Yes, mother.[k]
 [dcs]
 
 [TWinTop] # (null)
-Now on to these rebels... the ones responsible for killing my husband and my dear Ishtor.[k]
+Now, on to these rebels... the ones responsible for killing my husband and my dear Ishtor.[k]
 [cs]
 They stole Alster from us, as well. Celice and his family shall forever remain the Freege's bitter enemy![k]
 [cs]
@@ -166,7 +168,7 @@ How should I know!?[k]
 [dcs]
 
 [TWinTop] # (null)
-But if they catch us... (sniff..) they're gonna...
+But if they catch us... they're gonna...
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -174,7 +176,7 @@ Now, don't cry. It'll be alright. The crusaders will save us, you'll see![k]
 [dcs]
 
 [TWinTop] # (null)
-Yeah, I suppose so. I sure can't wait till they get here![k]
+Yeah, I guess. I can't wait till they get here![k]
 
 [exit]
 
@@ -184,10 +186,9 @@ Yeah, I suppose so. I sure can't wait till they get here![k]
 
 [TWinTop][DlgOpn]['(null)' 025F]
 [TWinBtm][DlgOpn]['(null)' 026D]
-
+	
 [TWinTop] # (null)
-General Ridale,[n]
-Queen Hilda has sent orders for you to engage battle.
+General Ridale, Queen Hilda has sent orders for you to enter battle.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -218,7 +219,7 @@ Alright, we'll leave at once.[k]
 [DlgCls][xChr]
 
 [TWinTop] # (null)
-Hmph... Damn military types, anyhow.[k]
+Hmph... Damn military types.[k]
 
 [exit]
 
@@ -242,7 +243,7 @@ Heh heh... You've no memory of me, do you... It's just as well. Now come!
 
 [TWinBtm] # Yuria
 [Wait 10]
-No way. Let.. let go of me![k]
+No way. Let... let go of me![k]
 [dcs]
 
 [TWinTop] # (null)
@@ -251,7 +252,8 @@ No use in resisting, my dear. Now come along quietly.
 
 [TWinBtm] # Yuria
 [Wait 10]
-No... stop it..... Prince Celice, help!![k]
+No... stop it...[n]
+Prince Celice, help!![k]
 [$00$2B$E2]
 
 [exit]
@@ -272,7 +274,7 @@ Really!? We'd better get going then. We've got to save as many as we can.[k]
 [dcs]
 
 [TWinTop] # (null)
-Celice...[n]
+Also...[n]
 I can't seem to find Julia anywhere.
 
 [TWinBtm] # Selis
@@ -298,7 +300,8 @@ We'll find you![k]
 # @@887325@@
 
 [TWinBtm][DlgOpn]['(null)' 026D]
-I see no particular need to rush...[n]
+I see no particular need to rush...[k]
+[cs]
 Alright, let's move out.[k]
 
 [exit]
@@ -360,51 +363,6 @@ Thanks for saving me![k]
 [exit]
 
 
-# 0x33b8c0:
-# @@887429@@
-
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
-
-[TWinTop] # Selis
-Levin, did you find the children?
-
-[TWinBtm] # (null)
-[Wait 10]
-No. I'm guessing they were moved to Miletos. We need to move. Their lives are in danger.[k]
-
-[exit]
-
-
-# 0x33b98a:
-# @@887479@@
-
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
-
-[TWinTop] # Selis
-Geez, it's like a ghost town here.
-
-[TWinBtm] # (null)
-[Wait 10]
-Yeah, Morigan's mages massacred all those who tried to resist.[k]
-[dcs]
-
-[TWinTop] # Selis
-That's horrible![n]
-I can't believe it...
-
-[TWinBtm] # (null)
-[Wait 10]
-Celice,[n]
-now you know why we must fight.[k]
-[dcs]
-There's just no room for good people to exist in the Loput Empire.[k]
-
-
-[exit]
-
-
 # 0x33bad6:
 # @@887674@@
 
@@ -422,12 +380,11 @@ What brings you here?[k]
 [dcs]
 
 [TWinTop] # (null)
-Ishtar... I know you can do better than this.[n]
-Now, release the children.
+Ishtar... I know you can do better than this. Now release the children.
 
 [TWinBtm] # (null)
 [Wait 10]
-But I have orders from Prince Julius.[k]
+But I have orders from Prince Julius...[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -455,18 +412,17 @@ I can't have you interfering like this, father. Ishtar works for me.[k]
 [cs]
 
 [TWinTop] # (null)
-Julius! I've have about enou-
+Julius! I've had about enou-
 
 [TWinBtm] # (null)
 [Wait 10]
-You still don't get it, do you... You're too old, father. Don't you think it's time you retire?[k]
+You still don't get it, do you... You're too old, father. Don't you think it's time you retired?[k]
 [dcs]
 Or do you still have thoughts of banishing me from the empire?[k]
 [cs]
 
 [TWinTop] # (null)
-No... I know how far that got me.[n]
-You do as you please.
+No... I know how far that got me. You do as you please.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -476,7 +432,7 @@ If I'm not mistaken you have Chalphy Castle to defend![k]
 [cs]
 
 [TWinTop] # (null)
-. . . . .[k]
+...[k]
 [cs]
 [$00$2B$E0]
 
@@ -486,8 +442,7 @@ If I'm not mistaken you have Chalphy Castle to defend![k]
 [BGM 7A]
 
 [TWinTop][DlgOpn]['(null)' 026C]
-Heh heh... He's emperor in name only, I see...[n]
-Such a wretched fool.
+Heh heh... He's emperor in name only, I see... Such a wretched fool.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -499,15 +454,15 @@ Yes, everything with Julia went smoothly. She's being held at Chalphy Castle.[k]
 [cs]
 She clearly remembers how, when you were children, you left her for dead...[k]
 [cs]
-as well as her mother warping her outside the castle walls.
+As well as her mother warping her outside the castle walls.
 
 [TWinBtm] # (null)
 [Wait 10]
-Humph... Yeah, Dierdre just sort of accepted the idea of being killed by her own son.[k]
+Hmph... Yeah, Deirdre just sort of accepted the idea of being killed by her own son.[k]
 [dcs]
 But she did manage to muster enough power to save Julia before I could finish her off.[k]
 [cs]
-Julia inherited the power of Lord Narga from Dierdre, not I.[k]
+Julia inherited the power of Lord Narga from Deirdre, not I.[k]
 [cs]
 That's why we must kill her... while we have the chance.[k]
 [cs]
@@ -520,16 +475,16 @@ I cannot envision Lord Narga somehow residing within the girl, as well.
 [TWinBtm] # (null)
 [Wait 10]
 You just don't get it, do you...[k]
-[cs]
-The incarnate of Narga flows within the Heim's royal blood. We must wipe every last one of them from the planet![k]
 [dcs]
+The incarnate of Narga flows within the Heim's royal blood. We must wipe every last one of them from the planet![k]
+[cs]
 
 [TWinTop] # (null)
 Alright, then. I'll have her executed at once, Your Highness.
 
 [TWinBtm] # (null)
 [Wait 10]
-Don't you slip up, Manfroy.[n]
+Don't you slip up, Manfloy.[n]
 [Wait 1E]
 Alright, I need to head back to Barhara.[k]
 [dcs]
@@ -543,7 +498,9 @@ And I'll see to it that we bring before you the corpse of Celice.
 [Wait 10]
 Celice... People refer to him as the Prince of Light.... and me the Prince of Darkness.[k]
 [dcs]
-They believe we both share the same mother somehow and that HE is first in the line of succession to Grandbell's throne! Only a fool would believe such nonsense.[k]
+They believe we both share the same mother somehow and that he is first in the line of succession to Grandbell's throne![k]
+[cs]
+Only a fool would believe such nonsense.[k]
 [cs]
 
 [TWinTop] # (null)
@@ -569,8 +526,7 @@ Your Highness...
 
 [TWinBtm] # (null)
 [Wait 10]
-Ishtar,[n]
-I'm leaving the dark bishop in charge. Let's be on our way.[k]
+Ishtar, I'm leaving the dark bishop in charge. Let's be on our way.[k]
 [dcs]
 Hey, let's have a little fun first. I'd say one of the rebels would make a nice blood offering.[k]
 [cs]
@@ -606,7 +562,7 @@ Yes, Your Highness.[k]
 [TWinBtm][DlgOpn]['Selis' 0019]
 
 [TWinTop] # (null)
-Celice, we're too late. The kids must have already been swept off to Grandbell.
+Celice, we're too late. The kids must have already been taken to Grandbell.
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -641,13 +597,11 @@ Alright then. Onward to Chalphy![k]
 [TWinBtm][DlgOpn]['(null)' 0286]
 
 [TWinTop] # (null)
-Bishop Palmark,[n]
-Take the children and get out of here.
+Bishop Palmark, take the children and get out of here.
 
 [TWinBtm] # (null)
 [Wait 10]
-Pardon me?[n]
-You mean you're setting them free!?[k]
+Pardon me? You mean you're setting them free!?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -655,8 +609,7 @@ That's right. Julius' people will be here soon from Barhara. You must leave imme
 
 [TWinBtm] # (null)
 [Wait 10]
-Y..yes, Your Majesty![n]
-You have my sincerest blessings.[k]
+Y, yes, Your Majesty! You have my sincerest blessings.[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -664,7 +617,7 @@ I also want you to hold on to this.
 
 [TWinBtm] # (null)
 [Wait 10]
-B..but, isn't this the...[k]
+B, but, isn't this the...[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -676,7 +629,7 @@ Yes, Your Majesty. I believe I do.[k]
 [dcs]
 
 [TWinTop] # (null)
-Then get going... And you keep those children safe!
+Then get going... And keep those children safe!
 
 [TWinBtm] # (null)
 
@@ -693,8 +646,7 @@ Julia, I've been awful to you. You must hate me by now. Can you ever forgive me?
 
 [TWinBtm] # Yuria
 [Wait 10]
-Father![n]
-I've never felt that way about you![k]
+Father! I've never felt that way about you![k]
 [dcs]
 I've always thought of you as a kind man.[k]
 [cs]
@@ -702,19 +654,19 @@ I've always thought of you as a kind man.[k]
 [TWinTop] # (null)
 No... I've been such a fool. Manfloy's been using me all along.[k]
 [cs]
-But by the time I realized what was going on, it was too late.[k]
+But by the time I realised what was going on, it was too late.[k]
 [cs]
 Julius is the reincarnation of the Dark Lord Loputousu.[k]
 [cs]
-He murdered my beloved Dierdre and had the same fate in store for you...
+He murdered my beloved Deirdre and had the same fate in store for you...
 
 [TWinBtm] # Yuria
 [Wait 10]
 Yes. Mother used her last drop of energy to warp me away from Julius.[k]
 [dcs]
-I must have lost my memories over the shock of it all. I'm sure glad Levin found me.[k]
+I must have lost my memories over the shock of it all. I'm glad Levin found me.[k]
 [cs]
-But I still just break down and cry when I think about Julius did to mother...[k]
+But I still just break down and cry when I think about what Julius did to mother...[k]
 [cs]
 
 [TWinTop] # (null)
@@ -742,9 +694,9 @@ You'll what!? Just who the hell do you think you're talking to!?
 [TWinBtm] # (null)
 [Wait 10]
 Heh heh heh...[n]
-It's high time you realize the order of things.[k]
+It's high time you realise the order of things.[k]
 [dcs]
-Anymore you're nothing but a mere servant to Prince Yurius.[k]
+You're no longer anything but a mere servant to Prince Yurius.[k]
 [cs]
 If you wish to avoid any further anguish, you'll succumb to His Highness' every wish.[k]
 [cs]
@@ -760,10 +712,9 @@ Father!![k]
 [cs]
 
 [TWinTop] # (null)
-Julia,[n]
-I'm powerless against these people. Take this circlet...[k]
+Julia, I'm powerless against these people. Take this circlet...[k]
 [cs]
-It belonged to your mother. It's the only hope for protec-[k]
+It belonged to your mother. It's your only hope for protec-[k]
 [cs]
 
 [DlgCls][xChr]
@@ -782,7 +733,7 @@ No... Father![k]
 # @@888238@@
 
 [TWinBtm][DlgOpn]['(null)' 0286]
-H..hurry up! We've no time to rest![k]
+H, hurry up! We've no time to rest![k]
 [cs]
 
 [TWinTop][DlgOpn]['(null)' 02B2]
@@ -812,15 +763,14 @@ Reverend, are you alright?
 
 [TWinBtm] # (null)
 [Wait 10]
-Your Highness![n]
-Oh, how I've waited for you to come![k]
+Your Highness! Oh, how I've waited for you to come![k]
 [dcs]
 I held out as best I could in order to give you this.[n]
 Here... it belongs to you.[k]
 [cs]
 
 [TWinTop] # Selis
-W..what is this!?
+W, what is this!?
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -828,7 +778,7 @@ It's the Holy Tyrfing... heirloom of the Chalphy family.[k]
 [dcs]
 
 [TWinTop] # Selis
-How did you get it?
+...how did you get it?
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -836,10 +786,10 @@ I wish I could tell you, but I gave a solemn oath not to speak of where it came 
 [dcs]
 
 [TWinTop] # Selis
-I see... Well, that's okay. I'm just so grateful to have it.[k]
+I see... Well, that's okay. I'm just grateful to have it.[k]
 [cs]
 So this is the Tyrfing...[n]
-I can just feel the power swelling from it...
+I can feel the power swelling from it...
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -887,7 +837,7 @@ She must still be in Grandbell somewhere.
 
 [TWinBtm] # Selis
 [Wait 10]
-Levn, I know I should be happy now that my father's death has been avenged, but I still don't feel right somehow.[k]
+Levin, I know I should be happy now that my father's death has been avenged, but I still don't feel right somehow.[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -927,7 +877,7 @@ Ha ha... looks like I won, Your Highness.
 
 [TWinBtm] # (null)
 [Wait 10]
-Humph... nice work, Ishtar. I'm impressed.[k]
+Hmph... nice work, Ishtar. I'm impressed.[k]
 
 [exit]
 
@@ -950,7 +900,7 @@ You didn't fare too well... It's time we leave![k]
 [TWinBtm][DlgOpn]['(null)' 02AE]
 Oh my... the crusaders! Please, you must save our children!![k]
 [cs]
-They are to be... (sob..) sacrificed to the Dark Lord![k]
+They are to be... sob... sacrificed to the Dark Lord![k]
 
 [exit]
 
@@ -974,12 +924,11 @@ That woman's not even human. I'd say she's more like a devil![k]
 [TWinBtm][DlgOpn]['(null)' 02AB]
 The war between the Lopt Empire and the 12 Crusaders wore on for 15 long years.[k]
 [cs]
-The battle ended up dragging the entire continent into it's fold.[k]
+The battle ended up dragging the entire continent into its fold.[k]
 [cs]
 At long last Saint Heim overcame the Dark Lord's incarnation, Emperor Galle the Seventeenth. Thus peace was restored to the land.[k]
 [cs]
-...However, the Dark Lord has once again been resurrected.[n]
-Crusaders, do protect us![k]
+...However, the Dark Lord has once again been resurrected. Crusaders, do protect us![k]
 
 [exit]
 
@@ -992,7 +941,7 @@ These sacrificial rituals didn't show up until just recently.[k]
 [cs]
 Before that Emperor Alvis wouldn't allow them... What in tarnation happened!?[k]
 [cs]
-Here, I'm giving you this Magic Ring in good conscious. Please save the children![k]
+Here, I'm giving you this Magic Ring in good conscience. Please save the children![k]
 
 [exit]
 
@@ -1016,8 +965,7 @@ I've had many friends leave for Barhara to worship him, but now they're all miss
 [TWinBtm][DlgOpn]['(null)' 02AB]
 None of you stand a chance against the Imperial Prince Julius in your present condition.[k]
 [cs]
-As unfortunate as it may be, you may need to make a sacrifice to get where you're going.
-[k]
+As unfortunate as it may be, you may need to make a sacrifice to get where you're going.[k]
 
 [exit]
 
@@ -1032,14 +980,14 @@ Celice... Celice.....
 
 [TWinBtm] # Selis
 [Wait 10]
-Wh.. who's calling my name?[k]
+Who... who's calling me?[k]
 
 [TWinTop][dcs]
 ...Oh, how you've grown, Celice.
 
 [TWinBtm] # Selis
 [Wait 10]
-M..mother!?[n]
+M, mother!?[n]
 Mother, is that you?[k]
 [BGM 54]
 [Wait 14]
@@ -1048,13 +996,13 @@ Mother, is that you?[k]
 [TWinTop]['(null)' 02B6]
 ...Ah, Levin has done such a fine job with you.[k]
 [cs]
-...Celice, always treasure those in your presence. Honor each and every one of them.
+...Celice, always treasure those in your presence. Honour each and every one of them.
 
 [TWinBtm] # Selis
 [Wait 10]
-Y..yes, mother! 
+Y, yes, mother![n]
 [Wait 1E]
-Hey, I slew Emperor Alvis! [n]
+Hey, I slew Emperor Alvis![n]
 [Wait 14]
 I've finally avenged father's death![k]
 [dcs]
@@ -1070,7 +1018,7 @@ Do you know where they are!?[k]
 [dcs]
 
 [TWinTop] # (null)
-. . . . .
+...
 
 [TWinBtm] # Selis
 [Wait 19]
@@ -1103,16 +1051,16 @@ Huh? Father, what's that supposed to mean?[k]
 [dcs]
 
 [TWinTop] # (null)
-...Get to know the people's sorrow. Your reality and their's are still worlds apart.[k]
+...Get to know the people's sorrow. Your reality and theirs are still worlds apart.[k]
 [cs]
-...If you can't accomplish that, Celice, then this whole war has been for nothing.
-[Wait 1E]
+...If you can't accomplish that, Celice, then this whole war has been for nothing.[k]
+[cs]
 
 [xChr][DlgCls]
 
 [TWinBtm] # Selis
 [Wait 19]
-F..father! Please... wait a second!![k]
+F, father! Please... wait a second!![k]
 [dcs]
 
 [TWinTop]

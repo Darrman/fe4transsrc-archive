@@ -1,0 +1,16 @@
+
+[ASMPTR]
+
+# Both Children
+# @@1159921@@
+
+[$00$22][sp]and [$00$23]
+
+[exit]
+
+# One Child
+# @@1159939@@
+
+[$00$23]
+
+[exit]

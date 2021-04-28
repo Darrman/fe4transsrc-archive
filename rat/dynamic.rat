@@ -1,0 +1,16 @@
+.rat
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# RAT for the dynamic texts
+
+SECTION dynanames
+	0D948B-0D9601		# 375 bytes
+	0DF52D-0DFE55		# 2345 bytes
+SECTION dynaweapons
+	0D9714-0D9A91		# 894 bytes
+SECTION dynaclasses
+	0D9B22-0D9D64		# 579 bytes
+SECTION chapternames
+	0D9E0E-0D9E87		# 122 bytes
+END

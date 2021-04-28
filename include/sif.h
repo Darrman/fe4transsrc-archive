@@ -61,7 +61,8 @@ typedef struct SIF_BLOCK_HEADER
 		unsigned int asmptrs3   : 1;    /* text uses pointers embedded in ASM (type 3) */
 		unsigned int noptr      : 1;    /* text has no pointers */
 		unsigned int blocked    : 1;    /* text is blocked (in block format ) */
-		unsigned int reserved: 12;	/* Reserved */
+		unsigned int halfasm	: 1;    /* text uses pointers embedded in ASM (type half) */
+		unsigned int reserved: 11;	/* Reserved */
 	} flag;
 	unsigned long address;			/* address of relocation */
 	unsigned short size;				/* size of block */
@@ -85,6 +86,7 @@ typedef struct SifWriter SifWriter;
 #define SIF_NOPTR    0x8000
 #define SIF_ASM3     0x10000
 #define SIF_BLOCK    0x20000
+#define SIF_HASM     0x40000
 #define SIF_LOCAL    0x800
 
 SifWriter *CreateSifWriter(const char *filename,const char *sections[],const char *dlmap);

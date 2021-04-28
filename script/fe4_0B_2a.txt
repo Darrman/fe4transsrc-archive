@@ -1,0 +1,55 @@
+# Fontcheck: Reformatted
+
+# Last modified: 14/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the 2A-type scripts for
+# the Epilogue
+
+[blocked]
+
+# 0x32a42a
+# @@3268943@@
+[block b000]
+
+[resolve b001]
+
+[TWinTop]
+[dcs]
+[sp][sp][sp]I blame [$00$2D$C3$B0$91].[k]
+[cs]
+[sp][sp][sp]In any case, let's check back once it's translated.[k]
+
+[exit]
+
+
+# 0x32a475
+# @@3268954@@
+[block b002]
+
+[resolve b001]
+
+[TWinTop]
+[dcs]
+[sp][sp][sp]Dayum. All our Edda people are dead or nonexistant. No-one to blame.[k]
+[cs]
+[sp][sp][sp]In any case, let's check back once it's translated.[k]
+
+[exit]
+
+
+# 0x32a3b4
+# @@0@@
+[block b001]
+
+[TWinTop][DlgOpn]['Levin' 0280]
+[TWinBtm][DlgOpn]['Celice' 0019]
+
+[TWinTop]
+[sp][sp][sp]Holy Holepunch, Celice! We've reached EDDA!
+
+[TWinBtm]
+[sp][sp][sp]This is the place known for causing black screens, is it not?[k]
+
+[exit]
+

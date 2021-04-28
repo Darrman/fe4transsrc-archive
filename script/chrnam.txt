@@ -1,5 +1,7 @@
 # 6 5 chrnam
 
+# Fontcheck: Tiled
+
 # Last modified: 08/06/04
 # This file was modified by Dark Twilkitri
 
@@ -68,7 +70,7 @@ Alec
 # @@236639@@
 
 #?A?[?_??
-Arden
+Ardan
 
 #*# [exit]
 
@@ -95,7 +97,7 @@ Cuan
 # @@236645@@
 
 #?~?f?F?[??
-Midale
+Midir
 
 #*# [exit]
 
@@ -131,7 +133,7 @@ Azel
 # @@236653@@
 
 #?W?????J
-Jamuka
+Jamka
 
 #*# [exit]
 
@@ -176,7 +178,7 @@ Dew
 # @@236663@@
 
 #?f?B?A?h??
-Dierdre
+Deirdre
 
 #*# [exit]
 
@@ -203,7 +205,7 @@ Lachesis
 # @@236669@@
 
 #?A?C??
-Ira
+Aira
 
 #*# [exit]
 
@@ -221,7 +223,7 @@ Fury
 # @@236673@@
 
 #?e?B???e??
-Tailtiu
+Tiltyu
 
 #*# [exit]
 
@@ -239,7 +241,7 @@ Sylvia
 # @@236677@@
 
 #?G?[?f?B??
-Edain
+Aideen
 
 #*# [exit]
 
@@ -563,7 +565,7 @@ Lakche
 # @@236749@@
 
 #???i
-Rana
+Lana
 
 #*# [exit]
 
@@ -590,7 +592,7 @@ Tinny
 # @@236755@@
 
 #???[??
-Lynn
+Leen
 
 #*# [exit]
 
@@ -842,7 +844,7 @@ Heirhein
 # @@236811@@
 
 #?G???g?V????
-Eltosian
+Eltshan
 
 #*# [exit]
 
@@ -1139,7 +1141,7 @@ Mackily
 # @@236877@@
 
 #?V???K?[??
-Shagall
+Shagaal
 
 #*# [exit]
 
@@ -1211,7 +1213,7 @@ FurySqd
 # @@236893@@
 
 #?U?C??
-Zain
+Zyne
 
 #*# [exit]
 
@@ -1274,7 +1276,7 @@ Alva
 # @@236907@@
 
 #?V???R?o??
-Shacoban
+Jacoban
 
 #*# [exit]
 
@@ -1463,7 +1465,7 @@ Silvail
 # @@236949@@
 
 #?G???g?V????
-Eltosian
+Eltshan
 
 #*# [exit]
 
@@ -1481,7 +1483,7 @@ CrossKnt
 # @@236953@@
 
 #?V???K?[??
-Shagall
+Shagaal
 
 #*# [exit]
 
@@ -1562,7 +1564,7 @@ Pirate
 # @@236971@@
 
 #?h?o?[??
-Duvall
+Dobarl
 
 #*# [exit]
 
@@ -1580,7 +1582,7 @@ Pirate
 # @@236975@@
 
 #?s?T?[??
-Pizar
+Pizarl
 
 #*# [exit]
 
@@ -1634,7 +1636,7 @@ Alvis
 # @@236987@@
 
 #?????S?o???g
-Langbalt
+Langbart
 
 #*# [exit]
 
@@ -1814,7 +1816,7 @@ Silesia
 # @@237027@@
 
 #?_?b?J?[
-Dakar
+Daccar
 
 #*# [exit]
 
@@ -2003,7 +2005,7 @@ Merc
 # @@237069@@
 
 #?????S?o???g
-Langbalt
+Langbart
 
 #*# [exit]
 
@@ -2030,7 +2032,7 @@ Lubeck
 # @@237075@@
 
 #?X???C?_?[
-Slayder
+Slaydar
 
 #*# [exit]
 
@@ -2120,7 +2122,7 @@ Lubeck
 # @@237095@@
 
 #?o?C????
-Vylon
+Byron
 
 #*# [exit]
 
@@ -2491,7 +2493,7 @@ Rivough
 # @@237177@@
 
 #?_?i??
-Danan
+Dannan
 
 #*# [exit]
 
@@ -3229,7 +3231,7 @@ Thracia
 # @@237341@@
 
 #?W???_
-Judah
+Juda
 
 #*# [exit]
 
@@ -3535,7 +3537,7 @@ Child
 # @@237409@@
 
 #?U?K??
-Zagam
+Zaggam
 
 #*# [exit]
 
@@ -3994,7 +3996,7 @@ Dozel
 # @@237511@@
 
 #?u???A??
-Brian
+Burian
 
 #*# [exit]
 
@@ -4021,7 +4023,7 @@ GrauRit
 # @@237517@@
 
 #?_?S??
-Dagon
+Daggon
 
 #*# [exit]
 
@@ -4417,7 +4419,7 @@ Emmile
 # @@237605@@
 
 #?_???X
-Darez
+Dulles
 
 #*# [exit]
 
@@ -4426,7 +4428,7 @@ Darez
 # @@237607@@
 
 #?W???[
-Jirou
+Jirow
 
 #*# [exit]
 
@@ -4453,7 +4455,7 @@ Lovin
 # @@237613@@
 
 #?o?[?N?j??
-Bachnun
+Bachnin
 
 #*# [exit]
 
@@ -4462,7 +4464,7 @@ Bachnun
 # @@237615@@
 
 #?~???[
-Milley
+Millay
 
 #*# [exit]
 
@@ -4561,7 +4563,7 @@ Bazan
 # @@237637@@
 
 #?f???}
-Duma
+Dyuma
 
 #*# [exit]
 
@@ -4741,7 +4743,7 @@ Hawks
 # @@237677@@
 
 #?i?U?[??
-Nazar
+Nazarl
 
 #*# [exit]
 
@@ -4768,7 +4770,7 @@ Tolstoy
 # @@237683@@
 
 #?{?c?}??
-Botman
+Botsman
 
 #*# [exit]
 
@@ -4786,7 +4788,7 @@ Kulyuge
 # @@237687@@
 
 #?}???X?^?C??
-Mansten
+Manstyne
 
 #*# [exit]
 
@@ -4814,7 +4816,7 @@ Hepner
 
 #?????h?b?N
 # 
-Randoc
+Randock
 
 #*# [exit]
 
@@ -4841,7 +4843,7 @@ Duey
 # @@237699@@
 
 #?t?F?[?g
-Fet
+Fett
 
 #*# [exit]
 
@@ -4850,7 +4852,7 @@ Fet
 # @@237701@@
 
 #?}???V???[?N
-Marshack
+Marshak
 
 #*# [exit]
 
@@ -4859,7 +4861,7 @@ Marshack
 # @@237703@@
 
 #???C?X
-Luis
+Louis
 
 #*# [exit]
 
@@ -4877,7 +4879,7 @@ Heste
 # @@237707@@
 
 #?}?[?_
-Madah
+Marda
 
 #*# [exit]
 
@@ -4904,7 +4906,7 @@ Zenon
 # @@237713@@
 
 #?W???N?\??
-Jakson
+Jackson
 
 #*# [exit]
 
@@ -4922,7 +4924,7 @@ Indra
 # @@237717@@
 
 #?j?[?`?F
-Niezche
+Niche
 
 #*# [exit]
 
@@ -4958,7 +4960,7 @@ Siron
 # @@237725@@
 
 #?N???C??
-Grein
+Klein
 
 #*# [exit]
 
@@ -4976,7 +4978,7 @@ Slayton
 # @@237729@@
 
 #?g???G?X?^
-Torstar
+Triesta
 
 #*# [exit]
 
@@ -4994,7 +4996,7 @@ Kanan
 # @@237733@@
 
 #?n?X?}?[?? - 10
-Hasman
+Hasmahn
 
 #*# [exit]
 
@@ -5021,7 +5023,7 @@ Krosloy
 # @@237739@@
 
 #???[???? - 10
-Rolan
+Roland
 
 #*# [exit]
 
@@ -5075,7 +5077,7 @@ Indra
 # @@237751@@
 
 #?_???X
-Dares
+Dulles
 
 #*# [exit]
 
@@ -5111,7 +5113,7 @@ Zenon
 # @@237759@@
 
 #?W???N?\??
-Jakson
+Jackson
 
 #*# [exit]
 

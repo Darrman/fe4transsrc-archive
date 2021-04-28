@@ -1,3 +1,10 @@
+# Fontcheck: Irrelevant
+
+# Last modified: 22/06/2006
+# This file was added by Dark Twilkitri
+
+# This file is used for reforming the Valkyrie Staff character resurrection dialog.
+
 [noptr]
 [mode-notext]
 

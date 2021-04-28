@@ -1,4 +1,6 @@
-# Last Modified: 19/05/04
+# Fontcheck: Uh, no.
+
+# Last Modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is the shop names as used in the

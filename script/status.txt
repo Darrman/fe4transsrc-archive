@@ -1,4 +1,6 @@
-# Last modified: 02/05/04
+# Fontcheck: Tiled
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is for altering headings in the Character Status Screen
@@ -64,7 +66,7 @@ Def
 
 # @@630548@@
 
-MDf
+Res
 [exit]
 
 
@@ -77,7 +79,7 @@ Atk
 
 # @@630288@@
 
-Acc
+Hit
 [exit]
 
 # @@630305@@
@@ -187,6 +189,18 @@ Drk
 [exit]
 
 
+# The following are skill types
+# @@632474@@
+
+Soldier
+[exit]
+
+# @@632486@@
+
+Citizen
+[exit]
+
+
 # The following are weapon stats for the 'Item' menu
 # @@637868@@
 
@@ -207,4 +221,3 @@ Rng
 
 Wgt
 [exit]
-

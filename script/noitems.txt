@@ -1,0 +1,12 @@
+[ASMPTR]
+[mode-sjis]
+
+# You have none!
+# @@53531@@
+No[spx]items[spx]owned.
+[exit]
+
+# Get outta here!
+# @@53548@@
+Please[spx]press[spx]B
+[exit]

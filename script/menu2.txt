@@ -1,6 +1,8 @@
 # 0 0 menus
 
-# Last modified: 02/05/04
+# Fontcheck: Tiled
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is used for the command list on the map (without a character selected)

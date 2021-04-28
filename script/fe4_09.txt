@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 9.
@@ -36,6 +38,7 @@
 
 [TWinTop][DlgOpn]['(null)' 0260]
 [TWinBtm][DlgOpn]['Altena' 002C]
+
 [TWinTop] # (null)
 Altenna! What the hell's going on!? Why didn't you attack Manster!?
 
@@ -55,8 +58,10 @@ You thoroughly disappoint me, girl!
 
 [TWinBtm] # Altena
 [Wait 10]
-I'm sorry, father... but hear what I have to say! How do you ever expect the citizens of Thracia to be content thriving off the blood and sweat of other nations?[k]
+I'm sorry, father... but hear what I have to say![k]
 [dcs]
+How do you ever expect the citizens of Thracia to be content thriving off the blood and sweat of other nations?[k]
+[cs]
 ...Your ways leave much to be desired, father.[k]
 [cs]
 
@@ -77,7 +82,7 @@ That's enough! Your opinion is not wanted here, Altenna. Now listen and obey fat
 [TWinTop] # (null)
 She's still very young, father. I imagine the sight of actual combat overwhelmed her a bit.[k]
 [cs]
-Please father... just this once. Go easy on her.
+Please, father... just this once. Go easy on her.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -110,7 +115,7 @@ Yes, father...[k]
 [TWinBtm][DlgOpn]['(null)' 025B]
 
 [TWinTop] # (null)
-Whew... That kid hates me. I'd swear Ethlin was speaking to her from the grave.
+Whew... The kid hates me. I'd swear Ethlin was speaking to her from the grave.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -118,7 +123,10 @@ Father, she's still a child. She just doesn't know where to draw the line someti
 [dcs]
 
 [TWinTop] # (null)
-Whatever... Well, I'm off to Kapathogia. It seems Hannibal has a problem with my way of running things.[k]
+Whatever...[n]
+Well, I'm off to Kapathogia.[k]
+[cs]
+It seems Hanibal has a problem with my way of running things.[k]
 [cs]
 And so I must take measures to make sure he doesn't turn on me.[k]
 [cs]
@@ -136,14 +144,14 @@ I've never seen father in such dismay... What could've happened...[k]
 # @@3266242@@
 
 [TWinTop][DlgOpn]['(null)' 0260]
-[TWinBtm][DlgOpn]['Hannibal' 0024]
+[TWinBtm][DlgOpn]['Hanibal' 0024]
 
 [TWinTop] # (null)
-General Hannibal, Mease has fallen to the rebels. I have Altenna going in for the attack.[k]
+General Hanibal, Mease has fallen to the rebels. I have Altenna going in for the attack.[k]
 [cs]
-I want your armored knight battalion to carry out a raid as well.
+I want your armoured knight battalion to carry out a raid as well.
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 Your Majesty, how many times must I tell you? This battle is futile.[k]
 [dcs]
@@ -155,19 +163,19 @@ Siding with the empire was an absurd idea. And the populace is now in jeopardy a
 [TWinTop] # (null)
 Where do you get off!? They killed my men out there, and now they've got Mease Castle![k]
 [cs]
-What the hell good is a cease-fire going to do us now!?
+What good is a cease-fire going to do us now!?
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 ...I see. Well, it appears there's no other choice then.[k]
 [dcs]
 
 [TWinTop] # (null)
-You're not thinking of turning on me, are you, Hannibal?
+You're not thinking of turning on me, are you, Hanibal?
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
-Your Majesty! I also have a certain amount of distinction as a warrior, thank you![k]
+Your Majesty! I happen to have a certain amount of distinction as a warrior, thank you![k]
 [dcs]
 
 [TWinTop] # (null)
@@ -175,7 +183,7 @@ Well, how about we have a little test of your loyalty then...[k]
 [cs]
 Your boy's coming with me. You can have him back when this war is over.
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 Your Majesty! Have you no faith in me!?[k]
 [dcs]
@@ -183,7 +191,7 @@ Your Majesty! Have you no faith in me!?[k]
 [TWinTop] # (null)
 If betrayal's not on the cards, then you've got nothing to worry about.
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 Of all the...[k]
 [dcs]
@@ -194,24 +202,24 @@ Bring me the boy![k]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Couple' 0034]
+[TWinTop][DlgOpn]['Corple' 0034]
 Father...
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 [$00$2C$34$00]... forgive me.[k]
 [dcs]
 
-[TWinTop] # Couple
+[TWinTop] # Corple
 
 [DlgCls][xChr]
 
 [TWinTop][DlgOpn]['(null)' 0260]
-Don't worry, Hannibal. You'll get him back when we're through fighting.[k]
+Don't worry, Hanibal. You'll get him back when we're through fighting.[k]
 [cs]
-That boy's not even your real son, Hannibal. Does he really mean that much to you?
+That boy's not even your real son, Hanibal. Does he really mean that much to you?
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 [$00$2C$34$00][sp] is everything to me, adopted or not...[k]
 [dcs]
@@ -239,13 +247,13 @@ Luthecia Castle is impenetrable, Your Majesty. You may put your worries at ease.
 [cs]
 
 [TWinTop] # (null)
-I'll take your word then. I have very little faith in Hannibal of Kapathogia, though.[k]
+I'll take your word for it. I have very little faith in Hanibal of Kapathogia, though.[k]
 [cs]
 So I took his kid hostage, and I want you to keep an eye on him.
 
 [TWinBtm] # (null)
 [Wait 10]
-You can count on me. And what if Hannibal were to turn on us?[k]
+You can count on me. And what if Hanibal were to turn on us?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -280,44 +288,6 @@ You make sure the rebel army doesn't pull one over on you![k]
 [exit]
 
 
-# 0x338aca:
-# @@3266414@@
-
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
-
-[TWinTop] # (null)
-A battalion of Dragon Knights just left Thracia. Get ready, Celice. We're going back in.
-
-[TWinBtm] # Selis
-[Wait 10]
-But Levin, the empire is our enemy. Is there any reason we should take on Thracia, too?[k]
-[dcs]
-
-[TWinTop] # (null)
-The reasons'll become apparent if you handle this properly.[k]
-[cs]
-This battle is already well underway, Celice. There's no going back.
-
-[TWinBtm] # Selis
-[Wait 10]
-But the dragon knight on that mountain top back there... She looked so sad.[k]
-[dcs]
-The thought of having to fight her as well...[k]
-[cs]
-
-[TWinTop] # (null)
-Celice! Get over it!! This is war.[k]
-[cs]
-If you can't handle the heat, then you belong back at Tilnanogue!
-
-[TWinBtm] # Selis
-[Wait 10]
-Levin...[k]
-
-[exit]
-
-
 # 0x338d6e:
 # @@3266442@@
 
@@ -329,7 +299,7 @@ Fin, what's wrong? You've been lost in thought ever since we left Manster.
 
 [TWinBtm] # Finn
 [Wait 10]
-Your Highness... did you take notice of the dragon knight atop that mountain in Manster?[k]
+Your Highness... did you notice the dragon knight atop that mountain in Manster?[k]
 [dcs]
 
 [TWinTop] # Leif
@@ -341,7 +311,7 @@ Why? Was something strange about her?
 [Wait 10]
 The lance she was holding was none other than the Holy Gae Bolg.[k]
 [dcs]
-And her body was enshrouded in the Aura of Noba. Just like your father...[k]
+And her body was enshrouded in the aura of Noba. Just like your father...[k]
 [cs]
 
 [TWinTop] # Leif
@@ -350,7 +320,7 @@ Fin! What're you trying to tell me!?
 [TWinBtm] # Finn
 [Wait 10]
 Well, it means that neither your sister Altenna, nor the Gae Bolg, perished in the Thracian army's surprise attack on your family.[k]
-[cs]
+[dcs]
 
 [TWinTop] # Leif
 She... she's alive!? Then what's she doing commanding Thracian forces?
@@ -400,10 +370,10 @@ We're taking back Mease Castle. All troops, prepare to attack![k]
 # 0x339107:
 # @@3266590@@
 
-[TWinTop][DlgOpn]['Hannibal' 0024]
+[TWinTop][DlgOpn]['Hanibal' 0024]
 [TWinBtm][DlgOpn]['(null)' 0263]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Hmph... It appears the rebel army has begun to move.
 
 [TWinBtm] # (null)
@@ -411,7 +381,7 @@ Hmph... It appears the rebel army has begun to move.
 Sir, we await your orders to attack.[k]
 [dcs]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Let's focus on the castle's defense. We shall not attack unless absolutely necessary.
 
 [TWinBtm] # (null)
@@ -419,7 +389,7 @@ Let's focus on the castle's defense. We shall not attack unless absolutely neces
 But your son...[k]
 [dcs]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Yes, I know. But I... Let's just wait and see how things develop first.[k]
 [cs]
 Kanatz, forgive me, but I'd like you to cover the castle.
@@ -435,12 +405,12 @@ As you command, sir![k]
 # @@3266614@@
 
 [TWinTop][DlgOpn]['(null)' 0262]
-[TWinBtm][DlgOpn]['Couple' 0034]
+[TWinBtm][DlgOpn]['Corple' 0034]
 
 [TWinTop] # (null)
-This is ridiculous... baby sitting at my age.
+This is ridiculous... babysitting at my age.
 
-[TWinBtm] # Couple
+[TWinBtm] # Corple
 [Wait 10]
 Mr. Disler, let me go... My father doesn't want to fight.[k]
 [dcs]
@@ -452,7 +422,7 @@ You shut your trap![k]
 [cs]
 The 'Shield of Thracia' won't be getting any funny ideas with you in my custody.
 
-[TWinBtm] # Couple
+[TWinBtm] # Corple
 [Wait 10]
 Father, no...[k]
 
@@ -470,7 +440,7 @@ Altenna, please stop! It's me, your brother!!
 
 [TWinBtm] # Altena
 [Wait 10]
-Brother!? What're you talking about! Just who the hell are you![k]
+Brother!? What're you talking about!? Just who the hell are you?[k]
 [dcs]
 
 [TWinTop] # Leif
@@ -480,7 +450,7 @@ I... I'm Leaf of Lenster.
 [Wait 10]
 Leaf? That's Leaf as in Prince Leaf, I presume...[k]
 [dcs]
-Well, I'm Altenna... Trabant's daughter if you haven't figured it out yet.[k]
+Well, I'm Altenna... Trabant's daughter, if you haven't figured it out yet.[k]
 [cs]
 
 [TWinTop] # Leif
@@ -488,11 +458,11 @@ Altenna, your real parents, Cuan and Ethlin, were slain by Trabant 17 years ago.
 [cs]
 You also went missing at that time along with the Holy Gae Bolg.[k]
 [cs]
-The very lance you hold in your hand right now is THE Gae Bolg of Lenster.
+The very lance you hold in your hand right now is the Gae Bolg of Lenster.
 
 [TWinBtm] # Altena
 [Wait 10]
-You take me for some king of fool!?[k]
+You take me for some kind of fool!?[k]
 [dcs]
 So the person I believe to be my father is my true father's murderer? What nonsense.[k]
 [cs]
@@ -529,14 +499,14 @@ Altenna! What the hell's going on!? That's twice now that you've deserted your b
 
 [TWinBtm] # Altena
 [Wait 10]
-Father, I have something I must ask you![n]
-Are you not my true father?[k]
+Father, I have something I must ask you![k]
 [dcs]
+Are you my true father?[n]
 ...or is my true father King Cuan!?[k]
 [cs]
 
 [TWinTop] # (null)
-Humph... you found out, did you... Well, this day was bound to come sooner or later.[k]
+Hmph... you found out, did you... Well, this day was bound to come sooner or later.[k]
 [cs]
 Yeah, Cuan was your father. But what the hell does that matter now?[k]
 [cs]
@@ -554,7 +524,7 @@ War is all about death, my dear. What's done is done.
 
 [TWinBtm] # Altena
 [Wait 10]
-Crr... You! You've lead me astray all these years, father! Er... Trabant![k]
+Grr... You! You've lead me astray all these years, father! Er... Trabant![k]
 [dcs]
 
 [TWinTop] # (null)
@@ -579,11 +549,11 @@ Step back, Altenna! If you oppose father then you oppose me too!
 
 [TWinTop] # (null)
 Altenna, you've crossed the line this time.[n]
-And now I'll have you DIE!
+And now I'll have you die!
 
 [TWinBtm] # Altena
 [Wait 10]
-No, Areone.....[k]
+No, Arion...[k]
 [dcs]
 
 [DlgCls][xChr]
@@ -605,17 +575,17 @@ Here, I'm leaving this lance with you. Thracia is in your hands now.[k]
 [dcs]
 
 [TWinTop] # (null)
-Is this not the Gungnir?[k]
+Isn't this the Gungnir?[k]
 [cs]
 Father, what's the meaning of this? Don't tell me you're going into battle without it.
 
 [TWinBtm] # (null)
 [Wait 10]
-Areone, I've grown tired. It's me they're after anyhow. Do as you see fit after I'm gone, OK?[k]
+Arion, I've grown tired. It's me they're after anyway. Do as you see fit after I'm gone, okay?[k]
 [dcs]
 
 [TWinTop] # (null)
-So you're suggesting I call for a truce!? I will never, EVER give in to them, father!
+So you're suggesting I call for a truce!? I will never, ever give in to them, father!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -645,8 +615,8 @@ Altenna, are you all right!?
 
 [TWinBtm] # Altena
 [Wait 10]
-.....[n]
-Ahh... Arion[k]
+...[n]
+Ahh... Arion...[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -690,7 +660,7 @@ Altenna... this is our fate. And the sooner we resign ourselves to it the better
 [Wait 10]
 Arion, we can call for a truce! With King Trabant gone, there's nothing stopping us![k]
 [dcs]
-Besides I'm not about to fight you![k]
+Besides, I'm not about to fight you![k]
 [cs]
 
 [TWinTop] # (null)
@@ -730,13 +700,13 @@ Here, I'm leaving this lance with you. Don't you lose Thracia now, you hear?[k]
 [dcs]
 
 [TWinTop] # (null)
-...Is this not the Gungnir?[k]
+...Isn't this the Gungnir?[k]
 [cs]
 Father, what's the meaning of this? You're not going into battle without it, are you?
 
 [TWinBtm] # (null)
 [Wait 10]
-I've had enough, Arion. It's me they're after anyhow. Do as you see fit after I'm gone, OK?[k]
+I've had enough, Arion. It's me they're after anyway. Do as you see fit after I'm gone, okay?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -762,7 +732,7 @@ Father...[k]
 # 0x339d4b:
 # @@3266988@@
 
-[TWinBtm][DlgOpn]['Hannibal' 0024]
+[TWinBtm][DlgOpn]['Hanibal' 0024]
 King Trabant entered combat? Hmph... Well, the warrior code shall supersede my wishes.[k]
 [cs]
 Men, I order you to commence attack. Stop the aggressor in their tracks![k]
@@ -824,7 +794,7 @@ Hmm... Well, it's all beyond me, that's for sure.[k]
 [dcs]
 
 [TWinTop] # Altena
-Sir Celice, I have one favor to ask of you. Arion... We must save Prince Arion!
+Sir Celice, I have one favour to ask of you. Arion... We must save Prince Arion!
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -844,11 +814,11 @@ I'll give it one more shot.... Just give me a little more time![k]
 [TWinBtm][DlgOpn]['Selis' 0019]
 
 [TWinTop] # (null)
-Celice, it'd appear that they took General Hannibal's son hostage so he'd fight us.
+Celice, it'd appear that they took General Hanibal's son hostage so he'd fight us.
 
 [TWinBtm] # Selis
 [Wait 10]
-You're kidding... Oh no, what have I done! Forgive me, General Hannibal.[k]
+You're kidding... Oh no, what have I done! Forgive me, General Hanibal.[k]
 [exit]
 
 
@@ -866,23 +836,23 @@ They've been keeping kids locked up in the dungeon.[k]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Couple' 0034]
+[TWinTop][DlgOpn]['Corple' 0034]
 
 [TWinBtm] # Selis
 Who are you? What happened to you?[k]
 [cs]
 
-[TWinTop] # Couple
-I'm [$00$2C$34$00], General Hannibal's son. Who are you?[k]
+[TWinTop] # Corple
+I'm [$00$2C$34$00], General Hanibal's son. Who are you?[k]
 [cs]
 Hey, aren't you Sir Celice of the liberation army!?
 
 [TWinBtm] # Selis
 [Wait 10]
-Yep, that's me. But what would make them lock up the son of General Hannibal?[k]
+Yep, that's me. But what would make them lock up the son of General Hanibal?[k]
 [dcs]
 
-[TWinTop] # Couple
+[TWinTop] # Corple
 King Trabant took me hostage.[k]
 [cs]
 My father didn't want to fight, so they've forced to him against his will.[k]
@@ -895,7 +865,7 @@ Once he sees that I'm okay, he'll stop fighting! Please, we must hurry!!
 [Wait 10]
 Hmm, you think so, huh...[k]
 [dcs]
-Alright, we need to find General Hannibal then. Let's move![k]
+Alright, we need to find General Hanibal then. Let's move![k]
 
 [exit]
 
@@ -907,7 +877,7 @@ Alright, we need to find General Hannibal then. Let's move![k]
 [TWinBtm][DlgOpn]['Selis' 0019]
 
 [TWinTop] # (null)
-Celice, it looks like General Hannibal's son was being held hostage here.
+Celice, it looks like General Hanibal's son was being held hostage here.
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -915,7 +885,8 @@ Celice, it looks like General Hannibal's son was being held hostage here.
 [dcs]
 
 [TWinTop] # (null)
-Apparently, the general's son, [$00$2C$34$00], vanished upon word of his father's death.[k]
+Apparently, the general's son,[n]
+[$00$2C$34$00], vanished upon word of his father's death.[k]
 [cs]
 I'm sure the boy's not too happy with us... What a shame.
 
@@ -929,30 +900,30 @@ Damn...[k]
 # 0x33a3e1:
 # @@3267183@@
 
-[TWinTop][DlgOpn]['Couple' 0034]
-[TWinBtm][DlgOpn]['Hannibal' 0024]
+[TWinTop][DlgOpn]['Corple' 0034]
+[TWinBtm][DlgOpn]['Hanibal' 0024]
 
-[TWinTop] # Couple
+[TWinTop] # Corple
 Father, it's me, [$00$2C$34$00]! You can stop fighting![k]
 [cs]
-The liberation army has taken over of Luthecia Castle!
+The liberation army has taken over Luthecia Castle!
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 [$00$2C$34$00]! You're unharmed![k]
 [dcs]
 
-[TWinTop] # Couple
+[TWinTop] # Corple
 Yeah, I'm just fine. I want to join Sir Celice's liberation army, father.[k]
 [cs]
 Thracia is not like it used to be... I want to fight for the people!
 
-[TWinBtm] # Hannibal
+[TWinBtm] # Hanibal
 [Wait 10]
 [$00$2C$34$00], you've grown into a fine young man. Alright. I, too, shall join Sir Celice's effort.[k]
 [dcs]
 
-[TWinTop] # Couple
+[TWinTop] # Corple
 Great! First we'll liberate Thracia, and then we'll all take on the empire together![k]
 
 [exit]
@@ -982,40 +953,13 @@ His Majesty has placed a bounty on the enemy. Now show me what you've got![k]
 [exit]
 
 
-# 0x33a606:
-# @@3267499@@
-
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
-
-[TWinTop] # Selis
-Levin,[n]
-does Arion still intend to fight?
-
-[TWinBtm] # (null)
-[Wait 10]
-We've sent several messengers calling for a truce already, but he won't listen.[k]
-[dcs]
-I guess the pride of being a Dragon Knight leaves no allowances for conceding in battle.[k]
-[cs]
-I truly believed Arion of Thracia would have been a more reasonable man...[k]
-[cs]
-Celice, you know we can't turn around now. We MUST engage this final battle.[k]
-[cs]
-
-[TWinTop] # Selis
-Crr... Why!? Why must Arion be so stubborn about this?[k]
-
-[exit]
-
-
 # 0x33a712:
 # @@3267596@@
 
 [TWinBtm][DlgOpn]['(null)' 025B]
 They reached Grutia, did they...[k]
 [cs]
-Alright, we'll carry out the 'Three-Headed Dragon' assault. All reserve battalions to the battlefront![k]
+Alright, we'll employ the 'Three-Headed Dragon' assault. All reserve battalions to the battlefront![k]
 [cs]
 This is our last chance. This battle shall decide the fate of Thracia![k]
 
@@ -1026,7 +970,7 @@ This is our last chance. This battle shall decide the fate of Thracia![k]
 # @@3268028@@
 
 [TWinBtm][DlgOpn]['(null)' 025B]
-OK, they're here... Let's move out! Victory or defeat... It's all up to you![k]
+Okay, they're here... Let's move out! Victory or defeat... It's all up to you![k]
 [cs]
 Dragon Knights, I command you to attack!![k]
 
@@ -1037,7 +981,7 @@ Dragon Knights, I command you to attack!![k]
 # @@3268089@@
 
 [TWinBtm][DlgOpn]['(null)' 026F]
-Arion, this is not your time to die. Come with me... Ha ha ha![k]
+Arion, this is not your time to die. Come with me... Hahaha![k]
 
 [exit]
 
@@ -1049,11 +993,11 @@ Arion, this is not your time to die. Come with me... Ha ha ha![k]
 [TWinBtm][DlgOpn]['Yuria' 002B]
 
 [TWinTop] # Selis
-Julia!? Oh my god! You're all right!
+Julia!? Oh my god! You're alright!
 
 [TWinBtm] # Yuria
 [Wait 10]
-Yes, I'm fine. They locked me up in this castle, but I just knew you'd come for me.[k]
+Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k]
 
 [exit]
 
@@ -1086,7 +1030,7 @@ It's hard to believe we have the same mother...
 
 [TWinBtm] # (null)
 [Wait 10]
-Yes... Empress Dierdre is where he inherited his shaman abilities from.[k]
+Yes... Empress Deirdre is where he inherited his shaman abilities from.[k]
 [dcs]
 Return and Recover are just a mere thought away for him.[k]
 [cs]
@@ -1130,7 +1074,7 @@ Those two have always been very close. I hope nothing ever comes between them.
 # @@3268252@@
 
 [TWinBtm][DlgOpn]['(null)' 02AE]
-General Hannibal of Kapathogia is one of the most revered generals in all of Thracia.[k]
+General Hanibal of Kapathogia is one of the most revered generals in all of Thracia.[k]
 [cs]
 He has spent his entire adult life on the battlefield, so he never did marry.[k]
 [cs]
@@ -1154,9 +1098,9 @@ But afterwards he goes throwin' his weight around... thinkin' he's important... 
 # @@3268280@@
 
 [TWinBtm][DlgOpn]['(null)' 02AB]
-Could there be any truth to the rumor of a Dark Priest being in Grutia?[k]
+Could there be any truth to the rumour of a Dark Priest being in Grutia?[k]
 [cs]
-I can sympathize with King Trabant's situation...[k]
+I can sympathise with King Trabant's situation...[k]
 [cs]
 But, my oh my, taking sides with the Lopt Sect... what was His Majesty thinking![k]
 [cs]
@@ -1191,20 +1135,21 @@ You guys took out the empire's reinforcements? Heh... nice work![k]
 # 0x32e559:
 # @@3268336@@
 
-[TWinTop][DlgOpn]['Hannibal' 0024]
+[TWinTop][DlgOpn]['Hanibal' 0024]
 [TWinBtm][DlgOpn]['Charlo' 001F]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Sharlow...
 
 [TWinBtm] # Charlo
 [Wait 10]
 Father? What's the matter?[k]
+[dcs]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Son, I feel terrible for what I've put you through.[k]
 [cs]
-You may had been better off being raised in a normal home than by a soldier like me.
+You may have been better off being raised in a normal home than by a soldier like me.
 
 [TWinBtm] # Charlo
 [Wait 10]
@@ -1213,7 +1158,7 @@ Father! What're you saying!? You're the only one I've ever wanted to be with.[k]
 And now I can work to help bring about peace. That makes me so happy.[k]
 [cs]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Is that so?
 
 [TWinBtm] # Charlo
@@ -1221,7 +1166,7 @@ Is that so?
 And that's not all.[k]
 [dcs]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 Yes?
 
 [TWinBtm] # Charlo
@@ -1231,7 +1176,7 @@ I'm proud of you, father.[k]
 The citizens of Kapathogia admire you greatly, and you raised me after all.[k]
 [cs]
 
-[TWinTop] # Hannibal
+[TWinTop] # Hanibal
 That's very kind of you to say, Sharlow. You've turned into a fine young man indeed.[k]
 [cs]
 Oh yes, I almost forgot. This staff was found lying in the castle. I believe you can use it.
@@ -1266,7 +1211,7 @@ If you're not too busy, would you have time for dinner? I know a good restaurant
 
 [TWinBtm]
 [Wait 10]
-. . . . .[k]
+...[k]
 [dcs]
 
 [TWinTop] # Shanan
@@ -1276,30 +1221,29 @@ Well, relax. I make it a point to mingle with commoners just like yourself.
 
 [TWinBtm]
 [Wait 10]
-So you're... Alright, show me the Balmunk then. I've always wanted to see it.[k]
+So you're... Alright, show me the Balmung then. I've always wanted to see it.[k]
 [dcs]
 
 [TWinTop] # Shanan
-The Balmunk!? Er... the Balmunk! Yes, I ah... (ahem..)[k]
+The Balmung!? Er... the Balmung! Yes, I, ah...[k]
 [cs]
-H..here it is! Yep, the Balmunk Shield... world renowned for this here dragon carving. See?[k]
+H, here it is! Yep, the Balmung Shield... world renowned for this dragon carving. See?[k]
 [cs]
 Now how about dinner?
 
 [TWinBtm]
 [Wait 10]
-You think I'm stupid!? The Balmunk is not some stupid shield![k]
+You think I'm stupid!? The Balmung is not some stupid shield![k]
 [dcs]
 And Prince Shanan is more handsome than you could ever hope to be![k]
 [cs]
 
 [TWinTop] # Shanan
-W..wait a mi-... Don't tell me you're a soldier of the liberation army!?[k]
+W, wait a min... Don't tell me you're a soldier of the liberation army!?[k]
 [cs]
 Geez, sorry. Hmph... you're the first girl who hasn't fallen for the Prince Shanan line.[k]
 [cs]
-Look, you can have the shield. Just forget I was ever here, OK!?
-[Wait 1E]
+Look, you can have the shield. Just forget I was ever here, okay!?[k]
 [cs]
 
 [DlgCls][xChr]
@@ -1321,17 +1265,17 @@ Heh heh heh...
 
 [TWinBtm] # Hawk
 [Wait 10]
-. . . ?[k]
+...?[k]
 [dcs]
 
 [TWinTop] # (null)
-Over at the public square, I had a girl confess her love to me while sitting under a tree.[k]
+Over at the public square, I just had a girl confess her love to me while sitting under a tree.[k]
 [cs]
 Man, I wish I could share this feeling with ya!
 
 [TWinBtm] # Hawk
 [Wait 10]
-. . . . .[k]
+...[k]
 [dcs]
 
 [TWinTop] # (null)

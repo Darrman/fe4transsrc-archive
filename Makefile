@@ -15,7 +15,6 @@ ifneq ($(wildcard fe4.smc),fe4.smc)
 	@echo "Error, please place fe4.smc in this directory."
 	@exit 1
 endif
-	$(MAKE) -C fe4cv
 	$(MAKE) -C fe4dec
 	$(MAKE) -C fe4enc
 	$(MAKE) -C fe4d
@@ -41,7 +40,6 @@ status:
 	misc/scriptstat $(wildcard script/*.txt)
 project: dump menufont font script
 cleansif:
-	$(MAKE) cleansif -C fe4cv
 	$(MAKE) cleansif -C fe4dec
 	$(MAKE) cleansif -C fe4enc
 	$(MAKE) cleansif -C fe4d
@@ -51,7 +49,6 @@ cleansif:
 	$(MAKE) cleansif -C dcenc
 	$(MAKE) cleansif -C script
 clean:
-	$(MAKE) clean -C fe4cv
 	$(MAKE) clean -C fe4dec
 	$(MAKE) clean -C fe4enc
 	$(MAKE) clean -C fe4d
@@ -62,7 +59,6 @@ clean:
 	$(MAKE) clean -C script
 	$(RM) *.sif
 veryclean:
-	$(MAKE) veryclean -C fe4cv
 	$(MAKE) veryclean -C fe4dec
 	$(MAKE) veryclean -C fe4enc
 	$(MAKE) veryclean -C fe4d
@@ -73,7 +69,6 @@ veryclean:
 	$(MAKE) veryclean -C script
 	$(RM) *.sif
 spotless:
-	$(MAKE) spotless -C fe4cv
 	$(MAKE) spotless -C fe4dec
 	$(MAKE) spotless -C fe4enc
 	$(MAKE) spotless -C fe4d
@@ -95,13 +90,14 @@ else
 COMPRESS_SIF=
 endif
 MENUFONT_SIF=fe4enc/menufont.sif
+STATFONT_SIF=fe4enc/statfont.sif
 FONT_SIFS=$(addprefix fe4font/,font.sif vwftable.sif)
 SCRIPT_SIFS=$(addsuffix .sif,$(basename $(wildcard script/*.txt)))
 ifndef NOCOMPRESS
 SCRIPT_SIFS+=script/fe4tbl.sif
 endif
 MISC_SIFS=$(wildcard misc/*.sif)
-SIFS=fe4-j2e.sif $(COMPRESS_SIF) $(MENUFONT_SIF) $(FONT_SIFS) $(SCRIPT_SIFS) $(MISC_SIF)
+SIFS=fe4-j2e.sif $(COMPRESS_SIF) $(MENUFONT_SIF) $(STATFONT_SIF) $(FONT_SIFS) $(SCRIPT_SIFS) $(MISC_SIF)
 MAP=script/fe4map.so
 
 VPATH=dcenc:fe4enc:fe4font:script
@@ -110,6 +106,8 @@ ips: fe4.ips
 $(COMPRESS_SIF): dcenc.asm
 	$(MAKE) -C dcenc
 $(MENUFONT_SIF): newfont.bin
+	$(MAKE) menufont -C fe4enc
+$(STATFONT_SIF): statusfont.bin
 	$(MAKE) menufont -C fe4enc
 $(FONT_SIFS): font.bin english.tbl genwid.c
 	$(MAKE) font -C fe4font

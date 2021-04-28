@@ -1,0 +1,1544 @@
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the battle comversations
+# held between certain people if they fight each
+# other.
+
+# 0x30d1e7
+# @@1082134@@
+
+[TWinTop][DlgOpn]['Gerrard' 0040]
+[TWinBtm][DlgOpn]['Midir' 0007]
+
+[TWinTop]
+W, wait![n]
+You're using arrows, you coward!
+
+[TWinBtm]
+Shut up![n]
+Where's Lady Etain!?[n]
+Bring her back, now!![k]
+
+[exit]
+
+
+# 0x30d23a
+# @@445396@@
+
+[TWinTop][DlgOpn]['Gandolf' 004D]
+[TWinBtm][DlgOpn]['Midir' 0007]
+
+[TWinTop]
+What? You're that arch knight from before!?[k]
+[cs]
+Man, I blew it![n]
+I can't believe you're still alive!
+
+[TWinBtm]
+Prepare yourself, Gandolf![n]
+I'll never forgive someone like you!![k]
+
+[exit]
+
+# 0x30d29b
+# @@445413@@
+
+[TWinTop][DlgOpn]['Gandolf' 004D]
+[TWinBtm][DlgOpn]['Azel' 000A]
+
+[TWinTop]
+Who're you? Ya got a lot of nerve to attack me, ya little brat!
+
+[TWinBtm]
+So you're Gandolf...[n]
+How dare you take Etain![k]
+
+[exit]
+
+
+# 0x30d2eb
+# @@445430@@
+
+[TWinBtm][DlgOpn]['Sandima' 0052]
+What?[n]
+You're a shaman...?[k]
+[cs]
+You must be Deirdre...[n]
+The cursed maiden...[k]
+
+[exit]
+
+
+# 0x30d328
+# @@445446@@
+
+[TWinTop][DlgOpn]['Sandima' 0052]
+[TWinBtm][DlgOpn]['Jamka' 000B]
+
+[TWinTop]
+Heheheh...[n]
+You're too late, Jamka. Your father is already dead.
+
+[TWinBtm]
+W, what!?[n]
+Sandima! You...![k]
+
+[exit]
+
+
+# 0xfb041
+# @@446708@@
+
+[TWinBtm][DlgOpn]['Fury' 0014]
+Prince Levin!?[n]
+Th, this isn't possible...[k]
+
+[exit]
+
+
+# 0x30d3b5
+# @@446724@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Fury' 0014]
+
+[TWinTop]
+Mwahaha, it's you...[k]
+[cs]
+Finally realised the truth, did you? You stupid woman.
+
+[TWinBtm]
+
+Shagaal![n]
+You lied to me...[k]
+[dcs]
+I cannot forgive you![n]
+Prepare yourself![k]
+
+[exit]
+
+
+# 0x30d418
+# @@446741@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+
+[TWinTop]
+Hey, aren't you Eltshan's sister? How dare you rise up against me!
+
+[TWinBtm]
+You're not MY king![n]
+Return my brother to me this instant![k]
+
+[exit]
+
+
+# 0x30d480
+# @@446758@@
+
+[TWinTop][DlgOpn]['Elliot' 0066]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+
+[TWinTop]
+Princess Lachesis...[n]
+This has gone far enough. If you'll become my wife, I'll spare you.
+
+[TWinBtm]
+
+You filthy...![n]
+Become your wife!?[n]
+I'd rather die!![k]
+
+[exit]
+
+
+# 0x30d4f9
+# @@446775@@
+
+[TWinTop][DlgOpn]['Voltz' 0073]
+[TWinBtm][DlgOpn]['Beowulf' 000D]
+
+[TWinTop]
+Heh... Beowulf...[n]
+Bit early for you t'be fightin' me, isn't it?
+
+[TWinBtm]
+Yeah, probably...[n]
+But I'm a mercenary, and those are my orders...[k]
+
+[exit]
+
+
+# 0x30d562
+# @@446792@@
+
+[TWinTop][DlgOpn]['Macbeth' 006F]
+[TWinBtm][DlgOpn]['Levin' 0008]
+
+[TWinTop]
+Wh, who are you...?
+
+[TWinBtm]
+You're Macbeth?[n]
+You not qualified to be king.[k]
+[dcs]
+About time you were retired...[k]
+
+[exit]
+
+
+# 0x1dabcf
+# @@448270@@
+
+[TWinBtm][DlgOpn]['Eltshan' 005A]
+No, Lachesis![n]
+I don't want to fight you!![k]
+
+[exit]
+
+
+# 0x30d5d2
+# @@448286@@
+
+[TWinTop][DlgOpn]['Eltshan' 009F]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+
+[TWinTop]
+Sigurd...[n]
+I never expected to ever have to cross swords with you.[k]
+[cs]
+As knights, however, this is our fate. There is nothing either of us can do about it.
+
+[TWinBtm]
+W, wait! Eltshan!![k]
+
+[exit]
+
+
+# 0x30d640
+# @@448303@@
+
+[TWinTop][DlgOpn]['Dobarl' 00AA]
+[TWinBtm][DlgOpn]['Brigid' 0018]
+
+[TWinTop]
+Geh... You're still alive, you stubborn woman!?
+
+[TWinBtm]
+Dobarl![n]
+I'll never forgive you!![k]
+
+[exit]
+
+
+# 0x30d68a
+# @@448320@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+
+[TWinTop]
+Heheheh... you're too late. Eltshan's already dead.
+
+[TWinBtm]
+It's your fault that my brother...[k]
+[dcs]
+This is unforgivable...[k]
+
+[exit]
+
+
+# 0x30d6db
+# @@448337@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+
+[TWinTop]
+Sigurd, you've made a fool of me for far too long.
+
+[TWinBtm]
+King Shagaal, you've killed so many innocent people.[n]
+And Eltshan...[k]
+[dcs]
+You're a despicable person!
+
+[TWinTop]
+Idiot![n]
+You don't know what you're talking about![k]
+[dcs]
+Die, Sigurd!![k]
+
+[exit]
+
+
+# 0x30d79a
+# @@449589@@
+
+[TWinTop][DlgOpn]['Maios' 00B8]
+[TWinBtm][DlgOpn]['Levin' 0008]
+
+[TWinTop]
+Hmph. If it isn't Queen Rahna's idiot son.[k]
+[cs]
+So you've come back.
+
+[TWinBtm]
+Sorry, uncle, but for Silesia's sake, I must kill you.[k]
+
+[exit]
+
+
+# 0x30d802
+# @@449606@@
+
+[TWinTop][DlgOpn]['Dakar' 00C6]
+[TWinBtm][DlgOpn]['Levin' 0008]
+
+[TWinTop]
+Urgh... Levin... it's you...
+
+[TWinBtm]
+Daccar! How dare you kill Mahnya!?[k]
+[dcs]
+Death is too good for you!
+
+[TWinTop]
+What impudence!![n]
+Die, Levin![k]
+
+[exit]
+
+
+# 0x30d86d
+# @@449623@@
+
+[TWinTop][DlgOpn]['Deetva' 00C2]
+[TWinBtm][DlgOpn]['Fury' 0014]
+
+[TWinTop]
+Heheheh, Fury...[n]
+This is a fine meeting...[k]
+[cs]
+I'll present your head to Duke Maios as a souvenir!
+
+[TWinBtm]
+No way, Deetva! I'm not the Fury you once knew. I won't lose.[k]
+[dcs]
+
+[TWinTop]
+Heh. Fury, you crybaby. You're all talk.[n]
+Don't make me laugh!![k]
+
+[exit]
+
+
+# 0x30d922
+# @@449640@@
+
+[TWinTop][DlgOpn]['Pamela' 00C9]
+[TWinBtm][DlgOpn]['Fury' 0014]
+
+[TWinTop]
+Oh, it's Fury...[n]
+So, you came back, huh.
+
+[TWinBtm]
+Pamela!![k]
+[dcs]
+I can never forgive you for what you did to my sister!
+
+[TWinTop]
+Hmph. How rude of you to say such things![k]
+[dcs]
+I'll send you to your sister! Prepare yourself!![k]
+
+[exit]
+
+
+# 0x30d9b0
+# @@449657@@
+
+[TWinTop][DlgOpn]['Pamela' 00C9]
+[TWinBtm][DlgOpn]['Levin' 0008]
+
+[TWinTop]
+Prince Levin... haven't seen you for a while.[k]
+[cs]
+I finished off Mahnya, making me the highest ranked knight.[n]
+Hahaha...
+
+[TWinBtm]
+Argh, Pamela![n]
+You... you...[k]
+[dcs]
+
+[TWinTop]
+Heh, you're the bad guy in all this, Lord Levin...[k]
+
+[exit]
+
+
+# 0x30da3c
+# @@451265@@
+
+[TWinTop][DlgOpn]['Langobalt' 00DB]
+[TWinBtm][DlgOpn]['Lex' 000E]
+
+[TWinTop]
+You...[n]
+Lex?! You traitor!![k]
+[cs]
+You're turning on your own father! Have you no shame!?
+
+[TWinBtm]
+You say that I disgust you, but...[n]
+Dad, this is fate... Please forgive me...[k]
+
+[exit]
+
+
+# 0x30dab6
+# @@451282@@
+
+[TWinTop][DlgOpn]['Reptor' 00F5]
+[TWinBtm][DlgOpn]['Tiltyu' 0015]
+
+[TWinTop]
+Ti, Tiltyu...[n]
+It's you...[k]
+[cs]
+I knew that you were with the rebel army, but I never expected to face you like this...
+
+[TWinBtm]
+Father... I'm so sorry...[k]
+[dcs]
+
+[TWinTop]
+Grr... Claude!![n]
+You decieved my daughter...[k]
+[cs]
+In any case...[n]
+House Freege's reputation must be defended. Tiltyu, you have to die.
+
+[TWinBtm]
+![k]
+[dcs]
+...father...[k]
+
+[exit]
+
+
+# 0x30db90
+# @@451299@@
+
+[TWinBtm][DlgOpn]['Magorn' 00F0]
+...so you're Sigurd?[n]
+Hahaha... you're pathetic...[k]
+
+[exit]
+
+
+# 0x30baae
+# @@451315@@
+
+[TWinTop][DlgOpn]['Langobalt' 00DB]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+
+[TWinTop]
+Gwahaha... the kid's made it.[k]
+[cs]
+Hey, I'll send you to Byron.
+He must be getting lonely by now.
+
+[TWinBtm]
+Langbart![n]
+I'll never forgive you for what you did to my father!![k]
+
+[exit]
+
+
+# 0x30dbb9
+# @@451332@@
+
+[TWinTop][DlgOpn]['Reptor' 00F5]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+
+[TWinTop]
+Sigurd!? ...you traitor![n]
+Invading our holy land!!
+
+[TWinBtm]
+You're the traitor, Lord Reptor![k]
+[dcs]
+Entrapping my father and Prince Kurth...[n]
+You know what actually happened!
+
+[TWinTop]
+Hmph, you idiot! Politics is all about power! Your father had no power, which is why he died.[k]
+[dcs]
+You're a knight, that much should be obvious to you.
+
+[TWinBtm]
+Knights respect honour and justice, and what you've done isn't just.[k]
+[dcs]
+I've returned to restore Grandbell's reputation!
+
+[TWinTop]
+You've gone to a lot of trouble, but this is as far as you'll get. You'll die a traitor, just like Byron.[k]
+[dcs]
+Your strength is nothing compared to my Tor Hammer. Soon you'll see how powerless you really are...[k]
+[cs]
+Mwahaha...[k]
+
+[exit]
+
+
+# 0x30dd71
+# @@451349@@
+
+[TWinTop][DlgOpn]['Reptor' 00F5]
+[TWinBtm][DlgOpn]['Aida' 00F3]
+
+[TWinTop]
+Ida...[n]
+You betrayed me...
+
+[TWinBtm]
+Hahaha...[n]
+Don't be such a bad loser, Lord Reptor.[k]
+[dcs]
+You might as well just give up.[k]
+
+[exit]
+
+
+# 0x30b96e
+# @@451366@@
+
+[TWinTop][DlgOpn]['Andre' 00E9]
+[TWinBtm][DlgOpn]['Etain' 0017]
+
+[TWinTop]
+Hah, it's my treacherous big sister. Fancy meeting you here.[k]
+[cs]
+You've tarnished the reputation of my Jungby... In return, I'll have your life.
+
+[TWinBtm]
+Andre... you're so pathetic...[k]
+
+[exit]
+
+
+# 0x30b9e9
+# @@451383@@
+
+[TWinTop][DlgOpn]['Andre' 00E9]
+[TWinBtm][DlgOpn]['Brigid' 0018]
+
+[TWinTop]
+What!?[n]
+It can't be... big sister Brigid?!?[k]
+[cs]
+I heard that you'd become a pirate, but allying with the traitors is another matter...[k]
+[cs]
+In any case, you've brought shame upon my house.[n]
+I'll have to kill you.
+
+[TWinBtm]
+Shut up!
+You killed father, you patricide![k]
+[dcs]
+You're the disgrace to Jungby House, AND you've tarnished the reputation of the Crusader Ulir!![k]
+
+[exit]
+
+
+# 0x30ddd0
+# @@3310495@@
+
+
+[TWinTop][DlgOpn]['Danan' 0111]
+[TWinBtm][DlgOpn]['Johan' 001E]
+
+[TWinTop]
+J, Johan...[n]
+That woman has turned you against me!?
+
+[TWinBtm]
+Sigh... I pledged my life for her love.
+Forgive me, father...[k]
+[dcs]
+
+[TWinTop]
+Y, you fool...[k]
+
+[exit]
+
+
+# 0x30de39
+# @@3310512@@
+
+[TWinTop][DlgOpn]['Danan' 0111]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+
+[TWinTop]
+Johalva, you...![n]
+How dare you rise up against your father!!
+
+[TWinBtm]
+Sorry...[n]
+I don't want anything more to do with your evil deeds. It's nothing personal.[k]
+[dcs]
+
+[TWinTop]
+D, damn it...![n]
+Johalva![k]
+
+[exit]
+
+
+# 0x30debe
+# @@3310529@@
+
+[TWinTop][DlgOpn]['Johan' 001E]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+
+[TWinTop]
+Sigh... Johalva...[n]
+It makes me sad to have a little brother as foolish as you.
+
+[TWinBtm]
+You're the foolish one, but that's irrelevant.[k]
+[dcs]
+I knew that this day would come sometime![n]
+Now let's finish this!
+
+[TWinTop]
+As you wish![k]
+
+[exit]
+
+
+# 0x30df77
+# @@3310546@@
+
+[TWinBtm][DlgOpn]['Johalva' 0031]
+W, wait, [$00$2C$3A$00]! I can't fight you![k]
+
+[exit]
+
+
+# 0x30df77
+# @@3310562@@
+[Merge 3283d2]
+
+[TWinBtm][DlgOpn]['Johalva' 0031]
+W, wait, [$00$2C$3A$00]! I can't fight you![k]
+
+[exit]
+
+
+# 0x30df49
+# @@3310578@@
+
+[TWinBtm][DlgOpn]['Johan' 001E]
+W, wait, [$00$2C$3A$00]. Please![n]
+It's not possible for me to fight you![k]
+
+[exit]
+
+
+# 0x30df49
+# @@3310594@@
+[Merge 3283f2]
+
+[TWinBtm][DlgOpn]['Johan' 001E]
+W, wait, [$00$2C$3A$00]. Please![n]
+It's not possible for me to fight you![k]
+
+[exit]
+
+
+# 0x30dfa2
+# @@3310610@@
+
+[TWinTop][DlgOpn]['Danan' 0111]
+[TWinBtm][DlgOpn]['Celice' 0019]
+
+[TWinTop]
+Y, you're the son of that Sigurd![k]
+[cs]
+C, crap! My father's grudge...[n]
+I will have his revenge!
+
+[TWinBtm]
+King Dannan...[n]
+Under your rule, many people have suffered and died.[k]
+[dcs]
+Now you must face the consequences.[k]
+
+[exit]
+
+
+# 0x30e030
+# @@453452@@
+
+[TWinTop][DlgOpn]['Tinny' 003D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+
+[TWinTop]
+Sorry...[n]
+I don't want to fight, but...
+
+[TWinBtm]
+Ah, wait![n]
+Could you be...[k]
+
+[exit]
+
+
+# 0x30e030
+# @@453469@@
+[Merge 6eb4c]
+
+[TWinTop][DlgOpn]['Tinny' 003D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+
+[TWinTop]
+Sorry...[n]
+I don't want to fight, but...
+
+[TWinBtm]
+Ah, wait![n]
+Could you be...[k]
+
+[exit]
+
+
+# 0x30e078
+# @@453486@@
+
+[TWinTop][DlgOpn]['Bramsel' 012C]
+[TWinBtm][DlgOpn]['Aless' 0025]
+
+[TWinTop]
+What? It's you, Aless!?[n]
+You... you traitor!!
+
+[TWinBtm]
+Bramsel!
+Return [$00$2C$3E$00]!![k]
+[dcs]
+
+[TWinTop]
+You're too late![n]
+Right about now, she's already... heheheh...
+
+[TWinBtm]
+Y, you! I won't forgive this!![k]
+
+[exit]
+
+
+# 0x30e0fa
+# @@453503@@
+
+[TWinTop][DlgOpn]['Jabarro' 0129]
+[TWinBtm][DlgOpn]['Aless' 0025]
+
+[TWinTop]
+Aless! You ingrate!![n]
+You won't get away with this!
+
+[TWinBtm]
+You disgust me.[n]
+I hate to say it, but you're going to die.[k]
+
+[exit]
+
+
+# 0x30e14c
+# @@453520@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+It's you, [$00$2C$3D$00]!? You're betraying me...?
+
+[TWinBtm]
+I'm sorry, Uncle...[k]
+
+[exit]
+
+
+# 0x30e14c
+# @@453537@@
+[Merge 6eb90]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+It's you, [$00$2C$3D$00]!? You're betraying me...?
+
+[TWinBtm]
+I'm sorry, Uncle...[k]
+
+[exit]
+
+
+# 0x30e190
+# @@453554@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+
+[TWinTop]
+What? ...you, you're...
+
+[TWinBtm]
+Blume, I've waited for this day! You're going to pay for taking my mother and little sister![k]
+[dcs]
+
+[TWinTop]
+Damn, you little brat![n]
+You think you can beat me!?[k]
+
+[exit]
+
+
+# 0x30e190
+# @@453571@@
+[Merge 6ebb2]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+
+[TWinTop]
+What? ...you, you're...
+
+[TWinBtm]
+Blume, I've waited for this day! You're going to pay for taking my mother and little sister![k]
+[dcs]
+
+[TWinTop]
+Damn, you little brat![n]
+You think you can beat me!?[k]
+
+[exit]
+
+
+# 0x30e21a
+# @@453588@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Leif' 001D]
+
+[TWinTop]
+Haha, you're Cuan's son, right?[n]
+So you're still alive.
+
+[TWinBtm]
+You've made my people suffer, King Blume. You'll die for what you've done.[k]
+[dcs]
+
+[TWinTop]
+Hmph, you idiot![n]
+You're the one who'll die!![k]
+
+[exit]
+
+
+# 0xfe04e
+# @@455306@@
+
+[TWinBtm][DlgOpn]['Faval' 0033]
+Hm? [$00$2C$39$00]...[n]
+it's not like that.[k]
+
+[exit]
+
+
+# 0xfe04e
+# @@455322@@
+[Merge 6f28a]
+
+[TWinBtm][DlgOpn]['Faval' 0033]
+Hm? [$00$2C$39$00]...[n]
+it's not like that.[k]
+
+[exit]
+
+
+# 0x30e29c
+# @@455338@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Faval' 0033]
+
+[TWinTop]
+Y, you're [$00$2C$33$00]![n]
+You...! You're betraying me!!
+
+[TWinBtm]
+Sorry, but I thought it over, and I decided that there was nothing that would get me to help you.[k]
+[dcs]
+I hate to say it, but you're going to die.
+
+[TWinTop]
+Damn it! All of you...[k]
+
+[exit]
+
+
+# 0x30e29c
+# @@455355@@
+[Merge 6f2aa]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Faval' 0033]
+
+[TWinTop]
+Y, you're [$00$2C$33$00]![n]
+You...! You're betraying me!!
+
+[TWinBtm]
+Sorry, but I thought it over, and I decided that there was nothing that would get me to help you.[k]
+[dcs]
+I hate to say it, but you're going to die.
+
+[TWinTop]
+Damn it! All of you...[k]
+
+[exit]
+
+
+# 0x30e315
+# @@455372@@
+
+[TWinTop][DlgOpn]['Ishtar' 0142]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+Hey, aren't you [$00$2C$3D$00]? Why are you fighting me?
+
+[TWinBtm]
+Ishtar!?[n]
+I, I'm sorry...[k]
+[dcs]
+
+[TWinTop]
+So, you're betraying us...[n]
+I misjudged you, [$00$2C$3D$00]![k]
+
+[exit]
+
+
+# 0x30e315
+# @@455389@@
+[Merge 6f2cc]
+
+[TWinTop][DlgOpn]['Ishtar' 0142]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+Hey, aren't you [$00$2C$3D$00]? Why are you fighting me?
+
+[TWinBtm]
+Ishtar!?[n]
+I, I'm sorry...[k]
+[dcs]
+
+[TWinTop]
+So, you're betraying us...[n]
+I misjudged you, [$00$2C$3D$00]![k]
+
+[exit]
+
+
+# 0x30e381
+# @@455406@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+[$00$2C$3D$00]... you ingrate!
+
+[TWinBtm]
+You drove my mother to her death, remember? Or do I have to remind you!?[k]
+[dcs]
+
+[TWinTop]
+D, damn it...[k]
+
+[exit]
+
+
+# 0x30e381
+# @@455423@@
+[Merge 6f2ee]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+[$00$2C$3D$00]... you ingrate!
+
+[TWinBtm]
+You drove my mother to her death, remember? Or do I have to remind you!?[k]
+[dcs]
+
+[TWinTop]
+D, damn it...[k]
+
+[exit]
+
+
+
+# 0x30e3e8
+# @@455440@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Celice' 0019]
+
+[TWinTop]
+Y, you're Sigurd's...[n]
+You brat! I won't let you live!
+
+[TWinBtm]
+Those are my words, King Blume.[k]
+[dcs]
+There's no escape for you this time. You might as well give up.
+
+[TWinTop]
+D, damn it... You...![n]
+I'll take you with me![k]
+
+[exit]
+
+
+# 0x33a979
+# @@456851@@
+
+[TWinTop][DlgOpn]['Althena' 002C]
+[TWinBtm][DlgOpn]['Arion' 025B]
+
+[TWinTop]
+Brother, please stop. What is the point in fighting like this!?
+
+[TWinBtm]
+Altenna... you look well.[k]
+[dcs]
+I've wanted to fight you for a long time. I won't go easy on you.[n]
+Now bring it on!![k]
+[cs]
+
+[TWinTop]
+Brother...[k]
+
+[exit]
+
+
+# 0x30e4a8
+# @@456868@@
+
+[TWinTop][DlgOpn]['Althena' 002C]
+[TWinBtm][DlgOpn]['Leif' 001D]
+
+[TWinTop]
+So, you're the Prince of Lenster. Think you can take our country!?
+
+[TWinBtm]
+W, wait!
+You're my...[k]
+[dcs]
+
+[TWinTop]
+Shut up! Prattle has no place on the battlefield!![k]
+
+[exit]
+
+
+# 0x30e517
+# @@456885@@
+
+[TWinTop][DlgOpn]['Althena' 002C]
+[TWinBtm][DlgOpn]['Adult Fin' 0022]
+
+[TWinTop]
+Sorry, but this is where you'll die.[n]
+Forgive me...
+
+[TWinBtm]
+![k]
+[dcs]
+...l, lord Altenna...!?[n]
+It really is you...[k]
+
+[exit]
+
+
+# 0x30e5ec
+# @@456902@@
+
+[TWinTop][DlgOpn]['Torabant' 0161]
+[TWinBtm][DlgOpn]['Leif' 001D]
+
+[TWinTop]
+Heheheh...[n]
+So you're Cuan's son.[k]
+[cs]
+Blume should've taken care of you while he had the chance.
+
+[TWinBtm]
+
+Trabant, we meet at last...[n]
+I... I've waited so long for this day to arrive...[k]
+[dcs]
+I've dreamed of killing you with my bare hands, and I've lived to carry it out!!
+
+[TWinTop]
+Hmph... you fool...[n]
+You can't even use the Gae Bolg, and you think you can defeat me!?[k]
+[dcs]
+Die, you little brat![n]
+I'll do to you what I did to Cuan![k]
+
+[exit]
+
+
+# 0x30e6f7
+# @@456919@@
+
+[TWinTop][DlgOpn]['Torabant' 0161]
+[TWinBtm][DlgOpn]['Adult Fin' 0022]
+
+[TWinTop]
+Fin, isn't it? It's been a while.[k]
+[cs]
+So you're still alive...[n]
+how stubborn of you.
+
+[TWinBtm]
+King Trabant, today I will take my revenge for what you did to my lord![k]
+[dcs]
+
+[TWinTop]
+Hahaha, don't make me laugh. What do you think you can do to me!?[k]
+[cs]
+You're the one who's gonna die!![k]
+
+[exit]
+
+
+# 0x30e78e
+# @@456936@@
+
+[TWinTop][DlgOpn]['Arion' 0166]
+[TWinBtm][DlgOpn]['Celice' 0019]
+
+[TWinTop]
+You're the Imperial Prince Celice, aren't you? Hm, you should make an admirable adversary.[k]
+[cs]
+Care for a match?
+
+[TWinBtm]
+Prince Arion![n]
+We can still work this out!![k]
+[dcs]
+
+[TWinTop]
+I have nothing else to say! Let's do this, Celice.[n]
+Have a taste of my Gungnir![k]
+
+[exit]
+
+
+# 0x33cc04
+# @@3179503@@
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Alvis' 026E]
+
+[TWinTop]
+Emperor Alvis![n]
+Why did you kill my father...
+
+[TWinBtm]
+Celice... So you made it. I commend your bravery. But you will, nonetheless, be incinerated by my fire.[k]
+[dcs]
+You're just as pathetic as your father was...[k]
+
+[exit]
+
+
+# 0x30e81e
+# @@3179520@@
+
+[TWinTop][DlgOpn]['Hilda' 017D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+Hohoho, if it isn't [$00$2C$3D$00]. You're that woman's daughter, right?[k]
+[cs]
+You're just as ungrateful as she was.
+
+[TWinBtm]
+Hilda... because of you, my mother...![k]
+[dcs]
+
+[TWinTop]
+Ah, she was an eyesore. I made her life a living hell![k]
+[cs]
+Hahaha, I had so much fun back then...
+
+[TWinBtm]
+![k]
+[dcs]
+I'll never forgive you...
+
+[TWinTop]
+Well, don't we sound all grown up!? What can a little girl like you do to me?[k]
+[dcs]
+I'll send you to hell, just as I did her![k]
+
+[exit]
+
+
+# 0x30e81e
+# @@3179537@@
+[Merge 308400]
+
+[TWinTop][DlgOpn]['Hilda' 017D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+Hohoho, if it isn't [$00$2C$3D$00]. You're that woman's daughter, right?[k]
+[cs]
+You're just as ungrateful as she was.
+
+[TWinBtm]
+Hilda... because of you, my mother...![k]
+[dcs]
+
+[TWinTop]
+Ah, she was an eyesore. I made her life a living hell![k]
+[cs]
+Hahaha, I had so much fun back then...
+
+[TWinBtm]
+![k]
+[dcs]
+I'll never forgive you...
+
+[TWinTop]
+Well, don't we sound all grown up!? What can a little girl like you do to me?[k]
+[dcs]
+I'll send you to hell, just as I did her![k]
+
+[exit]
+
+
+# 0x32bd14
+# @@3254173@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]
+Hmph. Celice. So you're the supposed 'Imperial Prince of Light'?[k]
+[cs]
+Don't make me laugh.[k]
+[cs]
+No warrior of Baldo lineage can defeat me![n]
+You're going to die!![k]
+
+[exit]
+
+
+# 0x32bce9
+# @@3254190@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]
+J, Julia...[n]
+...why are you...[k]
+[cs]
+You've made a big mistake, Manfloy!![k]
+
+[exit]
+
+
+# 0x30e969
+# @@3254207@@
+
+[TWinTop][DlgOpn]['Burian' 01B8]
+[TWinBtm][DlgOpn]['Johan' 001E]
+
+[TWinTop]
+Johan, you traitor! Are you trying to destroy House Dozel!?
+
+[TWinBtm]
+Don't worry, big brother. I'm doing a wonderful job restoring Dozel's good name.[k]
+[dcs]
+Time for you to step aside.
+
+[TWinTop]
+Y, you...[k]
+
+[exit]
+
+
+# 0x30e9f7
+# @@3254224@@
+
+[TWinTop][DlgOpn]['Burian' 01B8]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+
+[TWinTop]
+Johalva, you idiot! Are you trying to divide our House!?
+
+[TWinBtm]
+Burian...[n]
+Hmph, don't worry. I'm protecting the duchy. This is what the people want.[k]
+[dcs]
+
+[TWinTop]
+W, what!?[n]
+You... you won't get away with this![k]
+
+[exit]
+
+
+# 0x30ea89
+# @@3254241@@
+
+[TWinTop][DlgOpn]['Hilda' 01BF]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+Heheheh... So you've come, [$00$2C$3D$00]. I've been waiting for you.[k]
+[cs]
+I've decided that I want to kill you personally.
+
+[TWinBtm]
+
+I don't think so![n]
+Mother, please watch![n]
+I'm going to kill Hilda!![k]
+
+[exit]
+
+
+# 0x30ea89
+# @@3254258@@
+[Merge 31a7e1]
+
+[TWinTop][DlgOpn]['Hilda' 01BF]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+Heheheh... So you've come, [$00$2C$3D$00]. I've been waiting for you.[k]
+[cs]
+I've decided that I want to kill you personally.
+
+[TWinBtm]
+
+I don't think so![n]
+Mother, please watch![n]
+I'm going to kill Hilda!![k]
+
+[exit]
+
+
+# 0x30eb06
+# @@3254275@@
+
+[TWinTop][DlgOpn]['Hilda' 01BF]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+
+[TWinTop]
+Heheheh...[n]
+You're Tiltyu's kid, right?[k]
+[cs]
+I drove that woman to her grave. You've come to avenge her death, have ya?
+
+[TWinBtm]
+Well, I didn't want my sister getting her hands dirty, so...[k]
+[dcs]
+
+[TWinTop]
+Is that so?[n]
+In that case, I'll take you with me to hell![k]
+
+[exit]
+
+
+# 0x30eb9d
+# @@3254292@@
+
+[TWinTop][DlgOpn]['Scorpio' 01BC]
+[TWinBtm][DlgOpn]['Faval' 0033]
+
+[TWinTop]
+Who are you?
+
+[TWinBtm]
+I'm Faval, son of Brigid.[k]
+[dcs]
+
+[TWinTop]
+What? My Aunt Brigid!?[n]
+Really...?[k]
+[cs]
+So, you're that traitor's kid![n]
+How convenient. You can die right here!
+
+[TWinBtm]
+Hmph. That's my line![k]
+
+[exit]
+
+
+# 0x30ec3c
+# @@3254309@@
+
+[TWinTop][DlgOpn]['Scorpio' 01BC]
+[TWinBtm][DlgOpn]['Lester' 0037]
+
+[TWinTop]
+Who are you...?
+
+[TWinBtm]
+I'm Lester... Aideen's son.[k]
+[dcs]
+
+[TWinTop]
+What? My Aunt Aideen!?[n]
+Really...?[k]
+[cs]
+So, you're that traitor's kid![n]
+How convenient. You can die right here!
+
+[TWinBtm]
+Hmph. I believe that's my line.[k]
+
+[exit]
+
+
+# 0x30ecde
+# @@3254326@@
+
+[TWinTop][DlgOpn]['Ishtar' 01D5]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+[$00$2C$3D$00]...
+
+[TWinBtm]
+Ishtar, please...[k]
+[dcs]
+This isn't like you... you've always been so kind to me.[n]
+I know you don't want to fight us.
+
+[TWinTop]
+...I may have gone down the wrong path, but I can't go back now.[k]
+[dcs]
+Please forgive me, [$00$2C$3D$00]...[k]
+
+[exit]
+
+
+# 0x30ecde
+# @@3254343@@
+[Merge 31a836]
+
+[TWinTop][DlgOpn]['Ishtar' 01D5]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+
+[TWinTop]
+[$00$2C$3D$00]...
+
+[TWinBtm]
+Ishtar, please...[k]
+[dcs]
+This isn't like you... you've always been so kind to me.[n]
+I know you don't want to fight us.
+
+[TWinTop]
+...I may have gone down the wrong path, but I can't go back now.[k]
+[dcs]
+Please forgive me, [$00$2C$3D$00]...[k]
+
+[exit]
+
+
+# 0x30ed80
+# @@3254360@@
+
+[TWinTop][DlgOpn]['Manfloy' 01C4]
+[TWinBtm][DlgOpn]['Celice' 0019]
+
+[TWinTop]
+Mwahaha...[n]
+So you've come?[k]
+[cs]
+I've been waiting for you...
+
+[TWinBtm]
+Manfloy![n]
+You put a spell on Julia![k]
+[dcs]
+
+[TWinTop]
+Indeed. And the only way to break the spell is to kill me. Heheheh, I did the same thing to her mother.[k]
+[cs]
+She's like putty in my hands...
+
+[TWinBtm]
+Really? So you're the one who deceived my mother...[n]
+It's been you all along, hasn't it?[k]
+[dcs]
+
+[TWinTop]
+Heheheh... you're only just now realising that?[k]
+[cs]
+This was all part of our dream to resurrect Lord Loputousu. And now, we've gotten our wish.[k]
+[cs]
+The God of Darkness has finished descending into Lord Julius, and the world will soon be shrouded once more.[k]
+[cs]
+There's nothing you can do now...
+
+[TWinBtm]
+My father's sadness,[n]
+my mother's grief...[k]
+[dcs]
+It was all part of your plot...[n]
+Your sinister ambitions are the cause of all of this...[k]
+[cs]
+Damn it... Manfloy![n]
+I won't forgive you.[n]
+I will never forgive you for this![k]
+
+[exit]
+
+
+# 0x30ef61
+# @@3254377@@
+
+[TWinTop][DlgOpn]['Arion' 0166]
+[TWinBtm][DlgOpn]['Althena' 002C]
+
+[TWinTop]
+Altenna...[n]
+I didn't want to meet you like this.[k]
+[cs]
+I'm still living in disgrace...
+
+[TWinBtm]
+Brother...[k]
+
+[exit]

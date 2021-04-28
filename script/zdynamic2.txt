@@ -1,6 +1,8 @@
 # 0 10 chapternames
 
-# Last modified: 02/05/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is used for altering the names of the chapters.
@@ -13,60 +15,60 @@
 
 # 0xd9e0e
 # @@892406@@
-[$09]HolyKnight[exit]
+[$09]SthGrandbell[exit]
 
 
 # 0xd9e17
 # @@892408@@
-[$09]SpiritForest[exit]
+[$09]Verdane[exit]
 
 
 # 0xd9e26
 # @@892410@@
-[$09]Agustria[exit]
+[$09]SthAgustria[exit]
 
 
 # 0xd9e32
 # @@892412@@
-[$09]Eltosian[exit]
+[$09]NthAgustria[exit]
 
 
 # 0xd9e3f
 # @@892414@@
-[$09]Dancing[exit]
+[$09]Silesia[exit]
 
 
 # 0xd9e48
 # @@892416@@
-[$09]Destiny[exit]
+[$09]WestYied[exit]
 
 
 # 0xd9e51
 # @@892418@@
-[$09]Light[exit]
+[$09]Isaac[exit]
 
 
 # 0xd9e5a
 # @@892420@@
-[$09]Desert[exit]
+[$09]EastYied[exit]
 
 
 # 0xd9e63
 # @@892422@@
-[$09]Thracia[exit]
+[$09]Manster[exit]
 
 
 # 0xd9e6e
 # @@892424@@
-[$09]ForWhom?[exit]
+[$09]Thracia[exit]
 
 
 # 0xd9e76
 # @@892426@@
-[$09]LightVsDark[exit]
+[$09]Miletos[exit]
 
 
 # 0xd9e7f
 # @@892428@@
-[$09]EndOfHolyWar[exit]
+[$09]Grandbell[exit]
 

@@ -1,10 +1,13 @@
-# Last modified: 08/06/04
+# Fontcheck: Reformatted
+
+# Last modified: 23/06/2006
 # This file was added by Dark Twilkitri
 
-# This file is for altering the names of the characters during the intermission.
+# This file is for altering the character names in the intermission.
 
 [ASMPTR]
 [nocompress]
+
 
 # 0x8ee34
 # @@583977@@
@@ -26,7 +29,7 @@ Alec, Knight of Chalphy[$02]
 
 # 0x8ee6c
 # @@584053@@
-Arden, Armour Knight of Chalphy[$02]
+Ardan, Armour Knight of Chalphy[$02]
 [$00$82$02$04$00]
 [$02$02]
 [$00$84$02]
@@ -53,7 +56,7 @@ Azel, Noble of Velthomer[$02]
 
 # 0x8eec0
 # @@584167@@
-Ayra, Princess of Isaac[$02]
+Aira, Princess of Isaac[$02]
 [$00$82$02$13$00]
 [$02$02]
 [$00$84$02]
@@ -62,7 +65,7 @@ Ayra, Princess of Isaac[$02]
 
 # 0x8eeda
 # @@584205@@
-Edin, Noble of Jungby[$02]
+Aideen, Noble of Jungby[$02]
 [$00$82$02$17$00]
 [$02$02]
 [$00$84$02]
@@ -71,7 +74,7 @@ Edin, Noble of Jungby[$02]
 
 # 0x8eef7
 # @@584243@@
-Mideel, Arch Knight of Jungby[$02]
+Midir, Arch Knight of Jungby[$02]
 [$00$82$02$07$00]
 [$02$02]
 [$00$84$02]
@@ -80,7 +83,7 @@ Mideel, Arch Knight of Jungby[$02]
 
 # 0x8ef16
 # @@584281@@
-Jamuka, Prince of Verdane[$02]
+Jamka, Prince of Verdane[$02]
 [$00$82$02$0B$00]
 [$02$02]
 [$00$84$02]
@@ -152,7 +155,7 @@ Sylvia, Dancer[$02]
 
 # 0x8efe9
 # @@584585@@
-Claud, High Priest of Edda[$02]
+Claude, High Priest of Edda[$02]
 [$00$82$02$0C$00]
 [$02$02]
 [$00$84$02]
@@ -170,7 +173,7 @@ Tiltyu, Noble of Freege[$02]
 
 # 0x8f01f
 # @@584661@@
-Bridget, Noble of Jungby[$02]
+Brigid, Noble of Jungby[$02]
 [$00$82$02$18$00]
 [$02$02]
 [$00$84$02]
@@ -197,7 +200,7 @@ Alec, Knight of Chalphy[$02]
 
 # 0x8ee6c
 # @@583331@@
-Arden, Armour Knight of Chalphy[$02]
+Ardan, Armour Knight of Chalphy[$02]
 [$00$82$02$04$00]
 [$02$02]
 [$00$84$02]
@@ -224,7 +227,7 @@ Azel, Noble of Velthomer[$02]
 
 # 0x8eec0
 # @@583445@@
-Ira, Princess of Isaac[$02]
+Aira, Princess of Isaac[$02]
 [$00$82$02$13$00]
 [$02$02]
 [$00$84$02]
@@ -233,7 +236,7 @@ Ira, Princess of Isaac[$02]
 
 # 0x8eeda
 # @@583483@@
-Edin, Noble of Jungby[$02]
+Aideen, Noble of Jungby[$02]
 [$00$82$02$17$00]
 [$02$02]
 [$00$84$02]
@@ -242,7 +245,7 @@ Edin, Noble of Jungby[$02]
 
 # 0x8eef7
 # @@583521@@
-Mideel, Arch Knight of Jungby[$02]
+Midir, Arch Knight of Jungby[$02]
 [$00$82$02$07$00]
 [$02$02]
 [$00$84$02]
@@ -251,7 +254,7 @@ Mideel, Arch Knight of Jungby[$02]
 
 # 0x8ef16
 # @@583559@@
-Jamuka, Prince of Verdane[$02]
+Jamka, Prince of Verdane[$02]
 [$00$82$02$0B$00]
 [$02$02]
 [$00$84$02]
@@ -323,7 +326,7 @@ Sylvia, Dancer[$02]
 
 # 0x8efe9
 # @@583863@@
-Claud, High Priest of Edda[$02]
+Claude, High Priest of Edda[$02]
 [$00$82$02$0C$00]
 [$02$02]
 [$00$84$02]
@@ -341,7 +344,7 @@ Tiltyu, Noble of Freege[$02]
 
 # 0x8f01f
 # @@583939@@
-Bridget, Noble of Jungby[$02]
+Brigid, Noble of Jungby[$02]
 [$00$82$02$18$00]
 [$02$02]
 [$00$84$02]

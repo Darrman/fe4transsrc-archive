@@ -1,4 +1,6 @@
-# Last modified: 02/05/04
+# Fontcheck: Irrelevant
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is for reformatting the headings on the Character Status Screen
@@ -190,4 +192,14 @@
 # Item Screen Wep Weight
 # @@637930@@
 0x16
+[exit]
+
+# Castle Character Status
+# @@690106@@
+0x12
+[exit]
+
+# Castle Character 'Remaining', nullification of said
+# @@690119@@
+0x39
 [exit]

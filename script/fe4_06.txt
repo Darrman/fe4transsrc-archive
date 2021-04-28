@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 6.
@@ -44,7 +46,7 @@ Don't tell me you haven't done anything yet.[k]
 [cs]
 Prince Shanan's rebel army gets larger each year and they're meddling with my affairs![k]
 [cs]
-Don't you know they're harboring Sigurd the Traitor's son?[k]
+Don't you know they're harbouring Sigurd the Traitor's son?[k]
 [cs]
 With them on the loose my position as King of Isaac is completely being undermined![k]
 [cs]
@@ -76,7 +78,7 @@ What? Then what are you waiting for!? Order your men to attack![k]
 [cs]
 The Isaacian citizens have made the rebel army out to be some kind of liberation army.[k]
 [cs]
-They're treating them like heros! But I think it's time to teach them a little lesson.[k]
+They're treating them like heroes! But I think it's time to teach them a little lesson.[k]
 [cs]
 Harold, kill every last one of them! I'll be back in Rivough awaiting your good news.[k]
 
@@ -86,7 +88,7 @@ Harold, kill every last one of them! I'll be back in Rivough awaiting your good 
 # 0x10c5c0:
 # @@1167713@@
 
-[TWinBtm][DlgOpn]['Sukasa' 0032]
+[TWinBtm][DlgOpn]['Skasaha' 0032]
 We've got trouble! They must have discovered our hideout![k]
 [cs]
 Subjugation forces have left Ganeishire and are heading this way!![k]
@@ -99,21 +101,21 @@ Let 'em come! At least we don't have to waste our time going to them.[k]
 [cs]
 We can confront the enemy and make an advance on Ganeishire all in one shot.
 
-[TWinBtm] # Sukasa
+[TWinBtm] # Skasaha
 [Wait 10]
 [$00$2C$3A$00], you're crazy![k]
 [dcs]
-Prince Shanan is still at Yied Shrine, and Oifaye hasn't make it back either.[k]
+Prince Shanan is still at Yied Shrine, and Oifaye hasn't made it back either.[k]
 [cs]
 It's just us! How do you expect us to take them on!?[k]
 [cs]
 
 [TWinTop] # Lakche
-[$00$2C$32$00]! You're not scared, are ya? This is our chance to see a little action.[k]
+[$00$2C$32$00]! You're not scared, are you? This is our chance to see a little action.[k]
 [cs]
 Shanan still thinks of us as kids. That's why we almost never get to fight, but we've had enough training!
 
-[TWinBtm] # Sukasa
+[TWinBtm] # Skasaha
 [Wait 10]
 But [$00$2C$3A$00]...[k]
 [dcs]
@@ -125,9 +127,9 @@ The imperial troops chased us girls... taking us out one after another.[k]
 [cs]
 If it weren't for Prince Shanan rescuing me, I wouldn't be here now![k]
 [cs]
-I will never... EVER forget what those girls had to go through!
+I will never, ever forget what those girls had to go through!
 
-[TWinBtm] # Sukasa
+[TWinBtm] # Skasaha
 [Wait 10]
 [$00$2C$3A$00], I know it was horrible, but we...[k]
 [dcs]
@@ -160,7 +162,7 @@ The people here have done far too much for us already.[k]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Sukasa' 0032]
+[TWinTop][DlgOpn]['Skasaha' 0032]
 Yes, but we can't just...
 
 [TWinBtm] # Selis
@@ -168,23 +170,26 @@ Yes, but we can't just...
 Look, we've no time to argue![k]
 [dcs]
 
-[TWinTop] # Sukasa
+[TWinTop] # Skasaha
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Ranna' 003B]
+[TWinTop][DlgOpn]['Lana' 003B]
 
 [TWinBtm]
 [$00$2C$3B$00], I want you to stay in town. We'll be heading east to the sandy basin to confront the enemy.[k]
+[cs]
 
 [TWinTop]
-[Wait 10]Sir, I'm not staying behind!
+[Wait 10]
+Sir, I'm not staying behind!
 
 [TWinBtm] # Selis
-[Wait 10]I'm not going let you get yourself killed out there. Nuns and warfare DO NOT mix![k]
+[Wait 10]
+I'm not going let you get yourself killed out there. Nuns and warfare DO NOT mix![k]
 [dcs]
 
-[TWinTop] # Ranna
+[TWinTop] # Lana
 Nuns can fight too, you know. I feel just as strongly about this as [$00$2C$3A$00][sp]does.[k]
 [cs]
 The imperial troops are becoming crueler with each passing day.[k]
@@ -202,12 +207,12 @@ Alright. We should get going. It's hard to say how this is going to turn out...[
 But let's give it everything we've got![k]
 [cs]
 
-[TWinTop] # Ranna
+[TWinTop] # Lana
 Sorry if I got a little outta hand, sir.
 
 [TWinBtm] # Selis
 [Wait 10]
-Ha ha! No problem... OK. [$00$2C$32$00], [$00$2C$3A$00], [$00$2C$3B$00]... Let's move![k]
+Haha! No problem... Okay. [$00$2C$32$00], [$00$2C$3A$00], [$00$2C$3B$00]... Let's move![k]
 
 [exit]
 
@@ -219,7 +224,7 @@ Ha ha! No problem... OK. [$00$2C$32$00], [$00$2C$3A$00], [$00$2C$3B$00]... Let's
 [TWinBtm][DlgOpn]['Lester' 0037]
 
 [TWinTop] # Oifaye
-(gasp...) Oh no! They've taken to arms already...
+Oh no! They've taken to arms already...
 
 [TWinBtm] # Lester
 [Wait 10]
@@ -258,7 +263,7 @@ You're right. [$00$2C$36$00]... [$00$2C$37$00]... Let's catch up with them![k]
 # @@1168278@@
 
 [TWinBtm][DlgOpn]['Selis' 0019]
-Geez! Ganeishire has been completely trashed.[k]
+Geez! Ganeishire has been completely trashed![k]
 [cs]
 
 [TWinTop][DlgOpn]['(null)' 0280]
@@ -270,13 +275,17 @@ Hm? Ah! Levin!! Er, I mean... King Levin of Silesia![k]
 [dcs]
 
 [TWinTop] # (null)
-Hey, drop the 'king' bit, OK? Once the Battle at Barhara was over and the empire took control of Silesia, I just kinda...[k]
+Hey, drop the 'king' bit, okay?[k]
+[cs]
+Once the Battle of Barhara was over and the empire took control of Silesia, I just kinda...[k]
 [cs]
 Well, let's just say my shrink has had steady work for a while.[k]
 [cs]
-My mother may have perished with Silesia, but she kept her dignity to the very end.[k]
+My mother may have perished with Silesia, but she at least kept her dignity to the very end.[k]
 [cs]
-So I'm just wasting away being a bard again. Celice, I don't care what Oifaye may have told you. Don't EVER address me as 'King Levin' again. Got it!?
+While I'm just wasting away as a bard again...[k]
+[cs]
+Celice, I don't care what Oifaye may have told you. Don't EVER address me as 'King Levin' again. Got it?
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -284,7 +293,7 @@ Geez... Sorry, Levin.[k]
 [dcs]
 
 [TWinTop] # (null)
-Ha ha! I'm just giving you a hard time. So it looks like you guys have finally made your move.[k]
+Haha! I'm just giving you a hard time. So it looks like you guys have finally made your move.[k]
 [cs]
 There's no better place than Isaac to raise an army to take on the empire.
 
@@ -292,7 +301,7 @@ There's no better place than Isaac to raise an army to take on the empire.
 [Wait 10]
 Yes, the Isaacian people are very strong. And their hatred for the empire is unparalleled.[k]
 [dcs]
-Of course, things would be all that much easier if Prince Shanan was with us.[k]
+Of course, things would all be that much easier if Prince Shanan was with us.[k]
 [cs]
 
 [TWinTop] # (null)
@@ -300,13 +309,13 @@ Did Shanan take off and go to that shrine in Yied?
 
 [TWinBtm] # Selis
 [Wait 10]
-Yes. He got word that his royal family's heirloom, the Divine Balmunk, was there.[k]
+Yes. He got word that his royal family's heirloom, the Divine Balmung, was there.[k]
 [dcs]
 But people say a dark bishop governs that region, so we're all a little worried.[k]
 [cs]
 
 [TWinTop] # (null)
-Shesh... Right. He'll be just fine. That reminds me, Celice. I've got a favor to ask.
+Sheesh... Right. He'll be just fine. That reminds me, Celice. I've got a favour to ask.
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -314,7 +323,7 @@ Sure, anything! What's up?[k]
 [dcs]
 
 [TWinTop] # (null)
-Julia, come over here a sec.[n]
+Julia, come over here for a sec.[n]
 
 [TWinBtm] # Selis
 [$00$2B$E1]
@@ -335,7 +344,8 @@ But things there got a little too hairy for my taste, so we made our way here.[k
 [cs]
 But now I have to go to Lenster and... well, she's slowing me down a bit.[k]
 [cs]
-Celice... 
+Celice...[k]
+[cs]
 
 [TWinBtm] # Yuria
 
@@ -354,11 +364,11 @@ She hasn't a single memory of what happened to her before I picked her up.
 [Wait 10]
 That poor girl! You go on ahead and leave her with me, Levin.[k]
 [dcs]
-But please, try to hurry back. She's probably won't feel right with you being gone.[k]
+But please, try to hurry back. She probably won't feel right with you being gone.[k]
 [cs]
 
 [TWinTop] # (null)
-Yeah, I suppose. Look, I'll be popping up again once you get this country under control.[k]
+Yeah, I suppose. Look, I'll be back once you get this country under control.[k]
 [cs]
 Good luck to you, Celice.
 
@@ -384,11 +394,11 @@ Actually, I'm not all that strong yet...[k]
 [cs]
 But you'll see! I'll be strong enough to protect everybody here someday![k]
 [cs]
-And then I can save all the people from the empire! I'll be strong someday... just like father was.
+And then I can save all the people from the empire! I'll be strong someday... just like my father was.
 
 [TWinBtm] # Yuria
 [Wait 10]
-Sir Celice.....[k]
+Celice...[k]
 
 [exit]
 
@@ -401,7 +411,7 @@ Whew... Mahnya, I'm sorry, babe. We must be a heavy load for you.[k]
 [cs]
 
 [TWinTop][DlgOpn]['Arthur' 0038]
-Heh heh... You call your pegasus 'Mahnya'?
+Heh heh... You call your pegasus Mahnya?
 
 [TWinBtm] # Fee
 [Wait 10]
@@ -409,7 +419,7 @@ Heh heh... You call your pegasus 'Mahnya'?
 [dcs]
 
 [TWinTop] # Arthur
-Uh.. sorry, [$00$2C$3C$00]. I've only got a bit further to go. How about I walk from here?
+Uh... sorry, [$00$2C$3C$00]. I've only got a bit further to go. How about I walk from here?
 
 [TWinBtm] # Fee
 [Wait 10]
@@ -437,7 +447,7 @@ Why do you need to go to Alster anyway?[k]
 [dcs]
 
 [TWinTop] # Arthur
-I think my sister is there. You see we were separated a long time ago.[k]
+I think my sister is there. We were separated a long time ago.[k]
 [cs]
 She and my mom were taken from me when I was young. I grew up on my own in Silesia's backwoods.[k]
 [cs]
@@ -445,7 +455,7 @@ Once I heard my sister was seen in Alster, that's all it took.
 
 [TWinBtm] # Fee
 [Wait 10]
-Huh, that's just like me. You see I haven't seen my brother in a long time.[k]
+Huh, that's just like me. You see, I haven't seen my brother in a long time.[k]
 [dcs]
 
 [TWinTop] # Arthur
@@ -461,7 +471,7 @@ Your father?
 
 [TWinBtm] # Fee
 [Wait 10]
-Yeah, he's missing. My mom waited for him for the longest time...[k]
+Yeah, he's missing. My mum waited for him for the longest time...[k]
 [dcs]
 
 [TWinTop] # Arthur
@@ -477,11 +487,11 @@ Gosh... Sorry to ask such a dumb question.
 
 [TWinBtm] # Fee
 [Wait 10]
-It's alright. I thought you were kinda dumb anyhow. Ha ha ha...[k]
+It's alright. I thought you were kinda dumb anyhow. Hahaha...[k]
 [dcs]
 
 [TWinTop] # Arthur
-Ha ha... Hey, I'm not such a bad guy, you know.
+Haha... Hey, I'm not such a bad guy, you know.
 
 [TWinBtm] # Fee
 [Wait 10]
@@ -496,9 +506,9 @@ Hey, what did you come here for?
 [Wait 10]
 I came because I want to see if I can join Isaac's liberation army.[k]
 [dcs]
-When I was little my mom used to tell me about Sigurd, the Holy Knight, and his brave warriors.[k]
+When I was little my mum used to tell me about Sigurd, the Holy Knight, and his brave warriors.[k]
 [cs]
-Their story really stuck with me, and now Sir Sigurd's son is leading an uprising in Isaac.[k]
+Their story really stuck with me, and now Sigurd's son is leading an uprising in Isaac.[k]
 [cs]
 I thought this was my calling, so I grabbed my stuff and shot out of Silesia.[k]
 [cs]
@@ -512,7 +522,7 @@ You bet! It's been my pleasure. So I guess it's you and me, partner![k]
 [dcs]
 
 [TWinTop] # Arthur
-Yep, I'm afraid so... Ha ha ha![k]
+Yep, I'm afraid so... Hahaha![k]
 
 [exit]
 
@@ -532,7 +542,7 @@ Where the hell were my sons!? Tell 'em to strike the rebel army at once![k]
 # @@1168750@@
 
 [TWinBtm][DlgOpn]['Jolaver' 0031]
-My father wants me to attack? That'd be [$00$2C$3A$00]'s army. Damn, what should I do.[k]
+My father wants me to attack? That'd be [$00$2C$3A$00]'s army. Damn, what should I do...[k]
 
 [exit]
 
@@ -561,9 +571,9 @@ I could never fight [$00$2C$3A$00]. Argh... What am I gonna do.[k]
 [Wait 10]
 Hmph. Johalva, you've got your rough image to protect, but you can't be all that bad.[k]
 [dcs]
-Anyway, I was so relieved that you never hurt any of the women or children.[k]
+At least, I was relieved that you never hurt any of the women or children.[k]
 [cs]
-I wish I didn't have to fight...[k]
+I wish we didn't have to fight...[k]
 [cs]
 
 [TWinTop] # Jolaver
@@ -575,7 +585,7 @@ People say they've been sacrificing children right here in Isaac.[k]
 [cs]
 My father just lets them walk all over him. I've had it with them![k]
 [cs]
-[$00$2C$3A$00]... just say the magic word and my squadron and I'll join up with ya.
+[$00$2C$3A$00]... just say the magic word and my squadron and I'll join up with you.
 
 [TWinBtm] # Lakche
 [Wait 10]
@@ -587,7 +597,7 @@ Are you serious!? Johalva, you're wonderful![k]
 [TWinTop] # Jolaver
 Yeah, well, I'm no angel. This is my chance to make amends.[k]
 [cs]
-Yoi-ah! From this point forward we are an army of liberators fighting for love and justice!![k]
+You lot! From this point forward we are an army of liberators fighting for love and justice!![k]
 
 [exit]
 
@@ -596,7 +606,7 @@ Yoi-ah! From this point forward we are an army of liberators fighting for love a
 # @@1168828@@
 
 [TWinBtm][DlgOpn]['Johann' 001E]
-Johalva's on the liberation army's side now? Crr! He beat me to her![k]
+Johalva's on the liberation army's side now? Grr! He beat me to her![k]
 [cs]
 Eiyah! Attack!![k]
 
@@ -663,7 +673,7 @@ Sir, is everybody okay?[k]
 [dcs]
 
 [TWinTop] # (null)
-Yes, they're all ecstatic. They all believe YOU are going to liberate the country.
+Yes, they're all ecstatic. They all believe that you're going to liberate the country.
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -679,7 +689,7 @@ Then your father rescued Prince Shanan only for the prince to turn around and sa
 
 [TWinBtm] # Selis
 [Wait 10]
-Well, Isaac is like second home to me. I hope the prince and I can remain friends forever.[k]
+Well, Isaac is like a second home to me. I hope the prince and I can remain friends forever.[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -718,7 +728,7 @@ Nope, we're all just fine. Everyone is very excited you're here!
 
 [TWinBtm] # Selis
 [Wait 10]
-Just give us a little more time. We WILL defeat King Danan to regain control of Isaac.[k]
+Just give us a little more time. We WILL defeat King Dannan and regain control of Isaac.[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -726,7 +736,7 @@ Those sure are reassuring words. Do take care to not overdo yourselves.[k]
 [cs]
 Sir Celice, you're the last hope for all the peoples of the world.[k]
 [cs]
-YOU are the only one who can free the world from darkness.[k]
+You are the only one who can free the world from darkness.[k]
 
 [exit]
 
@@ -765,11 +775,11 @@ Yes sir. You can count on me.[k]
 [TWinBtm][DlgOpn]['Yuria' 002B]
 
 [TWinTop] # Selis
-Julia!? Oh my god! You're all right!
+Julia!? Oh my god! You're alright!
 
 [TWinBtm] # Yuria
 [Wait 10]
-Yes, I'm fine. They locked me up in this castle, but I just knew you'd come for me.[k]
+Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k]
 
 [exit]
 
@@ -808,9 +818,9 @@ It was a bit constraining, but it was a peaceful time in Judgral's history.[k]
 [cs]
 But several years back the emperor did a complete about-face. He became very rigid with his rule and adopted oppressive governing tactics.[k]
 [cs]
-Now the ominous Lopt Sect is back, and their influence has spread across the globe.[k]
+Now the ominous Lopt Sect is back, and their influence has spread across the land.[k]
 [cs]
-Sacrificial rituals have also reappeared. Children all over are being rounded up for the resurrection of Loptian lord.[k]
+Sacrificial rituals have also reappeared. Children all over are being rounded up for the resurrection of the Loptian lord.[k]
 [cs]
 And anyone who attempts to rise up is either enslaved or executed...[k]
 [cs]
@@ -818,15 +828,15 @@ It's obvious now that they're attempting to restore the Lopt Empire.
 
 [TWinBtm] # Selis
 [Wait 10]
-You're serious? So the rumors I've heard are true after all.[k]
+You're serious? So the rumours I've heard are true after all.[k]
 [dcs]
 
 [TWinTop] # (null)
-Isaac is better off than most places. It sounds like Danan's two sons didn't go through with any of the child hunts.
+Isaac is better off than most places. It sounds like Dannan's two sons didn't go through with any of the child hunts.
 
 [TWinBtm] # Selis
 [Wait 10]
-.....[k]
+...[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -837,17 +847,17 @@ None of them stand a chance against the empire.[k]
 [Wait 0F]
 [cs]
 [BGM 87]
-The world is in desperate need of a saviour. And I think you are the one, Celice.[k]
+The world is in desperate need of a saviour. And I think that you're the one, Celice.[k]
 [cs]
 You are the only one who has the power to pull it off.
 
 [TWinBtm] # Selis
 [Wait 10]
-Whoa! Wait a minute!  I have nothing near what it takes![k]
+Whoa! Wait a minute! I have nothing near what it takes![k]
 [dcs]
 
 [TWinTop] # (null)
-It's your duty, Celice. You are Empress Dierdre's first born son... the older brother to Prince Julius.[k]
+It's your duty, Celice. You are Empress Deirdre's firstborn son... the older brother to Prince Julius.[k]
 [cs]
 As a direct descendant of Saint Heim, you have an obligation to lead your crusaders and rid the world of darkness.
 
@@ -857,7 +867,7 @@ Yeah, but...[k]
 [dcs]
 
 [TWinTop] # (null)
-Celice, you DO have what it takes. You just don't realize it yet. You're of Baldo lineage.[k]
+Celice, you DO have what it takes. You just don't realise it yet. You're of Baldo lineage.[k]
 [cs]
 Once you get a hold of the Holy Tyrfing, you'll have enough power to reach the heavens.
 
@@ -879,7 +889,7 @@ You need to stay focused, Celice. You got me?
 [dcs]
 
 [TWinTop] # (null)
-You'll come to realize that fate is susceptible to change. It doesn't center on one person.[k]
+You'll come to realise that fate is susceptible to change. It doesn't centre on one person.[k]
 [cs]
 Sigurd left much behind for you. Most importantly his friends... I being one of them.[k]
 [cs]
@@ -891,7 +901,7 @@ My father was loved and trusted by so many. I just hope I can live up to that.[k
 [dcs]
 
 [TWinTop] # (null)
-You'll be just fine, Celice. OK, we need to make Lenster our next destination.[k]
+You'll be just fine, Celice. Okay, we need to make Lenster our next destination.[k]
 [cs]
 The son of your father's good friend Cuan took a stand against the government in Manster. But he is in dire need of some backup.[k]
 [cs]
@@ -910,11 +920,11 @@ Gotcha![k]
 # @@1169146@@
 
 [TWinBtm][DlgOpn]['(null)' 02AB]
-King Danan has 3 sons. Brian, his oldest, is in Grandbell. The other two are here in Isaac.[k]
+King Dannan has 3 sons. Burian, his oldest, is in Grandbell. The other two are here in Isaac.[k]
 [cs]
 Johan is the lord at Isaac Castle, and Johalva is the lord at Sophara.[k]
 [cs]
-They both sure have a thing for [$00$2C$3A$00][sp]of your army. Always quarreling those two...[k]
+They both have a thing for [$00$2C$3A$00][sp]of your army. Always quarreling those two...[k]
 [cs]
 But they're both basically good boys. I bet they'd even join up with you all.[k]
 
@@ -925,7 +935,7 @@ But they're both basically good boys. I bet they'd even join up with you all.[k]
 # @@1169160@@
 
 [TWinBtm][DlgOpn]['(null)' 02AF]
-Hey, you're the liberation army! You've finally taken a stand, have ya?[k]
+Hey, you're from the liberation army! Finally taken a stand, have you?[k]
 [cs]
 Yeah! We'll finally be able to get rid of those creeps from the empire![k]
 
@@ -947,7 +957,7 @@ We are forever indebted to his father for saving our Prince Shanan![k]
 # @@1169188@@
 
 [TWinBtm][DlgOpn]['(null)' 02AF]
-Our hope lies with Prince Shanan. Once he gets his hands on the Divine Balmunk those rats of the empire won't have a prayer![k]
+Our hope lies with Prince Shanan. Once he gets his hands on the Divine Balmung those rats of the empire won't have a prayer![k]
 [cs]
 We're driving them outta here![k]
 
@@ -960,7 +970,7 @@ We're driving them outta here![k]
 [TWinBtm][DlgOpn]['(null)' 02B0]
 Sir Celice is the rightful successor to Grandbell, am I right?[k]
 [cs]
-That would sure make things easier on us if that were the case.[k]
+That would sure make things easier on us if it were the case.[k]
 [cs]
 Here's a Skill Ring for you. Good luck out there![k]
 
@@ -975,7 +985,7 @@ I heard there are child hunts taking place in other countries![k]
 [cs]
 Thanks to you we have Isaac back. But the rest of the world still looks pretty grim.[k]
 [cs]
-Everybody else suffering under the empire's rule are waiting for Sir Celice to come save them.[k]
+Everyone still suffering under the empire's rule is waiting for Sir Celice to come save them.[k]
 [cs]
 Please... you must make your way to Grandbell as soon as possible![k]
 
@@ -1003,6 +1013,7 @@ Please... you must make your way to Grandbell as soon as possible![k]
 
 [TWinTop][DlgOpn]['(null)' 02AB]
 [TWinBtm][DlgOpn]['Selis' 0019]
+
 [TWinTop] # (null)
 Hey, it's Sir Celice! Thanks for coming to our aid![k]
 [cs]
@@ -1031,7 +1042,7 @@ I'm sorry, Sir Celice. I wish you didn't have to see that. But if you do find me
 [cs]
 
 [TWinTop] # Selis
-S..stop it! Th...that's not why I'm here!
+S, stop it! Th, that's not why I'm here!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -1039,7 +1050,7 @@ Hahaha! It's a joke, Sir Celice! J-O-K-E! You're gettin' red... How cute![k]
 [dcs]
 
 [TWinTop] # Selis
-.....
+...
 
 [TWinBtm] # (null)
 
@@ -1119,11 +1130,11 @@ I can't say I've been of much help yet.
 
 [TWinBtm] # (null)
 [Wait 10]
-Hmhmm! That's neat, Dimna. That's a big change from the cry baby I once knew.[k]
+Hmhm! That's neat, Dimna. That's a big change from the crybaby I once knew.[k]
 [dcs]
 
 [TWinTop] # Dimuna
-Ha ha ha... Don't you tell anyone that... I do still have a ways to go, though.[k]
+Hahaha... Don't you tell anyone that... I do still have a ways to go, though.[k]
 [cs]
 I want you and the rest of the world to be able to live again in peace.
 
@@ -1155,7 +1166,7 @@ I can't take this from you!
 
 [TWinBtm] # (null)
 [Wait 10]
-No, my mother wants you to have it. She said the time has come to utilize its power.[k]
+No, my mother wants you to have it. She said the time has come to utilise its power.[k]
 [dcs]
 Please, take it.[k]
 [cs]
@@ -1182,6 +1193,6 @@ You take care now, Dimna![k]
 
 [TWinBtm] # (null)
 [Wait 18]
-Dimna.....[k]
+Dimna...[k]
 
 [exit]

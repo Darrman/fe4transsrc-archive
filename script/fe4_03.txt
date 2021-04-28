@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 3.
@@ -35,7 +37,8 @@
 # @@1935634@@
 
 [TWinBtm][DlgOpn]['Shagall' 00A1]
-Are the troops ready? I don't imagine they're expecting us. Alright, prepare to advance.[k]
+Are the troops ready? I don't imagine they're expecting us.[n]
+Alright, prepare to advance.[k]
 [cs]
 This is our last chance to take back Agusty![k]
 [cs]
@@ -70,7 +73,7 @@ We're counting on you.[k]
 
 [TWinBtm] # Shagall
 [Wait 10]
-Hmm...  Eltosian's up in Silvail. I wonder what his next move'll be...[k]
+Hmm...  Eltshan's in Silvail. I wonder what his next move'll be...[k]
 
 [exit]
 
@@ -79,14 +82,14 @@ Hmm...  Eltosian's up in Silvail. I wonder what his next move'll be...[k]
 # @@1935664@@
 
 [TWinTop][DlgOpn]['(null)' 02A5]
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 
 [TWinTop] # (null)
 Your Highness, Madino has positioned their troops for battle!
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
-What's His Majesty's rush!? Crr! Now I'll have to postpone my return to the capital![k]
+What's His Majesty's rush!? Grr! Now I'll have to postpone my return to the capital![k]
 [dcs]
 Aaah... I can't fight Sigurd.[n]
 What to do... what to do...[k]
@@ -109,7 +112,7 @@ We couldn't lay a hand on 'em with th' Agustrian army always 'round, but now it'
 
 [TWinBtm] # Bridget
 [Wait 10]
-Duvall, enough! I won't allow any such nonsense![k]
+Dobarl, enough! I won't allow any such nonsense![k]
 [dcs]
 I've got a creed to uphold, and pilfering is no part of it.[k]
 [cs]
@@ -125,15 +128,15 @@ We Orgahil Pirates are known for giving to the poor, not taking from them![k]
 [TWinBtm][DlgOpn]['Pisar' 00AC]
 
 [TWinTop] # Doball
-Hell! Thar's treasure sittin' pret'y, an' here we sit! 
+Hell! Thar's treasure sittin' pret'y, an' here we sit![n]
 [Wait 08]
 The cap'n's bein' too damn strict!
 
 [TWinBtm] # Pisar
 [Wait 10]
-Duvall, settle down, mate. I've got me a plan.[k]
+Dobarl, settle down, mate. I've got me a plan.[k]
 [dcs]
-That woman? She ain't th' late cap'n's daughter I'll have ya know.[k]
+That woman? She ain't th' late cap'n's daughter, I'll have ya know.[k]
 [cs]
 The cap'n picked 'er up when she was a wee lit'le t'ing and raised 'er here on this island.[k]
 [cs]
@@ -151,17 +154,18 @@ Well, 'nough said. Let's go a treasure huntin'![k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Oifaye
-Sir, we've got trouble! Shagall has raised an army to siege this castle!
+Sir, we've got trouble! Shagaal has raised an army to siege us!
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Huh!? That's ludicrous! We were just about to head home. Why attack us now?[k]
+Huh!? That's ludicrous! We were just about to head home.[n]
+Why attack us now?[k]
 [dcs]
-Eltosian... what in the world is going on...[k]
+Eltshan... what in the world is going on...[k]
 [cs]
 
 [TWinTop] # Oifaye
-And in the midst of all this the Orgahil Pirates have begun to move.
+And in the midst of all this, the Orgahil Pirates have begun to move.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -172,32 +176,32 @@ Really? Well, we've no choice. Prepare to attack![k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 You're going back into combat, aren't you...
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Yeah... I'm sorry, Dierdre. But this time I can't bring you along.[k]
+Yeah... I'm sorry, Deirdre. But this time I can't bring you along.[k]
 [dcs]
 Someone has to stay behind with our baby boy.[k]
 [cs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 ...Yes, I know.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Dierdre, don't be so down... I promise I'll be back as soon as I can![k]
+Deirdre, don't be so down... I promise I'll be back as soon as I can![k]
 [dcs]
-Shanan, help me out. I need you to look after Dierdre and Celice.[k]
+Shanan, help me out. I need you to look after Deirdre and Celice.[k]
 [cs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 
 [xChr][DlgCls]
 
 [TWinTop][DlgOpn]['(null)' 0281]
-You got it! Don't worry 'bout a thing. I won't let a fly touch these two!
+You got it! Don't worry 'bout a thing. I won't let a fly touch those two!
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -208,16 +212,16 @@ Ha ha! Shanan, you're the man.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 
 [TWinBtm] # Sigurd
-Dierdre, I hope that'll put you a bit at ease.[k]
+Deirdre, I hope that'll put you a bit at ease.[k]
 [cs]
 Don't you worry. This isn't forever.[k]
 [cs]
 
-[TWinTop] # Diadora
-Sigurd.....[k]
+[TWinTop] # Deirdre
+Sigurd...[k]
 
 [exit]
 
@@ -229,15 +233,15 @@ Sigurd.....[k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Oifaye
-Sir, we can't find King Shagall anywhere.
+Sir, we can't find King Shagaal anywhere.
 
 [TWinBtm] # Sigurd
 [Wait 0C]
 Really?[n]
 [Wait 08]
-Maybe he escaped to Silvail. That's where Eltosian is anyway.[k]
+Maybe he escaped to Silvail. That's where Eltshan is, anyway.[k]
 [dcs]
-Eltosian's Cross Knights are all that's left of Agustria's military might.[k]
+Eltshan's Cross Knights are all that's left of Agustria's military might...[k]
 [cs]
 If they'd just lower their swords, this'd all be over with.[k]
 
@@ -274,7 +278,7 @@ Claude, what in the world happened?[k]
 [dcs]
 
 [TWinTop] # Claude
-Someone murdered Prince Kult while he was returning from the Isaac campaign.
+Someone murdered Prince Kurth while he was returning from the Isaac campaign.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -282,7 +286,7 @@ Somebody what!? Who would do such a thing?[k]
 [dcs]
 
 [TWinTop] # Claude
-Well, Lord Vylon was always seen at Prince Kult's side.[k]
+Well, Lord Byron was always seen at Prince Kurth's side.[k]
 [cs]
 But since the murder, he's disappeared. I hate to say this, but...[k]
 [cs]
@@ -296,15 +300,15 @@ What!? That's inconceivable![k]
 [TWinTop] # Claude
 There are all kinds of nasty rumours cropping up in Grandbell.[k]
 [cs]
-The most prevalent one is that you and Lord Vylon conspired to kill the prince.[k]
+The most prevalent one is that you and Lord Byron conspired to kill the prince.[k]
 [cs]
 His Majesty's became so overwhelmed by it all that he's fallen terribly ill.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Kult confided in my father for everything. What could my father gain from his death!?[k]
+Kurth confided in my father for everything. What could my father gain from his death!?[k]
 [dcs]
-What about the two dukes who oppose the prince, Reptor and Langobalt? I'd suspect them.[k]
+What about the two dukes who opposed the prince, Reptor and Langbart? I'd suspect them.[k]
 [cs]
 
 [TWinTop] # Claude
@@ -350,7 +354,7 @@ Yo, Claude. Enough of your jabberin'. Let's get movin'. I'm bored outta my wits.
 [xChr][DlgCls]
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-Hey, you're Tailtiu from Freege, right? What're you doing here with Father Claude?
+Hey, you're Tiltyu from Freege, right? What're you doing here with Father Claude?
 
 [TWinBtm] # Tiltyu
 [Wait 10]
@@ -382,18 +386,18 @@ Me too, Claude. Thank you so much for everything![k]
 # 0x1db8b8:
 # @@1935915@@
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 [TWinBtm][DlgOpn]['(null)' 0281]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Shanan, I just got word that Sigurd's taken over Madino Castle. I have to go see him!
 
 [TWinBtm] # (null)
 [Wait 10]
-Dierdre, forget that! It's not safe out there. And what about Celice?[k]
+Deirdre, forget it! It's not safe out there. And what about Celice?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 That's why I need ask you to watch over him.
 
 [TWinBtm] # (null)
@@ -401,7 +405,7 @@ That's why I need ask you to watch over him.
 No way! I can't look after a baby all by myself.[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Please... I'll be right back. Would you just do this for me, Shanan?  Please?
 
 [TWinBtm] # (null)
@@ -409,8 +413,8 @@ Please... I'll be right back. Would you just do this for me, Shanan?  Please?
 Yeah... alright. Whatever, I'll do it. But you better be back quick![k]
 [dcs]
 
-[TWinTop] # Diadora
-Thank you, Shanan. Celice, I'm sorry, babe. Mommy'll be right back, 'k?[k]
+[TWinTop] # Deirdre
+Thank you, Shanan. Celice, I'm sorry, babe. Mummy'll be right back, 'k?[k]
 
 [exit]
 
@@ -418,28 +422,28 @@ Thank you, Shanan. Celice, I'm sorry, babe. Mommy'll be right back, 'k?[k]
 # 0x1db9e0:
 # @@1936011@@
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 [TWinBtm][DlgOpn]['(null)' 026C]
 
-At last... the daughter of Cigyun.[k]
+At last... the daughter of Sigyn.[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Huh? Who are you? And how do you know my mother's name?
 
 [TWinBtm] # (null)
 [Wait 10]
 Heh heh heh... Prepare for your rebirth.[k]
 [dcs]
-Once we erase ALL your memories, we shall introduce you to your new husband.[k]
+Once we erase all your memories, we shall introduce you to your new husband.[k]
 [cs]
 There's no use fighting it. This is destined to be.[k]
 [cs]
 
-[TWinTop] # Diadora
-W.what.. are you d..d..ddoing?[n]
-St..top it!! Aghhh.. [n]
-S.S..igu.ur..d![k]
+[TWinTop] # Deirdre
+W, what... are you d-d-doing?[n]
+St, stop it!! Aghhh... [n]
+S, Sig... urd...[k]
 
 [exit]
 
@@ -448,20 +452,20 @@ S.S..igu.ur..d![k]
 # @@1936301@@
 
 [TWinTop][DlgOpn]['Shagall' 00A1]
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 
 [TWinTop] # Shagall
-Eltosian! What the hell've you been doing!?
+Eltshan! What the hell've you been doing!?[n]
 [Wait 08]
 Your negligence just lost us Madino![k]
 [cs]
 Aha! You are teaming up with the enemy to overthrow Agustria!
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
 Your Majesty![n]
 [Wait 08]
-How could you say that![k]
+How could you say that!?[k]
 [dcs]
 
 [TWinTop] # Shagall
@@ -469,11 +473,14 @@ You got a problem with that?[k]
 [cs]
 My father'd be so disappointed with you. A true knight doesn't sneak around stalling for time!
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
-You're not even listening to me! Look, I... hmph. OK, I'll get my men ready.[k]
+You're not even listening to me![n]
+Look, I... hmph.[n]
+[Wait 10]
+Okay, I'll get my men ready.[k]
 [dcs]
-I'll let you know I'm proud to be an Agustrian holy knight. If I'm to die, I'll die fighting.[k]
+I'll let you know I'm proud to be a Holy Knight of Agustria. If I'm to die, I'll die fighting.[k]
 [cs]
 Your Majesty, please watch over Silvail while I'm gone.[k]
 
@@ -483,8 +490,8 @@ Your Majesty, please watch over Silvail while I'm gone.[k]
 # 0x1da40f:
 # @@1936406@@
 
-[TWinBtm][DlgOpn]['Eltosan' 005A]
-It's time to go in men. This may just be our last battle.[k]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
+It's time to go in, men. This may just be our last battle.[k]
 [cs]
 I cannot begin to tell you what your years of loyalty has meant to me...[k]
 [cs]
@@ -499,7 +506,7 @@ Cross Knights, ATTACK!![k]
 # @@1936431@@
 
 [TWinBtm][DlgOpn]['Shagall' 00A1]
-Has Eltosian finally left for battle? Pretentious fool.[k]
+Has Eltshan finally left for battle? Pretentious fool.[k]
 [cs]
 I'm taking command here! The rest of you strengthen your defense of the castle![k]
 
@@ -510,10 +517,10 @@ I'm taking command here! The rest of you strengthen your defense of the castle![
 # @@1936584@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 
 [TWinTop] # Sigurd
-Eltosian,
+Eltshan,
 [Wait 08]
 please![n]
 [Wait 08]
@@ -522,13 +529,13 @@ I don't want to fight you![k]
 [cs]
 I still have every intention of handing over Agusty. Please, I just need a little more time!
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
-.....[n]
+...[n]
 [Wait 08]
 Sigurd, I've heard enough.[k]
 [dcs]
-It's just you and I on the battlefield now. Two knights fighting with grace and honor.[k]
+It's just you and I on the battlefield now. Two knights fighting with grace and honour.[k]
 [cs]
 But I'm not about to fall with the Mistoltin at my side... 'Til death![k]
 
@@ -540,10 +547,10 @@ But I'm not about to fall with the Mistoltin at my side... 'Til death![k]
 [Merge 1d8cc8]
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 
 [TWinTop] # Sigurd
-Eltosian,
+Eltshan,
 [Wait 08]
 please![n]
 [Wait 08]
@@ -552,13 +559,13 @@ I don't want to fight you![k]
 [cs]
 I still have every intention of handing over Agusty. Please, I just need a little more time!
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
-.....[n]
+...[n]
 [Wait 08]
 Sigurd, I've heard enough.[k]
 [dcs]
-It's just you and I on the battlefield now. Two knights fighting with grace and honor.[k]
+It's just you and I on the battlefield now. Two knights fighting with grace and honour.[k]
 [cs]
 But I'm not about to fall with the Mistoltin at my side... 'Til death![k]
 
@@ -569,40 +576,40 @@ But I'm not about to fall with the Mistoltin at my side... 'Til death![k]
 # @@1936678@@
 
 [TWinTop][DlgOpn]['Laches' 0012]
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 
 [TWinTop] # Laches
-Eltosian!
+Eltshan!
 [Wait 08]
 It's me, your sister!![n]
 [Wait 08]
 Please, stop this senseless fighting![k]
 [cs]
-You can't fight Sir Sigurd! Is betraying one's friends a part of the honor of being a knight!?[k]
+You can't fight Sir Sigurd! Is betraying one's friends a part of the honour of being a knight!?[k]
 [cs]
-Eltosian, please! (sob..) Trust him! Can't you hold off your attack just a little bit longer?
+Eltshan, please! (sob..) Trust him! Can't you hold off your attack just a little bit longer?
 [Wait 14]
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 Lachesis.....
 [Wait 08]
 I don't want to see you cry, but I have no other way out of this![k]
 [dcs]
-If Shagall is defeated, Agustria will fall as well.[k]
+If Shagaal is defeated, Agustria will fall as well.[k]
 [cs]
 
 [TWinTop] # Laches
 That's not true![k]
 [cs]
-If Shagall withdrew his troops, Sir Sigurd would also back out of this.[k]
+If Shagaal withdrew his troops, Sir Sigurd would also back out of this.[k]
 [cs]
-Please talk with King Shagall. He can't ignore the commander of the Cross Knights.
+Please, talk with King Shagaal. He can't ignore the commander of the Cross Knights.
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
-......
+...[n]
 [Wait 08]
-OK...[n]
+Okay...[n]
 [Wait 08]
 I'll give it one more shot.[k]
 [dcs]
@@ -612,9 +619,9 @@ Lachesis, this sword is for you.[k]
 [cs]
 
 [TWinTop] # Laches
-Isn't this the Earth Sword!? Eltosian, I can't take this from you!
+Isn't this the Earth Sword!? Eltshan, I can't take this from you!
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
 Lachesis, keep it as a memento from me... just in case. Now you be careful![k]
 [dcs]
@@ -622,7 +629,9 @@ Lachesis, keep it as a memento from me... just in case. Now you be careful![k]
 [DlgCls][xChr]
 
 [TWinTop] # Laches
-Wa..wait!  Eltosian!![k]
+Wa, wait![n]
+[Wait 10]
+Eltshan!![k]
 
 [exit]
 
@@ -630,39 +639,39 @@ Wa..wait!  Eltosian!![k]
 # 0x1da892:
 # @@1936725@@
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
+[TWinTop][DlgOpn]['Eltshan' 005A]
 [TWinBtm][DlgOpn]['Shagall' 00A1]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Your Majesty,
 [Wait 08]
-anymore fighting would be futile. Please withdraw the troops.[k]
+any more fighting would be futile. Please withdraw the troops.[k]
 [cs]
 You will get Agusty back someday. I'm certain of it.
 
 [TWinBtm] # Shagall
 [Wait 0C]
-Eltosian,
+Eltshan,
 [Wait 08]
-you imbecile! Now what are you babbling about!?[n]
-[Wait 08]
-I knew it! You ARE in cahoots with the enemy![k]
+you imbecile! Now what are you babbling about!?[k]
 [dcs]
+I knew it! You ARE in cahoots with the enemy![k]
+[cs]
 Somebody!
 [Wait 08]
 Seize this traitor! Off with his head! We'll make an example out of him![k]
 [cs]
 
-[TWinTop] # Eltosan
-I should've known this wouldn't go over. This will mark the end of Agustria too I'm afraid...
+[TWinTop] # Eltshan
+I should've known this wouldn't go well. This will mark the end of Agustria too I'm afraid...
 
 [TWinBtm] # Shagall
 [Wait 10]
 You contriving little fool! Take his head off right here![k]
 [dcs]
 
-[TWinTop] # Eltosan
-Lachesis![k]
+[TWinTop] # Eltshan
+Lachesis...[k]
 
 [exit]
 
@@ -674,17 +683,17 @@ Lachesis![k]
 [TWinBtm][DlgOpn]['Oifaye' 027F]
 
 [TWinTop] # Sigurd
-Why!?
+Why!?[n]
 [Wait 08]
 Why'd he have to die?[n]
-[Wait 08]
+[Wait 18]
 What have I been fighting for...
 
 [TWinBtm] # Oifaye
 [Wait 10]
 Sir, there's nothing you could've done. Don't blame yourself.[k]
 [dcs]
-We must stay focused on King Eltosian's hope of returning peace to Agustria.[k]
+We must stay focused on King Eltshan's hope of returning peace to Agustria.[k]
 
 [exit]
 
@@ -700,11 +709,11 @@ Trabant, have you gotten your Dragon Knights ready yet?
 
 [TWinBtm] # (null)
 [Wait 08]
-Yessir. We're ready to go in. You'll get what ya paid for outta us.[k]
+Yessir. We're ready to go. You'll get what ya paid for outta us.[k]
 [dcs]
 
 [TWinTop] # Shagall
-Mmph. Maybe these mercenaries I hired will do more for me than them other imbeciles.[k]
+Hmph. Maybe these mercenaries I hired will do more for me than those other imbeciles.[k]
 [cs]
 Alright. You know what to do![k]
 
@@ -715,11 +724,13 @@ Alright. You know what to do![k]
 # @@1936907@@
 
 [TWinBtm][DlgOpn]['Papilon' 00A4]
-Pick up th' pace![n]
+Pick up the pace![n]
 [Wait 08]
 Agustria is straight ahead![k]
 [cs]
-Set your sights on Grandbell's army, and give it to 'em as severely as you please. Let the Thracia Kingdom's name echo across the land![k]
+Set your sights on Grandbell's army, and give it to 'em as severely as you please.[k]
+[cs]
+Let the name of Thracia echo across the land![k]
 
 [exit]
 
@@ -728,11 +739,11 @@ Set your sights on Grandbell's army, and give it to 'em as severely as you pleas
 # @@1936940@@
 
 [TWinBtm][DlgOpn]['(null)' 023C]
-Shesh...[n]
+Sheesh...[n]
 [Wait 08]
-Papilion blew it. I think it's 'bout time we bail. Agustria, you're on yer own.[k]
+Papilion blew it. I think it's about time we bail. Agustria, you're on yer own.[k]
 [cs]
-Farewell, King Shagall...
+Farewell, King Shagaal...
 [Wait 08]
 y'fool.[k]
 
@@ -744,11 +755,11 @@ y'fool.[k]
 [Merge 1d8e2c]
 
 [TWinBtm][DlgOpn]['(null)' 023C]
-Shesh...[n]
+Sheesh...[n]
 [Wait 08]
-Papilion blew it. I think it's 'bout time we bail. Agustria, you're on yer own.[k]
+Papilion blew it. I think it's about time we bail. Agustria, you're on yer own.[k]
 [cs]
-Farewell, King Shagall...
+Farewell, King Shagaal...
 [Wait 08]
 y'fool.[k]
 
@@ -762,7 +773,7 @@ y'fool.[k]
 [TWinBtm][DlgOpn]['Oifaye' 027F]
 
 [TWinTop] # Sigurd
-Eltosian.....
+Eltshan...
 
 [TWinBtm] # Oifaye
 [Wait 10]
@@ -789,19 +800,19 @@ What's up? You're crying. What happened!?
 
 [TWinBtm] # (null)
 [Wait 10]
-Dierdre left the castle and never came back. She said she was going to see you![k]
+Deirdre left the castle and never came back. She said she was going to see you![k]
 [dcs]
 I'm sorry! I promised you I'd watch out for her...[k]
 [cs]
 
 [TWinTop] # Sigurd
-What? Dierdre left!? And what about Celice?
+What? Deirdre left!? And what about Celice?
 
 [TWinBtm] # (null)
 [Wait 10]
 He's with me.[n]
 [Wait 20]
-See? He's right here. But Dierdre...[k]
+See? He's right here. But Deirdre...[k]
 [dcs]
 
 [TWinTop] # Sigurd
@@ -816,7 +827,7 @@ But I shouldn't have let her go. I'm so sorry, Sigurd![k]
 
 [TWinTop] # Sigurd
 [Wait 40]
-Dierdre, just where did you disappear to...[k]
+Deirdre, just where did you disappear to...[k]
 
 [exit]
 
@@ -838,7 +849,7 @@ I'm coming. By praying to Lord Blagi I've learned the truth behind what's been h
 [dcs]
 It's just as I thought it to be.[k]
 [cs]
-I also found our family's Sacred Relic. It's been missing for some time. The Valkyre Staff.[k]
+I also found our family's Sacred Relic. It's been missing for some time. The Valkyrie Staff.[k]
 [cs]
 Have a look.[k]
 [cs]
@@ -848,7 +859,7 @@ Huh? This dirty ol' stick?
 
 [TWinBtm] # Claude
 [Wait 10]
-Tailtiu![n]
+Tiltyu![n]
 You had better watch what comes out of your mouth.[k]
 [dcs]
 This staff here? It's magical and can return life to those who have passed on already.[k]
@@ -887,19 +898,19 @@ Yes, you're right. Let's go.[k]
 [TWinTop] # Doball
 Cap'n! Agustria lost t'war![k]
 [cs]
-Them Grandbellians'll attack up this way 'fore too long.
+Them Grandbellians'll attack up this way 'fore too long.[n]
 [Wait 08]
 Whaddya reckon?
 
 [TWinBtm] # Bridget
 [Wait 10]
-Duvall! They're coming because you guys went behind my back and raided the villages![k]
+Dobarl! They're coming because you guys went behind my back and raided the villages![k]
 [dcs]
 I won't have this insubordination![k]
 [cs]
 
 [TWinTop] # Doball
-Hey! Enough from ya! We here tried lettin' ya lead us, but ya too power hungry![k]
+Hey! Enough from ya! We tried lettin' ya lead us, but ya too power hungry![k]
 [cs]
 I've got news for ya sis. Ya ain't t'late cap'n's real daughter anyhow.[k]
 [cs]
@@ -932,7 +943,7 @@ Do 'er in! Don't let 'er escape![k]
 [TWinTop][DlgOpn]['Pisar' 00AC]
 
 [TWinBtm] # Doball
-Pizar, I'm headin' back to th' castle. Take some men with ya an' lay waste t'Agustria.[k]
+Pizarl, I'm headin' back to th' castle. Take some men with ya an' lay waste t'Agustria.[k]
 [cs]
 
 [TWinTop] # Pisar
@@ -974,7 +985,7 @@ Right away, sir.[k]
 [TWinBtm][DlgOpn]['(null)' 0244]
 Relay this to the troops. Sigurd and his band of rebels are to be apprehended.[k]
 [cs]
-They along with Vylon killed Prince Kult in an attempt to take over the monarchy.[k]
+They along with Byron killed Prince Kurth in an attempt to take over the monarchy.[k]
 [cs]
 Those are direct orders from His Majesty. Show no mercy to these traitors of the kingdom![k]
 
@@ -985,13 +996,13 @@ Those are direct orders from His Majesty. Show no mercy to these traitors of the
 # @@1938046@@
 
 [TWinBtm][DlgOpn]['(null)' 0246]
-Heh heh heh! Langobalt, you are a cunning one.[k]
+Heh heh heh! Langbart, you are a cunning one.[k]
 [dcs]
-First he kills the prince... just about kills Vylon too for putting up a fight.[k]
+First he kills the prince... just about kills Byron too for putting up a fight. He's got some gall![k]
 [cs]
-He's got some gall! Alvis sure took advantage of his cozy relationship with the king.[k]
+Alvis sure took advantage of his cosy relationship with the king. He sure spun a good one.[k]
 [cs]
-He sure spun a good one. And to think he spearheaded our entire mission and managed to put the entire blame on the Chalphys.[k]
+And to think he spearheaded our entire mission and managed to put the entire blame on the Chalphys.[k]
 [cs]
 Hmm... Well, as long I take control of the throne.[k]
 [cs]
@@ -1007,27 +1018,27 @@ Anyone who gets in the way we'll simply do away with.[k]
 [TWinBtm][DlgOpn]['Oifaye' 027F]
 
 [TWinTop] # Sigurd
-WHAT!? They're callin' ME a traitor!?[k]
+...what!? They're callin' me a traitor!?[k]
 [cs]
-What's that? Grandbell has sent troops to take me in!?
+And Grandbell's sent troops to take me in!?
 
 [TWinBtm] # Oifaye
 [Wait 10]
-We just finished fighting, too. You were all set to go look for Dierdre.[k]
+We just finished fighting, too. You were all set to go look for Deirdre.[k]
 [dcs]
 
 [TWinTop] # Sigurd
-Crr! His Majesty is being fooled by Reptor and his crew.[k]
+Grr! His Majesty is being fooled by Reptor and his crew.[k]
 [cs]
-How can he believe that my father could kill Prince Kult?[k]
+How can he believe that my father could kill Prince Kurth?[k]
 [cs]
 Aaagh... I wish Father Claude could've gotten back there by now.[k]
 [cs]
-First we lose Eltosian and now this. What have I been fighting for all this time!?
+First we lose Eltshan and now this. What have I been fighting for all this time!?
 
 [TWinBtm] # Oifaye
 [Wait 10]
-Sir Sigurd.....[k]
+Sir...[k]
 
 [exit]
 
@@ -1039,8 +1050,8 @@ Sir Sigurd.....[k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Manya
-Sir Sigurd. I'm Mahnya, a Silesian knight.[k]
-[cs]
+Sir Sigurd. I'm Mahnya, a Silesian knight.[n]
+[Wait 10]
 I'm here on orders from Queen Rahna.[k]
 [cs]
 Please consider retreating to Silesia until your fine name is cleared of all of this.
@@ -1066,7 +1077,7 @@ The Pegasus Knights will accompany you over the ocean to Silesia.[k]
 # @@1938192@@
 
 [TWinBtm][DlgOpn]['(null)' 02AD]
-What'n tarnation's going on? What'd make them Orgahil Pirates do this to us!?[k]
+What's going on? What'd make them Orgahil Pirates do this to us!?[k]
 [cs]
 And to think we trusted that leader of theirs, Brigid whats-her-face![k]
 
@@ -1081,7 +1092,7 @@ Whoa. Glad yeh came! I got a sword fer yeh in 'preciation.[k]
 [cs]
 It's magical. We call 'er th' Wing Clipper. It'll spell death fer anythin' in th' air.[k]
 [cs]
-If yeh can't use 'er, yeh can still sell 'er at the shops.[k]
+If yeh can't use 'er, yeh can still sell 'er.[k]
 
 [exit]
 
@@ -1094,7 +1105,7 @@ Eh? You're here to help us!? Our village is saved![k]
 [cs]
 I'm much obliged to ya. Please accept this magical staff on my behalf.[k]
 [cs]
-It's called the Rest Staff. It can restore any bouts of Sleep or Silence.[k]
+It's called the Rest Staff. It can heal any bouts of Sleep or Silence.[k]
 [cs]
 I'm sure it'll be of use to ya.[k]
 
@@ -1114,7 +1125,7 @@ Yeh came fer us! Blessed be! Have a sip of this here potion, an' yer defence'll 
 # @@1938296@@
 
 [TWinBtm][DlgOpn]['(null)' 02B0]
-King Eltosian's hand picked Cross Knights are second to none on the face of this continent.[k]
+King Eltshan's hand picked Cross Knights are second to none on the face of this continent.[k]
 [cs]
 Actually, my boyfriend is one of 'em! Pretty cool, huh?[k]
 
@@ -1127,7 +1138,7 @@ Actually, my boyfriend is one of 'em! Pretty cool, huh?[k]
 [TWinBtm][DlgOpn]['(null)' 02B0]
 (sigh...) My boyfriend was killed in this cursed war.[k]
 [cs]
-This is all Grandbell's... No! This is all King Shagall's fault!![k]
+This is all Grandbell's... No! This is all King Shagaal's fault!![k]
 
 [exit]
 
@@ -1136,9 +1147,9 @@ This is all Grandbell's... No! This is all King Shagall's fault!![k]
 # @@1938317@@
 
 [TWinBtm][DlgOpn]['(null)' 02AF]
-Beware. Rumour has it tha' King Shagall went an' hired Thracia's Dragon Knights.[k]
+Beware. Rumour has it that King Shagaal went an' hired Thracia's Dragon Knights.[k]
 [cs]
-Every war one side always ends up hirin' 'em. They's the most ruthless killin' machine 'round.[k]
+Every war, one side always ends up hirin' 'em. They's the most ruthless killin' machine 'round.[k]
 [cs]
 ...like a pack of hyenas feastin' on a fresh kill.[k]
 
@@ -1162,9 +1173,9 @@ Whaddya think? Feel a little power swellin' in yeh veins? Makes work feel like k
 # @@1938384@@
 
 [TWinBtm][DlgOpn]['(null)' 02AE]
-Another war's broken out? Ughh! Not again![k]
+Another war's broken out? Ugh, not again![k]
 [cs]
-We've got absolutely nothing to do with Grandbell or Agustria![k]
+We've got absolutely nothing to do with Grandbell OR Agustria![k]
 [cs]
 If they must fight, they should do it somewhere else.[k]
 
@@ -1174,11 +1185,11 @@ If they must fight, they should do it somewhere else.[k]
 # 0xedaf0:
 # @@1938420@@
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinTop][DlgOpn]['Ethlin' 0011]
 [TWinBtm][DlgOpn]['Cuan' 0006]
 
-[TWinTop] # Ethrin
-Cuan! Are you OK!? I hate to run out on my brother, but we must get you home to recover.
+[TWinTop] # Ethlin
+Cuan! Are you okay!? I hate to run out on my brother, but we must get you home to recover.
 
 [TWinBtm] # Cuan
 [Wait 10]
@@ -1191,12 +1202,12 @@ Sorry, Ethlin...[k]
 # @@1938549@@
 
 [TWinTop][DlgOpn]['Cuan' 0006]
-[TWinBtm][DlgOpn]['Ethrin' 0011]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
 
 [TWinTop] # Cuan
 Ethlin! Hang in there! I hate to run out on Sigurd, but we must get you home to recover.
 
-[TWinBtm] # Ethrin
+[TWinBtm] # Ethlin
 [Wait 10]
 Cuan, I'm sorry...[k]
 
@@ -1207,7 +1218,7 @@ Cuan, I'm sorry...[k]
 # @@1938739@@
 
 [TWinBtm][DlgOpn]['(null)' 02A5]
-We've orders from King Eltosian to avoid battle. Pick up and leave at once![k]
+We've orders from King Eltshan to avoid battle. Pick up and leave at once![k]
 
 [exit]
 
@@ -1215,7 +1226,7 @@ We've orders from King Eltosian to avoid battle. Pick up and leave at once![k]
 # 0x32d926:
 # @@1938765@@
 
-[TWinBtm][DlgOpn]['Deu' 000F]
+[TWinBtm][DlgOpn]['Dew' 000F]
 Blagi Tower! Hee hee! The life of a thief! Let's see what's locked inside her.[k]
 
 [exit]
@@ -1244,11 +1255,11 @@ Hm!?
 [dcs]
 
 [TWinTop]
-I'll just pretend I can't hear 'em.
+I'll just pretend I can't hear 'em...
 
 [TWinBtm]
 [Wait 10]
-...Trespassing on holy grounds is forbidden! Leave at once![k]
+...Trespassing on holy ground is forbidden! Leave at once![k]
 [dcs]
 
 [TWinTop]
@@ -1260,11 +1271,11 @@ Yikes!! Please forgive me![k]
 # 0x32da1c:
 # @@1938804@@
 
-[TWinBtm][DlgOpn]['Deu' 000F]
-Ulp! What was that!? Huh? What's this sword doin' here?[k]
+[TWinBtm][DlgOpn]['Dew' 000F]
+Ulp! What was that!?[n]
+[Wait 10]
+Huh? What's this sword doin' here?[k]
 [cs]
-Well it's mine now![k]
+Well, it's mine now![k]
 
 [exit]
-
-

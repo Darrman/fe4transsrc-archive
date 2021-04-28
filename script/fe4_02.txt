@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 2.
@@ -34,24 +36,23 @@
 # 0xf826b:
 # @@950802@@
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
+[TWinTop][DlgOpn]['Eltshan' 005A]
 [TWinBtm][DlgOpn]['Laches' 0012]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Lachesis,
 [Wait 04]
-I'm off to Agusty.[n]
-I must get King Shagall to end the military buildup.
+I'm off to Agusty. I must get King Shagaal to end the military buildup.
 
 [TWinBtm] # Laches
 [Wait 10]
-Eltosian, wait! King Shagall killed his own father. He's not about to listen to you![k]
+Eltshan, wait! King Shagaal killed his own father. He's not about to listen to you![k]
 [dcs]
 You're putting your life in peril![k]
 [cs]
 
-[TWinTop] # Eltosan
-Nonsense. Look... I've heard all about Shagall supposedly killing his father.[k]
+[TWinTop] # Eltshan
+Nonsense. Look... I've heard all about Shagaal supposedly killing his father.[k]
 [cs]
 But there's no proof![n]
 If I can just speak with him, I know I'll get through to him.
@@ -61,7 +62,7 @@ If I can just speak with him, I know I'll get through to him.
 But...[k]
 [dcs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Lachesis, enough already.[k]
 [cs]
 I'm leaving three of my best men behind for your protection just to be on the safe side.[k]
@@ -70,7 +71,7 @@ Lachesis, don't be so down! I promise I'll make it back. I've no intention of dy
 
 [TWinBtm] # Laches
 [Wait 10]
-Eltosian...[k]
+Eltshan...[k]
 
 [exit]
 
@@ -78,10 +79,10 @@ Eltosian...[k]
 # 0xf843f:
 # @@950874@@
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
+[TWinTop][DlgOpn]['Eltshan' 005A]
 [TWinBtm][DlgOpn]['Shagall' 00A1]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Your Majesty, please consider putting an end to your military buildup.[k]
 [cs]
 Your father always strived for a peaceful coexistence with Grandbell.[k]
@@ -92,15 +93,15 @@ You must not let this war happen!
 
 [TWinBtm] # Shagall
 [Wait 10]
-My father always had a soft spot for you, Eltosian. And all the while you had it in for me.[k]
+My father always had a soft spot for you, Eltshan. And all the while you had it in for me.[k]
 [dcs]
-Well, he's gone now...[n]
-and now I rule over Agustria![k]
+Well, he's gone...[n]
+and now I rule Agustria![k]
 [cs]
 You're going to pay fully for making me the fool. Throw this trash in the dungeon![k]
 [cs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Wait, Your Majesty...[n]
 NO!!![k]
 [cs]
@@ -126,7 +127,7 @@ You have made your decision, I see.
 
 [TWinBtm] # Shagall
 [Wait 10]
-Manfloy, that you?[n]
+Manfloy, is that you?[n]
 Yeah, I did just as you asked. My father's dead now.[k]
 [dcs]
 There's no going back.[n]
@@ -134,9 +135,9 @@ I just wonder if we really have a chance here...[k]
 [cs]
 
 [TWinTop] # (null)
-Well, Grandbell still honors the Anti-War Pact with Agustria.[k]
+Well, Grandbell still honours the Anti-War Pact with Agustria.[k]
 [cs]
-Their entire military is still off in Isaac. If we strike now we cannot lose!
+Their entire military is still in Isaac. If we strike now we cannot lose!
 
 [TWinBtm] # Shagall
 [Wait 10]
@@ -146,7 +147,7 @@ And I'll be emperor of the world![k]
 [cs]
 
 [TWinTop] # (null)
-Hm hmm...[n]
+Hmhm...[n]
 Yes, consider that a possibility.[k]
 
 [exit]
@@ -159,7 +160,7 @@ Yes, consider that a possibility.[k]
 [TWinBtm][DlgOpn]['Laches' 0012]
 
 [TWinTop] # (null)
-Your Highness, we've received word that King Eltosian was apprehended in Agusty!
+Your Highness, we've received word that King Eltshan was apprehended in Agusty!
 
 [TWinBtm] # Laches
 [Wait 10]
@@ -179,13 +180,13 @@ I'm sure they're not pleased with what happened in Verdane, especially Prince El
 [Wait 10]
 That Elliot just can't handle the fact that I'll have nothing to do with him.[k]
 [dcs]
-God, I can't stand conceited men like him. I need a man the caliber of my dear brother.[k]
+God, I can't stand conceited men like him. I need a man the calibre of my dear brother.[k]
 [cs]
 That's why I'll never marry.[k]
 [cs]
 
 [TWinTop] # (null)
-His Majesty's Cross Knights are stationed well up north at Silvail Fort.[k]
+His Majesty's Cross Knights are stationed well north at Fort Silvail.[k]
 [cs]
 There are just the few of us soldiers left here.[k]
 [cs]
@@ -193,15 +194,15 @@ But my brothers and I will do our best to hold the castle. Just be ready for the
 
 [TWinBtm] # Laches
 [Wait 10]
-Understood. Eve, thank you so much. Now don't you overdo it or worse get yourself killed![k]
+Understood. Eve, thank you so much. Now don't you overdo it, or worse, get yourself killed![k]
 [dcs]
 Please let Eva and Alva know how sorry I am for all this.[k]
 [cs]
 
 [TWinTop] # (null)
-Uh, no need to apologize, Your Highness.[k]
+Uh, no need to apologise, Your Highness.[k]
 [cs]
-King Eltosian left us behind for your protection in good conscious.[k]
+King Eltshan left us behind for your protection in good conscious.[k]
 [cs]
 We, as Holy Knights of Nodion, shall protect you to our dying breath![k]
 
@@ -215,7 +216,7 @@ We, as Holy Knights of Nodion, shall protect you to our dying breath![k]
 [TWinBtm][DlgOpn]['Elliot' 0066]
 
 [TWinTop] # Boldo
-Eltosian infuriated the king and got thrown in the dungeon, did he?[k]
+Eltshan angered the king and got thrown in the dungeon, did he?[k]
 [cs]
 Brilliant! Elliot, here's your chance to even the score.[n]
 Go take Nodion by storm!
@@ -234,19 +235,17 @@ Yes, father.[k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Oifaye
-Sir, we've got trouble. King Eltosian was seized in Agusty. Now Nodion is under attack.[k]
+Sir, we've got trouble. King Eltshan was imprisoned in Agusty. Now Nodion is under attack.[k]
 [cs]
 We've received a request for backup from Princess Lachesis.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Why would they seize Eltosian of all people!?[k]
+Why would they seize Eltshan of all people!?[k]
 [dcs]
-Well, let's gear up. We're heading for Nodion.[k]
+Well, let's gear up. We're heading for Nodion. I'd put my life on the line for Lachesis if it came to it.[k]
 [cs]
-I'd put my life on the line for Lachesis if it came to it.[k]
-[cs]
-Eltosian would never admit it, but he cares for that sister of his more than anything.[k]
+Eltshan would never admit it, but he cares for that sister of his more than anything.[k]
 [cs]
 If he ever lost her, there's no telling what he'd do.[k]
 [cs]
@@ -255,28 +254,28 @@ If he ever lost her, there's no telling what he'd do.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 Sigurd, are you going off to fight again?
 
 [TWinBtm] # Sigurd
 [Wait 10]
-I am. Sorry, Dierdre.[n]
-I can't turn my back on Eltosian.[k]
+I am. Sorry, Deirdre.[n]
+I can't turn my back on Eltshan.[k]
 [dcs]
 Lachesis must be pretty shook up as well. I've got to help her out if I can.[k]
 [cs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 I understand.[n]
 It looks like I'll be joining you then, Sigurd.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-What? Forget it, Dierdre![n]
+What? Forget it, Deirdre![n]
 I can't get you involved it this.[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Sigurd, you promised you'd never leave my side.[n]
 I'm... I'm scared.[k]
 [cs]
@@ -290,7 +289,7 @@ Er... I did say that, didn't I...[n]
 Alright, we'll go together, but don't you dare leave my side![k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 You can count on that![k]
 
 [exit]
@@ -304,7 +303,7 @@ Heirhein finally took up arms, did they...[k]
 [cs]
 Brilliant, we're right on schedule. Let the bandits loose on the villages.[k]
 [cs]
-We pretty much have free reign now that Shagall has taken the throne.[k]
+We pretty much have free reign now that Shagaal has taken the throne.[k]
 [cs]
 Strip the villages of all valuables and return them to the castle![k]
 
@@ -349,7 +348,7 @@ Sir, what's all the turmoil?
 
 [TWinBtm] # (null)
 [Wait 10]
-Well, if it isn't our little traveling bard friend. Best get a movin'. Bandits are headin' this way.[k]
+Well, if it isn't our little traveling bard. Best get a movin'. Bandits are headin' this way.[k]
 [dcs]
 
 [TWinTop] # Levin
@@ -358,15 +357,15 @@ Where's the Agustrian army at a time like this?
 
 [TWinBtm] # (null)
 [Wait 10]
-There's mutiny in th' streets, m'boy. Ain't no one got time t'worry about us![k]
+There's mutiny in th' streets, m'boy. Ain't no-one got time t'worry about us![k]
 [dcs]
-T'tell th' truth, there's a bit more to th' story.[k]
+T'tell th' truth, there's a bit more to th' story...[k]
 [cs]
-Rumor has it Lord Macbeth set them bandits loose on th' villages.[k]
+Rumour has it Lord Macbeth himself set them bandits loose on our villages.[k]
 [cs]
 
 [TWinTop] # Levin
-Whoa... he's gotta go. Look, I'll see what I can do. I'll take care of that scum bag.[k]
+Whoa... he's gotta go. Look, I'll see what I can do. I'll take care of that scumbag.[k]
 [cs]
 And you can all whip up a nice reward for me when I get back.
 
@@ -374,11 +373,11 @@ And you can all whip up a nice reward for me when I get back.
 [Wait 10]
 There you go again with that big talk of yours. You best just get a move on.[k]
 [dcs]
-We ain't got time to be gettin' cozy with ya.[k]
+We ain't got time to be gettin' cosy with ya.[k]
 [cs]
 
 [TWinTop] # Levin
-Shesh... give me a little credit, would ya?[n]
+Sheesh... give me a little credit, would ya?[n]
 Ahh... screw it.
 
 [TWinBtm] # (null)
@@ -436,7 +435,7 @@ Yeah! I like it rough![k]
 [dcs]
 
 [TWinTop] # Levin
-Shesh... You were cryin' like a baby a minute ago, now you're all smiles.
+Sheesh... You were cryin' like a baby a minute ago, now you're all smiles.
 
 [TWinBtm] # Sylvia
 [Wait 10]
@@ -463,7 +462,7 @@ How do you explain this carelessness, Macbeth!?
 
 [TWinBtm] # Macbeth
 [Wait 0C]
-M.. my humblest apologies, Your Majesty![k]
+M... My humblest apologies, Your Majesty![k]
 [dcs]
 I'll dispatch Voltz and his mercenaries immediately![k]
 
@@ -478,7 +477,7 @@ I'll dispatch Voltz and his mercenaries immediately![k]
 
 [TWinTop] # Voltz
 We're to attack, are we?[n]
-Hrmph... as fate'll have it.[k]
+Hmph... as fate'll have it.[k]
 [cs]
 Hey! Why're we first to go in?[n]
 I'm staying put. I wanna see how this unfolds first.[k]
@@ -488,7 +487,7 @@ Whaddya think?
 
 [TWinBtm] # Beowulf
 [Wait 10]
-I'm not buyin' any of this. I'm 'bout ready to walk on that Macbeth sleeze.[k]
+I'm not buyin' any of this. I'm 'bout ready to walk on that Macbeth sleaze.[k]
 [dcs]
 
 [TWinTop] # Voltz
@@ -511,7 +510,7 @@ Heh heh heh... Ain't a soul alive who can take me![k]
 # @@951603@@
 
 [TWinBtm][DlgOpn]['Voltz' 0073]
-It's show time, boys. ''Retreat'' ain't in the books. Now show 'em what our corps is made of![k]
+It's show time, boys. 'Retreat' ain't on the books. Now show 'em what our corps is made of![k]
 
 [exit]
 
@@ -529,7 +528,7 @@ For a moment there, I...
 [TWinBtm] # Sigurd
 [Wait 10]
 I'm glad you're not hurt, Lachesis.[n]
-Any word from Eltosian?[k]
+Any word from Eltshan?[k]
 [dcs]
 
 [TWinTop] # Laches
@@ -546,12 +545,12 @@ I usually try to keep our troops off foreign soil, but this time it's unavoidabl
 [dcs]
 I've already received King Azmur's approval to engage the enemy.[k]
 [cs]
-His Majesty is aware of King Imuka's assassination by Shagall's hand as well as Shagall's plans to invade Grandbell.[k]
+His Majesty is aware of King Imuka's assassination by Shagaal's hand, as well as Shagaal's plans to invade Grandbell.[k]
 [cs]
-His Majesty has also stressed the importance of Eltosian's rescue for future peace negotiations.[k]
+His Majesty has also stressed the importance of Eltshan's rescue for future peace negotiations.[k]
 [cs]
 Don't worry, Lachesis.[n]
-I promise we'll get Eltosian out.[k]
+I promise we'll get Eltshan out.[k]
 
 [exit]
 
@@ -563,7 +562,7 @@ I promise we'll get Eltosian out.[k]
 [TWinBtm][DlgOpn][$00$24]
 
 [TWinTop] # Beowulf
-Ya need to cough up 10,000 gold if ya ever intend t'hire my services.[k]
+Ya need to cough up 10,000 gold if ya intend t'hire my services.[k]
 
 [exit]
 
@@ -578,7 +577,7 @@ Ya need to cough up 10,000 gold if ya ever intend t'hire my services.[k]
 You wish to hire my services?[n]
 Goin' rate is 10,000 gold.[k]
 [cs]
-OK, deal. You'll get your money's worth outta me.[k]
+Okay, it's a deal. You'll get your money's worth outta me.[k]
 
 [exit]
 
@@ -603,15 +602,15 @@ The Grandbell army must not reach Agusty![k]
 [TWinBtm][DlgOpn]['Shagall' 00A1]
 
 [TWinTop] # Fury
-King Shagall, how long do you intend to keep me waiting?[k]
+King Shagaal, how long do you intend to keep me waiting?[k]
 [cs]
 I must find Prince Levin as soon as possible![k]
 [cs]
-I'm here because I heard you knew his whereabouts.
+I'm only here because I heard you knew his whereabouts.
 
 [TWinBtm] # Shagall
 [Wait 10]
-Erhem...Yes, sorry to keep you. I just found out where he's being kept.[k]
+Erm... Yes, sorry to keep you. I just found out where he's being kept.[k]
 [dcs]
 Prince Levin's been captured by the Grandbell army... the very army that's currently invading Agustria.[k]
 [cs]
@@ -623,9 +622,9 @@ The prince is being held at their base in Evans and, word is, is about to be exe
 [TWinTop] # Fury
 Oh no! I must rescue the prince! We'll leave for Evans at once.[k]
 [cs]
-Queen Rahna of Silesia warned me to avoid combat, but this might be unavoidable.[k]
+Queen Rahna of Silesia warned me to keep out of combat, but this might be unavoidable.[k]
 [cs]
-If I come across any Grandbell troops, I will engage combat.
+If I come across any Grandbell troops, I will engage them.
 
 [TWinBtm] # Shagall
 [Wait 10]
@@ -642,7 +641,7 @@ All right. We're off![k]
 # @@951983@@
 
 [TWinBtm][DlgOpn]['Shagall' 00A1]
-Did she leave yet? Stupid woman. Ready Agusty's cavalry as well. One swift blow, men![k]
+Did she leave yet? Stupid woman. Ready Agusty's cavalry. One swift blow, men![k]
 
 [exit]
 
@@ -659,7 +658,7 @@ Who the hell're you!?[k]
 [cs]
 You've got some serious spirit in your attack. Obviously you're not here for the money.[k]
 [cs]
-Cash has been my motivator all these years. But after seeing you it kinda loses its meaning.[k]
+Cash has been my motivator all these years... But after seeing you it kinda loses its meaning.[k]
 [cs]
 You mind if I tag along? It'd be nice to fight for something real for a change.[k]
 
@@ -673,7 +672,7 @@ You mind if I tag along? It'd be nice to fight for something real for a change.[
 [TWinBtm][DlgOpn]['Zain' 0083]
 
 [TWinTop] # Shagall
-What!? Mackily has fallen? Zain, it's up to you. Lead the remaining troops into battle.
+What!? Mackily has fallen? Zyne, it's all up to you. Lead the remaining troops into battle.
 
 [TWinBtm] # Zain
 [Wait 10]
@@ -688,13 +687,13 @@ Stop your nitpicking and go!
 [xChr][DlgCls]
 
 [TWinBtm][DlgOpn]['(null)' 026C]
-Pull yourself together, Shagall! All is not lost.[k]
+Pull yourself together, Shagaal! All is not lost.[k]
 [dcs]
 
 [TWinTop] # Shagall
 You! Manfloy!![k]
 [cs]
-Y..You're the one who told us what to do and it's all backfired! How are you going to fix this!?
+Y... You're the one who told us what to do and it's all backfired! How are you going to fix this!?
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -710,17 +709,15 @@ Manfloy, help me... What should I do?
 
 [TWinBtm] # (null)
 [Wait 10]
-There's still hope.[k]
+There's still hope. If necessary we can make use of that rascal you're holding in the dungeon... Eltshan.[k]
 [dcs]
-If necessary we can make use of that rascal you're holding in the dungeon... Eltosian.[k]
+Sigurd will listen to anything Eltshan's got to say.[k]
 [cs]
-Sigurd will listen to anything Eltosian's got to say.[k]
-[cs]
-Now go and give a formal apology to Eltosian.[k]
+Now go and give him a formal apology.[k]
 [cs]
 
 [TWinTop] # Shagall
-Er... OK. Yeah. I'll do that. Let's put him to some use.[k]
+Er... okay. Yeah. I'll do that. Let's put him to some use.[k]
 [cs]
 
 [xChr][DlgCls]
@@ -730,17 +727,17 @@ Er... OK. Yeah. I'll do that. Let's put him to some use.[k]
 [Wait 1E]
 [BGM 7A]
 [Wait 50]
-Shesh...  Fool.[k]
+Sheesh...  Fool.[k]
 [cs]
 
 [TWinTop][DlgOpn]['Sandima' 0052]
-Archbishop Manfloy, I just witnessed the assassination of Prince Kult.
+Archbishop Manfloy, I just witnessed the assassination of Prince Kurth.
 
 [TWinBtm] # (null)
 [Wait 10]
 Is that so? This is getting interesting.[k]
 [dcs]
-Only one descendant remains of our old foe Narga, and that last one will die before long.[k]
+Only one descendant remains of our old foe Narga, and he will die before long.[k]
 [cs]
 Then all that's left is the revival of our Dark Lord. Then the world will be ours![k]
 [cs]
@@ -752,13 +749,13 @@ Has Alvis consented to your proposal?
 [Wait 10]
 Of course he did. He's got Loputousu's blood flowing in his veins.[k]
 [dcs]
-But if that ever got out, they would burn him at the stake for being of Dark Lord descent.[k]
+And if that ever got out, they would burn him at the stake for being of Loptian descent.[k]
 [cs]
 I just wonder if someone as arrogant as Alvis can keep quiet.[k]
 [cs]
 
 [TWinTop] # Sandima
-Alright. Next step is to betray the king and once you become emperor...
+Alright. Next we betray the king and once you become emperor...
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -809,7 +806,7 @@ Me? A prisoner of Evans? Ha! Who would've told you that?
 
 [TWinBtm] # Fury
 [Wait 10]
-King Shagall of Agusty.[k]
+King Shagaal of Agusty.[k]
 [dcs]
 
 [TWinTop] # Levin
@@ -825,7 +822,7 @@ Levin, who's Sylvia?[k]
 [dcs]
 
 [TWinTop] # Levin
-She's ah... Nevermind. Anyway, what are you doin' here again?
+She's... ah... Nevermind. Anyway, what are you doin' here again?
 
 [TWinBtm] # Fury
 [Wait 10]
@@ -843,8 +840,8 @@ But my uncles would never have it. One slip up and there'd be mutiny, like there
 [cs]
 You know who suffers then? The people. Give the throne to somebody who can handle that.[k]
 [cs]
-I like the freedom I have now. I've no use for the crown.[k]
-[cs]
+I like the freedom I have now. I've no use for the crown.[n]
+[Wait 10]
 Give it to one of my uncles.
 
 [TWinBtm] # Fury
@@ -855,7 +852,7 @@ That means you are the only one capable of succession.[k]
 [cs]
 Only you can preserve the Silesian lineage. And the people wish it of you as well.[k]
 [cs]
-Levin, the queen was in tears when I left. Please (sniff...) just come back with me.[k]
+Levin, the queen was in tears when I left. Please... Sniff... just come back with me.[k]
 [cs]
 
 [TWinTop] # Levin
@@ -863,18 +860,16 @@ Fury, you're not gonna start cryin' on me too, are ya?[k]
 [cs]
 Aghh! Give me a break. I've got a soft spot for cryin' chicks, ya know.[k]
 [cs]
-OK. I'll return once I've sorted some stuff out. Just let me rack my brain a bit, OK?
+Okay. I'll return once I've sorted some stuff out. Just let me rack my brain a bit, okay?
 
 [TWinBtm] # Fury
 [Wait 10]
-OK. Then please let me stay with you until you do return.[k]
-[dcs]
-I'll send word back to that your unharmed.[k]
+Okay. Then please let me stay with you until you do return. I'll send word back to that you're unharmed.[k]
 [$00$2B$E4]
-[cs]
+[dcs]
 
 [TWinTop] # Levin
-You just don't take 'no' for an answer, do ya?
+You just don't take no for an answer, do ya?
 [BGM 73][k]
 [cs]
 Well, I'm gonna hang a bit with Sir Sigurd. We hit it off. And his army's full of babes![k]
@@ -883,17 +878,17 @@ You should get to know the girls... polish up your style a bit.
 
 [TWinBtm] # Fury
 [Wait 10]
-Er... OK.[k]
+Er... okay.[k]
 [dcs]
 
 [TWinTop] # Levin
 Fury! I'm jokin'! Don't be so damn gullible.[k]
 [cs]
-You really are a sweet girl. You put all the other girls to shame. Don't you change a thing, OK?
+You really are a sweet girl. You put all the other girls to shame. Don't you change a thing, okay?
 
 [TWinBtm] # Fury
 [Wait 10]
-Er.. OK. Ah, no I...[k]
+Er.. okay. Ah, no I...[k]
 
 [exit]
 
@@ -902,12 +897,12 @@ Er.. OK. Ah, no I...[k]
 # @@952381@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Diadora' 0010]
+[TWinBtm][DlgOpn]['Deirdre' 0010]
 
 [TWinTop] # Sigurd
-Dierdre!? You're all right!
+Deirdre!? You're alright!
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 Yes, I'm fine. They tried keeping me locked away, but I just knew you'd come.[k]
 
@@ -921,9 +916,9 @@ Yes, I'm fine. They tried keeping me locked away, but I just knew you'd come.[k]
 [TWinBtm][DlgOpn]['Laches' 0012]
 
 [TWinTop] # (null)
-Your Highness, before we head back to Nodion I have a little something for you.[k]
+Your Highness, before we head back to Nodion, I have something for you.[k]
 [cs]
-It's a magical bracelet called the Knight Ring. The wearer of this can move twice each turn.[k]
+It's a magical bracelet called the Knight Ring. It bestows repeated movement on the wearer.[k]
 [cs]
 I'm sure it'll come in handy. Take care of yourself![k]
 
@@ -937,33 +932,33 @@ I'm sure it'll come in handy. Take care of yourself![k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Oifaye
-Sir, word is that King Shagall was badly wounded, and he's receiving medical attention by a priest of his royal staff.
+Sir, word is that King Shagaal was badly wounded, and he's receiving medical attention by a priest of his royal staff.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-I heard someone pulled him from the battlefield, but who?[k]
+I heard someone pulled him from the battlefield, but who was it?[k]
 [dcs]
 
 [TWinTop] # Oifaye
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
-I did, Sigurd. I saved the king. He is all that's left of Agustrian royalty now.[k]
+[TWinTop][DlgOpn]['Eltshan' 005A]
+I did, Sigurd. I saved the king. He is all that's left of Agustrian royalty.[k]
 [cs]
 I don't care what he's done. He's still my master, and I can't sit back and let him die.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Eltosian!? You're not hurt![k]
+Eltshan!? You're not hurt![k]
 [dcs]
 What a relief! I heard you'd been captured. We've been looking for you.[k]
 [cs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Yeah, I managed somehow. Sigurd, what's going on here?[k]
 [cs]
-Your army has gained control of the capital city, and I heard that Grandbell has dispatched officials to each of our castles.[k]
+Your army has gained control of the capital city, and I hear that Grandbell has dispatched officials to each of our castles.[k]
 [cs]
 You're treating us just like we were a tributary state.[k]
 [cs]
@@ -973,25 +968,25 @@ Your answer better be good, Sigurd!
 
 [TWinBtm] # Sigurd
 [Wait 10]
-I know, Eltosian. It doesn't make any sense to me either.[k]
+I know, Eltshan. It doesn't make any sense to me either.[k]
 [dcs]
 But, you aside, all of the lords of Agustria suddenly became hostile towards Grandbell.[k]
 [cs]
 For the time being, I've been ordered to stay put so as to maintain public order.[k]
 [cs]
-Eltosian, please... Just give me one year.[k]
+Eltshan, please... Just give me one year.[k]
 [cs]
 By then the peace should be restored as well as Grandbell's and Agustria's relationship.[k]
 [cs]
 And then we'll leave Agustria. Our king has given me his word on this.[k]
 [cs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Hmm... Really? Well, I'll take your word for it. Okay. You've got one year.[k]
 [cs]
 Until then, I'll be up north at Madino Castle protecting my lord.[k]
 [cs]
-I've also got my Cross Knights stationed up at Silvail Fort.[k]
+I've also got the Cross Knights stationed up at Fort Silvail.[k]
 [cs]
 If it came to it, I could take you out in a moment's notice...[k]
 [cs]
@@ -1000,7 +995,7 @@ Sigurd, you break your promise and you can count on that! You got me!?
 [TWinBtm] # Sigurd
 [Wait 10]
 Of course! I give you my word.[n]
-Eltosian, trust me![k]
+Eltshan, trust me![k]
 
 [exit]
 
@@ -1009,7 +1004,7 @@ Eltosian, trust me![k]
 # @@952484@@
 
 [TWinBtm][DlgOpn]['(null)' 02AE]
-Woman and children are th' real victims in this war. Now go on... get back t'yer loved ones![k]
+Women and children are th' real victims in this war. Now go on... get back t'yer loved ones![k]
 
 [exit]
 
@@ -1018,7 +1013,7 @@ Woman and children are th' real victims in this war. Now go on... get back t'yer
 # @@952503@@
 
 [TWinBtm][DlgOpn]['(null)' 02B0]
-Thanks for comin' for me![n]
+Thanks for comin' for us![n]
 Here, I want you to have this.[k]
 [cs]
 Nice bracelet, huh?[n]
@@ -1032,11 +1027,11 @@ Wear it at the shops for a little discount, ok?[k]
 
 [TWinBtm][DlgOpn]['(null)' 02AB]
 A thousand thanks to y'all for comin'![n]
-Here, I's a sword for ya.[k]
+Here, I've a sword for ya.[k]
 [cs]
-T'is called an Iron Cutter. This dandy sword'll pierce some of the toughest armor around.[k]
+T'is called an Iron Cutter. This sword'll pierce some of the toughest armour around.[k]
 [cs]
-If ya can't use 'er, try sellin' it at the pawn shop. It should fetch a good price.[k]
+If ya can't use it, try sellin' it at the pawn shop. It should fetch a good price.[k]
 
 [exit]
 
@@ -1045,7 +1040,7 @@ If ya can't use 'er, try sellin' it at the pawn shop. It should fetch a good pri
 # @@952536@@
 
 [TWinBtm][DlgOpn]['(null)' 02AD]
-Lord Macbeth of Anphony sure is a greedy cuss. He makes life downright miserable for us.[k]
+Lord Macbeth of Anphony sure is a greedy cur. He makes life downright miserable for us.[k]
 [cs]
 I wish he were dead![k]
 
@@ -1058,9 +1053,9 @@ I wish he were dead![k]
 [TWinBtm][DlgOpn]['(null)' 02AB]
 King Imuka was a great soul. His passing has been an enormous loss for us all.[k]
 [cs]
-That son of his, Prince Shagall, is bound t'ruin this here country before too long.[k]
+That son of his, Prince Shagaal, is bound t'ruin the country before too long.[k]
 [cs]
-Ahh... if only King Eltosian could've succeeded Agustria's throne somehow.
+Ahh... if only King Eltshan could've succeeded Agustria's throne somehow.
 [k]
 
 [exit]
@@ -1074,7 +1069,7 @@ I wonder if there still are any blood relatives of the Dark Lord Loputousu aroun
 [cs]
 Each year big towns like Agusty and Mackily hold witch hunts and arrest a ton of people.[k]
 [cs]
-They burn 'em at the stake for doin' what? Absolutely nothin'![n]
+Then they burn 'em at the stake for doin' what? Absolutely nothin'![n]
 Is that nuts or what!?[k]
 
 [exit]
@@ -1084,11 +1079,9 @@ Is that nuts or what!?[k]
 # @@952578@@
 
 [TWinBtm][DlgOpn]['(null)' 02AD]
-King Eltosian of Nodion draws lineage from Hezul the Brave, one of the legendary 12 Crusaders.[k]
+King Eltshan of Nodion draws lineage from Hezul the Brave, one of the legendary 12 Crusaders.[k]
 [cs]
-Eltosian's demon sword Mistoltin, along with the Tyrfing of Chalphy and Isaac's Balmunk, are the[k]
-[cs]
-strongest swords in all creation.[k]
+Eltshan's demon sword Mistoltin, along with the Tyrfing of Chalphy and Isaac's Balmung, are the strongest swords in all creation.[k]
 
 [exit]
 
@@ -1099,7 +1092,7 @@ strongest swords in all creation.[k]
 [TWinBtm][DlgOpn]['(null)' 02AE]
 Hey, you there. Lend me yer ear fer a sec.[k]
 [cs]
-Wouldn't ya say King Eltosian and th' princess are a wee bit too cozy for siblings?[k]
+Wouldn't ya say King Eltshan and th' princess are a wee bit too cosy for siblings?[k]
 [cs]
 Oh, how I love t'gossip![n]
 Eh? I've too much free time, ya say? Well, I'll shut mah mouth![k]
@@ -1120,7 +1113,7 @@ Who the hell're you!?[k]
 [cs]
 You've got some serious spirit in your attack. Obviously you're not here for the money.[k]
 [cs]
-Cash has been my motivator all these years. But after seeing you it kinda loses its meaning.[k]
+Cash has been my motivator all these years... But after seeing you it kinda loses its meaning.[k]
 [cs]
 You mind if I tag along? It'd be nice to fight for something real for a change.[k]
 
@@ -1140,7 +1133,7 @@ Who the hell're you!?[k]
 [cs]
 You've got some serious spirit in your attack. Obviously you're not here for the money.[k]
 [cs]
-Cash has been my motivator all these years. But after seeing you it kinda loses its meaning.[k]
+Cash has been my motivator all these years... But after seeing you it kinda loses its meaning.[k]
 [cs]
 You mind if I tag along? It'd be nice to fight for something real for a change.[k]
 
@@ -1160,7 +1153,7 @@ Who the hell're you!?[k]
 [cs]
 You've got some serious spirit in your attack. Obviously you're not here for the money.[k]
 [cs]
-Cash has been my motivator all these years. But after seeing you it kinda loses its meaning.[k]
+Cash has been my motivator all these years... But after seeing you it kinda loses its meaning.[k]
 [cs]
 You mind if I tag along? It'd be nice to fight for something real for a change.[k]
 
@@ -1180,7 +1173,7 @@ Who the hell're you!?[k]
 [cs]
 You've got some serious spirit in your attack. Obviously you're not here for the money.[k]
 [cs]
-Cash has been my motivator all these years. But after seeing you it kinda loses its meaning.[k]
+Cash has been my motivator all these years... But after seeing you it kinda loses its meaning.[k]
 [cs]
 You mind if I tag along? It'd be nice to fight for something real for a change.[k]
 
@@ -1201,7 +1194,7 @@ What's our next move?
 [Wait 10]
 Well, the imminent danger has passed for now.[k]
 [dcs]
-But Eltosian is still being held in Agusty.[n]
+But Eltshan is still being held in Agusty.[n]
 And that's not all...[k]
 [cs]
 
@@ -1210,14 +1203,13 @@ Yes?
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Bandits are laying seige on the settlers village in the central forest. We've got to intervene.[k]
+Bandits are laying seige to the pioneer villages in the central forest. We've got to intervene.[k]
 [dcs]
 
 [TWinTop] # Oifaye
-Agreed. That'll help convice the citizens of Agustria that WE are not the aggressor here.[k]
+Agreed. That'll help convice the citizens of Agustria that we are not the aggressor here.[k]
 [cs]
-If that's your decision, then we'd better get moving.[k]
-[cs]
+If that's your decision, then we'd better get moving.[n]
 We've no time to waste![k]
 
 [exit]
@@ -1270,9 +1262,9 @@ Sir?[k]
 [dcs]
 
 [TWinTop] # (null)
-There's been some nasty rumors making the rounds in the Royal Court.[k]
+There's been some nasty rumours making the rounds in the Royal Court.[k]
 [cs]
-It's going around that Prince Cuan of Lenster, King Eltosian of Nodion, and yourself are conspiring against His Majesty.[k]
+It's going around that Prince Cuan of Lenster, King Eltshan of Nodion, and yourself are conspiring against His Majesty.[k]
 [cs]
 They say that explains why you're hiding the Prince of Isaac.
 
@@ -1283,7 +1275,7 @@ Who could've started such a story!?[k]
 [dcs]
 
 [TWinTop] # (null)
-Duke Reptor and Lord Langobalt.
+Duke Reptor and Lord Langbart.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -1291,7 +1283,7 @@ I see... Those two have had it in for my father for some time, but this has gone
 [dcs]
 
 [TWinTop] # (null)
-I believe they're put off by the way Prince Kult goes to Lord Vylon for everything.[k]
+I believe they're put off by the way Prince Kurth goes to Lord Byron for everything.[k]
 [cs]
 Once the prince ascends the throne, those two are sure to be ousted from their posts, and that has them worried.[k]
 [cs]
@@ -1304,13 +1296,13 @@ Tell me, how are we faring in the Isaacian conflict?[k]
 [dcs]
 
 [TWinTop] # (null)
-We expect Prince Kult and your father's triumphant return any day now.
+We expect Prince Kurth and your father's triumphant return any day now.
 
 [TWinBtm] # Sigurd
 [Wait 10]
 I'm glad to hear His Highness made it through alright. My father sure worries about his safety.[k]
 [dcs]
-He fears the Royal Family's blood will be lost forever if anything were to happen to him.[k]
+He fears the Royal Family's blood would be lost forever if anything were to happen to him.[k]
 [cs]
 
 [TWinTop] # (null)
@@ -1343,14 +1335,14 @@ Oh, I may as well tell you the whole story. This all took place nearly 20 years 
 [cs]
 The lovely duchess of Velthomer, a married woman mind you, fell for the prince.[k]
 [cs]
-Now the duke of Velthomer was a reputed womanizer and had several lovers. The prince, however, was a straight arrow.[k]
+Now the duke of Velthomer was a reputed womaniser and had several lovers. The prince, however, was a straight arrow.[k]
 [cs]
-Initially, the prince merely sympathized with the duchess, but then one day the two fell deeply in love.[k]
+Initially, the prince merely sympathised with the duchess, but then one day the two fell deeply in love.[k]
 [cs]
 Now the duke lost his head. After writing a letter denouncing the two, he committed suicide.[k]
 [cs]
 The duchess, clearly perplexed, disappeared without a trace.[n]
-I believe her name was Cigyun.
+I believe her name was Sigyn.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -1359,11 +1351,11 @@ Geez... I never knew. The duchess would have been Lord Alvis' mother, correct?[k
 
 [TWinTop] # (null)
 Precisely. Oh, what a pity...[n]
-at the age of seven to lose both parents like that.
+To lose both parents like that at the age of seven...
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Poor Prince Kult... and the duchess.[k]
+Poor Prince Kurth... and the duchess.[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -1383,7 +1375,7 @@ Sir Sigurd, we anxiously await your return to the homeland![k]
 Heirhein is assaulting Nodion?[n]
 Hmm... where do my loyalties lie...[k]
 [cs]
-I'm not lifting a finger till the dusts settles. Keep our soldiers put for the moment.[k]
+I'm not lifting a finger till the dust settles. Keep our soldiers put for the moment.[k]
 
 [exit]
 
@@ -1405,10 +1397,12 @@ Get too close an' he'll put yer lights out an' freeze every muscle in yer body![
 # @@953125@@
 
 [TWinBtm][DlgOpn]['(null)' 02AE]
-King Eltosian is too honest for his own good. Why else would King Shagall have him put away?[k]
+King Eltshan is too honest for his own good.[k]
+[cs]
+Why else would King Shagall have him put away?[k]
 [cs]
 Please, I beg of you...[n]
-Save King Eltosian![k]
+Save King Eltshan![k]
 
 [exit]
 
@@ -1416,11 +1410,11 @@ Save King Eltosian![k]
 # 0xedaf0:
 # @@953161@@
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinTop][DlgOpn]['Ethlin' 0011]
 [TWinBtm][DlgOpn]['Cuan' 0006]
 
-[TWinTop] # Ethrin
-Cuan! Are you OK!? I hate to run out on my brother, but we must get you home to recover.
+[TWinTop] # Ethlin
+Cuan! Are you okay!? I hate to run out on my brother, but we must get you home to recover.
 
 [TWinBtm] # Cuan
 [Wait 10]
@@ -1433,12 +1427,12 @@ Sorry, Ethlin...[k]
 # @@953281@@
 
 [TWinTop][DlgOpn]['Cuan' 0006]
-[TWinBtm][DlgOpn]['Ethrin' 0011]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
 
 [TWinTop] # Cuan
 Ethlin! Hang in there! I hate to run out on Sigurd, but we must get you home to recover.
 
-[TWinBtm] # Ethrin
+[TWinBtm] # Ethlin
 [Wait 10]
 Cuan, I'm sorry...[k]
 
@@ -1456,13 +1450,13 @@ Good. Mackily's no longer a problem. Our next stop is the capital, Agusty.
 
 [TWinBtm] # Oifaye
 [Wait 10]
-That's right. But there's still reports of a good sized army waiting in Agusty.[k]
+That's right. But there's still reports of a good-sized army waiting in Agusty.[k]
 [dcs]
 So take extra precaution![k]
 [cs]
 
 [TWinTop] # Sigurd
-Yeah, you're right. Just what is our boy Shagall up to.[k]
+Yeah, you're right. Just what is our boy Shagall up to...[k]
 
 [exit]
 
@@ -1470,10 +1464,10 @@ Yeah, you're right. Just what is our boy Shagall up to.[k]
 # 0x32f8c3:
 # @@953518@@
 
-[TWinBtm][DlgOpn]['Adan' 0004]
-(sigh..) I've trained hard to get as strong as I am, but everyone still just teases me.[k]
+[TWinBtm][DlgOpn]['Ardan' 0004]
+Sigh.. I've trained hard to get as strong as I am, but everyone still just teases me.[k]
 [cs]
-If only I could 'pursue' like Alec... that'd give me the edge I need.[k]
+If only I could repeated attack like Alec... that'd give me the edge I need.[k]
 [cs]
 Maybe I could even find me a girlie then.[n]
 Ahh... it's tough being a guy![k]
@@ -1481,7 +1475,7 @@ Ahh... it's tough being a guy![k]
 Hm? What's this ol' ring doing here... Looks magical or something. Let's try 'er on.[k]
 [cs]
 Ooooooo! What's going on!?[n]
-. . . . . [n]
+......[n]
 The Power of Pursuit![k]
 
 [exit]

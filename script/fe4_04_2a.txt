@@ -1,0 +1,351 @@
+# Fontcheck: Reformatted
+
+# Last modified: 13/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the 2A-type scripts for
+# Chapter 4
+
+[blocked]
+
+# Introduction
+
+# 0xea632
+# @@954979@@
+[block b000]
+
+[resolve b001]
+[dcs]
+
+[TWinTop][xChr][DlgCls]
+
+[DlgOpn]['Mahnya' 00B6]
+Lord Levin, Rahna is very happy for you despite her attitude.[k]
+[cs]
+She's been so cheerful ever since you returned...
+[Wait 10]
+
+[TWinBtm]
+Thank you, Mahnya. You have my gratitude. Take care of mother for me, alright?[k]
+[dcs]
+
+[TWinTop]
+Yes, of course. As the flightleader of the Silesian Pegasus Knights, I will guard her with my life.
+[Wait 10]
+
+[TWinBtm]
+Thank you.[n]
+Also... are you going to leave Fury here?[k]
+[dcs]
+
+[TWinTop]
+Yes... I ask that you keep her at your side. She...
+
+[TWinBtm][xChr][DlgCls]
+
+[DlgOpn]['Fury' 0014]
+Mahnya![k]
+[dcs]
+
+[TWinTop]
+Oh, Fury. You were there?
+[Wait 10]
+
+[TWinBtm]
+Don't tell Lord Levin any more than necessary...[k]
+[dcs]
+
+[TWinTop]
+Oh... Sorry, you're right. I should have kept quiet.[k]
+[cs]
+Fury, I'm returning to Silesia with Lady Rahna. So make sure you protect Lord Levin, alright?[k]
+[cs]
+
+[TWinBtm]
+I know, Mahnya...[k]
+
+[exit]
+
+
+# 0xea428
+# @@954990@@
+[block b001]
+
+[resolve b002]
+[dcs]
+
+[xChr][DlgCls]
+
+[TWinBtm][DlgOpn]['Levin' 0008]
+Mother![k]
+[cs]
+You talk for hours with Sigurd, but you won't even spare one moment for your own son?[k]
+[cs]
+
+[TWinTop]
+My son left me two years ago and ran off to some faraway place. I don't see him anywhere.
+[Wait 10]
+
+[TWinBtm]
+Ah... you're still mad?[k]
+[dcs]
+
+[TWinTop]
+You have no idea how worried and saddened I was![k]
+[cs]
+
+[TWinBtm]
+I had my reasons, mother.[k]
+[dcs]
+But since I've come home in one piece, will you please forgive me?[k]
+[cs]
+I'll make up for the time I was gone. I know, do you want me to massage your shoulders for you?[k]
+[cs]
+
+[TWinTop]
+Why, I never! Treating me like an old lady...[k]
+[cs]
+Levin, I have much to tell you. Come to Silesia. Soon. Understood?
+[Wait 10]
+
+[TWinBtm]
+...sigh...[k]
+
+[exit]
+
+
+# 0xe9d61
+# @@955001@@
+[block b002]
+
+[TWinTop][DlgOpn]['Oifaye' 027F]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+
+[TWinTop]
+Sir, Lady Rahna is here.
+[Wait 10]
+
+[TWinBtm]She is?[k]
+[dcs]
+
+[TWinTop][xChr][DlgCls]
+
+[DlgOpn]['Rahna' 0284]
+Lord Sigurd, how is life in Sailane? Have you gotten used to it yet?
+[Wait 10]
+
+[TWinBtm]
+Yes. I truly appreciate your hospitality, Lady Rahna.[k]
+[dcs]
+
+[TWinTop]
+I know it must be uncomfortable in such a small castle, but please bear it a little longer...[k]
+[cs]
+I have been writing letters explaining your innocence to King Azmur, but he has yet to respond.[k]
+[cs]
+
+[TWinBtm]
+That's... Prime Minister Reptor has probably been hiding them. I'm sure it's he who tricked my father...[k]
+[dcs]
+
+[TWinTop]
+Lord Sigurd... I understand how you feel, but you must not hold grudges against people like that.[k]
+[cs]
+Hate will bring you nothing. I promise you I will think of something, so until then...
+[Wait 10]
+
+[TWinBtm]
+Yes...[n]
+I really don't know how to thank you.[k]
+[dcs]
+
+[TWinTop]
+Don't worry about it.[k]
+[cs]
+Oh, one more thing. Something good has happened in Grandbell.
+[Wait 10]
+
+[TWinBtm]
+Something good?[k]
+[dcs]
+
+[TWinTop]
+Yes. After being missing for so long, Prince Kurth's daughter has turned up.[k]
+[cs]
+The entire country is bursting with joy.
+[Wait 10]
+
+[TWinBtm]
+What? ...Really!?[k]
+[dcs]
+
+[TWinTop]
+King Azmur recognised her at once.[k]
+[cs]
+She has the symbol of Narga, so she is indeed part of the royal family.
+[Wait 10]
+
+[TWinBtm]
+I see...[n]
+Good. The royal heritage won't die out...[k]
+[dcs]
+
+[TWinTop]
+Also, the princess is apparently in a relationship with Lord Alvis.[k]
+[cs]
+The King has approved their marraige, and there is to be a grand wedding soon.
+[Wait 10]
+
+[TWinBtm]
+With Lord Alvis?[k]
+[dcs]
+
+[TWinTop]
+Everyone is saying they look perfect together, Lord Sigurd. It's nice to be young, isn't it?[k]
+[cs]
+You... oh... I'm sorry, Lord Sigurd. Your wife...
+[Wait 10]
+
+[TWinBtm]
+Deirdre... she's still gone...[k]
+[dcs]
+It's already been over a year. Celice has grown so much, but I still can't show him to her...[k]
+[cs]
+
+[TWinTop]
+Lord Sigurd, I'm sure you'll find her. So...
+[Wait 10]
+
+[TWinBtm]
+Yes, I know...[k]
+[dcs]
+I know that I will find her some day...[n]
+I just know it.[k]
+[cs]
+
+[xChr][DlgCls]
+
+[TWinBtm][DlgOpn]['Mahnya' 00B6]
+Lady Rahna, it is getting dark...[k]
+[cs]
+
+[xChr][DlgCls]
+
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+
+[TWinTop]
+Oh, yes. We should be going soon...[n]
+One more thing, Lord Sigurd.[k]
+[cs]
+Please be wary of Duke Maios of Thove. He has had his eye on Sailane for some time.[k]
+[cs]
+He may go so far as to attack you. We would offer you troops, but...
+[Wait 10]
+
+[TWinBtm]
+...Silesia needs to be protected in case of attack by Duke Daccar of Zaxon.[k]
+[dcs]
+Do not concern yourself with our protection. We can deal with any attacks by Thove's army.[k]
+[cs]
+
+[TWinTop]
+Well, you are a veteran of many battles.[k]
+[cs]
+It has been good speaking with you, Lord Sigurd.
+[Wait 10]
+
+[TWinBtm]
+Lady Rahna, it's been a pleasure.[k]
+
+[exit]
+
+# Daccar freaking out
+
+# 0xebd38
+# @@957280@@
+[block b003]
+
+[resolve b004]
+[cs]
+[resolve b005]
+[cs]
+[resolve b006]
+
+[exit]
+
+
+# 0xebd2c
+# @@957288@@
+[block b007]
+
+[resolve b004]
+[cs]
+[resolve b006]
+
+[exit]
+
+
+# 0xebd20
+# @@957302@@
+[block b008]
+
+[resolve b004]
+[cs]
+[resolve b005]
+
+[exit]
+
+
+# 0xebcd4
+# @@957310@@
+[block b004]
+
+[TWinBtm][DlgOpn]['Dakar' 0240]
+Silesia was overtaken by the Grandbell traitors!?[k]
+[cs]
+What the hell is Donovan doing out there!?[k]
+
+[exit]
+
+
+# 0xebd4a
+# @@0@@
+[block b005]
+Damn, it's inevitable.[n]
+Order Lamia to attack them.[n]
+We can't let them get near the castle.[k]
+
+[exit]
+
+
+# 0xebd7d
+# @@0@@
+[block b006]
+Tell Pamela's unit to chase down Sigurd's army.[n]
+We'll have to pull an all-out assault![k]
+
+[exit]
+
+# 0xeca1e
+# @@957560@@
+[block b009]
+
+[resolve b010]
+[cs]
+Huh...[n]
+The bridge is already down? How did you know how to do that?[k]
+
+[exit]
+
+# 0xec998:
+# @@957545@@
+[block b010]
+
+[TWinBtm][DlgOpn]['(null)' 02AD]
+The drawbridge over Thove River is under the control of Lord Maios.[k]
+[cs]
+If it's not down, and you don't have a key, you're not getting across.[k]
+[cs]
+But I bet if you had someone handy along like a thief, you might be able get it down.[k]
+
+[exit]

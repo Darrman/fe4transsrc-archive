@@ -1,6 +1,8 @@
 # 0 10 dynaweapons
 
-# Last modified: 08/06/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is used for altering the names of weapons whereever they are used in
@@ -16,121 +18,122 @@
 
 # 0xd9714
 # @@890370@@
-IronSwd
+Iron[spx]Sword
 [exit]
 
 
 # 0xd971b
 # @@890372@@
-SteelSwd
+Steel[spx]Sword
 [exit]
 
 
 # 0xd9723
 # @@890374@@
-SilverSwd
+Silver[spx]Sword
 [exit]
 
 
 # 0xd972a
 # @@890376@@
-IronXLSwd
+Iron[spx]Blade
 [exit]
 
 
 # 0xd9732
 # @@890378@@
-SteelXLSwd
+Steel[spx]Blade
 [exit]
 
 
 # 0xd973b
 # @@890380@@
-SilverXLSwd
+Silver[spx]Blade
 [exit]
 
 
 # 0xd9743
 # @@890382@@
-PrayerSwd
+Prayer[spx]Sword
 [exit]
 
 
 # 0xd974b
 # @@890384@@
-ThiefSwd
+Thief[spx]Sword
 [exit]
 
 
 # 0xd9754
 # @@890386@@
-BarrierSwd
+Barrier[spx]Sword
 [exit]
 
 
 # 0xd975c
 # @@890388@@
-BerserkSwd
+Berserk[spx]Sword
 [exit]
 
 
 # 0xd9765
 # @@890390@@
-Hero'sSwd
+Hero[spx]Sword
 [exit]
 
 
+# Silence Sword
 # 0xd976e
 # @@890392@@
-SilenceSwd
+
 [exit]
 
 
 # 0xd977a
 # @@890394@@
-SleepSwd
+Sleep[spx]Sword
 [exit]
 
 
 # 0xd9783
 # @@890396@@
-SlimSwd
+Slim[spx]Sword
 [exit]
 
 
 # 0xd978b
 # @@890398@@
-DefenceSwd
+Defence[spx]Sword
 [exit]
 
 
 # 0xd9793
 # @@890400@@
-FlameSwd
+Fire[spx]Sword
 [exit]
 
 
 # 0xd979b
 # @@890402@@
-EarthSwd
+Earth[spx]Sword
 [exit]
 
 
 # 0xd97a3
 # @@890404@@
-ThunderSwd
+Thunder[spx]Sword
 [exit]
 
 
 # 0xd97ac
 # @@890406@@
-WindSwd
+Wind[spx]Sword
 [exit]
 
 
 # 0xd97b3
 # @@890408@@
-LightSwd
+Light[spx]Sword
 [exit]
 
 
@@ -148,19 +151,19 @@ Tyrfing
 
 # 0xd97d0
 # @@890414@@
-Balmunk
+Balmung
 [exit]
 
 
 # 0xd97d7
 # @@890416@@
-IronCutter
+Iron[spx]Cutter
 [exit]
 
 
 # 0xd97e0
 # @@890418@@
-WingClipper
+Wing[spx]Clipper
 [exit]
 
 
@@ -184,19 +187,19 @@ WingClipper
 
 # 0xd97f0
 # @@890426@@
-IronLnc
+Iron[spx]Lance
 [exit]
 
 
 # 0xd97f7
 # @@890428@@
-SteelLnc
+Steel[spx]Lance
 [exit]
 
 
 # 0xd97ff
 # @@890430@@
-SilverLnc
+Silver[spx]Lance
 [exit]
 
 
@@ -208,31 +211,32 @@ Javelin
 
 # 0xd980b
 # @@890434@@
-KnightKiller
+Horseslayer
 [exit]
 
 
 # 0xd9813
 # @@890436@@
-Hero' sLnc
+Hero[spx]Lance
 [exit]
 
 
 # 0xd981c
 # @@890438@@
-SlimLnc
+Slim[spx]Lance
 [exit]
 
 
+# Gungnir
 # 0xd9824
 # @@890440@@
-Gungnir
+
 [exit]
 
 
 # 0xd982b
 # @@890442@@
-GaeBolg
+Gae[spx]Bolg
 [exit]
 
 
@@ -256,37 +260,38 @@ GaeBolg
 
 # 0xd983a
 # @@890450@@
-IronAxe
+Iron[spx]Axe
 [exit]
 
 
 # 0xd9841
 # @@890452@@
-SteelAxe
+Steel[spx]Axe
 [exit]
 
 
 # 0xd9849
 # @@890454@@
-SilverAxe
+Silver[spx]Axe
 [exit]
 
 
 # 0xd9850
 # @@890456@@
-Hero'sAxe
+Hero[spx]Axe
 [exit]
 
 
+# Swanchika
 # 0xd9859
 # @@890458@@
-Swanchika
+
 [exit]
 
 
 # 0xd9860
 # @@890460@@
-HandAxe
+Hand[spx]Axe
 [exit]
 
 
@@ -310,37 +315,37 @@ HandAxe
 
 # 0xd986d
 # @@890468@@
-IronBow
+Iron[spx]Bow
 [exit]
 
 
 # 0xd9874
 # @@890470@@
-SteelBow
+Steel[spx]Bow
 [exit]
 
 
 # 0xd987c
 # @@890472@@
-SilverBow
+Silver[spx]Bow
 [exit]
 
 
 # 0xd9883
 # @@890474@@
-Hero'sBow
+Hero[spx]Bow
 [exit]
 
 
 # 0xd988c
 # @@890476@@
-KillerBow
+Killer[spx]Bow
 [exit]
 
 
 # 0xd9893
 # @@890478@@
-Ichieval
+Ichival
 [exit]
 
 
@@ -362,27 +367,31 @@ Ichieval
 [exit]
 
 
+# Long Arch
 # 0xd98a2
 # @@890486@@
-LongArch
+
 [exit]
 
 
+# Iron Arch
 # 0xd98aa
 # @@890488@@
-IronArch
+
 [exit]
 
 
+# Killer Arch
 # 0xd98b3
 # @@890490@@
-KillerArch
+
 [exit]
 
 
+# Great Arch
 # 0xd98bb
 # @@890492@@
-GreatArch
+
 [exit]
 
 
@@ -404,15 +413,17 @@ Volcanon
 [exit]
 
 
+# Fala Flamce
 # 0xd98db
 # @@890500@@
-FalaFlame
+
 [exit]
 
 
+# Meteo
 # 0xd98e4
 # @@890502@@
-Meteo
+
 [exit]
 
 
@@ -434,15 +445,17 @@ Tron
 [exit]
 
 
+# Tor Hammer
 # 0xd9904
 # @@890510@@
-TorHammer
+
 [exit]
 
 
+# Thunderstorm
 # 0xd990d
 # @@890512@@
-Thunderstorm
+
 [exit]
 
 
@@ -470,9 +483,10 @@ Holsety
 [exit]
 
 
+# Blizzard
 # 0xd9933
 # @@890522@@
-Blizzard
+
 [exit]
 
 
@@ -484,7 +498,7 @@ Lightning
 
 # 0xd9942
 # @@890526@@
-Rizziah
+Rezire
 [exit]
 
 
@@ -500,27 +514,31 @@ Narga
 [exit]
 
 
+# Jormungand
 # 0xd9952
 # @@890532@@
-Yotsmungand
+
 [exit]
 
 
+# Fenrir
 # 0xd995b
 # @@890534@@
-Fenrir
+
 [exit]
 
 
+# Hel
 # 0xd9962
 # @@890536@@
-Hell
+
 [exit]
 
 
+# Loputousu
 # 0xd9966
 # @@890538@@
-Loptous
+
 [exit]
 
 
@@ -590,9 +608,10 @@ Rescue
 [exit]
 
 
+# Charm Staff
 # 0xd99be
 # @@890562@@
-Charm
+
 [exit]
 
 
@@ -604,7 +623,7 @@ Rest
 
 # 0xd99cf
 # @@890566@@
-Valkyre
+Valkyrie
 [exit]
 
 
@@ -626,9 +645,10 @@ Berserk
 [exit]
 
 
+# Thief Staff
 # 0xd99f7
 # @@890574@@
-Thief
+
 [exit]
 
 
@@ -652,97 +672,98 @@ Thief
 
 # 0xd9a07
 # @@890582@@
-Live
+Live[spx]Bracelet
 [exit]
 
 
 # 0xd9a10
 # @@890584@@
-Elite
+Elite[spx]Ring
 [exit]
 
 
 # 0xd9a19
 # @@890586@@
-Thief
+Thief[spx]Bracelet
 [exit]
 
 
 # 0xd9a22
 # @@890588@@
-Prayer
+Prayer[spx]Bracelet
 [exit]
 
 
 # 0xd9a2b
 # @@890590@@
-Pursuit
+Pursuit[spx]Ring
 [exit]
 
 
+# Recover Ring
 # 0xd9a34
 # @@890592@@
-Recover
+
 [exit]
 
 
 # 0xd9a3d
 # @@890594@@
-Bargain
+Bargain[spx]Bracelet
 [exit]
 
 
 # 0xd9a46
 # @@890596@@
-Knight
+Knight[spx]Ring
 [exit]
 
 
 # 0xd9a4e
 # @@890598@@
-Return
+Return[spx]Ring
 [exit]
 
 
 # 0xd9a57
 # @@890600@@
-Speed
+Speed[spx]Ring
 [exit]
 
 
 # 0xd9a60
 # @@890602@@
-Magic
+Magic[spx]Ring
 [exit]
 
 
 # 0xd9a69
 # @@890604@@
-Power
+Power[spx]Ring
 [exit]
 
 
 # 0xd9a71
 # @@890606@@
-Shield
+Shield[spx]Ring
 [exit]
 
 
 # 0xd9a7a
 # @@890608@@
-Barrier
+Barrier[spx]Ring
 [exit]
 
 
 # 0xd9a82
 # @@890610@@
-Leg
+Leg[spx]Ring
 [exit]
 
 
 # 0xd9a8a
 # @@890612@@
-Skill
+Skill[spx]Ring
 [exit]
 
 

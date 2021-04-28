@@ -1,0 +1,764 @@
+# 0 9 weapdesc
+
+# Fontcheck: Tiled
+
+# Last modified: 22/06/2006
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the weapon descriptions.
+
+[section weapdesc]
+[map 9]
+[bits16]
+[mode-sjis]
+
+# @@255208@@
+# Iron
+
+[exit]
+
+
+# @@255210@@
+# Steel
+
+[exit]
+
+
+# @@255212@@
+# Silver
+
+[exit]
+
+
+# @@255214@@
+# Iron
+
+[exit]
+
+
+# @@255216@@
+# Steel
+
+[exit]
+
+
+# @@255218@@
+# Silver
+
+[exit]
+
+
+# @@255220@@
+# Prayer
+
+[exit]
+
+# @@255222@@
+# Thief
+Steal
+[exit]
+
+# @@255224@@
+# Barrier
+Res[spx]+7
+[exit]
+
+# @@255226@@
+# Berserk
+
+[exit]
+
+# @@255228@@
+# Hero
+
+[exit]
+
+# @@255230@@
+# Silence
+
+[exit]
+
+# @@255232@@
+# Sleep
+
+[exit]
+
+# @@255234@@
+# Slim
+
+[exit]
+
+# @@255236@@
+# Defence
+Def[spx]+7
+[exit]
+
+# @@255238@@
+# Fire
+Elfire
+[exit]
+
+# @@255240@@
+# Earth
+Leech[spx]HP
+[exit]
+
+# @@255242@@
+# Thunder
+Elthund
+[exit]
+
+# @@255244@@
+# Wind
+Elwind
+[exit]
+
+# @@255246@@
+# Light
+Lghtning
+[exit]
+
+# @@255248@@
+# Mistoltn
+Critical
+
+[exit]
+
+# @@255250@@
+# Tyrfing
+Prayer
+[exit]
+
+# @@255252@@
+# Balmung
+
+[exit]
+
+# @@255254@@
+# Cutter
+
+[exit]
+
+# @@255256@@
+# Clipper
+
+[exit]
+
+# @@255258@@
+# Broken
+
+[exit]
+
+# @@255260@@
+# Broken
+
+[exit]
+
+# @@255262@@
+# Broken
+
+[exit]
+
+# @@255264@@
+# Iron
+
+[exit]
+
+# @@255266@@
+# Steel
+
+[exit]
+
+# @@255268@@
+# Silver
+
+[exit]
+
+# @@255270@@
+# Javelin
+
+[exit]
+
+# @@255272@@
+# Slayer
+
+[exit]
+
+# @@255274@@
+# Hero
+
+[exit]
+
+# @@255276@@
+# Slim
+
+[exit]
+
+# @@255278@@
+# Gungnir
+
+[exit]
+
+# @@255280@@
+# Gae Bolg
+
+[exit]
+
+# @@255282@@
+# Broken
+
+[exit]
+
+# @@255284@@
+# Broken
+
+[exit]
+
+# @@255286@@
+# Broken
+
+[exit]
+
+# @@255288@@
+# Iron
+
+[exit]
+
+# @@255290@@
+# Steel
+
+[exit]
+
+# @@255292@@
+# Silver
+
+[exit]
+
+# @@255294@@
+# Hero
+
+[exit]
+
+# @@255296@@
+# Swanchik
+
+[exit]
+
+# @@255298@@
+# Hand
+
+[exit]
+
+# @@255300@@
+# Broken
+
+[exit]
+
+# @@255302@@
+# Broken
+
+[exit]
+
+# @@255304@@
+# Broken
+
+[exit]
+
+# @@255306@@
+# Iron
+
+[exit]
+
+# @@255308@@
+# Steel
+
+[exit]
+
+# @@255310@@
+# Silver
+
+[exit]
+
+# @@255312@@
+# Hero
+
+[exit]
+
+# @@255314@@
+# Killer
+Critical
+[exit]
+
+# @@255316@@
+# Ichival
+Live
+[exit]
+
+# @@255318@@
+# Broken
+
+[exit]
+
+# @@255320@@
+# Broken
+
+[exit]
+
+# @@255322@@
+# Broken
+
+[exit]
+
+# @@255324@@
+# Long
+
+[exit]
+
+# @@255326@@
+# Iron
+
+[exit]
+
+# @@255328@@
+# Killer
+
+[exit]
+
+# @@255330@@
+# Great
+
+[exit]
+
+# @@255332@@
+# Fire
+
+[exit]
+
+# @@255334@@
+# Elfire
+
+[exit]
+
+# @@255336@@
+# Volcanon
+
+[exit]
+
+# @@255338@@
+# FFlame
+
+[exit]
+
+# @@255340@@
+# Meteo
+
+[exit]
+
+# @@255342@@
+# Thunder
+
+[exit]
+
+# @@255344@@
+# Elthund
+
+[exit]
+
+# @@255346@@
+# Tron
+
+[exit]
+
+# @@255348@@
+# THammer
+
+[exit]
+
+# @@255350@@
+# Storm
+
+[exit]
+
+# @@255352@@
+# Wind
+
+[exit]
+
+# @@255354@@
+# Elwind
+
+[exit]
+
+# @@255356@@
+# Tornado
+
+[exit]
+
+# @@255358@@
+# Holsety
+
+[exit]
+
+# @@255360@@
+# Blizzrd
+
+[exit]
+
+# @@255362@@
+# Lghtning
+
+[exit]
+
+# @@255364@@
+# Rezire
+Leech[spx]HP
+[exit]
+
+# @@255366@@
+# Aura
+
+[exit]
+
+# @@255368@@
+# Narga
+
+[exit]
+
+# @@255370@@
+# Jormung
+
+[exit]
+
+# @@255372@@
+# Fenrir
+
+[exit]
+
+# @@255374@@
+# Hel
+Drain[spx]HP
+[exit]
+
+# @@255376@@
+# Lopt
+
+[exit]
+
+# @@255378@@
+# Empty
+
+[exit]
+
+# @@255380@@
+# Empty
+
+[exit]
+
+# @@255382@@
+# Empty
+
+[exit]
+
+# @@255384@@
+# Live
+Restores
+some[spx]HP
+[exit]
+
+# @@255386@@
+#Relive
+Restores
+most[spx]HP
+[exit]
+
+# @@255388@@
+# Recover
+Restores
+all[spx]HP
+[exit]
+
+# @@255390@@
+# Libro
+Restores
+some[spx]HP[spx]
+to[spx]one[spx][spx]
+Range[spx]10
+[exit]
+
+# @@255392@@
+# Reserve
+Restores
+some[spx]HP[spx]
+to[spx]all[spx][spx]
+Range[spx]10
+[exit]
+
+# @@255394@@
+# Return
+Return[spx][spx]
+unit[spx]to[spx]
+home[spx][spx][spx][spx]
+castle
+[exit]
+
+# @@255396@@
+# Warp
+Warp[spx]a[spx][spx]
+unit[spx]to[spx]
+any[spx][spx][spx][spx][spx]
+castle
+[exit]
+
+# @@255398@@
+# Rescue
+Bring[spx]a[spx]
+unit[spx]to[spx]
+you[spx][spx][spx][spx][spx]
+Range[spx]10
+[exit]
+
+# @@255400@@
+# Charm
+
+[exit]
+
+# @@255402@@
+# Restore
+Restore[spx]
+state[spx]of
+one[spx]unit
+Range[spx]10
+[exit]
+
+# @@255404@@
+# Valkyre
+Revive[spx]a
+unit[spx]at[spx]
+home[spx][spx][spx][spx]
+castle
+[exit]
+
+# @@255406@@
+# Silence
+Inflicts
+Silence[spx]
+Range[spx]10
+[exit]
+
+# @@255408@@
+# Sleep
+Inflicts
+Sleep[spx][spx][spx]
+Range[spx]10
+[exit]
+
+# @@255410@@
+# Berserk
+Inflicts
+Berserk[spx]
+Range[spx]10
+[exit]
+
+# @@255412@@
+# Thief
+
+[exit]
+
+# @@255414@@
+# Broken
+
+[exit]
+
+# @@255416@@
+# Broken
+
+[exit]
+
+# @@255418@@
+#Broken
+
+[exit]
+
+# @@255420@@
+#Life
+Bestows[spx]
+Live[spx][spx][spx][spx]
+skill
+[exit]
+
+# @@255422@@
+#Elite
+Bestows[spx]
+Elite[spx][spx][spx]
+skill
+[exit]
+
+# @@255424@@
+# Thief
+Bestows[spx]
+Steal[spx][spx][spx]
+skill
+[exit]
+
+# @@255426@@
+# Prayer
+Bestows[spx]
+Prayer[spx][spx]
+skill
+[exit]
+
+# @@255428@@
+# Pursuit
+Bestows[spx]
+Pursuit[spx][spx]
+skill
+[exit]
+
+# @@255430@@
+# Recover
+Restores
+all[spx]HP[spx][spx]
+on[spx]every
+turn
+[exit]
+
+# @@255432@@
+# Bargain
+Bestows[spx]
+Bargain[spx]
+skill
+[exit]
+
+# @@255434@@
+# Knight
+Bestows[spx]
+Repeated
+Movement
+[exit]
+
+# @@255436@@
+# Return
+Wearer[spx][spx]
+can[spx]warp
+to[spx]home[spx]
+castle
+[exit]
+
+# @@255438@@
+# Speed
+Spd[spx]+5
+[exit]
+
+# @@255440@@
+# Magic
+Mgc[spx]+5
+[exit]
+
+# @@255442@@
+# Power
+Str[spx]+5
+[exit]
+
+# @@255444@@
+# Shield
+Def[spx]+5
+[exit]
+
+# @@255446@@
+# Barrier
+Res[spx]+5
+[exit]
+
+# @@255448@@
+# Leg
+Move[spx]+3
+[exit]
+
+# @@255450@@
+# Skill
+Skl[spx]+5
+[exit]
+
+# @@255452@@
+# Broken
+
+[exit]
+
+# @@255454@@
+# Broken
+
+[exit]
+
+# @@255456@@
+# Broken
+
+[exit]
+
+# @@255458@@
+# Empty
+
+[exit]
+
+# @@255460@@
+# Empty
+
+[exit]
+
+# @@255462@@
+# Empty
+
+[exit]
+
+# @@255464@@
+# Empty
+
+[exit]
+
+# @@255466@@
+# Empty
+
+[exit]
+
+# @@255468@@
+# Empty
+
+[exit]
+
+# @@255470@@
+# Empty
+
+[exit]
+
+# @@255472@@
+# Empty
+
+[exit]
+
+# @@255474@@
+# Empty
+
+[exit]
+
+# @@255476@@
+# Empty
+
+[exit]
+
+# @@255478@@
+# Empty
+
+[exit]
+
+# @@255480@@
+Broken
+
+[exit]
+
+# @@255482@@
+# Circlet
+Sacred[spx][spx]
+ornament
+Prayer[spx][spx]
+Live
+[exit]
+

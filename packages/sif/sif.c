@@ -18,7 +18,7 @@
 */
 /* $Id: sif.c,v 1.6 2003/04/25 08:26:40 j10 Exp $ */
 
-/* Last modified: 06/07/04
+/* Last modified: 23/06/2006
    This file was modified by Dark Twilkitri */
 #include <stdio.h>
 #include <stdlib.h>
@@ -238,6 +238,11 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
 	       asmaddr = address & 0x0000FF;
 	       ips_write(&asmaddr, h.address + 8, 1, ips);
             }
+		else if(h.flag.halfasm)
+		{
+			asmaddr = (address & 0x00FFFF);
+			ips_write(&asmaddr, h.address + 1, 2, ips);
+		}
             else
             {
                ips_write(&address,h.address,h.flag.use16 ? 2 : 3,ips);
@@ -286,6 +291,11 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
 	 asmaddr = snesaddr & 0x0000FF;
 	 ips_write(&asmaddr, h.address + 8, 1, ips);
       }
+	else if(h.flag.halfasm)
+	{
+		asmaddr = (snesaddr & 0x00FFFF);
+		ips_write(&asmaddr, h.address + 1, 2, ips);
+	}
       else if(!h.flag.noptr && h.address)
       {
          ips_write(&snesaddr,h.address,h.flag.use16 ? 2 : 3,ips);

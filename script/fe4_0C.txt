@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering conversations from the Prologue to Chapter 2.
@@ -34,18 +36,18 @@
 # 0x2e8200:
 # @@3340761@@
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinTop][DlgOpn]['Ethlin' 0011]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # Ethrin
-Sigurd, you're okay!!
+[TWinTop] # Ethlin
+Sigurd, you're okay!
 
 [TWinBtm] # Sigurd
 [Wait 10]
 Ethlin... good to see you![k]
 [dcs]
 
-[TWinTop] # Ethrin
+[TWinTop] # Ethlin
 I was so worried when I heard about Verdane's invasion. I'm just glad you're okay.
 
 [TWinBtm] # Sigurd
@@ -53,12 +55,12 @@ I was so worried when I heard about Verdane's invasion. I'm just glad you're oka
 You didn't think I'd lose to Verdane, did you?[k]
 [dcs]
 
-[TWinTop] # Ethrin
+[TWinTop] # Ethlin
 Yeah, but I heard you only had a few soldiers in Chalphy.[k]
 [cs]
-And I KNOW you, Sigurd. You are always jumping into this kind of stuff without thinking.[k]
+And I know you, Sigurd. You are always jumping into this kind of stuff without thinking.[k]
 [cs]
-Especially with father being away... I knew I had to come.
+Especially with Father being away... I knew I had to come.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -68,10 +70,10 @@ You know you did a great job filling mum's shoes after she passed away.[k]
 [cs]
 When you married into Lenster's royal family, I swore we had a lady on our hands.[k]
 [cs]
-But you're still the same old Ethlin. Poor Cuan! Hahahaa![k]
+But you're still the same old Ethlin. Poor Cuan! Hahaha![k]
 [cs]
 
-[TWinTop] # Ethrin
+[TWinTop] # Ethlin
 Sigurd! If I'm a nag, it's because of you and dad![k]
 [cs]
 If both of you weren't such slobs!
@@ -83,7 +85,7 @@ If both of you weren't such slobs!
 Ethlin, I'm sorry you had to come all this way. I can't thank you enough.[k]
 [cs]
 
-[TWinTop] # Ethrin
+[TWinTop] # Ethlin
 Sigurd...[k]
 
 [exit]
@@ -162,11 +164,11 @@ Lex! Are you here to help out, too?[k]
 [dcs]
 
 [TWinTop] # Lex
-Actually Azel, that little punk... he dragged me here.
+Actually, Azel, that little punk... he dragged me here.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-You're too much, Lex... ha ha. Does Lord Langobalt know you're here?[k]
+You're too much, Lex... haha. Does Lord Langbart know you're here?[k]
 [dcs]
 
 [TWinTop] # Lex
@@ -187,46 +189,6 @@ Well, we'll do what we can. Those barbarians have had their way long enough.[k]
 [exit]
 
 
-# 0x2e885f:
-# @@3340839@@
-
-[TWinTop][DlgOpn]['Alec' 0003]
-[TWinBtm][DlgOpn]['Ethrin' 0011]
-
-[TWinTop] # Alec
-Your Highness, you better pull out of this while you still can.[k]
-[cs]
-Things are going to get pretty nasty once we cross over into Verdane.
-
-[TWinBtm] # Ethrin
-[Wait 10]
-Alec? Wow, good to see you. Thanks for your concern.[k]
-[dcs]
-But I'll be just fine. My father thinks I'm nuts, but I love this kind of stuff.[k]
-[cs]
-
-[TWinTop] # Alec
-Yeah, but...
-
-[TWinBtm] # Ethrin
-[Wait 10]
-Alec, Edain and I have been friends forever. I'm just as worried as everybody else.[k]
-[dcs]
-That girl's in a bad spot. The sooner we get to her the better.[k]
-[cs]
-
-[TWinTop] # Alec
-You don't budge an inch, do you... Reminds me a lot of Sir Sigurd.[k]
-[cs]
-We'll do what we can to keep you safe, but don't you go doin' anything crazy, OK?
-
-[TWinBtm] # Ethrin
-[Wait 10]
-Thanks, Alec. I'll try not to.[k]
-
-[exit]
-
-
 # 0x2e89e0:
 # @@3340865@@
 
@@ -234,7 +196,7 @@ Thanks, Alec. I'll try not to.[k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Cuan
-Sigurd, everything alright!?
+Sigurd, everything alright?
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -258,7 +220,7 @@ I see... Geez, sorry to drag you in to all of this, Cuan.[k]
 [dcs]
 
 [TWinTop] # Cuan
-Sigurd! Did you forget about our pact already?
+Sigurd! Did you already forget about our pact?
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -268,9 +230,9 @@ Huh?[k]
 [TWinTop] # Cuan
 Remember the academy? We all met at the military academy back in Barhara.[k]
 [cs]
-It was the three of us. You, me, and Eltosian. We were talking late that one night.[k]
+It was the three of us. You, me, and Eltshan. We were talking late that one night.[k]
 [cs]
-And we all took a vow to help each other out if one of us was ever in a bind.
+And we took a vow to help each other out if one of us was ever in a bind.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -289,79 +251,43 @@ Don't forget, Sigurd. I'm always here for you. Especially in times like these.[k
 # 0x2e8cab:
 # @@3340891@@
 
-[TWinTop][DlgOpn]['Mideel' 0007]
+[TWinTop][DlgOpn]['Midir' 0007]
 [TWinBtm][DlgOpn]['Azel' 000A]
 
-[TWinTop] # Mideel
+[TWinTop] # Midir
 Azel...
 
 [TWinBtm] # Azel
 [Wait 10]
-Hey Midale. How are you doing?[k]
+Hey, Midir. How are you doing?[k]
 [dcs]
 
-[TWinTop] # Mideel
-Azel, I'm so sorry about Lady Edain. I really blew it this time.
+[TWinTop] # Midir
+Azel, I'm so sorry about Lady Aideen. I really blew it this time.
 
 [TWinBtm] # Azel
 [Wait 10]
-Naw, it's not your fault. Don't let it bother ya.[k]
+Naw, it's not your fault. Don't let it bother you.[k]
 [dcs]
 
-[TWinTop] # Mideel
-Yeah, but I just know that she means a lot to you.
+[TWinTop] # Midir
+Yeah, but I know that she means a lot to you.
 
 [TWinBtm] # Azel
 [Wait 10]
 Yeah, but that goes for you too, right?[k]
 [dcs]
 
-[TWinTop] # Mideel
+[TWinTop] # Midir
 How's that?
 
 [TWinBtm] # Azel
 [Wait 10]
-Look, we're both hurting. Let's work together to get her back.[k]
+...look, we're both hurting. Let's work together to get her back.[k]
 [dcs]
 
-[TWinTop] # Mideel
+[TWinTop] # Midir
 Yeah, let's do that.[k]
-
-[exit]
-
-
-# 0x2e8dc8:
-# @@3340917@@
-
-[TWinTop][DlgOpn]['Noish' 0002]
-[TWinBtm][DlgOpn]['Alec' 0003]
-
-[TWinTop] # Noish
-Alright. We're about to go into Verdane territory. Alec, you have any last words?
-
-[TWinBtm] # Alec
-[Wait 10]
-Noish, dammit! Would you lay off that crap!?[k]
-[dcs]
-You take every little thing we do too damn serious![k]
-[cs]
-
-[TWinTop] # Noish
-While serving under Sir Sigurd, we, as knights, must always be ready to give our life.
-
-[TWinBtm] # Alec
-[Wait 10]
-Yeah, don't remind me.[k]
-[dcs]
-Look, Sir Sigurd doesn't want us to get wasted out here under some loyalty pretext.[k]
-[cs]
-If you really want to show your loyalty to him, then do it by stayin' alive![k]
-[cs]
-
-[TWinTop] # Noish
-I don't need to be told that![k]
-[cs]
-Besides you're the one who seems to have trouble staying alive.[k]
 
 [exit]
 
@@ -377,7 +303,7 @@ Fin, this war may drag on for a while. Sorry to have to drag you into it.
 
 [TWinBtm] # Finn
 [Wait 10]
-Your Highness, I AM a Lenster knight. I'll go wherever you'll have me.[k]
+Your Highness, I am a knight of Lenster. I'll go wherever you'll have me.[k]
 [dcs]
 
 [TWinTop] # Cuan
@@ -385,7 +311,7 @@ I appreciate it.
 
 [TWinBtm] # Finn
 [Wait 10]
-Of course, I am still in my apprenticeship. I doubt I'll be of much help to you.[k]
+Of course, I am still only an apprentice. I doubt I'll be of much help to you.[k]
 [dcs]
 
 [TWinTop] # Cuan
@@ -403,28 +329,28 @@ Thank you very much, Your Highness![k]
 # 0x2e9025:
 # @@3340997@@
 
-[TWinTop][DlgOpn]['Mideel' 0007]
-[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop][DlgOpn]['Midir' 0007]
+[TWinBtm][DlgOpn]['Etain' 0017]
 
-[TWinTop] # Mideel
-My lady! You're alright![n]
-Ahh... what a relief![k]
+[TWinTop] # Midir
+My lady! You're alright! Ahh...[n]
+What a relief![k]
 [cs]
 My humblest apologies for all you had to go through!
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-Midale, I'm just happy that you're not hurt.[k]
+Midir, I'm just happy that you're not hurt.[k]
 [dcs]
-Let's put this all behind us. You did your very best, and that's all I could ever ask.[k]
+Let's put this all behind us. You did your very best, and that's all I could ever ask for.[k]
 [cs]
-Do me a favor, Midale, and stay with Sir Sigurd's troops.[k]
+Do me a favour, Midir, and stay with Sir Sigurd's troops.[k]
 [cs]
 
-[TWinTop] # Mideel
+[TWinTop] # Midir
 I'd be more than happy to.[k]
 [cs]
-I am greatly indebted to him for rescuing Jungby Castle for us and YOU as well!
+I am greatly indebted to him for rescuing Jungby Castle for us, and you as well![k]
 
 [exit]
 
@@ -433,13 +359,13 @@ I am greatly indebted to him for rescuing Jungby Castle for us and YOU as well!
 # @@3341034@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Etain' 0017]
 
 [TWinTop] # Sigurd
-Edain![n]
+Aideen![n]
 I'm glad to see you're in one piece!
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 Sir Sigurd![n]
 So you're the one behind my rescue![k]
@@ -450,22 +376,21 @@ Oh, I'm terribly sorry to bring all of you from Chalphy into this.[k]
 [TWinTop] # Sigurd
 No worries there. Everyone will just be glad to know that you're alright.[k]
 [cs]
-We have things under control here, Edain. Why don't you head on back to Grandbell?
+We have things under control here, Aideen. Why don't you head on back to Grandbell?
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 No, I'm staying. There's bound to be more injuries further along.[k]
 [dcs]
-I want to help others in the service of our lord.[k]
+I want to help others in the service of the Lord.[k]
 [cs]
 
 [TWinTop] # Sigurd
-Edain...[n]
-Didn't you leave the knighthood to become a nun?[k]
+Aideen... Didn't you leave the knighthood to become a nun?[k]
 [cs]
 I think it suits you perfectly. I'd do well to learn a thing or two from you myself.
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 Actually, the sole reason I joined the nunnery is...[k]
 [dcs]
@@ -475,11 +400,11 @@ Well, it's to aid the chances of finding my sister.[k]
 [TWinTop] # Sigurd
 You must mean Brigid. She's been missing since your childhood, hasn't she...[k]
 [cs]
-You still believe you can find her, don't you...
+You still believe you can find her, do you?
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-That's correct. And when I do, I must get the Holy Bow Ichieval to her![k]
+That's correct. And when I do, I must give the Holy Bow Ichival to her![k]
 
 [exit]
 
@@ -488,39 +413,39 @@ That's correct. And when I do, I must get the Holy Bow Ichieval to her![k]
 # @@3341060@@
 
 [TWinTop][DlgOpn]['Azel' 000A]
-[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Etain' 0017]
 
 [TWinTop] # Azel
-Lady Edain! You're not hurt, are you?
+Lady Aideen! You're not hurt, are you?
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-Azel of Velthomer! You've been helping out as well, have you?[k]
+Azel of Velthomer? You've been helping out as well, have you?[k]
 [dcs]
 
 [TWinTop] # Azel
-Yeah, when I heard you had been abducted, I c..couldn't concentrate on anything![k]
+Yeah, when I heard that you had been kidnapped, I couldn't concentrate on anything![k]
 [cs]
 I came as fast as I could.
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 Your brother is Lord Alvis, isn't he? Did you get his permission before coming?[k]
 [dcs]
 
 [TWinTop] # Azel
-Nope.[n]
+Nope...[n]
 And he's not going to be happy with me either.
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-Then why did you do such a stupid thing? Besides, I thought you hated fighting.[k]
+Then why did you do such a silly thing? Besides, I thought you hated fighting.[k]
 [dcs]
 
 [TWinTop] # Azel
-Well, I ah.. ahem...
+Well, I, uh...
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 What's that, Azel?[k]
 [dcs]
@@ -534,15 +459,15 @@ Er... nevermind.[k]
 # 0x2e94b8:
 # @@3341097@@
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
-[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop][DlgOpn]['Ethlin' 0011]
+[TWinBtm][DlgOpn]['Etain' 0017]
 
-[TWinTop] # Ethrin
-Edain, are you alright!? I heard that you'd been abducted... I was so worried!
+[TWinTop] # Ethlin
+Aideen, are you alright!? I heard that you'd been kidnapped... I was so worried!
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-Oh, Ethlin! You were out here fighting for me too, weren't you...[k]
+Oh, Ethlin! You were out here fighting for me too, were you...[k]
 [dcs]
 Thank you so much. I'm ever so grateful.[n]
 Here, please have this staff.[k]
@@ -550,8 +475,8 @@ Here, please have this staff.[k]
 I'm sure you'll get more use out of it than I.[k]
 [cs]
 
-[TWinTop] # Ethrin
-Isn't this a Return Staff!? Thank you, Edain! I'll put it to good use.[k]
+[TWinTop] # Ethlin
+This a Return Staff, isn't it? Thank you, Aideen! I'll put it to good use.[k]
 
 [exit]
 
@@ -559,26 +484,25 @@ Isn't this a Return Staff!? Thank you, Edain! I'll put it to good use.[k]
 # 0x2e958f:
 # @@3341128@@
 
-[TWinTop][DlgOpn]['Deu' 000F]
-[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop][DlgOpn]['Dew' 000F]
+[TWinBtm][DlgOpn]['Etain' 0017]
 
-[TWinTop] # Deu
-Hey, Edain. I got somethin' for ya. Check out this staff I found.[k]
+[TWinTop] # Dew
+Hey, Aideen. I got somethin' for ya. Check out this staff I found.[k]
 [cs]
 I can't get it t'do nothin', so there's no point in me keepin' it.
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-Oh, this is a Warp Staff, Dew.[n]
-Where'd you find it?[k]
+Oh, this is a Warp Staff, Dew. Where'd you find it?[k]
 [dcs]
 
-[TWinTop] # Deu
-Umm... It was a... over there! Yeah, that's where I found it.[k]
+[TWinTop] # Dew
+Umm... It was... over there! Yeah, that's where I found it.[k]
 [cs]
-And I betcha one of the gods dropped 'er outta the sky just for you!
+I betcha one of the gods dropped 'er outta the sky just for you!
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 Yeah right, Dew. Well, it will help out around here to have it. Thanks.[k]
 
@@ -589,12 +513,12 @@ Yeah right, Dew. Well, it will help out around here to have it. Thanks.[k]
 # @@3341166@@
 
 [TWinTop][DlgOpn]['Cuan' 0006]
-[TWinBtm][DlgOpn]['Ayra' 0013]
+[TWinBtm][DlgOpn]['Aira' 0013]
 
 [TWinTop] # Cuan
-Hello, I'm Cuan of Lenster. Sigurd tells me that you're Princess Ira from Isaac.
+Hello, I'm Cuan of Lenster. Sigurd tells me that you're Princess Aira from Isaac.
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
 ...Nice to meet you.[k]
 [dcs]
@@ -606,9 +530,9 @@ You had to have known Grandbell would get involved.[k]
 [cs]
 I just can't fathom why King Mananan would do something like that.
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
-Do you actually know my father, Cuan!?[k]
+You actually know my father, Cuan!?[k]
 [dcs]
 
 [TWinTop] # Cuan
@@ -616,33 +540,33 @@ No. Not personally. But my father did. He had a very high opinion of your father
 [cs]
 He also thought your brother, Prince Maricle, was an fine young man.
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
 He said that, did he...[n]
 That makes me proud.[k]
 [dcs]
-They're both highly respected soldiers. Neither would ever condone an attack on a defenseless people.[k]
+They were both highly respected soldiers. Neither would ever condone an attack on a defenseless people.[k]
 [cs]
 The leader of Rivough... He's the one who besieged Darna, not my father.[k]
 [cs]
 
 [TWinTop] # Cuan
-You're kidding!?[n]
+You're kidding![n]
 Why hasn't Grandbell been informed of that?[k]
 [cs]
-Prince Kult would surely reconsider his offensive if he knew that.
+Prince Kurth would surely reconsider his offensive if he knew that.
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
-My father thought so as well. After slaying Rivough's leader, he left for Grandbell's frontline, head and all, to explain everything.[k]
-[cs]
+My father thought so as well. After executing Rivough's leader, he left for Grandbell's frontline, head and all, to explain everything.[k]
+[dcs]
 However...[k]
 [cs]
 
 [TWinTop] # Cuan
 What?
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
 My father was assassinated at the Grandbellian front.[k]
 [dcs]
@@ -652,19 +576,19 @@ Maricle thus proceeded to launch a full-scale attack against Grandbell.[k]
 [cs]
 
 [TWinTop] # Cuan
-Whew... I just can't imagine Prince Kult acting so rashly.[k]
+Whew... I just can't imagine Prince Kurth acting so rashly.[k]
 [cs]
 Does Sigurd know about all of this?
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
 No. Sigurd has his hands full here as it is. Besides, I don't think Maricle...[k]
 [dcs]
 
 [TWinTop] # Cuan
-...survived? Prince Maricle knew he would perish in battle, did he...
+...survived? Prince Maricle knew he would perish in battle, huh...
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
 He believed the future of Isaac rests in Shanan's survival.[k]
 [dcs]
@@ -672,11 +596,11 @@ My job is to make sure Shanan grows up safe and sound.[k]
 [cs]
 
 [TWinTop] # Cuan
-I see... Well, don't lose hope, Ayra. Someday the truth will come to light.[k]
+I see... Well, don't lose hope, Aira. Someday the truth will come to light.[k]
 [cs]
 In the meantime, I'll try to help you out however I can.
 
-[TWinBtm] # Ayra
+[TWinBtm] # Aira
 [Wait 10]
 That's very kind of you, Cuan.[k]
 
@@ -686,34 +610,30 @@ That's very kind of you, Cuan.[k]
 # 0x2e9af4:
 # @@3341192@@
 
-[TWinTop][DlgOpn]['Deu' 000F]
+[TWinTop][DlgOpn]['Dew' 000F]
 [TWinBtm][DlgOpn]['Laches' 0012]
 
-[TWinTop] # Deu
-Lachesis... there you are.[n]
-Hey, check out this cool sword I found for ya.
+[TWinTop] # Dew
+Lachesis... there you are. Hey, check out this cool sword I found for ya.
 
 [TWinBtm] # Laches
 [Wait 10]
-Wow, that's an unusual one, isn't it...[n]
-What kind is it?[k]
+Wow, that's an unusual one, isn't it... What kind is it?[k]
 [dcs]
 
-[TWinTop] # Deu
-It's a Thief Sword.[n]
-Now you can tear into them bad guys!
+[TWinTop] # Dew
+It's a Thief Sword. Now you can tear into them bad guys!
 
 [TWinBtm] # Laches
 [Wait 10]
-Er... thanks, Dew.[n]
-But don't you want it for yourself?[k]
+Er... thanks, Dew. But don't you want it for yourself?[k]
 [dcs]
 
-[TWinTop] # Deu
-Nah, go ahead.[n]
-No point in me keepin' it.[k]
+[TWinTop] # Dew
+Nah, go ahead. No point in me keepin' it.[k]
 [cs]
-Let's just say it does more than cuts and dices (hehehe...).[n]
+Let's just say it does more than cuts and dices, heheh.[k]
+[cs]
 See ya, Lachesis![k]
 
 [exit]
@@ -722,41 +642,39 @@ See ya, Lachesis![k]
 # 0x2e9c14:
 # @@3341230@@
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
-[TWinBtm][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Ethlin' 0011]
+[TWinBtm][DlgOpn]['Deirdre' 0010]
 
-[TWinTop] # Ethrin
-Dierdre, you holding up alright? My brother sure worries about you being out here.
+[TWinTop] # Ethlin
+Deirdre, you holding up alright? My brother really worries about you being out here.
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 Ethlin... thanks for your concern.[k]
 [dcs]
-I'll be fine...[n]
-as long as I have Sigurd at my side.[k]
+I'll be fine... as long as I have Sigurd at my side.[k]
 [cs]
 
-[TWinTop] # Ethrin
-I still can't get over how much he's changed since meeting you, Dierdre.
+[TWinTop] # Ethlin
+I still can't get over how much he's changed since meeting you, Deirdre.
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 Ethlin... I have something I'd like you to have.[k]
 [dcs]
 
-[TWinTop] # Ethrin
-Isn't this a Light Sword!?[n]
+[TWinTop] # Ethlin
+Isn't this... the Light Sword!?[k]
+[cs]
 You sure you want me to have this?
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
-Yes.[n]
-I know you'll put it to good use.[k]
+Yes. I know you'll put it to good use.[k]
 [dcs]
 
-[TWinTop] # Ethrin
-Thank you so much, Dierdre![n]
-I'll treasure it![k]
+[TWinTop] # Ethlin
+Thank you so much, Deirdre! I'll treasure it![k]
 
 [exit]
 
@@ -770,21 +688,17 @@ I'll treasure it![k]
 [TWinTop] # Cuan
 Fin, these Agustrian knights are a good step up from those savages in Verdane.[k]
 [cs]
-I'd say your weapon needs a little upgrading.[n]
-Here, take this lance off of me.
+I'd say your weapon needs a little upgrading. Here, try using this lance.
 
 [TWinBtm] # Finn
 [Wait 10]
-A Hero's Lance...[n]
-Are you sure about this?[k]
+A Hero Lance... Are you sure about this?[k]
 [dcs]
 
 [TWinTop] # Cuan
-You're a valuable knight of the Lenster Kingdom, Fin.[n]
-We can't afford to lose you.[k]
+You're a valuable knight of the Lenster Kingdom, Fin. We can't afford to lose you.[k]
 [cs]
-This lance is about all I can do to help you out now.[n]
-Please have it.
+Giving you this lance is about all I can do to help you out now. Please have it.
 
 [TWinBtm] # Finn
 [Wait 10]
@@ -800,14 +714,14 @@ Your Highness... thank you very much.[k]
 [TWinBtm][DlgOpn]['Levin' 0008]
 
 [TWinTop] # Sigurd
-Aren't you Levin? I heard you've been helping out the villagers. I sure appreciate it.[k]
+Aren't you Levin? I heard you've been helping out the villagers. I certainly appreciate it.[k]
 [cs]
-I also heard you're a bard, but one that can do magic!?
+I also heard you're a bard...[n]
+...but one that can do magic?
 
 [TWinBtm] # Levin
 [Wait 10]
-Yeah, call it a hobby of mine.[n]
-I take it you're that Sigurd guy.[k]
+Yeah, call it... a hobby of mine. I take it you're that Sigurd guy.[k]
 [dcs]
 You must have an awful lot of free time to be runnin' around startin' wars all over the place![k]
 [cs]
@@ -818,14 +732,14 @@ What're you so angry about?
 
 [TWinBtm] # Levin
 [Wait 10]
-Try putting YOURSELF into these people's shoes for a second![k]
+Try putting yourself into these people's shoes for a second![k]
 [dcs]
-They're just tryin' to make a livin' here. Then you show up flashin' your shiny swords...[k]
+They're just tryin' to make a livin' here. Then you show up, flashin' your shiny swords around...[k]
 [cs]
 
 [TWinTop] # Sigurd
 Hmm... I see your point.[n]
-Geez, I feel awful to the Agustrian people.
+Geez, I feel awful about the Agustrian people.
 
 [TWinBtm] # Levin
 [Wait 10]
@@ -838,37 +752,36 @@ Look, I'll go consult with my people.
 
 [TWinBtm] # Levin
 [Wait 10]
-Wh.. wh.. whoa![n]
-You serious about pullin' out?[k]
+W, w, whoa![n]
+You serious about pullin' out!?[k]
 [dcs]
 
 [TWinTop] # Sigurd
-Yeah, I've been tossing the idea around myself, and you just helped me to make up my mind.[k]
+Yeah, I've been tossing the idea around myself, and you just helped me make up my mind.[k]
 [cs]
 I'm through fighting.[n]
-I've got to try and settle this with King Shagall peacefully.
+I've got to try and settle this with King Shagaal peacefully.
 
 [TWinBtm] # Levin
 [Wait 10]
-Ahh... that'd be a complete and utter waste of your time.[n]
-He won't listen to ya.[k]
+Ah... that'd be a complete and utter waste of your time. He wouldn't listen to you.[k]
 [dcs]
-And if Grandbell pulls out now, all of the citizens who helped you guys out'll be tossed in jail![k]
+And if Grandbell pulls out now, all the citizens who helped you guys out'll be tossed in jail![k]
 [cs]
-Doesn't that bother you any?[k]
+Doesn't that bother you?[k]
 [cs]
 
 [TWinTop] # Sigurd
 Well, um... of course it does![n]
-But didn't I, er...
+But... didn't I, er...
 
 [TWinBtm] # Levin
 [Wait 10]
-Ha ha ha! You're alright, Sigurd. Look, how about I join up with you guys?[k]
+Hahaha! You're alright, Sigurd. Look, how about I join up with you guys?[k]
 [dcs]
 
 [TWinTop] # Sigurd
-Join up wi-[n]
+Join up wi...[n]
 Just who are you!?
 
 [TWinBtm] # Levin
@@ -885,15 +798,15 @@ Me? Just a traveling bard, my friend.[k]
 [TWinBtm][DlgOpn]['Laches' 0012]
 
 [TWinTop] # Beowulf
-Hey, ain't you that Nodion princess?
+Hey, aren't you that princess from Nodion?
 
 [TWinBtm] # Laches
 [Wait 10]
-How rude! And just who are you!?[k]
+How rude! Just who are you!?[k]
 [dcs]
 
 [TWinTop] # Beowulf
-Er... sorry. Beowulf's the name. I'm just a mercenary soldier, ma'am.
+Er... sorry. Beowulf's the name. I'm just a mercenary, ma'am.
 
 [TWinBtm] # Laches
 [Wait 10]
@@ -901,11 +814,11 @@ So what do you want?[k]
 [dcs]
 
 [TWinTop] # Beowulf
-Uh... I just came t'tell ya this is for real out here. This ain't no fun 'n games.[k]
+Uh... I just came to tell you this is for real out here. This ain't no fun'n games.[k]
 [cs]
 And you inexperienced types ain't makin' things easy for the rest of us.[k]
 [cs]
-Besides, this ain't no place for a princess. Why'ncha get on back to your castle?
+Besides, this ain't no place for a princess. Why don't you get on back to your castle?
 
 [TWinBtm] # Laches
 [Wait 10]
@@ -913,11 +826,11 @@ Where do you get off speaking to me like that!? What I do out here is no busines
 [dcs]
 
 [TWinTop] # Beowulf
-Heh heh... tough little cookie, ain't ya. Remind me a bit of Eltosian.
+Heh heh... tough little cookie, ain't ya. Remind me a bit of Eltshan.
 
 [TWinBtm] # Laches
 [Wait 10]
-Hey! You know my brother?[k]
+Wait! You know my brother?[k]
 [dcs]
 
 [TWinTop] # Beowulf
@@ -925,15 +838,15 @@ Sure do. We go way back. Don't mean t'be so nosy, but he asked me t'check up on 
 
 [TWinBtm] # Laches
 [Wait 10]
-Oh, I didn't realize. I'm sorry.[k]
+Oh, I didn't realise. I'm sorry.[k]
 [dcs]
 
 [TWinTop] # Beowulf
-S'alright. Eltosian also asked me t'teach you a bit about warfare. How 'bout it?
+S'alright. Eltshan also asked me t'teach you a bit about warfare. How 'bout it?
 
 [TWinBtm] # Laches
 [Wait 10]
-Sounds great![k]
+That'd be great![k]
 
 [exit]
 
@@ -945,17 +858,16 @@ Sounds great![k]
 [TWinBtm][DlgOpn]['Sylvia' 0016]
 
 [TWinTop] # Alec
-Ahhh! So YOU are Sylvia...[n]
+Ah! So you're Sylvia...[n]
 Pardon me for sayin' so, but you are fine!
 
 [TWinBtm] # Sylvia
 [Wait 10]
-It's about time someone appreciates my beauty! I tell ya.[k]
+Well, it's about time someone appreciates my beauty! I tell ya...[k]
 [dcs]
 
 [TWinTop] # Alec
-Good thing I showed up, huh?[n]
-Sure glad I found ya in all this mess.
+Good thing I showed up, huh? Sure glad I found you in all this mess.
 
 [TWinBtm] # Sylvia
 [Wait 10]
@@ -970,11 +882,11 @@ You wanna hang out sometime?
 You bet![n]
 I can show ya my special dance![k]
 [dcs]
-I ain't shown it to no one yet. Let's just say it's ah... V-E-R-Y special![k]
+I ain't shown it to no one yet. Let's just say it's, ah... V-E-R-Y special![k]
 [cs]
 
 [TWinTop] # Alec
-W..Whoa![n]
+W, whoa![n]
 That I want to see![k]
 
 [exit]
@@ -987,17 +899,17 @@ That I want to see![k]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop] # Sylvia
-(Shriek!!)[n]
-Sir Sigurd!
+Eeee!![n]
+It's Sir Sigurd!
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Er... you a dancer? You sure don't belong out here. Now get back to the castle.[k]
+Er... are you a dancer? You certainlly don't belong out here. Now get back to the castle.[k]
 [dcs]
 
 [TWinTop] # Sylvia
 Sir, don'cha ya know who I am?[n]
-I'm Sylvia. Call me ''Sylvie'' if ya like.
+I'm Sylvia. Call me Sylvie if ya like.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -1005,10 +917,10 @@ Look, I don't have time for this. Now be a good little girl and run on back to t
 [dcs]
 
 [TWinTop] # Sylvia
-Good little gi-[n]
+Good little gi...[n]
 You ever see a little girl with THESE before!?[k]
 [cs]
-(Brr... what a moron.)
+Grr... what a moron.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -1016,7 +928,7 @@ Enough already![k]
 [dcs]
 
 [TWinTop] # Sylvia
-(sigh..) I'm just a lone flower upon the battleground. Beauty entrapped by adversity...
+Sigh... I'm just a lone flower upon the battleground. Beauty entrapped by adversity...
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -1037,7 +949,7 @@ Are you Sir Sigurd?
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Yep. That's me. And who are you?[k]
+Yep, that's me. And who are you?[k]
 [dcs]
 
 [TWinTop] # Fury
@@ -1045,17 +957,17 @@ I'm Fury, a Silesian knight. I'm responsible for Prince Levin's welfare, so I'll
 
 [TWinBtm] # Sigurd
 [Wait 10]
-...Prince Levin? What are you talking about??[k]
+...Prince Levin? What are you talking about?[k]
 [dcs]
 
 [TWinTop] # Fury
-Prince Levin is Silesia's proper successor to the throne.[k]
+Prince Levin is the successor to the throne of Silesia.[k]
 [cs]
-He has inherited special qualities as he is a descendant of Sety, the Wind Crusader.
+He has inherited special powers as he is a descendant of Sety, the Wind Crusader.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Our Levin's the prince of Silesia!? Heh... I thought there was something about him.[k]
+Levin's the prince of Silesia? Heh... I thought there was something different about him.[k]
 [dcs]
 So why is he parading around as a bard?[k]
 [cs]

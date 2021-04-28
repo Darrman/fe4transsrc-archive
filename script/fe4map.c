@@ -28,6 +28,8 @@ unsigned long mapfunc(unsigned long addr,int mapno)
          return (addr - 0x3DE12 + 0x200) & 0xFFFF;
       case 8:
          return (addr - 0x3F717 + 0x200) & 0xFFFF;
+      case 9:
+         return (addr - 0x3E4E8 + 0x200) & 0xFFFF;
       case 10:
          return addr & 0xFFFF;
    }

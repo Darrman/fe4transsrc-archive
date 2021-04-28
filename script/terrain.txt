@@ -1,6 +1,8 @@
 # 4 3 enm1
 
-# Last modified: 02/05/04
+# Fontcheck: Tiled
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is used for altering the names of the various type of terrain.
@@ -246,7 +248,7 @@ Chur
 # @@230825@@
 
 #????????
-Shrine
+Shrn
 
 #*# [exit]
 
@@ -255,7 +257,7 @@ Shrine
 # @@230827@@
 
 #?u???M??????
-B Tower
+Tower
 
 #*# [exit]
 

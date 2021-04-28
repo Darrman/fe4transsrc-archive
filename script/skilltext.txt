@@ -1,4 +1,6 @@
-# Last modified: 20/06/04
+# Fontcheck: Tiled
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is used for filling in the descriptions of the skills.
@@ -72,7 +74,7 @@ attacks
 
 # Prayer
 # @@634406@@
-High[spx]evade
+Ups[spx]evade[spx]
 when[spx]low[spx][spx]
 on[spx]health
 [exit]
@@ -81,7 +83,7 @@ on[spx]health
 # Critical
 # @@634409@@
 May[spx]double
-attack[spx]if[spx]
+power[spx]if[spx][spx]
 high[spx]skill
 [exit]
 
@@ -90,13 +92,13 @@ high[spx]skill
 # @@634412@@
 Attack[spx][spx][spx][spx]
 first[spx]when
-on[spx]low[spx]HP
+low[spx]on[spx]HP
 [exit]
 
 
 # Duel
 # @@634415@@
-Can[spx]keep[spx][spx]
+May[spx]keep[spx][spx]
 fighting[spx][spx]
 if[spx]agile
 [exit]
@@ -150,7 +152,7 @@ discount
 
 # Big Shield
 # @@634460@@
-BigShield
+Greatshld
 [exit]
 
 
@@ -192,7 +194,7 @@ Charisma
 
 # Awareness
 # @@634496@@
-Awareness
+Nihil
 [exit]
 
 
@@ -228,7 +230,7 @@ Meteor
 
 # Moonlight Sword
 # @@634514@@
-Moonlight
+Lunar
 [exit]
 
 

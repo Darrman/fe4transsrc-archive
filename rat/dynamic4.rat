@@ -1,9 +1,0 @@
-.rat
-# Last modified: 08/05/04
-# This file was added by Dark Twilkitri
-
-# RAT for the dynamic character names
-SECTION dynanames
-        0D948B-0D9601
-	0DF52D-0DFE55
-END

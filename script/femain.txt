@@ -1,4 +1,6 @@
-# Last modified: 09/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 24/06/2006
 # This file was last modified by Dark Twilkitri
 
 # This file is for altering the narration before each level.
@@ -39,17 +41,17 @@
 # @@917122@@
 
 [$00$86$08]
-Grandbell rests in the center of the Jugdral continent and was founded by Saint Heim, one of the 12 Crusaders.[k]
+Grandbell rests in the centre of the Jugdral continent and was founded by Saint Heim, one of the 12 Crusaders.[k]
 [cs]
 [$00$87]
 [Wait 0A]
 Heim's descendants, the Royal Family, were joined by six
 [$00$80$8C$1C$00$0C]
-additional dukedoms,
+additional duchies,
 [$00$80$A4$7C$0C$0E]
 each with their own Crusader lineage.[k]
 [cs]
-Each dukedom possessed large territory and military holdings, and exercised partial autonomy while serving under the Royal Family.[k]
+Each duchy possessed large territory and military holdings, and exercised partial autonomy while serving under the Royal Family.[k]
 [cs]
 [$00$81$0C]
 On behalf of the
@@ -58,12 +60,12 @@ aging King Azmur,[k]
 [$00$84$02]
 the government was administered by the 
 [$00$82$04$7C$02][$00$83$04$98$1C]
-highly regarded Prince Kult.[k]
+highly regarded Prince Kurth.[k]
 [cs]
 [$00$81$00][$00$80$7C$84$0C$10]
 Assisting the prince
 [$00$82$06$7E$02][$00$83$06$64$48]
-was his confidant Lord Vylon of Chalphy,
+was his confidant Lord Byron of Chalphy,
 [$00$81$0C][$00$80$34$94$0C$12]
 and Lord Ring
 [$00$82$08$7D$02][$00$83$08$30$60]
@@ -81,7 +83,7 @@ being undermined.[k]
 [$00$80$74$34$0C$16]
 Calling on the avaricious
 [$00$82$04$44$02][$00$83$04$84$38]
-Lord Langobalt of Dozel, the two
+Lord Langbart of Dozel, the two
 [$00$81$0C]
 formed a coalition opposing the prince's authority.[k]
 [cs]
@@ -132,11 +134,11 @@ Reports told of a massive slaughter taking place.
 Back in Grandbell, public outcry began to grow, and before long the decision was made to subdue Isaac.[k]
 [cs]
 [$00$82$02$7C$02][$00$83$02$98$1C]
-Acting on his father's behalf, Prince Kult departed for the front commanding the lords from each dukedom.[k]
+Acting on his father's behalf, Prince Kurth departed for the front commanding the lords from each duchy.[k]
 [cs]
 There at his side, a warrior in his own right revered for his heroism and bravery,
 [$00$82$04$7E$02][$00$83$04$64$48]
-was none other than Lord Vylon.[k]
+was none other than Lord Byron.[k]
 [cs]
 [$00$84$02][$00$84$04]
 Only a handful of soldiers remained in Grandbell.[k]
@@ -187,21 +189,21 @@ However, that trust was betrayed all too soon.[k]
 [$00$80$61$3A$00$00]
 Verdane Kingdom's massive army, 
 [$00$82$06$4D$00][$00$83$06$20$40]
-spearheaded by Prince Gandolf, crossed into Grandbell territory unnoticed and laid siege on Jungby Castle.[k]
+spearheaded by Prince Gandolf, crossed into Grandbell territory unnoticed and laid siege to Jungby Castle.[k]
 [cs]
-Edain, daughter of Lord Ring, 
+Aideen, daughter of Lord Ring, 
 [$00$82$02$17$00][$00$83$02$88$18]
 had sole responsibility for the castle.[k]
 [cs]
-Entrusted with the protection of the kingdom by his father, Lord Vylon,
+Entrusted with the protection of the kingdom by his father, Lord Byron,
 [$00$84$02][$00$82$04$01$00][$00$83$04$B4$06]
 Sigurd stayed behind at Chalphy Castle.[k]
 [cs] 
 With only a few soldiers at his disposal, he was rightfully terrified when news of the invasion reached Chalphy.[k]
 [cs]
-Sigurd cried, ''Those barbarians aren't laying a hand on Edain!''[k]
+Sigurd cried, 'Those barbarians aren't laying a hand on Aideen!'[k]
 [cs]
-Having known Edain since childhood, he was left with no other alternative.[k]
+Having known Aideen since childhood, he was left with no other alternative.[k]
 [cs]
 Sigurd promptly made the decision to take up arms.[k]
 [cs]
@@ -212,7 +214,7 @@ It was this very turn of events
 that cracked open the door of fate.[k]
 [cs]
 [$00$84$04][$00$84$06][$00$81$00][$00$81$0C]
-No one at the time could have recognized this forewarning to the disastrous events to follow.
+No one at the time could have recognised this forewarning to the disastrous events to follow.
 [Wait 28]
 [k]
 [cs]
@@ -224,7 +226,7 @@ No one at the time could have recognized this forewarning to the disastrous even
 # 0x3286fb:
 # @@917229@@
 
-Edain was nowhere to be found in Evans Castle.[k]
+Aideen was nowhere to be found in Evans Castle.[k]
 [cs]
 
 [exit]
@@ -243,7 +245,7 @@ She had already been taken deep into Verdane territory.[k]
 # @@917249@@
 
 Verdane existed under the cover of a thick forest.[n]
-In the past, Verdane's frequent encroachment of the border earned them the label of 'barbarian' by the people of Grandbell.[k]
+In the past, Verdane's frequent encroachment of the border earned them the label of barbarians by the people of Grandbell.[k]
 [cs]
 
 [exit]
@@ -282,7 +284,7 @@ the eldest son, Gandolf of Marpha,
 [$00$82$08$4D$00]
 [$00$83$08$40$60]
 [k]
-and Jamuka, the youngest of the three.
+and Jamka, the youngest of the three.
 [Wait 04]
 [$00$82$0A$0B$00]
 [$00$83$0A$70$40]
@@ -298,7 +300,7 @@ the savages awaited Sigurd's arrival.[k]
 # 0x3288e8:
 # @@917296@@
 
-Where had Edain been swept off to?[n]
+Where had Aideen been swept off to?[n]
 And what incited King Batou to invade Grandbell without warning?[k]
 [cs]
 Sprawling before Sigurd lay the daunting Great Verdane Forest.[k]
@@ -318,7 +320,7 @@ Upon gaining control of the Verdane Kingdom,
 [$00$83$02$A0$20]
 Sigurd received orders from Barhara to preside over Evans Castle along the border.[k]
 [cs]
-He soon thereafter took Dierdre to be his wife.[k]
+He soon thereafter took Deirdre to be his wife.[k]
 [cs]
 [$00$84$02]
 
@@ -330,7 +332,7 @@ He soon thereafter took Dierdre to be his wife.[k]
 
 Grandbell's subjugation of Verdane
 [$00$86$01]
-caused quite a stir in neighboring Agustria.
+caused quite a stir in neighbouring Agustria.
 The lords of Agustria expressed strong anti-Grandbell sentiment.[k]
 [cs]
 [exit]
@@ -339,12 +341,12 @@ The lords of Agustria expressed strong anti-Grandbell sentiment.[k]
 # 0xe8d84:
 # @@917340@@
 
-The great King Imuka, who prized peace more than anything, was fallen by an assassin.[k]
+The great King Imuka, who prized peace more than anything, was killed by an assassin.[k]
 [cs]
 King Imuka was succeeded by his eldest son,
 [$00$82$04$A1$00]
 [$00$83$04$A8$24]
-Prince Shagall.[k]
+Prince Shagaal.[k]
 [cs]
 Grandbell's military was still far away to the east in Isaac.[k]
 [cs]
@@ -386,7 +388,7 @@ Under orders to hold Evans Castle, Sigurd once again found himself in the midst 
 After losing Agusty,
 [$00$82$02$A1$00]
 [$00$83$02$78$0C]
-King Shagall moved his royal court north to Madino. Keeping his word with Eltosian, Sigurd did not pursue him.[k]
+King Shagaal moved his royal court north to Madino. Keeping his word with Eltshan, Sigurd did not pursue him.[k]
 [cs]
 
 [exit]
@@ -395,7 +397,7 @@ King Shagall moved his royal court north to Madino. Keeping his word with Eltosi
 # 0xe8f17:
 # @@917418@@
 
-While the troops rested at Agusty Castle, Sigurd worked to fulfill his promise to Eltosian.[k]
+While the troops rested at Agusty Castle, Sigurd worked to fulfill his promise to Eltshan.[k]
 [cs]
 He persisted in negotiations aimed to return administrative control back to Agusty.[k]
 [cs]
@@ -421,7 +423,7 @@ Before long, a new conflict arose giving Sigurd great cause for concern.[k]
 # 0xe903f:
 # @@917434@@
 
-Shagall had been arranging a military force
+Shagaal had been arranging a military force
 [$00$82$02$A1$00]
 [$00$83$02$7A$04]
 [Wait 0C]
@@ -472,9 +474,9 @@ positioned themselves to take advantage of the ensuing chaos.[k]
 [cs]
 Sigurd had strict orders from Barhara to hold Agusty Castle at any cost.[k]
 [cs]
-The ensuing conflict weighed heavily on Siglud's heart.[k]
+The ensuing conflict weighed heavily on Sigurd's heart.[k]
 [cs]
-In addition, Eltosian had troops stationed at Silvail Fort southwest of Madino.
+In addition, Eltshan had troops stationed at Silvail Fort southwest of Madino.
 [$00$82$02$5A$00]
 [$00$83$02$40$30]
 [k]
@@ -495,7 +497,7 @@ one that could very well change the course of history.[k]
 # 0xecc72:
 # @@917483@@
 
-In an unthinkable series of events, Sigurd had been blackened a traitor by his beloved motherland.
+In an unthinkable series of events, Sigurd had been denounced as a traitor by his beloved motherland.
 [$00$82$02$01$00]
 [$00$83$02$24$06]
 [k]
@@ -554,7 +556,7 @@ Duke Maios, began to amass an army at Thove Castle.
 [$00$81$0C]
 [k]
 [cs]
-It was these swelling of events that compelled Prince Levin to leave the country.
+It was these events that compelled Prince Levin to leave the country.
 [$00$84$02]
 [k]
 [cs]
@@ -587,12 +589,12 @@ since gaining control of Zaxon Castle.
 [$00$80$74$13$0C$26]
 He sat face to face with Grandbell's military stationed over at Lubeck Castle.[k]
 [cs]
-Commanding the forces was an enemy of Siglud's father...[n]
+Commanding the forces was an enemy of Sigurd's father...[n]
 [$00$82$04$44$02]
 [$00$83$04$BC$08]
-Lord Langobalt.[k]
+Lord Langbart.[k]
 [cs]
-Engaging Grandbell's military would provide Siglud a chance to avenge his father's entrapment at the hands of Langobalt.
+Engaging Grandbell's military would provide Sigurd a chance to avenge his father's entrapment at the hands of Langbart.
 [$00$81$0C]
 [k]
 [cs]
@@ -601,7 +603,7 @@ Stationed in the desert town Phinora were Lord Alvis' men,
 [$00$82$06$48$02]
 [$00$83$06$70$28]
 [$00$81$0C]
-and the great mage fighter, Vaha.[k]
+and the great Magefighter, Vaha.[k]
 [cs]
 [$00$80$5C$7C$0C$2C]
 In Velthomer, Alvis' most trusted confidant
@@ -709,9 +711,9 @@ And with the overwhelming support of the people, he became the first emperor of 
 [$00$83$0A$64$38]
 The people who once enthusiastically welcomed Emperor Alvis
 [$00$81$00]
-were now experiencing extreme hardship under the oppresive rule.[k]
+were now experiencing extreme hardship under his oppresive rule.[k]
 [cs]
-And in the surrounding nations which came under the empire's rule, the people were forced to live in slavery like conditions.[k]
+And in the surrounding nations which fell under the empire's rule, the people were forced to live in slavery like conditions.[k]
 [Wait 0A]
 [$00$84$0A]
 [cs]
@@ -739,9 +741,9 @@ The extreme conditions had taken its toll on the people.[k]
 [Wait 02]
 [$00$82$02$4D$02]
 [$00$83$02$3E$60]
-King Danan of Isaac was a merciless ruler,
+King Dannan of Isaac was a merciless ruler,
 [$00$81$00]
-taking much after his father, Duke Langobalt.[k]
+taking much after his father, Duke Langbart.[k]
 [cs]
 He dropped the social standing of the Isaacian people to that of slaves, while he himself indulged in the pleasures of the royal palace at Rivough.[k]
 [cs]
@@ -749,7 +751,7 @@ He dropped the social standing of the Isaacian people to that of slaves, while h
 [Wait 02]
 [$00$82$04$1E$00]
 [$00$83$04$90$48]
-Danan's second oldest son, Johan, presided over Isaac Castle 
+Dannan's second oldest son, Johan, presided over Isaac Castle 
 [Wait 14]
 [$00$81$00]
 [Wait 02]
@@ -791,7 +793,7 @@ Fortunately, the people of Isaac were not without hope.[k]
 [Wait 0A]
 [$00$82$02$1A$00]
 [$00$83$02$30$08]
-Prince Shanan had organized a liberation army based in the northern isolated village of Tilnanogue.[k]
+Prince Shanan had organised a liberation army based in the northern isolated village of Tilnanogue.[k]
 [$00$81$00]
 [cs]
 Their strength increased day by day...[k]
@@ -850,7 +852,7 @@ But they suffered a crushing defeat before King Blume's massive army and found t
 The Yied Desert was administered by a Lopt Sectarian
 [$00$82$02$50$02]
 [$00$83$02$64$07]
-named Cutozov out of Yied Shrine.
+named Cutozov from Yied Shrine.
 [$00$81$00]
 [k]
 [cs]
@@ -916,7 +918,7 @@ Celice was all set to depart Rivough and lead the warriors
 [$00$81$00]
 [$00$82$02$19$00]
 [$00$83$02$64$30]
-of Isaac's liberation army on a rescue mission in distant Lenster.[k]
+of Isaac's liberation army on a rescue mission to distant Lenster.[k]
 [cs]
 Each warrior put aside his and her individual concerns as they embraced the new challenge before them.[k]
 [cs]
@@ -942,11 +944,11 @@ The northern half is an enormous fertile savannah home to several small kingdoms
 # 0xfe246:
 # @@917720@@
 
-While the south is a barren wasteland lined with towering mountains, 
+The south however is a barren wasteland lined with towering mountains, 
 [$00$86$06]
 and home to the Thracia Kingdom and their infamous Dragon Knights.[k]
 [cs]
-With reckless valor Thracia made repeated attempts
+With reckless valour Thracia made repeated attempts
 [$00$87]
 [$00$80$94$64$0C$30]
 to conquer the northern fertile land.[k]
@@ -1065,7 +1067,7 @@ King Trabant stationed both his children,
 Prince Arion and Princess Altenna, at the capital,
 [$00$82$04$2C$00]
 [$00$83$04$A0$58]
-while the distinguished General Hannibal, dubbed 'the Shield of Thracia',
+while the distinguished General Hanibal, dubbed 'The Shield of Thracia',
 was posted at Kapathogia Castle.
 [$00$82$06$24$00]
 [$00$83$06$60$34]
@@ -1074,7 +1076,7 @@ was posted at Kapathogia Castle.
 Occupying Luthecia Castle was the king's trusted confidant
 [$00$82$08$62$02]
 [$00$83$08$10$08]
-General Disler, and dispatched from the empire,
+General Disler, and, dispatched from the empire,
 [$00$82$0A$67$02]
 [$00$83$0A$18$60]
 the Dark Bishop Judah held Grutia Castle.[k]
@@ -1148,7 +1150,7 @@ An intense battle ensued,
 [Wait 02]
 [$00$82$08$19$00]
 [$00$83$08$A0$18]
-but the Imperial Guard was driven away, and Peruluke was free once again.[k]
+and the Imperial Guard was driven away, and Peruluke was free once again.[k]
 [cs]
 The liberation army received a hero's welcome from the townspeople.[k]
 [cs]
@@ -1208,13 +1210,13 @@ However, the momentum had yet to penetrate Grandbell.[k]
 [$00$82$06$73$02]
 [$00$83$06$40$48]
 [Wait 20]
-The Grauer Ritter axe brigade under the command of Brian of Dozel,[n]
+The Grauen Ritter axe brigade under the command of Burian of Dozel,[n]
 [$00$82$0A$72$02]
 [$00$83$0A$10$68]
-the Beiger Ritter archer brigade under the command of Scorpio of Jungby,[n]
+the Beige Ritter archer brigade under the command of Scorpio of Jungby,[n]
 [$00$82$08$68$02]
 [$00$83$08$08$10]
-and the Gelber Ritter thunder brigade under the command of Queen Hilda of Freege were all in top form.[k]
+and the Gelben Ritter thunder brigade under the command of Queen Hilda of Freege were all in top form.[k]
 [cs]
 Ishtar and
 [$00$82$04$71$02]

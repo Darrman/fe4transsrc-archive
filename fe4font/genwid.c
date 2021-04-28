@@ -21,7 +21,7 @@ int ReturnWidth(unsigned short f[0x10][0x02])
       if(j > maxwidth) maxwidth = j;
    }
 
-   return maxwidth + 2;
+   return maxwidth + 1;
 }
 
 int main(int argc,char *argv[])

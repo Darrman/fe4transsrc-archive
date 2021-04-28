@@ -1,4 +1,6 @@
-# Last modified: 08/05/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file lists all the missing shop dialogue, which

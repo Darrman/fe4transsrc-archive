@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 24/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from the Epilogue.
@@ -42,7 +44,7 @@ My father's dead, is he...
 
 [TWinBtm] # (null)
 [Wait 10]
-He was of no use to us any more. The rebel army did us a favor by removing him.[k]
+He was of no use to us any more. The rebel army did us a favour by removing him.[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -63,7 +65,7 @@ Should that concern me?
 
 [TWinBtm] # (null)
 [Wait 10]
-I've already given orders to Bishop Rodan and Brian of Dozel to retake Chalphy.[k]
+I've already given orders to Bishop Rodan and Burian of Dozel to retake Chalphy.[k]
 [dcs]
 Rest assured, there's no cause for alarm.[k]
 [cs]
@@ -74,7 +76,7 @@ Manfloy, I want to see Julia. Where is she being kept?
 
 [TWinBtm] # (null)
 [Wait 10]
-She's in the dungeon. One moment... Guards, fetch us the Imperial Princess NOW![k]
+She's in the dungeon. One moment... Guards, fetch us the Imperial Princess, now![k]
 [dcs]
 
 [DlgCls][xChr]
@@ -82,7 +84,7 @@ She's in the dungeon. One moment... Guards, fetch us the Imperial Princess NOW![
 [Wait 10]
 
 [TWinBtm][DlgOpn]['Yuria' 002B]
-. . . . .[k]
+...[k]
 [cs]
 
 [TWinTop] # (null)
@@ -91,11 +93,11 @@ Do you remember who I am?
 
 [TWinBtm] # Yuria
 [Wait 10]
-.....Julius.[k]
+...Julius.[k]
 [dcs]
 
 [TWinTop] # (null)
-Ha! Your memory is still intact.... And to think it's been 7 years.
+Ha! Your memory is still intact... And to think it's been 7 years.
 
 [TWinBtm] # Yuria
 [Wait 10]
@@ -108,7 +110,7 @@ Heh heh... I suppose you've some fond memories of your mother, as well.
 
 [TWinBtm] # Yuria
 [Wait 10]
-. . . .[n]
+...[n]
 Just who are you?[k]
 [dcs]
 Everything changed the day Archbishop Manfloy brought that eerie black book in.[k]
@@ -119,8 +121,8 @@ All that remained in his place was this powerful, yet demonic child.[k]
 [cs]
 You... whoever you are... have deprived me of my mother and my brother, as well![k]
 [cs]
-WHO ARE YOU!?[n]
-WHY MUST YOU PUT ME THROUGH THIS AGONY!?[k]
+Who are you!?[n]
+Why must you put me through this agony!?[k]
 [cs]
 
 [TWinTop] # (null)
@@ -138,7 +140,7 @@ Your Highness, wait... I still have a use for the girl. Allow me to finish her o
 [dcs]
 
 [TWinTop] # (null)
-Hmm... Better be interesting, Manfloy. Alright, she's with you. I'm withdrawing to the capitol.[k]
+Hmm... Better be interesting, Manfloy. Alright, she's with you. I'm withdrawing to the capital.[k]
 [cs]
 But be forewarned... one slip up on your part could have far reaching consequences![k]
 
@@ -151,7 +153,7 @@ But be forewarned... one slip up on your part could have far reaching consequenc
 [TWinBtm][DlgOpn]['(null)' 0287]
 I've orders from His Imperial Highness. Priests and mercenaries... no one gets past you, understood!?[k]
 [cs]
-And it's the knight brigade's job to get Chalphy back!![k]
+And as for the knight brigade, it's your job to get Chalphy back![k]
 
 [exit]
 
@@ -172,22 +174,19 @@ So this is it, huh...[k]
 [dcs]
 
 [TWinTop] # (null)
-Yeah...[n]
-Julius turned out to be a descendant of the Lopt Clan. He's been plotting to restore the dark empire from day one.[k]
+Yeah... Julius turned out to be a descendant of the Lopt Clan. He's been plotting to restore the dark empire from day one.[k]
 [cs]
 We've got to stop him... no matter what!
 
 [TWinBtm] # Selis
 [Wait 10]
-Levin,[n]
-how do you always seem to know everything?[k]
+Levin, how do you always seem to know everything?[k]
 [dcs]
-Please...[n]
-you gotta let me know what else is going on here![k]
+Please... you gotta let me know what else is going on here![k]
 [cs]
 
 [TWinTop] # (null)
-Celice, I apologize if I've kept some things from you in the past.[k]
+Celice, I apologise if I've kept some things from you in the past.[k]
 [cs]
 In all my years of travel in search of the truth, I've finally stumbled upon something big.
 
@@ -205,7 +204,7 @@ One sip promised powers of unimaginable proportions.
 
 [TWinBtm] # Selis
 [Wait 10]
-You don't mean the lifeblood of the Ancient Dragon Tribe!? That's all superstition, right?[k]
+You don't mean the blood of the Ancient Dragon Tribe!? That's all superstition, right?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -248,13 +247,13 @@ Celice, let's save this one for next time. We've got an enemy to confront.[k]
 # 0x32a4bf:
 # @@3269053@@
 
-[TWinTop][DlgOpn]['Brian' 01B8]
+[TWinTop][DlgOpn]['Burian' 01B8]
 [TWinBtm][DlgOpn]['Fisher' 01B5]
 
-[TWinTop] # Brian
+[TWinTop] # Burian
 Fisher, it's time to make your move on Edda. Now watch as I tear on through to Chalphy![k]
 [cs]
-I'm pitting the entire might of my Grauer Ritter against those damn rebels!
+I'm pitting the entire might of the Grauen Ritter against those damn rebels!
 
 [TWinBtm] # Fisher
 [Wait 10]
@@ -270,10 +269,9 @@ Understood, sir.[k]
 [TWinBtm][DlgOpn]['Selis' 0019]
 
 [TWinTop] # (null)
-What a disgrace...[n]
-It's hard to believe the Dozels are of Crusader lineage.[k]
+What a disgrace... It's hard to believe the Dozels are of Crusader lineage.[k]
 [cs]
-This all started because of Langobalt...
+This all started because of Langbart...
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -291,7 +289,7 @@ They were the ones who appeared at Darna Fortress just as it was about to fall.
 
 [TWinBtm] # Selis
 [Wait 10]
-That's the 'Descent of Lord Narga and the 11 Gods' from scriptures, huh...[k]
+That's the 'Descent of Lord Narga and the 11 Gods' from scripture, huh...[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -341,19 +339,19 @@ Couldn't any of the other tribesmen take on Loputousu?[k]
 [TWinTop] # (null)
 Doesn't seem likely. Even with all their power combined, they'd still need Narga's.[k]
 [cs]
-Now, Empress Dierdre's children are the only surviving descendants of Heim who would have inherited Narga's power...[k]
+Now, Empress Deirdre's children are the only surviving descendants of Heim who would have inherited Narga's power...[k]
 [cs]
-But neither you nor Julius inherited the 'blood' of Narga. But I now know who did.[k]
+But neither you nor Julius inherited the blood of Narga. But I now know who did.[k]
 [cs]
 Julius' twin sister... Princess Julia did. She's the one!
 
 [TWinBtm] # Selis
 [Wait 10]
-E..excuse me!?[k]
+E, excuse me!?[k]
 [dcs]
 
 [TWinTop] # (null)
-The connection kinda threw me at first, too. But, yeah, you've got a sis, Celice.
+The connection kinda threw me at first, too. But, yeah, you've got a sister, Celice.
 
 [TWinBtm] # Selis
 [Wait 10]
@@ -362,7 +360,7 @@ Geez, I never would've thought...[k]
 [dcs]
 
 [TWinTop] # (null)
-This all explains her disappearance now, doesn't it... But, we've got to find her.[k]
+This explains her disappearance now, doesn't it... But, we've got to find her.[k]
 [cs]
 Because we don't stand a chance against Julius without her![k]
 
@@ -373,20 +371,19 @@ Because we don't stand a chance against Julius without her![k]
 # @@3269386@@
 
 [TWinBtm][DlgOpn]['(null)' 0268]
-What!?[n]
+What?[n]
 Now we've lost Dozel!?[k]
 [cs]
-The whole bloody lot of them are worthless! Hrmph...[n]
+The whole bloody lot of them are worthless! Hmph...[n]
 Fine, I'll handle this myself.[k]
 [cs]
 Should be simple matter of drawing the rebel army just a wee bit north.[k]
 [cs]
 I need to get through to Scorpio...[k]
 [cs]
-Once my Gelber Ritter draw them in, his Beiger Ritter can flank 'em from the rear.[k]
+Once the Gelben Ritter draw them in, he and the Beige Ritter can flank 'em from the rear.[k]
 [cs]
-We'll kill those miscreants...[n]
-every last one of them![k]
+We'll kill those miscreants... every last one of them![k]
 
 [exit]
 
@@ -409,11 +406,10 @@ Alright, we'll cut through these woods and take 'em from behind! Now move!![k]
 [TWinBtm][DlgOpn]['(null)' 0280]
 
 [TWinTop] # Selis
-Levin,[n]
-we finally made it to Freege.[k]
+Levin, we finally made it to Freege.[k]
 [cs]
-I wonder how the children at Barhara are holding up...[n]
-I hope they're okay.
+I wonder how the children at Barhara are holding up... I hope they're okay.
+
 [TWinBtm] # (null)
 [Wait 10]
 Actually, there's someone here to speak to you about that, Celice.[k]
@@ -430,7 +426,7 @@ Who are you?
 
 [TWinBtm] # (null)
 [Wait 10]
-My name is Felipe. I am a former attendant of His Majesty Emperor Alvis.[k]
+My name is Felipe. I am a former attendant of His Majesty, Emperor Alvis.[k]
 [dcs]
 I had secret orders from His Majesty to safeguard all the abducted children from Julius.[k]
 [cs]
@@ -456,7 +452,7 @@ None of the soldiers came near the monastery for fear of retribution from the pr
 
 [TWinTop] # Selis
 Princess Ishtar did that!?[n]
-B..but why?
+Why?
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -507,7 +503,7 @@ He's her own brother...
 
 [TWinBtm] # (null)
 [Wait 10]
-.....[n]
+...[n]
 You're just going to have to get through to her, Celice.[k]
 
 [exit]
@@ -520,14 +516,13 @@ You're just going to have to get through to her, Celice.[k]
 [TWinBtm][DlgOpn]['(null)' 026F]
 
 [TWinTop] # (null)
-Your Highness, I wish to take the Weisser Ritter out and fortify the palace's defense.[k]
+Your Highness, I wish to take the Weissen Ritter out and fortify the palace's defense.[k]
 [cs]
 I request your permission to leave the Royal Palace.
 
 [TWinBtm] # (null)
 [Wait 10]
-Hmph...[n]
-Why do you need to join the battle all of a sudden?[k]
+Hmph... Why do you need to join the battle all of a sudden?[k]
 [dcs]
 They can send as many soldiers as they want. They can't defeat me... You just stay put.[k]
 [cs]
@@ -535,8 +530,7 @@ They can send as many soldiers as they want. They can't defeat me... You just st
 [TWinTop] # (null)
 I mean no disrespect... but do understand I take great pride in being a warlock of Freege.[k]
 [cs]
-With the murder of my parents and my brother... it pains me to sit here doing nothing.[n]
-Please allow me to fight!
+With the murder of my parents and my brother... it pains me to sit here doing nothing. Please allow me to fight!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -576,9 +570,9 @@ Yes, Your Highness![k]
 
 [TWinBtm][DlgOpn]['(null)' 026F]
 How about we wrap this up...[n]
-Have Arion's mercenary troop set in an attack pattern.[n]
-Dark warlords, it's show time![k]
+Have Arion's mercenary squad set in an attack pattern.[k]
 [cs]
+Dark Warlords, it's show time![n]
 I'm all through playing.[n]
 That rebel army is history!![k]
 
@@ -592,7 +586,7 @@ That rebel army is history!![k]
 [TWinBtm][DlgOpn]['(null)' 02B4]
 
 [TWinTop] # (null)
-Huahaha... It's time, Julia.[n]
+Mwahaha... It's time, Julia.[n]
 Do as I bid thee and dispose of all who defy the empire!
 
 [TWinBtm] # (null)
@@ -627,7 +621,7 @@ Julia!! It's me, Celice. Come on... snap out of it!
 
 [TWinBtm] # (null)
 [Wait 10]
-. . . . .[k]
+...[k]
 [$00$2D$D9$E8$B1]
 [dcs]
 
@@ -651,8 +645,7 @@ I'm so glad you're safe now, Yuria.
 
 [TWinBtm] # Yuria
 [Wait 10]
-Celice,[n]
-I have something I...[k]
+Celice, I have something I...[k]
 [dcs]
 
 [TWinTop] # Selis
@@ -683,7 +676,7 @@ I wish things could be different, but we have to face this... We must persevere.
 [TWinBtm][DlgOpn]['(null)' 025B]
 
 [TWinTop] # Altena
-Arion... STOP![n]
+Arion... stop![n]
 Just what is it going to take for you to listen to me!?
 
 [TWinBtm] # (null)
@@ -692,8 +685,7 @@ Altenna!?[k]
 [dcs]
 
 [TWinTop] # Altena
-You're such a coward![n]
-You're so caught up in your damn ego that you've completely lost track of what's right!
+You're such a coward! You're so caught up in your damn ego that you've completely lost track of what's right!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -707,8 +699,7 @@ Why do you think he's out here putting his life on the line? Think about it for 
 
 [TWinBtm] # (null)
 [Wait 10]
-So what?[n]
-He's in the right and I'm not somehow?[k]
+So what? He's in the right and I'm not somehow?[k]
 [dcs]
 
 [TWinTop] # Altena
@@ -761,7 +752,7 @@ Do you know where it is?[k]
 [dcs]
 
 [TWinTop] # (null)
-I'm quite sure the emperor had the key affixed to Empress Dierdre's circlet.[k]
+I'm quite sure the emperor had the key affixed to Empress Deirdre's circlet.[k]
 [cs]
 Now if we just knew the whereabouts of that circlet...
 
@@ -811,31 +802,30 @@ I feel like I've known this book all my life...[k]
 [TWinBtm][DlgOpn]['(null)' 02AB]
 Descendants of the brave ones... Hear my ode to the Crusaders.[k]
 [cs]
-Wielding the Demon Mistoltin, the Black Knight Hezul assails the darkness[k]
+[sp]Wielding the Demon Mistoltin, the Black Knight Hezul assails the darkness[k]
 [cs]
-Wielding the Divine Balmunk, the Sword Master Odo holds the darkness at bay[k]
+[sp]Wielding the Divine Balmunk, the Sword Master Odo holds the darkness at bay[k]
 [cs]
-Wielding the Holy Tyrfing, the Holy Knight Baldo shines upon the darkness[k]
+[sp]Wielding the Holy Tyrfing, the Holy Knight Baldo shines upon the darkness[k]
 [cs]
-And with the Book of Narga in hand, Saint Heim prays to the heavens[k]
+[sp]And with the Book of Narga in hand, Saint Heim prays to the heavens[k]
 [cs]
-Prayer invokes light, and from the light emerges the white dragon who confronts the dragon of darkness[k]
+[sp]Prayer invokes light, and from the light emerges the white dragon who confronts the dragon of darkness[k]
 [cs]
-the white and black dragon[n]
-a seemingly endless battle between darkness and light[k]
+[sp]the white and black dragon[n]
+[sp]a seemingly endless battle between darkness and light[k]
 [cs]
-Shall we be greeted with victory[n]
-...or defeat?[k]
+[sp]Shall we be greeted with victory or defeat?[k]
 [cs]
-Yet fear not in the face of defeat[k]
+[sp]Yet fear not in the face of defeat[k]
 [cs]
-For endless is the source of the light we seek[k]
+[sp]For endless is the source of the light we seek[k]
 [cs]
-In those who shall succeed us[n]
-[sp][sp][sp]I believe[k]
+[sp]In those who shall succeed us[n]
+[sp][sp][sp][sp]I believe[k]
 [cs]
-In those who receive the light[n]
-[sp][sp][sp]I believe[k]
+[sp]In those who receive the light[n]
+[sp][sp][sp][sp]I believe[k]
 [cs]
 How 'bout it?[n]
 Sure soothes the soul if you ask me.[k]
@@ -847,7 +837,7 @@ Sure soothes the soul if you ask me.[k]
 # @@3271115@@
 
 [TWinBtm][DlgOpn]['(null)' 02AB]
-Hear me noble ones... it's up to you to bring meaning to this holy war.[k]
+Hear me, noble ones... it's up to you to bring meaning to this holy war.[k]
 [cs]
 You must expend every ounce of your strength and valour in the battle that lies before you.[k]
 [cs]
@@ -863,12 +853,12 @@ Go forth. Your future awaits you where the two lights meet![k]
 [TWinBtm][DlgOpn]['(null)' 02B4]
 
 [TWinTop] # Selis
-Julia!! What's wrong with you!?[n]
+Julia! What's wrong with you!?[n]
 Come on, snap out of it!
 
 [TWinBtm] # (null)
 [Wait 10]
-Heeeeah . . .[n]
+Heeeeah...[n]
 Must..kill..any..who..oppose..us.[k]
 [dcs]
 
@@ -879,7 +869,7 @@ Must..kill..any..who..oppose..us.[k]
 [TWinBtm][DlgOpn]['(null)' 0280]
 It's no use, Celice. Black magic has got Julia's card.[k]
 [cs]
-Let's get Manfloy out of the picture first... then you can give it another go![k]
+Let's get Manfloy out of the picture first... Then you can give it another go![k]
 
 [exit]
 
@@ -888,11 +878,11 @@ Let's get Manfloy out of the picture first... then you can give it another go![k
 # @@3271248@@
 
 [TWinBtm][DlgOpn]['(null)' 026C]
-W..what's happening!?[n]
+W, what's happening!?[n]
 Oh no! The life-force of darkness is fading...[k]
 [cs]
 Nyaagh...[n]
-Lo... p..putou.. su.....[k]
+Loput... ou... su...[k]
 
 [exit]
 
@@ -901,13 +891,13 @@ Lo... p..putou.. su.....[k]
 # @@3271308@@
 
 [TWinBtm][DlgOpn]['(null)' 02B4]
-Aaah...[k]
+Ah...[k]
 [$00$2D$D9$E8$B1]
 [cs]
 
 [TWinBtm] # (null)
 [DlgOpn]['Yuria' 002B]
-What was I ...[n]
+What was I...[n]
 Ah, Manfloy... his black magic was controlling me.[k]
 [cs]
 Celice came to my rescue... I'm sure of it![k]

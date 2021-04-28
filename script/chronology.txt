@@ -1,0 +1,198 @@
+# 0 10 BANK8D
+
+# Fontcheck: Reformatted
+# Last modified: 24/06/2006
+
+# This file was added by Twilkitri
+
+# This file is used for editing the opening Jugdral Chronology.
+
+[section BANK8D]
+[map 10]
+[bits16]
+[nocompress]
+
+
+# 0xd9eb8
+# @@1160534@@
+[exit]
+
+
+# 0xd9ec8
+# @@1160552@@
+Gran Kingdom established
+[exit]
+
+
+# 0xd9ee0
+# @@1160564@@
+Becomes Gran Republic
+[exit]
+
+
+# 0xd9eee
+# @@1160576@@
+Time of Prosperity
+[exit]
+
+
+# 0xd9f06
+# @@1160588@@
+Dark God enters Galle
+[exit]
+
+
+# 0xd9f1d
+# @@1160594@@
+Lopt Sect arises
+[exit]
+
+
+# 0xd9f30
+# @@1160606@@
+The 12 Dark Warlords
+[exit]
+
+
+# 0xd9f3e
+# @@1160612@@
+crush the Gran Republic
+[exit]
+
+
+# 0xd9f50
+# @@1160624@@
+Lopt Empire formed
+[exit]
+
+
+# 0xd9f65
+# @@1160630@@
+by Archbishop Galle
+[exit]
+
+
+# 0xd9f75
+# @@1160642@@
+The Great Purge
+[exit]
+
+
+# 0xd9f7e
+# @@1160648@@
+Over 100,000 casualties
+[exit]
+
+
+# 0xd9f90
+# @@1160660@@
+The Sorrow of Miletos
+[exit]
+
+
+# 0xd9f9f
+# @@1160666@@
+Numerous children
+[exit]
+
+
+# 0xd9fb1
+# @@1160672@@
+sacrificed to the Dark God
+[exit]
+
+
+# 0xd9fcb
+# @@1160684@@
+The Slaughter of Edda 
+[exit]
+
+
+# 0xd9fd7
+# @@1160690@@
+Tens of thousands of casualties
+[exit]
+
+
+# 0xd9fee
+# @@1160702@@
+Myra's Apostacy
+[exit]
+
+
+# 0xd9ffd
+# @@1160714@@
+Liberation Army forms
+[exit]
+
+
+# 0xda013
+# @@1160726@@
+The Miracle of Darna
+[exit]
+
+
+# 0xda021
+# @@1160732@@
+The gods descend and
+[exit]
+
+
+# 0xda03a
+# @@1160738@@
+bless the 12 Crusaders
+[exit]
+
+
+# 0xda04d
+# @@1160750@@
+Beginning of the Holy War
+[exit]
+
+
+# 0xda059
+# @@1160762@@
+Lopt Empire falls
+[exit]
+
+
+# 0xda068
+# @@1160768@@
+The Crusaders found
+[exit]
+
+
+# 0xda074
+# @@1160774@@
+7 allied duchies
+[exit]
+
+
+# 0xda083
+# @@1160780@@
+and 5 separate kingdoms
+[exit]
+
+
+# 0xda098
+# @@1160792@@
+Grandbell Kingdom established
+[exit]
+
+
+# 0xda0aa
+# @@1160804@@
+Grandbell Military
+[exit]
+
+
+# 0xda0b5
+# @@1160810@@
+leaves for Isaac
+[exit]
+
+
+# 0xda0c8
+# @@1160822@@
+The disturbance begins anew...
+[exit]

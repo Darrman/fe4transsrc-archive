@@ -1,3 +1,11 @@
+# Fontcheck: Tiled
+
+# Last Modified: 22/06/2006
+# This file was added by Dark Twilkitri
+
+# This file adds the list you get for using a staff from inside the castle
+# I wish there was enough room for better options...
+
 [noptr]
 [mode-sjis]
 

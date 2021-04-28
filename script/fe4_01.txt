@@ -1,4 +1,6 @@
-# Last modified: 06/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 1.
@@ -34,14 +36,15 @@
 # 0x10908d:
 # @@1082595@@
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
+[TWinTop][DlgOpn]['Eltshan' 005A]
 [TWinBtm][DlgOpn]['(null)' 02A5]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Good work. You've got the border.
 
 [TWinBtm] # (null)
-[Wait 10]Yes, my lord![k]
+[Wait 10]
+Yes, my lord![k]
 
 [exit]
 
@@ -49,23 +52,24 @@ Good work. You've got the border.
 # 0x108f0a:
 # @@1082619@@
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
+[TWinTop][DlgOpn]['Eltshan' 005A]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 How've you been, Sigurd...[n]
 So what prompted you to take Evans Castle?[k]
 [cs]
 You're not formally attacking Verdane, are you?
 
 [TWinBtm] # Sigurd
-[Wait 10]Eltosian, thanks for coming![n]
-Verdane has taken Lady Edain of Jungby hostage.[k]
+[Wait 10]
+Eltshan, thanks for coming![n]
+Verdane has taken Lady Aideen of Jungby hostage.[k]
 [dcs]
 And they showed no signs of releasing her, so I was forced to take up arms.[k]
 [cs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 So that's what's going on...[n]
 I wouldn't leave this castle unattended if I were you.[k]
 [cs]
@@ -73,13 +77,14 @@ There's no telling what the lords of Agustria may do...[n]
 I'll watch your back, Sigurd.
 
 [TWinBtm] # Sigurd
-[Wait 10]I sure appreciate it, Eltosian.[n]
+[Wait 10]
+I sure appreciate it, Eltshan.[n]
 Let's you and I meet up when this is all over.[k]
 [dcs]
-We'll find a cozy little spot, have a little wine... just like old times.[k]
+We'll find a cosy little spot, have a little wine... just like old times.[k]
 [cs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 That sounds nice.[n]
 May you be victorious, Sigurd![k]
 
@@ -93,15 +98,15 @@ May you be victorious, Sigurd![k]
 [TWinBtm][DlgOpn]['Ira' 0013]
 
 [TWinTop] # Kinbois
-Th' castle's in your hands, Ira. You best not let me down while I'm gone, you follow?[k]
+Th' castle's in your hands, Aira. You best not let me down while I'm gone, you follow?[k]
 [cs]
-You pull any stunts and that lit'le brat's history![k]
+You pull any stunts and that little brat's history![k]
 [cs]
 
 [xChr][DlgCls]
 
 [TWinTop][DlgOpn]['(null)' 0281]
-These guys don't scare me, Ira. Don't you let them push you around!
+These guys don't scare me, Aira. Don't you let them push you around!
 
 [TWinBtm] # Ira
 [Wait 10]
@@ -128,7 +133,8 @@ Heh... Look, he's all yours once we've gotten Evans Castle back.
 You better not double-cross me, Kinbois.[n]
 Because I'll hunt you down...[k]
 [dcs]
-and put your head on a stick! Even if it takes me to the ends of hell! Got it!?[k]
+and put your head on a stick![n]
+Even if it takes me to the ends of hell! Got it!?[k]
 [cs]
 
 [TWinTop] # Kinbois
@@ -148,7 +154,7 @@ It'll only be for a little while.[k]
 [cs]
 
 [TWinTop] # (null)
-Ira, forget it![n]
+Aira, forget it![n]
 
 [TWinBtm] # Ira
 
@@ -174,54 +180,54 @@ We WILL get Evans back![k]
 # 0x109332:
 # @@1083090@@
 
-[TWinTop][DlgOpn]['Jamuka' 000B]
-[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop][DlgOpn]['Jamka' 000B]
+[TWinBtm][DlgOpn]['Etain' 0017]
 
-[TWinTop] # Jamuka
-Edain, grab the kid and get out of here![k]
+[TWinTop] # Jamka
+Aideen, grab the kid and get out of here![k]
 [cs]
 Gandolf is going to find you guys. Now move it!
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
-Prince Jamuka, you're not joining us?[k]
+Prince Jamka, you're not joining us?[k]
 [dcs]
 
-[TWinTop] # Jamuka
+[TWinTop] # Jamka
 No. I can't go against my father... even with all the mayhem my brothers are causing.[k]
 [cs]
 I'm going to Verdane to see my father. I have to get him to see the wrong in all this.
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 [Wait 10]
 Yes, indeed. This war has gone on long enough.[k]
 [dcs]
-Prince Jamuka, you're our only hope. Do your best to persuade the King to end this war.[k]
+Prince Jamka, you're our only hope. Do your best to persuade the king to end this war.[k]
 [dcs]
 
-[TWinTop] # Jamuka
+[TWinTop] # Jamka
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Deu' 000F]
-Edain, we gotta move now![k]
+[TWinTop][DlgOpn]['Dew' 000F]
+Aideen, we gotta move now![k]
 [cs]
 It's gettin' too hairy 'round here. Gandolf'll rip out my tongue next time they find me!
 
-[TWinBtm] # Edin
+[TWinBtm] # Etain
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinBtm][DlgOpn]['Jamka' 000B]
 Dew, you were just asking to get locked up, you little thief.[k]
 [dcs]
-You're just lucky Edain pleaded for your release. No more stealing, am I correct?[k]
+You're just lucky Aideen pleaded for your release. No more stealing, am I correct?[k]
 [cs]
 
-[TWinTop] # Deu
-Look, I promised Edain, too. I'm finished with the thievin' business, OK?
+[TWinTop] # Dew
+Look, I promised Aideen, too. I'm finished with the thievin' business, okay?
 
-[TWinBtm] # Jamuka
+[TWinBtm] # Jamka
 [Wait 10]
 I'll take your word, Dew.[n]
 Now you two get going![k]
@@ -232,8 +238,8 @@ Now you two get going![k]
 # 0x109561:
 # @@1083129@@
 
-[TWinBtm][DlgOpn]['Jamuka' 000B]
-Edain...[n]
+[TWinBtm][DlgOpn]['Jamka' 000B]
+Aideen...[n]
 I hope we meet again.[k]
 
 [exit]
@@ -243,10 +249,12 @@ I hope we meet again.[k]
 # @@1083145@@
 
 [TWinBtm][DlgOpn]['Gandolf' 004D]
-My brother set Edain free!? He's back in Verdane, you say...[n]
+My brother set Aideen free!?[n]
+He's gone back to Verdane, you say...[n]
 Grr... that idiot!![k]
 [cs]
-You bring the woman an' that lit'le thief back here. If they resist ya, do 'em in.[k]
+You bring the woman an' that little thief back here. If they resist ya, do 'em in.[k]
+
 [exit]
 
 
@@ -263,7 +271,7 @@ Sir, there was a small child locked up in the castle's dungeon.[k]
 [xChr][DlgCls]
 
 [TWinTop][DlgOpn]['(null)' 0281]
-. . . . .
+......
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -282,14 +290,14 @@ You're safe with us.[k]
 
 [TWinTop] # (null)
 Really?[n]
-Then Ira doesn't have to fight anymore![k]
+Then Aira doesn't have to fight anymore![k]
 [cs]
 They're makin' my auntie fight against her will![n]
 Please, you gotta help her!!
 
 [TWinBtm] # Sigurd
 [Wait 10]
-That sword fighter out there? I thought something was different about her.[k]
+That swordfighter out there? I thought something was different about her.[k]
 [dcs]
 I'll go let her know you're alright.[n]
 So what's your name?[k]
@@ -302,7 +310,7 @@ Shanan. I'm... er..  prince of the Kingdom of Isaac.
 [Wait 10]
 YOU are the prince of Isaac? You're serious, aren't you?[k]
 [dcs]
-I bet you've been through a lot. You're best to stay with our troops for now.[k]
+I bet you've been through a lot. You'd do best to stay with our troops for now.[k]
 [cs]
 Just be patient for the time being. You'll make it back to your country someday.[k]
 [dcs]
@@ -312,7 +320,7 @@ Just be patient for the time being. You'll make it back to your country someday.
 [xChr][DlgCls]
 
 [TWinTop][DlgOpn]['Oifaye' 027F]
-Sir, we're currently at war with Issac.[k]
+Sir, we're currently at war with Isaac.[k]
 [cs]
 Shouldn't we inform the king of this?
 
@@ -372,14 +380,14 @@ You're safe with us.[k]
 
 [TWinTop] # (null)
 Really?[n]
-Then Ira doesn't have to fight anymore![k]
+Then Aira doesn't have to fight anymore![k]
 [cs]
 They're makin' my auntie fight against her will![n]
 Please, you gotta help her!!
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Ira!? You mean that sword fighter?[n]
+Aira!? You mean that swordfighter?[n]
 But she um.. well...[k]
 [dcs]
 
@@ -394,7 +402,7 @@ I had no idea![k]
 [dcs]
 
 [TWinTop] # (null)
-Aaaaagh... Ira![k]
+Aaaaagh... Aira![k]
 [cs]
 
 [xChr][DlgCls]
@@ -406,7 +414,7 @@ Oifaye, look after Shanan until he's calmed down a bit.[k]
 [cs]
 
 [TWinTop] # Oifaye
-Sir, we're currently at war with Issac.[k]
+Sir, we're currently at war with Isaac.[k]
 [cs]
 Shouldn't we inform the king of this?
 
@@ -439,7 +447,7 @@ Wow... Sir Sigurd sure is a kindhearted man.[k]
 [TWinBtm][DlgOpn]['Ira' 0013]
 
 [TWinTop] # Sigurd
-Ira, wait! We've got Prince Shanan.[n]
+Aira, wait! We've got Prince Shanan.[n]
 You don't need to fight anymore!
 
 [TWinBtm] # Ira
@@ -459,7 +467,7 @@ Is this war really worth risking your life over!?
 
 [TWinBtm] # Ira
 [Wait 10]
-My brother, the king, was prepared for death when he entrusted Shanan with me.[k]
+My brother, the king, was prepared for death when he entrusted Shanan to me.[k]
 [dcs]
 We've come this far...[n]
 But you're right. I can't risk my life for Verdane![k]
@@ -472,15 +480,17 @@ Then put down your sword. As a descendant of Baldo, the Crusader of Light, I wil
 
 [TWinBtm] # Ira
 [Wait 10]
-...Consider your trust reciprocated then. That's the way of the Isaacian warrior. For now I consecrate my sword to thee.[k]
+...Consider your trust reciprocated then. That's the way of the Isaacian warrior.[k]
 [dcs]
+For now I consecrate my sword to thee.[k]
+[cs]
 But I still view Grandbell as my sworn enemy.[k]
 [cs]
 Just so you're prepared for the day when that enemy may include you.[k]
 [cs]
 
 [TWinTop] # Sigurd
-War sure can be cruel. Ira, warrior of Isaac... I pray that day never comes.[k]
+War sure can be cruel. Aira, warrior of Isaac... I pray that day never comes.[k]
 
 [exit]
 
@@ -488,21 +498,21 @@ War sure can be cruel. Ira, warrior of Isaac... I pray that day never comes.[k]
 # 0x10bb3d:
 # @@1083606@@
 
-[TWinTop][DlgOpn]['Edin' 0017]
-[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinTop][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Jamka' 000B]
 
-[TWinTop] # Edin
-Prince Jamuka! Wait!!
+[TWinTop] # Etain
+Prince Jamka! Wait!!
 
-[TWinBtm] # Jamuka
+[TWinBtm] # Jamka
 [Wait 10]
-Edain, is that you?[k]
+Aideen, is that you?[k]
 [dcs]
 
-[TWinTop] # Edin
+[TWinTop] # Etain
 I thought you went to talk to your father! Now you're fighting? What is going on!?
 
-[TWinBtm] # Jamuka
+[TWinBtm] # Jamka
 [Wait 10]
 I don't know. Something was real odd about him.[n]
 He just wouldn't listen to me.[k]
@@ -512,29 +522,29 @@ Everything's been upside-down since that Sandima showed up.[k]
 My father and brothers have done anything he has asked them to.[k]
 [cs]
 
-[TWinTop] # Edin
-So why does that bring you into battle? Please, Jamuka, don't do this![k]
+[TWinTop] # Etain
+So why does that bring you into battle? Please, Jamka, don't do this![k]
 [cs]
 Let's return to Verdane and speak with the king once more. We're stopping this war![k]
 [cs]
 Sir Sigurd did not come here to invade your country.[k]
 [cs]
-He was merely fighting to rescue me. Please, Jamuka, listen to reason!
+He was merely fighting to rescue me. Please, Jamka, listen to reason!
 
-[TWinBtm] # Jamuka
+[TWinBtm] # Jamka
 [Wait 10]
 Alright, let's give it one more try. And I'm exposing that traitor once and for all.[k]
 [dcs]
 But no one lays a finger on my father. That's my one condition.[k]
 [cs]
 
-[TWinTop] # Edin
+[TWinTop] # Etain
 I'll see to it no one does.[n]
-Thank you, Jamuka. You really are a good person.
+Thank you, Jamka. You really are a good person.
 
-[TWinBtm] # Jamuka
+[TWinBtm] # Jamka
 [Wait 10]
-Edain...[k]
+Aideen...[k]
 
 [exit]
 
@@ -554,7 +564,7 @@ Ok, here's our chance. First we take Evans, then we'll shoot straight for the bo
 # @@1083787@@
 
 [TWinBtm][DlgOpn]['(null)' 02A5]
-Is that... That's Heirhein's troops! King Eltosian must be informed immediately![k]
+Is that... That's Heirhein's troops! King Eltshan must be informed immediately![k]
 
 [exit]
 
@@ -562,23 +572,23 @@ Is that... That's Heirhein's troops! King Eltosian must be informed immediately!
 # 0x109f60:
 # @@1083883@@
 
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 What? Heirhein has troops heading for Evans!?[k]
 [cs]
 Hmm... Elliot just couldn't stay out of this, could he... Lachesis, watch the castle.
 
 [TWinTop][DlgOpn]['Laches' 0012]
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [k]
 [cs]
 I'm going to backup Sigurd.[k]
 [cs]
 
 [TWinTop] # Laches
-Do what you can for him, Eltosian.
+Do what you can for him, Eltshan.
 
-[TWinBtm] # Eltosan
+[TWinBtm] # Eltshan
 [Wait 10]
 Cross Knights, move out! Our battle is with Prince Elliot of Heirhein.[k]
 [cs]
@@ -590,10 +600,10 @@ His troops shouldn't pose much of a problem, but do stay alert.[k]
 # 0x10a043:
 # @@1084010@@
 
-[TWinTop][DlgOpn]['Eltosan' 005A]
+[TWinTop][DlgOpn]['Eltshan' 005A]
 [TWinBtm][DlgOpn]['Elliot' 0066]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Elliot, as a knight, I can't have you sneaking around like some petty thief.[k]
 [cs]
 Just pull out right now.[n]
@@ -601,12 +611,12 @@ I know you're not ready to face me either.
 
 [TWinBtm] # Elliot
 [Wait 10]
-Eltosian, are you mad!?[n]
+Eltshan, are you mad!?[n]
 Don't tell me you've sided with Grandbell![k]
 [dcs]
 
-[TWinTop] # Eltosan
-Don't you realize you're running in direct violation to our superior's orders?[k]
+[TWinTop] # Eltshan
+Don't you realise you're running in direct violation to our superior's orders?[k]
 [cs]
 The reverent King Agusty has no desire to wage war against Grandbell.
 
@@ -614,10 +624,10 @@ The reverent King Agusty has no desire to wage war against Grandbell.
 [Wait 10]
 Only you would be foolish enough to take that old man seriously anymore.[k]
 [dcs]
-Besides, all the lords of the dominion have already unified against Grandbell.[k]
+Besides, the lords of the dominion have already unified against Grandbell.[k]
 [cs]
 
-[TWinTop] # Eltosan
+[TWinTop] # Eltshan
 Not all of them! Anyway, a war now would incur huge sacrifices on both sides![k]
 [cs]
 Our past is a testament to that. The noble class aren't the ones who suffer in the end.[k]
@@ -626,9 +636,11 @@ It's the powerless citizens who suffer, and I'm not about to let it happen!
 
 [TWinBtm] # Elliot
 [Wait 10]
-As always your head is in the clouds, Eltosian. I knew it'd come to this sooner or later.[k]
+As always your head is in the clouds, Eltshan. I knew it'd come to this sooner or later.[k]
 [dcs]
-Let's settle this once and for all. Men, Nodion is now the enemy! I want Eltosian dead!![k]
+Let's settle this once and for all. Men, Nodion is now the enemy![k]
+[cs]
+I want Eltshan dead!![k]
 
 [exit]
 
@@ -636,10 +648,10 @@ Let's settle this once and for all. Men, Nodion is now the enemy! I want Eltosia
 # 0x10a351:
 # @@1084058@@
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 [TWinBtm][DlgOpn]['Demagio' 0041]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Stop it... Let go of me!
 
 [TWinBtm] # Demagio
@@ -647,7 +659,7 @@ Stop it... Let go of me!
 Heh heh... What s'matter? Don'cha wanna have a little fun?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Please... just let me be on my way!
 
 [TWinBtm] # Demagio
@@ -656,7 +668,7 @@ Grr![n]
 Sweetie, you best just shut your trap![k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 
 [xChr][DlgCls]
 
@@ -673,7 +685,7 @@ Ulp! It's that Grandbellian Holy Knight![k]
 [TWinTop] # Sigurd
 That's right, so get moving! Nothing gets under my skin more than scum like you![k]
 [cs]
-You apologize to the girl and then get out of my sight!
+You apologise to the girl and then get out of my sight!
 
 [TWinBtm] # Demagio
 [Wait 10]
@@ -685,13 +697,13 @@ I's just havin' a little fun.[k]
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['Diadora' 0010]
+[TWinBtm][DlgOpn]['Deirdre' 0010]
 
 [TWinTop] # Sigurd
 Are you okay?[n]
 Did he hurt you at all?
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 No, I'm fine. Thank you very much... Sigurd.[k]
 [dcs]
@@ -699,15 +711,15 @@ No, I'm fine. Thank you very much... Sigurd.[k]
 [TWinTop] # Sigurd
 Er? You know who I am?
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
-Yes, I met a woman here in the castle a little while ago named Edain.[k]
+Yes, I met a woman here in the castle a little while ago named Aideen.[k]
 [dcs]
 
 [TWinTop] # Sigurd
-Edain said something about me?
+Aideen said something about me?
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 She did.[n]
 You're just how I imagined you to be.[k]
@@ -716,7 +728,7 @@ You're just how I imagined you to be.[k]
 [TWinTop] # Sigurd
 What's ah... your name?
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 I'm sorry.[n]
 I... I must go![k]
@@ -726,7 +738,7 @@ I... I must go![k]
 Hey... hold on![n]
 I just wanted to talk...
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 I'm sorry. I'm glad we were able to meet.[k]
 [dcs]
@@ -735,12 +747,12 @@ I'm sorry. I'm glad we were able to meet.[k]
 Wha- what's the problem?[n]
 Wait!
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 
 [xChr][DlgCls]
 
 [TWinTop] # Sigurd
-Shesh![k]
+Sheesh![k]
 
 [exit]
 
@@ -760,15 +772,15 @@ Sir, that woman who was just here... Do you know who she is?[k]
 [dcs]
 
 [TWinTop] # (null)
-Ahh, yes. That'd be Dierdre. She's a shaman of the Spirit Forest.
+Ahh, yes. That'd be Deirdre. She's a shaman of the Spirit Forest.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Dierdre... She's so beautiful.[k]
+Deirdre... She's so beautiful.[k]
 [dcs]
 
 [TWinTop] # (null)
-A-ha! Even a man of your caliber falls readily fer a pretty woman. Perhaps it's love at first sight!
+A-ha! Even a man of your calibre falls readily fer a pretty woman. Perhaps it's love at first sight!
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -776,7 +788,9 @@ Sir, please. I'm serious. There was something about her... I hope to meet her ag
 [dcs]
 
 [TWinTop] # (null)
-That might be a tad difficult. You see, the villagers of the Spirit Forest do not involve themselves with the outside world.[k]
+That might be a tad difficult.[k]
+[cs]
+You see, the villagers of the Spirit Forest do not involve themselves with the outside world.[k]
 [cs]
 Moreover, that girl you're so fond of is strictly forbidden from associating with men.[k]
 [cs]
@@ -786,7 +800,9 @@ I'll get right to the point, Sigurd. Resign yourself of that girl.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-That sounds like superstitious nonsense to me. No one should be forced to live like that. Dierdre... we must meet again.[k]
+That sounds like superstitious nonsense to me. No one should be forced to live like that.[k]
+[dcs]
+Deirdre... we must meet again.[k]
 
 [exit]
 
@@ -794,10 +810,10 @@ That sounds like superstitious nonsense to me. No one should be forced to live l
 # 0x10a840:
 # @@1084210@@
 
-[TWinTop][DlgOpn]['Jamuka' 000B]
+[TWinTop][DlgOpn]['Jamka' 000B]
 [TWinBtm][DlgOpn]['(null)' 0279]
 
-[TWinTop] # Jamuka
+[TWinTop] # Jamka
 Father, you still won't listen after all I've told you!?[k]
 [cs]
 Gandolf and Kinbois have failed, and the enemy'll be striking here before you know it.[k]
@@ -811,7 +827,7 @@ Originally, Grandbell was preparing to strike us! That's why I allowed Gandolf's
 I never intended for it to get this out of hand.[k]
 [cs]
 
-[TWinTop] # Jamuka
+[TWinTop] # Jamka
 That sorceror Sandima is behind all of this, isn't he...[k]
 [cs]
 You, Gandolf and Kinbois have trusted him far too much.[n]
@@ -823,14 +839,14 @@ He has deceived all of you![k]
 [xChr][DlgCls]
 
 [TWinBtm][DlgOpn]['Sandima' 0052]
-Well, well... Prince Jamuka. I think we've said enough, haven't we?[k]
+Well, well... Prince Jamka. I think we've said enough, haven't we?[k]
 [cs]
 I believe you, as prince, have an obligation to command an attack on the enemy.[k]
 [cs]
 Your negligence to do so could have grave consequences on the kingdom's future.[k]
 [cs]
 
-[TWinTop] # Jamuka
+[TWinTop] # Jamka
 Sandima![n]
 You bastard!!
 
@@ -839,10 +855,10 @@ You bastard!!
 [xChr][DlgCls]
 
 [TWinBtm][DlgOpn]['(null)' 0279]
-Jamuka, Sandima's right. Now go and lead our troops into battle.[k]
+Jamka, Sandima's right. Now go and lead our troops into battle.[k]
 [dcs]
 
-[TWinTop] # Jamuka
+[TWinTop] # Jamka
 Father!! There's just no convincing you, is there...[n]
 Alright, I'll do it.[k]
 [cs]
@@ -864,7 +880,7 @@ It was you who said that Grandbell was conspiring to take my kingdom.
 
 [TWinBtm] # Sandima
 [Wait 10]
-What's that now? Here I thought Verdane would workout somehow... You're just a bunch of savages.[k]
+What's that? Here I thought Verdane would work out somehow... But you're just a bunch of savages.[k]
 [dcs]
 I've no longer any use for you. I'll be taking command of the troops from here on out.[k]
 
@@ -876,10 +892,10 @@ I've no longer any use for you. I'll be taking command of the troops from here o
 What're you doing!?[n]
 [$00$33$69]
 [Wait 3C]
-Crr..rr![n]
+Guh![n]
 [$00$33$91]
 [Wait 0A]
-Uuaaaaahhh.....![k]
+Uuaaaaahhh...![k]
 [c]
 [$00$33$21]
 
@@ -919,7 +935,7 @@ A nuisance by the name of Sigurd keeps stirring up trouble.[k]
 [cs]
 
 [TWinTop] # (null)
-Well, how about the Loptian blood link?  Have you located Cigyun's daughter yet?
+Well, how about the Lopt blood link?  Have you located Sigyn's daughter yet?
 
 [TWinBtm] # Sandima
 [Wait 10]
@@ -928,16 +944,16 @@ Well, as of yet nothing, but I...[k]
 
 [TWinTop] # (null)
 You imbecile![n]
-Well, the boy... Cigyun's son is in Barhara at the moment.[k]
+Well, the boy... Sigyn's son is in Barhara at the moment.[k]
 [cs]
 But he's of no use to us without the girl...[n]
 Allow me to explain.[k]
 [cs]
-Cigyun was a descendant of Prince Maira who was the Loptian emperor's younger brother.[k]
+Sigyn was a descendant of Prince Myra, the Lopt Emperor's younger brother.[k]
 [cs]
-In short, Cigyun was the only surviving descendant of the Lopt Clan.[k]
+In short, Sigyn was the only surviving descendant of the Lopt Clan.[k]
 [cs]
-Now, Cigyun broke the Maira Decree by bearing children. You follow me, Sandima?
+Now, Sigyn broke the Myra Decree by bearing two children. You follow me, Sandima?
 
 [TWinBtm] # Sandima
 [Wait 10]
@@ -949,7 +965,7 @@ Precisely. Now in order for us, the remnants of the Lopt Empire, to once again e
 [cs]
 Sandima, you know as well as I what we've been through.[k]
 [cs]
-We've spent the last several hundred years in hiding deep within the Yied Desert, suffering extreme hardships, dreaming the day would come for us to rebuild the Empire.[k]
+We've spent the last hundred years in hiding deep within the Yied Desert, suffering extreme hardships, dreaming the day would come for us to rebuild the Empire.[k]
 [cs]
 Well, that day is now upon us!
 
@@ -963,22 +979,22 @@ Understood. I will see my mission through, even if it takes my last breath![k]
 # 0x10af08:
 # @@1084448@@
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Sigurd... wait.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Dierdre, is that you!?[n]
+Deirdre, is that you!?[n]
 Ah, so this is the Spirit Forest![k]
 [dcs]
 I'm so happy to see you![n]
 I thought we'd never meet again.[k]
 [cs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Sigurd, listen to me. There's an evil priest at Verdane Castle named Sandima.[k]
 [cs]
 His black magic is deadly, so don't even think of approaching him... Please!
@@ -989,8 +1005,8 @@ I've put everybody in enough danger as it is...[n]
 I'll go this one alone.[k]
 [dcs]
 
-[TWinTop] # Diadora
-. . . . .[n]
+[TWinTop] # Deirdre
+......[n]
 Then I'm going with you.
 
 [TWinBtm] # Sigurd
@@ -998,10 +1014,10 @@ Then I'm going with you.
 You're what!?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 I have a Silence Staff with me.[k]
 [cs]
-I can block magic with it as long as my magic power can overcome his magical defense.[k]
+I can block magic with it as long as my magic power can overcome his resistance.[k]
 [cs]
 I'll silence that Sandima... you'll see!
 
@@ -1011,7 +1027,7 @@ Whoa! Sounds like you could take him yourself![n]
 Wh.. why are you helping me?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 I tried putting you out of my mind, Sigurd...[n]
 but I just couldn't.[k]
 [cs]
@@ -1021,7 +1037,7 @@ Oh, I don't know what I should do...
 [Wait 10]
 I don't know why you're so afraid. If we both feel the same for each other, we've nothing to fear.[k]
 [cs]
-I... I believe I've fallen for you, Dierdre.[k]
+I... I believe I've fallen for you, Deirdre.[k]
 
 [exit]
 
@@ -1029,22 +1045,22 @@ I... I believe I've fallen for you, Dierdre.[k]
 # 0x10b1a6:
 # @@1084456@@
 
-[TWinTop][DlgOpn]['Diadora' 0010]
+[TWinTop][DlgOpn]['Deirdre' 0010]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Sigurd... wait.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Dierdre, is that you!?[n]
+Deirdre, is that you!?[n]
 Ah, so this is the Spirit Forest![k]
 [dcs]
 I'm so happy to see you![n]
 I thought we'd never meet again.[k]
 [cs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Sigurd, I heard of Sandima's death. I was so worried he'd find me.[k]
 [cs]
 He was a black priest sent by an underground religious sect to to find me.
@@ -1055,7 +1071,7 @@ Underground religious sect?[n]
 What's this all about?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Well, all I know is what the woman who raised me told me on her deathbed.[k]
 [cs]
 She said there exists in this world a religious sect who follow the Dark Lord Loputousu.[k]
@@ -1068,17 +1084,17 @@ I've heard something about that, too.[n]
 So why are they after you?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 The Dark Lord lies dormant within my blood, and through me they can resurrect him.[k]
 [cs]
 I was told they must never find me. I am also forbidden to be with a man.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Geez... you must always be on the run. You were avoiding me early, weren't you?[k]
+Geez... you must always be on the run. You were avoiding me earlier, weren't you?[k]
 [dcs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 I was afraid I'd fall for you, Sigurd. I tried putting you out of my mind, but I...[k]
 [cs]
 I just don't want to lose you.[n]
@@ -1086,11 +1102,11 @@ Oh, what am I to do...
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Dierdre, I can understand why you're scared.[k]
+Deirdre, I can understand why you're scared.[k]
 [dcs]
 But there's no reason to let this ruin your whole life for you.[k]
 [cs]
-Dierdre, I vow to keep you out of harm's way. I won't let anyone hurt you.[k]
+Deirdre, I vow to keep you out of harm's way. I won't let anyone hurt you.[k]
 [cs]
 If we both feel the same for each other, then we've nothing to fear.[k]
 [cs]
@@ -1098,10 +1114,10 @@ Dear Lord, if you deem our love for each other to be a sin, I beg of you... puni
 [cs]
 I won't regret it... even if it means a thousand slashes upon my heart![k]
 [cs]
-I only ask that you watch over my beloved Dierdre... unto all eternity![k]
+I only ask that you watch over my beloved Deirdre... unto all eternity![k]
 [cs]
 
-[TWinTop] # Diadora
+[TWinTop] # Deirdre
 Sigurd...[k]
 
 [exit]
@@ -1111,12 +1127,12 @@ Sigurd...[k]
 # @@1084498@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Diadora' 0010]
+[TWinBtm][DlgOpn]['Deirdre' 0010]
 
 [TWinTop] # Sigurd
-Dierdre!? Thank god, you're alright!
+Deirdre!? Thank god, you're alright!
 
-[TWinBtm] # Diadora
+[TWinBtm] # Deirdre
 [Wait 10]
 Yes, I was captured and placed in this castle, but I knew you'd come for me.[k]
 
@@ -1147,9 +1163,9 @@ Please... hold on![k]
 [cs]
 
 [TWinTop] # (null)
-(Uaah..) Sigurd, my apologies for all you had to go through. This was all Sandima's doing.[k]
+Urgh... Sigurd, my apologies for all you had to go through. This was all Sandima's doing.[k]
 [cs]
-He deceived me while conning my two sons in an attempt to take control of my country.
+He deceived me while conning my two sons in an attempt to take control of the country.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -1167,7 +1183,7 @@ Sandima incited our attack on Grandbell solely to further their cause.[k]
 [cs]
 They have infested the world, Sigurd. You must stay sharp and not be led astray![k]
 [cs]
-Please absolve my failure to keep my citizens from harm's way. S..Sigurd, I beg of you...[k]
+Please absolve my failure to keep my citizens from harm's way. S... Sigurd, I beg of you...[k]
 [cs]
 
 [DlgCls][xChr]
@@ -1188,7 +1204,7 @@ The lord of Genoa, Kinbois, is a downright terrible man.[k]
 [cs]
 He has attacked our village on numerous occasions. It's been dreadful.[k]
 [cs]
-And things have been so peaceful under the reign of King Batou...[k]
+And things had been so peaceful under the reign of King Batou...[k]
 [cs]
 Anyway, we're all so glad that you've come!
 [k]
@@ -1206,7 +1222,7 @@ That sorcerer, Sandima, is behind all of this.[k]
 [cs]
 Everything began going downhill the moment he showed up.[k]
 [cs]
-Aside from the youngest prince, Jamuka, Sandima has them all wrapped around his finger.[k]
+Aside from the youngest prince, Jamka, Sandima has them all wrapped around his finger.[k]
 [cs]
 Please, I beg of you... save our kingdom![k]
 
@@ -1221,15 +1237,15 @@ There's a dense forest jus' north of this village. T'is called th' 'Spirit Fores
 [cs]
 I used t'live there once upon a time in a village hidden deep within th' forest.[k]
 [cs]
-Th' legend goes that Saint Maira was exiled by his fellow Loptian clansmen for allying with us humans.[k]
+Th' legend goes that Saint Myra was exiled by his fellow Lopt clansmen for allying with us humans.[k]
 [cs]
-That village is where all of Maira's descendants holed up t'avoid persecution.[k]
+That village is where all of Myra's descendants holed up t'avoid persecution.[k]
 [cs]
-While I was there, a beautiful girl named Cigyun was living under th' village's custody.[k]
+While I was there, a beautiful girl named Sigyn was living under th' village's custody.[k]
 [cs]
-That was due t'her bein' th' last remaining descendant of th' Loptian lord.[k]
+That was due t'her bein' th' last remaining descendant of th' Lopt prince.[k]
 [cs]
-But Cigyun grew tired of th' forest life. She up and left thus breaking village law.[k]
+But Sigyn grew tired of th' forest life. She up and left thus breaking village law.[k]
 [cs]
 She returned several years later expectin' a child.[k]
 [cs]
@@ -1245,7 +1261,7 @@ I wonder where the child is now... If she's livin' she'd be around 17 or 18 I im
 # 0x10c0c5:
 # @@1084610@@
 
-[TWinBtm][DlgOpn]['Eltosan' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 Elliot fled, did he?[n]
 Let him be for now.[n]
 Withdraw to the castle![k]
@@ -1259,7 +1275,7 @@ Withdraw to the castle![k]
 [TWinBtm][DlgOpn]['Gandolf' 004D]
 What the hell's goin' on out there! Those of you ready for battle, move out![k]
 [cs]
-Don't let them near this castle!![k]
+Don't let them near the castle!![k]
 
 [exit]
 
@@ -1268,7 +1284,9 @@ Don't let them near this castle!![k]
 # @@1084648@@
 
 [TWinBtm][DlgOpn]['Ira' 0013]
-Shanan's not here!? Grr! Grandbell must have taken him! They're dead![k]
+Shanan's not here!? Grr! Grandbell must have taken him![k]
+[cs]
+They're dead!![k]
 
 [exit]
 
@@ -1294,11 +1312,11 @@ What!? Grandbell has taken Genoa Castle? I must get to Shanan...[k]
 # 0xedaf0:
 # @@1084725@@
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinTop][DlgOpn]['Ethlin' 0011]
 [TWinBtm][DlgOpn]['Cuan' 0006]
 
-[TWinTop] # Ethrin
-Cuan! Are you OK!? I hate to run out on my brother, but we must get you home to recover.
+[TWinTop] # Ethlin
+Cuan! Are you okay!? I hate to run out on my brother, but we must get you home to recover.
 
 [TWinBtm] # Cuan
 [Wait 10]
@@ -1311,12 +1329,12 @@ Sorry, Ethlin...[k]
 # @@1084852@@
 
 [TWinTop][DlgOpn]['Cuan' 0006]
-[TWinBtm][DlgOpn]['Ethrin' 0011]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
 
 [TWinTop] # Cuan
 Ethlin! Hang in there! I hate to run out on Sigurd, but we must get you home to recover.
 
-[TWinBtm] # Ethrin
+[TWinBtm] # Ethlin
 [Wait 10]
 Cuan, I'm sorry...[k]
 
@@ -1346,7 +1364,7 @@ Naw, it was nothing as nice as either of them. It was just an old iron axe.[k]
 [dcs]
 
 [TWinTop] # (null)
-You are very honest! As a reward for your honesty I present you with the Hero's Axe.[k]
+You are very honest! As a reward for your honesty I present you with the Hero Axe.[k]
 [cs]
 Farewell, Lex...
 

@@ -1,33 +1,20 @@
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the generic speechs made in battles
+# when the character in question isn't versus someone in
+# particular
 
 [winlimit 160]
 [forcewipe]
-
-# 0x30d1e7
-# @@1082134@@
-
-[TWinTop][DlgOpn]['Gerrard' 0040]
-[TWinBtm][DlgOpn]['Mideel' 0007]
-
-[TWinTop]
-W, wait![n]
-You're using arrows,[n]
-you coward!
-
-[TWinBtm]
-[Wait 10]
-Shut up![n]
-Where's Lady Edain!?[n]
-Bring her back, now!![k]
-
-[exit]
-
 
 # 0x319491
 # @@1082151@@
 
 [TWinBtm][DlgOpn]['DiMaggio' 0041]
-So ya made it here, ya[n]
-Grandbellian cowards...[k]
+So ya made it here, ya Grandbellian cowards...[k]
 [cs]
 I, Lord DiMaggio, will finish you![k]
 
@@ -43,93 +30,13 @@ damn you![k]
 
 [exit]
 
-# 0x30d23a
-# @@445396@@
-
-[TWinTop][DlgOpn]['Gandolf' 004D]
-[TWinBtm][DlgOpn]['Mideel' 0007]
-
-[TWinTop]
-What!? You that[n]
-arch knight from[n]
-before!?[k]
-[cs]
-Man, I blew it![n]
-I can't believe you're still alive!
-
-[TWinBtm]
-[Wait 10]
-Prepare yourself,[n]
-Gandolf![k]
-[dcs]
-I'll never forgive[n]
-someone like you!![k]
-
-[exit]
-
-# 0x30d29b
-# @@445413@@
-
-[TWinTop][DlgOpn]['Gandolf' 004D]
-[TWinBtm][DlgOpn]['Azel' 000A]
-
-[TWinTop]
-Who're you?[k]
-[cs]
-Ya got a lot of nerve[n]
-to attack me, ya little[n]
-brat!
-
-[TWinBtm]
-[Wait 10]
-So you're Gandolf...[n]
-How dare you take[n]
-Edain![k]
-
-[exit]
-
-
-# 0x30d2eb
-# @@445430@@
-
-[TWinBtm][DlgOpn]['Sandima' 0052]
-What?[n]
-You're a shaman...?[k]
-[cs]
-You must be Dierdre...[n]
-The cursed maiden...[k]
-
-[exit]
-
-
-# 0x30d328
-# @@445446@@
-
-[TWinTop][DlgOpn]['Sandima' 0052]
-[TWinBtm][DlgOpn]['Jamuka' 000B]
-
-[TWinTop]
-Heheheh...[n]
-You're too late,[n]
-Jamuka.[k]
-[cs]
-Your father is already[n]
-dead.
-
-[TWinBtm]
-[Wait 10]
-W, what!?[n]
-Sandima! You...![k]
-
-[exit]
-
 
 # 0x10987e
 # @@445463@@
 
 [TWinBtm][DlgOpn]['Ira' 0013]
-For the sake of[n]
-Shanan, you must die.[n]
+For Shanan's sake, you must die.[k]
+[cs]
 Feel my Meteor Sword![k]
 
 [exit]
@@ -139,8 +46,7 @@ Feel my Meteor Sword![k]
 # @@445479@@
 
 [TWinBtm][DlgOpn]['Kinbois' 0048]
-You dare to point a[n]
-sword at me!?[k]
+You dare to point a sword at me!?[k]
 [cs]
 ...you fools![n]
 I'll crush yer heads in![k]
@@ -154,9 +60,7 @@ I'll crush yer heads in![k]
 [TWinBtm][DlgOpn]['Gandolf' 004D]
 Why!?[k]
 [cs]
-First my girl escapes,[n]
-and now my castle's[n]
-under attack![k]
+First my girl escapes, and now my castle's under attack![k]
 [cs]
 Why am I so unlucky!?[k]
 
@@ -168,11 +72,9 @@ Why am I so unlucky!?[k]
 
 [TWinBtm][DlgOpn]['Elliot' 0066]
 Damn it, Eltshan![n]
-Always have to play[n]
-the good guy![k]
+Always have to play the good guy![k]
 [cs]
-I'll end this grudge[n]
-today![k]
+I'll end this grudge today![k]
 
 [exit]
 
@@ -182,8 +84,7 @@ today![k]
 
 [TWinBtm][DlgOpn]['Sandima' 0052]
 Heheheh...[n]
-Feel the horror of my[n]
-dark magic![k]
+Feel the horror of my dark magic![k]
 
 [exit]
 
@@ -191,132 +92,9 @@ dark magic![k]
 # 0x10c0ff
 # @@445543@@
 
-[TWinBtm][DlgOpn]['Jamuka' 000B]
-You don't have to die.[n]
-Just leave the country[n]
-at once![k]
-
-[exit]
-
-
-# 0xfb041
-# @@446708@@
-
-[TWinBtm][DlgOpn]['Fury' 0014]
-Prince Levin!?[n]
-Th, this isn't possible...[k]
-
-[exit]
-
-
-# 0x30d3b5
-# @@446724@@
-
-[TWinTop][DlgOpn]['Shagaar' 00A1]
-[TWinBtm][DlgOpn]['Fury' 0014]
-
-[TWinTop]
-Mwahaha, it's you...[k]
-[cs]
-Finally realized the[n]
-truth, did you?[n]
-You stupid woman.
-
-[TWinBtm]
-[Wait 10]
-Shagall![n]
-You lied to me...[k]
-[cs]
-I cannot forgive you![n]
-Prepare yourself![k]
-
-[exit]
-
-
-# 0x30d418
-# @@446741@@
-
-[TWinTop][DlgOpn]['Shagaar' 00A1]
-[TWinBtm][DlgOpn]['Lachesis' 0012]
-
-[TWinTop]
-Hey, aren't you[n]
-Eltshan's sister?[k]
-[cs]
-How dare you rise up[n]
-against me!
-
-[TWinBtm]
-[Wait 10]
-You're not MY king![n]
-Return my brother to[n]
-me this instant![k]
-
-[exit]
-
-
-# 0x30d480
-# @@446758@@
-
-[TWinTop][DlgOpn]['Elliot' 0066]
-[TWinBtm][DlgOpn]['Lachesis' 0012]
-
-[TWinTop]
-Princess Lachesis...[n]
-This has gone far
-enough.[k]
-[cs]
-If you'll become my[n]
-wife, I'll spare you.
-
-[TWinBtm]
-[Wait 10]
-You filthy...![n]
-Become your wife!?[n]
-I'd rather die!![k]
-
-[exit]
-
-
-# 0x30d4f9
-# @@446775@@
-
-[TWinTop][DlgOpn]['Voltz' 0073]
-[TWinBtm][DlgOpn]['Beowulf' 000D]
-
-[TWinTop]
-Heh... Beowulf...[n]
-Bit early for you t'be[n]
-fightin' me, isn't it?
-
-[TWinBtm]
-[Wait 10]
-Yeah, probably...[k]
-[dcs]
-But I'm a mercenary,[n]
-and those are my[n]
-orders...[k]
-
-[exit]
-
-
-# 0x30d562
-# @@446792@@
-
-[TWinTop][DlgOpn]['Macbeth' 006F]
-[TWinBtm][DlgOpn]['Levin' 0008]
-
-[TWinTop]
-Wh, Who are you...?
-
-[TWinBtm]
-[Wait 10]
-You're Macbeth?[n]
-You're not qualified to[n]
-be a king.[k]
-[cs]
-About time you were[n]
-retired...[k]
+[TWinBtm][DlgOpn]['Jamka' 000B]
+You don't have to die.
+Just leave the country at once![k]
 
 [exit]
 
@@ -326,11 +104,9 @@ retired...[k]
 
 [TWinBtm][DlgOpn]['Elliot' 0066]
 Wha...?[n]
-Why is the Grandbell[n]
-Army here!?[k]
+Why is the Grandbell Army here!?[k]
 [cs]
-Let's finish this and[n]
-wipe 'em out![k]
+Let's finish this and wipe 'em out![k]
 
 [exit]
 
@@ -341,8 +117,7 @@ wipe 'em out![k]
 [TWinBtm][DlgOpn]['Phillip' 005F]
 Grandbellians...[k]
 [cs]
-So long as I live, you[n]
-will not reach Heirhein![k]
+So long as I live, you will not reach Heirhein![k]
 
 [exit]
 
@@ -351,8 +126,7 @@ will not reach Heirhein![k]
 # @@446841@@
 
 [TWinBtm][DlgOpn]['Boldor' 005D]
-What, the Grandbell[n]
-army is here!?[k]
+What, the Grandbell army is here!?[k]
 [cs]
 Bah! You're all useless!![n]
 I'll do this myself![k]
@@ -367,13 +141,9 @@ I'll do this myself![k]
 Grandbell's here?[n]
 It can't be...[k]
 [cs]
-What do those[n]
-mercenaries think I'm[n]
-paying them for!?[k]
+What do those mercenaries think I'm paying them for!?[k]
 [cs]
-Uuh... It looks like I'll[n]
-have to settle this[n]
-myself!![k]
+Ooh... It looks like I'll have to settle this myself!![k]
 
 [exit]
 
@@ -382,9 +152,7 @@ myself!![k]
 # @@446873@@
 
 [TWinBtm][DlgOpn]['Voltz' 0073]
-This is just my job.[n]
-Don't think too badly[n]
-of me.[k]
+This is just my job. Don't think too badly of me.[k]
 
 [exit]
 
@@ -393,11 +161,9 @@ of me.[k]
 # @@446889@@
 
 [TWinBtm][DlgOpn]['Beowulf' 000D]
-Don't hold this against[n]
-me.[k]
+Don't hold this against me.[k]
 [cs]
-...it's just how I make a[n]
-living.[k]
+...it's just how I make a living.[k]
 
 [exit]
 
@@ -407,8 +173,7 @@ living.[k]
 
 [TWinBtm][DlgOpn]['Clement' 0075]
 You invaders!![n]
-...since it's come to[n]
-this, I'll fight you![k]
+...since it's come to this, I'll fight you![k]
 
 [exit]
 
@@ -418,11 +183,9 @@ this, I'll fight you![k]
 
 [TWinBtm][DlgOpn]['Zain' 0083]
 Damned Grandbellians...[n]
-This is a matter of my[n]
-pride as a warrior![k]
+This is a matter of my pride as a warrior![k]
 [cs]
-I'll finish this and wipe[n]
-you all out![k]
+I'll finish this and wipe you all out![k]
 
 [exit]
 
@@ -432,8 +195,7 @@ you all out![k]
 
 [TWinBtm][DlgOpn]['Fury' 0014]
 Knights of Grandbell![n]
-Return Prince Levin to[n]
-us!![k]
+Return Prince Levin to us!![k]
 
 [exit]
 
@@ -442,120 +204,9 @@ us!![k]
 # @@446953@@
 
 [TWinBtm][DlgOpn]['Shagaar' 00A1]
-Crr...[n]
-Don't underestimate ME![k]
+Grr... Don't underestimate me![k]
 [cs]
-You really think you[n]
-can defeat me!?[k]
-
-[exit]
-
-
-# 0x1dabcf
-# @@448270@@
-
-[TWinBtm][DlgOpn]['Eltosian' 005A]
-No, Lachesis![n]
-I don't want to fight[n]
-you!![k]
-
-[exit]
-
-
-# 0x30d5d2
-# @@448286@@
-
-[TWinTop][DlgOpn]['Eltosian' 009F]
-[TWinBtm][DlgOpn]['Sigurd' 0001]
-
-[TWinTop]
-Sigurd...[k]
-[cs]
-I never expected that[n]
-I would ever have to[n]
-cross swords with[n]
-you...[k]
-[cs]
-This is our fate as[n]
-knights, however.[k]
-[cs]
-There is nothing either[n]
-of us can do about it.
-
-[TWinBtm]
-[Wait 10]
-W, wait! Eltshan!![k]
-
-[exit]
-
-
-# 0x30d640
-# @@448303@@
-
-[TWinTop][DlgOpn]['Dobarl' 00AA]
-[TWinBtm][DlgOpn]['Brigid' 0018]
-
-[TWinTop]
-Geh... You're still alive,[n]
-you stubborn woman!?
-
-[TWinBtm]
-[Wait 10]
-Duvall![n]
-I'll never forgive you!![k]
-
-[exit]
-
-
-# 0x30d68a
-# @@448320@@
-
-[TWinTop][DlgOpn]['Shagaar' 00A1]
-[TWinBtm][DlgOpn]['Lachesis' 0012]
-
-[TWinTop]
-Heheheh... you're too[n]
-late.[n]
-Eltshan's already dead.
-
-[TWinBtm]
-[Wait 10]
-It's your fault that my[n]
-Lord Brother...[k]
-[dcs]
-This is unforgivable...[k]
-
-[exit]
-
-
-# 0x30d6db
-# @@448337@@
-
-[TWinTop][DlgOpn]['Shagaar' 00A1]
-[TWinBtm][DlgOpn]['Sigurd' 0001]
-
-[TWinTop]
-Sigurd,[n]
-you've made a fool of[n]
-me for far too long.
-
-[TWinBtm]
-[Wait 10]
-King Shagall,[n]
-you've killed so many[n]
-innocent people.[k]
-[dcs]
-And Eltshan...[k]
-[cs]
-You're a despicable[n]
-person!
-
-[TWinTop]
-Idiot![n]
-You don't know what[n]
-you're talking about![k]
-[dcs]
-Die, Sigurd!![k]
+Do you really think you can defeat me!?[k]
 
 [exit]
 
@@ -573,16 +224,10 @@ Thunder Sword![k]
 # 0x1dab8b
 # @@448370@@
 
-[TWinBtm][DlgOpn]['Eltosian' 005A]
-This is the Demon[n]
-Sword,[n]
-Mistoltin.[k]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
+This is the Demon Sword, Mistoltin.[k]
 [cs]
-If you don't wish to[n]
-become its prey,[k]
-[cs]
-then don't come[n]
-anywhere near me...[k]
+If you don't wish to become its prey, then don't come anywhere near me...[k]
 
 [exit]
 
@@ -591,15 +236,11 @@ anywhere near me...[k]
 # @@448386@@
 
 [TWinBtm][DlgOpn]['Shagaar' 00A1]
-What... how dare you!?[k]
-[cs]
-I am the king of[n]
-Agustria, you[n]
-disrespectful maggots![k]
+What... how dare you!?[n]
+I am the king of Agustria, you disrespectful maggots![k]
 [cs]
 Crap...[n]
-I'll make you pay for[n]
-this!![k]
+I'll make you pay for this!![k]
 
 [exit]
 
@@ -610,11 +251,7 @@ this!![k]
 [TWinBtm][DlgOpn]['Papilion' 00A4]
 Heheheh...[k]
 [cs]
-Prepare to feel the[n]
-terror that is the[k]
-[cs]
-Thracian Dragon[n]
-Knights![k]
+Prepare to feel the terror that is the Thracian Dragon Knights![k]
 
 [exit]
 
@@ -623,8 +260,7 @@ Knights![k]
 # @@448418@@
 
 [TWinBtm][DlgOpn]['Dobarl' 00AA]
-Damn it! My men are all[n]
-useless cowards![k]
+Damn it! My men are all useless cowards![k]
 
 [exit]
 
@@ -633,150 +269,9 @@ useless cowards![k]
 # @@448434@@
 
 [TWinBtm][DlgOpn]['Pizarl' 00AC]
-What, the Grandbell[n]
-Army!?[k]
+What, the Grandbell Army!?[k]
 [cs]
-Let them enjoy the[n]
-fear that is the[n]
-Orgahil Pirates!![k]
-
-[exit]
-
-
-# 0x30d79a
-# @@449589@@
-
-[TWinTop][DlgOpn]['Maios' 00B8]
-[TWinBtm][DlgOpn]['Levin' 0008]
-
-[TWinTop]
-Hmph. If it isn't Queen[n]
-Rahna's idiot son.[n]
-So you've come back.
-
-[TWinBtm]
-[Wait 10]
-Sorry, uncle, but in[n]
-order to safeguard[n]
-Silesia, I must kill you.[k]
-
-[exit]
-
-
-# 0x30d802
-# @@449606@@
-
-[TWinTop][DlgOpn]['Dakar' 00C6]
-[TWinBtm][DlgOpn]['Levin' 0008]
-
-[TWinTop]
-Urgh... Levin... it's you...
-
-[TWinBtm]
-[Wait 10]
-Daccar! How dare you[n]
-kill Mahnya!?[k]
-[dcs]
-Death is too good for[n]
-you![k]
-[cs]
-
-[TWinTop]
-What impudence!![n]
-Die, Levin![k]
-
-[exit]
-
-
-# 0x30d86d
-# @@449623@@
-
-[TWinTop][DlgOpn]['Deetva' 00C2]
-[TWinBtm][DlgOpn]['Fury' 0014]
-
-[TWinTop]
-Heheheh, Fury...[n]
-This is a fine meeting...[k]
-[cs]
-I'll present your head[n]
-to Duke Maios as a[n]
-souvenir!
-
-[TWinBtm]
-[Wait 10]
-No way, Deetva![n]
-I'm not the Fury you
-once knew. I won't lose.[k]
-[dcs]
-
-[TWinTop]
-Heh.[n]
-Fury, you crybaby.[n]
-You're all talk.[k]
-[cs]
-Don't make me laugh!![k]
-
-[exit]
-
-
-# 0x30d922
-# @@449640@@
-
-[TWinTop][DlgOpn]['Pamela' 00C9]
-[TWinBtm][DlgOpn]['Fury' 0014]
-
-[TWinTop]
-Oh, it's Fury...[n]
-So, you came back,[n]
-huh.
-
-[TWinBtm]
-[Wait 10]
-Pamela!![k]
-[dcs]
-I can never forgive[n]
-you for what you did[n]
-to my sister!
-
-
-[TWinTop]
-Hmph.[n]
-How rude of you to[n]
-say such things![k]
-[dcs]
-I'll send you to your[n]
-sister![n]
-Prepare yourself!![k]
-
-[exit]
-
-
-# 0x30d9b0
-# @@449657@@
-
-[TWinTop][DlgOpn]['Pamela' 00C9]
-[TWinBtm][DlgOpn]['Levin' 0008]
-
-[TWinTop]
-Prince Levin... haven't[n]
-seen you for a while.[k]
-[cs]
-I finished off Mahnya,[n]
-making me the highest[n]
-ranked knight.[k]
-[cs]
-Hahaha...
-
-[TWinBtm]
-[Wait 10]
-Argh, Pamela![n]
-You... you...[k]
-[dcs]
-
-[TWinTop]
-Heh, you're the bad[n]
-guy in all this, Lord[n]
-Levin...[k]
+Let them enjoy the fear that is the Orgahil Pirates!![k]
 
 [exit]
 
@@ -794,12 +289,9 @@ Hmm... this can't be...[k]
 # @@449690@@
 
 [TWinBtm][DlgOpn]['Deetva' 0242]
-I, Deetva, am one of[n]
-the four Angelic[n]
-Knights of Silesia.[k]
+I, Deetva, am one of the four Angelic Knights of Silesia.[k]
 [cs]
-It's such a shame, but[n]
-you're going to die![k]
+It's such a shame, but you're going to die![k]
 
 [exit]
 
@@ -808,11 +300,7 @@ you're going to die![k]
 # @@449706@@
 
 [TWinBtm][DlgOpn]['Maios' 023F]
-Traitors![k]
-[cs]
-Your heads will fetch[n]
-me a fine price in[n]
-Grandbell![k]
+Traitors! Your heads will fetch me a fine price in Grandbell![k]
 
 [exit]
 
@@ -822,8 +310,7 @@ Grandbell![k]
 
 [TWinBtm][DlgOpn]['Mahnya' 00B6]
 Sorry.[n]
-You've committed no[n]
-crimes, but...[k]
+You've committed no crimes, but...[k]
 
 [exit]
 
@@ -833,8 +320,7 @@ crimes, but...[k]
 
 [TWinBtm][DlgOpn]['Pamela' 0241]
 Heh...[n]
-You're little fish[n]
-compared to me! Die![k]
+You're little fish compared to me! Die![k]
 
 [exit]
 
@@ -846,8 +332,7 @@ compared to me! Die![k]
 Gwahahaha...[n]
 Watch them fall.[k]
 [cs]
-Like shooting fish in a[n]
-barrel.[k]
+Like shooting fish in a barrel.[k]
 
 [exit]
 
@@ -865,9 +350,7 @@ Gwahaha... DIE![k]
 # @@449786@@
 
 [TWinBtm][DlgOpn]['Dakar' 0240]
-Lordship of Silesia is[n]
-my right! You're just a[n]
-hindrance![k]
+Lordship of Silesia is my right! You're just a hindrance![k]
 
 [exit]
 
@@ -877,8 +360,7 @@ hindrance![k]
 
 [TWinBtm][DlgOpn]['Lamia' 00D5]
 Heheheh...[n]
-Only a fool would face[n]
-me...[k]
+Only a fool would face me...[k]
 
 [exit]
 
@@ -887,273 +369,9 @@ me...[k]
 # @@451249@@
 
 [TWinBtm][DlgOpn]['Slayder' 029A]
-Sorry about this, Lord[n]
-Vylon, but I have my[n]
-orders.[k]
+Sorry about this, Lord Byron, but I have my orders.[k]
 [cs]
 This is where you'll die![k]
-
-[exit]
-
-
-# 0x30da3c
-# @@451265@@
-
-[TWinTop][DlgOpn]['Langobalt' 00DB]
-[TWinBtm][DlgOpn]['Lex' 000E]
-
-[TWinTop]
-You...[n]
-Lex?! You traitor!![k]
-[cs]
-You're turning on[n]
-your own father! Have[n]
-you no shame!?
-
-[TWinBtm]
-[Wait 10]
-You say that I disgust[n]
-you, but...[k]
-[dcs]
-Dad, this is fate...[n]
-Please forgive me...[k]
-
-[exit]
-
-
-# 0x30dab6
-# @@451282@@
-
-[TWinTop][DlgOpn]['Leptor' 00F5]
-[TWinBtm][DlgOpn]['Tiltyu' 0015]
-
-[TWinTop]
-Ta, Tailtiu...[n]
-It's you...[k]
-[cs]
-I knew that you were[n]
-with the rebel army,[k]
-[cs]
-but I never expected[n]
-to face you like this...
-
-[TWinBtm]
-[Wait 10]
-Father... I'm so sorry...[k]
-[dcs]
-
-[TWinTop]
-Crr... Claude!![n]
-You've decieved my[n]
-daughter...[k]
-[dcs]
-In any case...[k]
-[cs]
-House Freege's[n]
-reputation must be[n]
-defended.[k]
-[cs]
-Tailtiu, you have to die.
-
-[TWinBtm]
-[Wait 10]
-![n]
-...father...[k]
-
-[exit]
-
-
-# 0x30db90
-# @@451299@@
-
-[TWinBtm][DlgOpn]['Magorn' 00F0]
-...so you're Sigurd?[n]
-Hahaha... you're[n]
-pathetic...[k]
-
-[exit]
-
-
-# 0x30baae
-# @@451315@@
-
-[TWinTop][DlgOpn]['Langobalt' 00DB]
-[TWinBtm][DlgOpn]['Sigurd' 0001]
-
-[TWinTop]
-Gwahaha... the kid's[n]
-made it.[k]
-[cs]
-Hey,[n]
-I'll send you to Vylon.[k]
-[cs]
-He must be getting[n]
-lonely by now.
-
-[TWinBtm]
-[Wait 10]
-Langobalt![k]
-[dcs]
-I'll never forgive you[n]
-for what you did to my[n]
-father!![k]
-
-[exit]
-
-
-# 0x30dbb9
-# @@451332@@
-
-[TWinTop][DlgOpn]['Leptor' 00F5]
-[TWinBtm][DlgOpn]['Sigurd' 0001]
-
-[TWinTop]
-Sigurd!? ...you traitor![n]
-Invading our holy land!!
-
-[TWinBtm]
-[Wait 10]
-You're the traitor,[n]
-Lord Reptor![k]
-[dcs]
-Entrapping my father[n]
-and Prince Kult...[k]
-[cs]
-You know what actually[n]
-happened![k]
-
-[TWinTop]
-Hmph, you idiot![n]
-Politics is all about[n]
-power![k]
-[dcs]
-Your father had no[n]
-power, which is why he[n]
-died.[k]
-[cs]
-You're a knight, that[n]
-should be obvious to[n]
-you.
-
-[TWinBtm]
-[Wait 10]
-Knights respect[n]
-honour and justice,[k]
-[dcs]
-and what you've done[n]
-isn't just.[k]
-[cs]
-I've returned to[n]
-restore Grandbell's[n]
-reputation![k]
-
-[TWinTop]
-You've gone to a lot of[n]
-trouble, but this is as[n]
-far as you'll get.[k]
-[dcs]
-You'll die a traitor,[n]
-just like Vylon.[k]
-[cs]
-Your power is nothing[n]
-compared to my Tor[n]
-Hammer.[k]
-[cs]
-You'll soon see how[n]
-powerless you really[n]
-are...[k]
-[cs]
-Mwahaha...[k]
-
-[exit]
-
-
-# 0x30dd71
-# @@451349@@
-
-[TWinTop][DlgOpn]['Leptor' 00F5]
-[TWinBtm][DlgOpn]['Aida' 00F3]
-
-[TWinTop]
-Ida...[n]
-You betrayed me...
-
-[TWinBtm]
-[Wait 10]
-Ha ha ha...[n]
-Don't be such a bad[n]
-loser, Lord Reptor.[k]
-[dcs]
-You might as well just[n]
-give up.[k]
-
-[exit]
-
-
-# 0x30b96e
-# @@451366@@
-
-[TWinTop][DlgOpn]['Andre' 00E9]
-[TWinBtm][DlgOpn]['Edin' 0017]
-
-[TWinTop]
-Hah, it's my[n]
-treacherous big sister.[k]
-[cs]
-Fancy meeting you[n]
-here.[k]
-[cs]
-You've tarnished the[n]
-reputation of my[n]
-Jungby...[k]
-[cs]
-In return, I'll have[n]
-your life.
-
-[TWinBtm]
-[Wait 10]
-Andre... you're so[n]
-pathetic...[k]
-
-[exit]
-
-
-# 0x30b9e9
-# @@451383@@
-
-[TWinTop][DlgOpn]['Andre' 00E9]
-[TWinBtm][DlgOpn]['Brigid' 0018]
-
-[TWinTop]
-What!?[n]
-It can't be... big sister[n]
-Brigid?!?[k]
-[cs]
-I heard that you'd[n]
-become a pirate,[k]
-[cs]
-but allying with the[n]
-traitors is another[n]
-matter...[k]
-[cs]
-In any case, you've[n]
-brought shame upon[n]
-my house.[k]
-[cs]
-I'll have to kill you.
-
-[TWinBtm]
-[Wait 10]
-Shut up![n]
-You killed father, you[n]
-patricide![k]
-[dcs]
-You're the disgrace to[n]
-Jungby House,[k]
-[cs]
-AND you've tarnished[n]
-the reputation of the[n]
-Crusader Ulir!![k]
 
 [exit]
 
@@ -1161,9 +379,8 @@ Crusader Ulir!![k]
 # 0x30bc52
 # @@451400@@
 
-[TWinBtm][DlgOpn]['Ethrin' 0011]
-I'll protect you,[n]
-Altenna![k]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
+I'll protect you, Altenna![k]
 
 [exit]
 
@@ -1172,12 +389,9 @@ Altenna![k]
 # @@451428@@
 
 [TWinBtm][DlgOpn]['Slayder' 029A]
-What?[n]
-How could you have[n]
-gotten here!?[k]
+What? How could you have reached here!?[k]
 [cs]
-Our front line's[n]
-already broken!?[k]
+Our front line's already broken!?[k]
 
 [exit]
 
@@ -1185,7 +399,7 @@ already broken!?[k]
 # 0x30bb68
 # @@451444@@
 
-[TWinBtm][DlgOpn]['Vylon' 027E]
+[TWinBtm][DlgOpn]['Byron' 027E]
 Damn... so close...[k]
 
 [exit]
@@ -1205,16 +419,11 @@ Die![k]
 # @@451476@@
 
 [TWinBtm][DlgOpn]['Langobalt' 00DB]
-Gwahaha... weaklings.[n]
-As long as I have my[n]
-Swanchika...[k]
+Gwahaha... weaklings. As long as I have my Swanchika...[k]
 [cs]
-No matter how many of[n]
-you come, you'll all[n]
-suffer the same fate![k]
+No matter how many of you come, you'll all suffer the same fate![k]
 [cs]
-If you don't want to[n]
-die, then stay away![k]
+If you don't want to die, then stay away![k]
 
 [exit]
 
@@ -1223,8 +432,7 @@ die, then stay away![k]
 # @@451492@@
 
 [TWinBtm][DlgOpn]['Vaha' 00EB]
-I summon thee, wrath[n]
-of the heavens![n]
+I summon thee, wrath of the heavens![n]
 METEO!![k]
 
 [exit]
@@ -1234,15 +442,9 @@ METEO!![k]
 # @@451508@@
 
 [TWinBtm][DlgOpn]['Torabant' 00EF]
-Behold, the[n]
-world-renowned[n]
-Gungnir![k]
+Behold, the world-renowned Gungnir! Heheheh... you look so happy to see it.[k]
 [cs]
-Heheheh... you look so[n]
-happy to see it.[k]
-[cs]
-You will bow to me, and[n]
-then you will die.[k]
+You will bow to me, and then you will die.[k]
 
 [exit]
 
@@ -1252,8 +454,7 @@ then you will die.[k]
 
 [TWinBtm][DlgOpn]['Magorn' 00F0]
 This is just our job.[n]
-...don't think too badly[n]
-of us.[k]
+...don't think too badly of us.[k]
 
 [exit]
 
@@ -1262,11 +463,7 @@ of us.[k]
 # @@451609@@
 
 [TWinBtm][DlgOpn]['Cuan' 0006]
-Die! You hyenas![k]
-[cs]
-As long as I have the[n]
-Gae Bolg, I will not lose[n]
-to your kind.[k]
+Die! You hyenas! As long as I have the Gae Bolg, I will not lose to your kind.[k]
 
 [exit]
 
@@ -1283,10 +480,9 @@ Damn... this is it.[k]
 # 0x30bd5b
 # @@451641@@
 
-[TWinBtm][DlgOpn]['Leptor' 00F5]
+[TWinBtm][DlgOpn]['Reptor' 00F5]
 Heheheh...[n]
-Feel the wrath of my[n]
-Tor Hammer![k]
+Feel the wrath of my Tor Hammer![k]
 
 [exit]
 
@@ -1294,167 +490,9 @@ Tor Hammer![k]
 # 0x30bd36
 # @@451656@@
 
-[TWinBtm][DlgOpn]['Leptor' 00F5]
-Fine then... I'm taking[n]
-you down with me![n]
+[TWinBtm][DlgOpn]['Reptor' 00F5]
+Fine then... I'm taking you down with me![n]
 Die!![k]
-
-[exit]
-
-
-# 0x30ddd0
-# @@3310495@@
-
-[TWinTop][DlgOpn]['Danan' 0111]
-[TWinBtm][DlgOpn]['Johan' 001E]
-
-[TWinTop]
-J, Johan...[k]
-[cs]
-That woman has[n]
-turned you against[n]
-me!?
-
-[TWinBtm]
-[Wait 10]
-Sigh... I pledged my life[n]
-for her love.[n]
-Forgive me, father...[k]
-[dcs]
-
-[TWinTop]
-Y, you fool...[k]
-
-[exit]
-
-
-# 0x30de39
-# @@3310512@@
-
-[TWinTop][DlgOpn]['Danan' 0111]
-[TWinBtm][DlgOpn]['Johalva' 0031]
-
-[TWinTop]
-Johalva, you...![n]
-How dare you rise up[n]
-against your father!!
-
-[TWinBtm]
-[Wait 10]
-Sorry...[k]
-[dcs]
-I don't want anything[n]
-more to do with your[n]
-evil deeds.[k]
-[cs]
-It's nothing personal.[k]
-[cs]
-
-[TWinTop]
-D, damn it...![n]
-Johalva![k]
-
-[exit]
-
-
-# 0x30debe
-# @@3310529@@
-
-[TWinTop][DlgOpn]['Johan' 001E]
-[TWinBtm][DlgOpn]['Johalva' 0031]
-
-[TWinTop]
-Sigh... Johalva...[k]
-[cs]
-It makes me sad to[n]
-have a little brother[n]
-as foolish as you.
-
-[TWinBtm]
-[Wait 10]
-You're the foolish one,[n]
-but that's irrelevant.[k]
-[dcs]
-I knew that this day[n]
-would come sometime![n]
-Now let's finish this!
-
-[TWinTop]
-As you wish![k]
-
-[exit]
-
-
-# 0x30df77
-# @@3310546@@
-
-[TWinBtm][DlgOpn]['Johalva' 0031]
-W, wait,[sp][$00$2C$3A$00]![n]
-I can't fight you![k]
-
-[exit]
-
-
-# 0x30df77
-# @@3310562@@
-[Merge 3283d2]
-
-[TWinBtm][DlgOpn]['Johalva' 0031]
-W, wait,[sp][$00$2C$3A$00]![n]
-I can't fight you![k]
-
-[exit]
-
-
-# 0x30df49
-# @@3310578@@
-
-[TWinBtm][DlgOpn]['Johan' 001E]
-W, wait,[sp][$00$2C$3A$00]. Please![k]
-[cs]
-It's not possible for me[n]
-to fight you![k]
-
-[exit]
-
-
-# 0x30df49
-# @@3310594@@
-[Merge 3283f2]
-
-[TWinBtm][DlgOpn]['Johan' 001E]
-W, wait,[sp][$00$2C$3A$00]. Please![k]
-[cs]
-It's not possible for me[n]
-to fight you![k]
-
-[exit]
-
-
-# 0x30dfa2
-# @@3310610@@
-
-[TWinTop][DlgOpn]['Danan' 0111]
-[TWinBtm][DlgOpn]['Celice' 0019]
-
-[TWinTop]
-Y, you're the son of[n]
-that Sigurd![k]
-[cs]
-C, crap![n]
-My father's grudge...[n]
-I will get his revenge!
-
-[TWinBtm]
-[Wait 10]
-King Danan...[k]
-[dcs]
-Under your rule, many[n]
-people have suffered[n]
-and died.[k]
-[cs]
-Now you must face the[n]
-consequences.[k]
 
 [exit]
 
@@ -1464,8 +502,7 @@ consequences.[k]
 
 [TWinBtm][DlgOpn]['Harold' 024E]
 Urgh...[n]
-It's ONLY the rebel[n]
-army![k]
+It's ONLY the rebel army![k]
 
 [exit]
 
@@ -1474,12 +511,10 @@ army![k]
 # @@3310643@@
 
 [TWinBtm][DlgOpn]['Johalva' 0031]
-I will not hand over my[n]
-castle![k]
+I will not hand over my castle![k]
 [cs]
 You rebels...[n]
-I'll beat the crap out[n]
-of you![k]
+I'll beat the crap out of you![k]
 
 [exit]
 
@@ -1491,19 +526,16 @@ of you![k]
 Heheheh...[n]
 Nobody can defeat me.[k]
 [cs]
-To die by my hand, you[n]
-should feel flattered.[k]
+To die by my hand, you should feel flattered.[k]
 
 [exit]
-
 
 # 0x10ea71
 # @@3310675@@
 
 [TWinBtm][DlgOpn]['Shumit' 0245]
-Lord Danan's orders...[n]
-You are not to go any[n]
-further![k]
+Lord Dannan's orders...[n]
+You are not to go any further![k]
 
 [exit]
 
@@ -1513,8 +545,7 @@ further![k]
 
 [TWinBtm][DlgOpn]['Danan' 024D]
 Rebels![n]
-Don't underestimate[n]
-the Grandbell Empire![k]
+Don't underestimate the Grandbell Empire![k]
 
 [exit]
 
@@ -1549,226 +580,14 @@ TRIANGLE ATTACK!![k]
 [exit]
 
 
-# 0x30e030
-# @@453452@@
-
-[TWinTop][DlgOpn]['Tinny' 003D]
-[TWinBtm][DlgOpn]['Arthur' 0038]
-
-[TWinTop]
-Sorry...[n]
-I don't want to fight,[n]
-but...
-
-[TWinBtm]
-[Wait 10]
-Ah, wait![n]
-Could you be...[k]
-
-[exit]
-
-
-# 0x30e030
-# @@453469@@
-[Merge 6eb4c]
-
-[TWinTop][DlgOpn]['Tinny' 003D]
-[TWinBtm][DlgOpn]['Arthur' 0038]
-
-[TWinTop]
-Sorry...[n]
-I don't want to fight,[n]
-but...
-
-[TWinBtm]
-[Wait 10]
-Ah, wait![n]
-Could you be...[k]
-
-[exit]
-
-
-# 0x30e078
-# @@453486@@
-
-[TWinTop][DlgOpn]['Bramsel' 012C]
-[TWinBtm][DlgOpn]['Aless' 0025]
-
-[TWinTop]
-What? It's you, Aless!?[n]
-You... you traitor!!
-
-[TWinBtm]
-[Wait 10]
-Bramsel![n]
-Return[sp][$00$2C$3E$00]!![k]
-[dcs]
-
-[TWinTop]
-You're too late![n]
-Right about now, she's[n]
-already... heheheh...
-
-[TWinBtm]
-[Wait 10]
-Y, you! I won't forgive[n]
-this!![k]
-
-[exit]
-
-
-# 0x30e0fa
-# @@453503@@
-
-[TWinTop][DlgOpn]['Jabarro' 0129]
-[TWinBtm][DlgOpn]['Aless' 0025]
-
-[TWinTop]
-Aless! You ingrate!![n]
-You won't get away[n]
-with this!
-
-[TWinBtm]
-[Wait 10]
-You disgust me.[k]
-[dcs]
-I hate to say it, but[n]
-you're going to die.[k]
-
-[exit]
-
-
-# 0x30e14c
-# @@453520@@
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-It's you,[sp][$00$2C$3D$00]!?[n]
-You're betraying me...?
-
-[TWinBtm]
-[Wait 10]
-I'm sorry, my Lord[n]
-Uncle...[k]
-
-[exit]
-
-
-# 0x30e14c
-# @@453537@@
-[Merge 6eb90]
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-It's you,[sp][$00$2C$3D$00]!?[n]
-You're betraying me...?
-
-[TWinBtm]
-[Wait 10]
-I'm sorry, my Lord[n]
-Uncle...[k]
-
-[exit]
-
-
-# 0x30e190
-# @@453554@@
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Arthur' 0038]
-
-[TWinTop]
-What? ...you, you're...
-
-[TWinBtm]
-[Wait 10]
-Blume, I've waited for[n]
-this day![k]
-[dcs]
-You're going to pay[n]
-for taking my mother[n]
-and little sister![k]
-[cs]
-
-[TWinTop]
-Damn, you little brat![n]
-You think you can[n]
-beat me!?[k]
-
-[exit]
-
-
-# 0x30e190
-# @@453571@@
-[Merge 6ebb2]
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Arthur' 0038]
-
-[TWinTop]
-What? ...you, you're...
-
-[TWinBtm]
-[Wait 10]
-Blume, I've waited for[n]
-this day![k]
-[dcs]
-You're going to pay[n]
-for taking my mother[n]
-and little sister![k]
-[cs]
-
-[TWinTop]
-Damn, you little brat![n]
-You think you can[n]
-beat me!?[k]
-
-[exit]
-
-
-# 0x30e21a
-# @@453588@@
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Leif' 001D]
-
-[TWinTop]
-Haha,[n]
-You're Cuan's son,[n]
-right?[k]
-[cs]
-So you're still alive.
-
-[TWinBtm]
-[Wait 10]
-You've made my people[n]
-suffer, King Blume.[k]
-[dcs]
-You'll die for what[n]
-you've done.[k]
-
-[TWinTop]
-Hmph, you idiot![n]
-You're the one who'll[n]
-die!![k]
-
-[exit]
-
-
 # 0x31d416
 # @@453616@@
 
 [TWinBtm][DlgOpn]['Coutozov' 0250]
 Rebels...[n]
-You're tarnishing the[n]
-sacred Yied Shrine![k]
+You're tarnishing the sacred Yied Shrine![k]
 [cs]
-My dark magic will[n]
-consign you to oblivion![k]
+My dark magic will consign you to oblivion![k]
 
 [exit]
 
@@ -1779,11 +598,9 @@ consign you to oblivion![k]
 
 [TWinBtm][DlgOpn]['Coutozov' 0250]
 Rebels...[n]
-You're tarnishing the[n]
-sacred Yied Shrine![k]
+You're tarnishing the sacred Yied Shrine![k]
 [cs]
-My dark magic will[n]
-consign you to oblivion![k]
+My dark magic will consign you to oblivion![k]
 
 [exit]
 
@@ -1793,12 +610,9 @@ consign you to oblivion![k]
 
 [TWinBtm][DlgOpn]['Liza' 0253]
 The Rebel Army...?[n]
-Sorry, but your trail[n]
-ends here.[k]
+Sorry, but your trail ends here.[k]
 [cs]
-As long as I, Liza, live, I[n]
-won't allow you to get[n]
-to Melgen![k]
+As long as I, Liza, live, I won't allow you to get to Melgen![k]
 
 [exit]
 
@@ -1817,12 +631,9 @@ Die![k]
 # @@453680@@
 
 [TWinBtm][DlgOpn]['Bramsel' 024F]
-What!? Jabarro[n]
-screwed up!?[k]
+What? Jabarro failed!?[k]
 [cs]
-Darna is my city,[n]
-and I'll never give it[n]
-up![k]
+Darna is my city, and I'll never give it up![k]
 
 [exit]
 
@@ -1879,11 +690,7 @@ I'm sorry...[k]
 [TWinBtm][DlgOpn]['Blume' 0254]
 Heheheh...[k]
 [cs]
-As long as I have my[n]
-Tor Hammer,[k]
-[cs]
-I'll never be scared of[n]
-you little brats![k]
+As long as I have my Tor Hammer, I'll never be scared of you little brats![k]
 
 [exit]
 
@@ -1892,8 +699,7 @@ you little brats![k]
 # @@453798@@
 
 [TWinBtm][DlgOpn]['Ishtor' 0252]
-Hmph. So, you made it[n]
-this far.[n]
+Hmph. So, you made it this far.[n]
 Congratulations.[k]
 
 [exit]
@@ -1914,8 +720,7 @@ I'll never forgive you![k]
 # @@455266@@
 
 [TWinBtm][DlgOpn]['Vampa' 0255]
-Fetra, Eliu,[n]
-let's go, right now![n]
+Fetra, Eliu, let's go, right now![n]
 TRIANGLE ATTACK!![k]
 
 [exit]
@@ -1925,8 +730,7 @@ TRIANGLE ATTACK!![k]
 # @@455278@@
 
 [TWinBtm][DlgOpn]['Fetora' 0256]
-Vampa, Eliu,[n]
-let's go, right now![n]
+Vampa, Eliu, let's go, right now![n]
 TRIANGLE ATTACK!![k]
 
 [exit]
@@ -1936,222 +740,8 @@ TRIANGLE ATTACK!![k]
 # @@455290@@
 
 [TWinBtm][DlgOpn]['Eliu' 0257]
-Vampa, Fetra,[n]
-let's go, right now![n]
+Vampa, Fetra, let's go, right now![n]
 TRIANGLE ATTACK!![k]
-
-[exit]
-
-
-# 0xfe04e
-# @@455306@@
-
-[TWinBtm][DlgOpn]['Faval' 0033]
-Hm?[sp][$00$2C$39$00]...[n]
-it's not like that.[k]
-
-[exit]
-
-
-# 0xfe04e
-# @@455322@@
-[Merge 6f28a]
-
-[TWinBtm][DlgOpn]['Faval' 0033]
-Hm?[sp][$00$2C$39$00]...[n]
-it's not like that.[k]
-
-[exit]
-
-
-# 0x30e29c
-# @@455338@@
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Faval' 0033]
-
-[TWinTop]
-Y, you're[sp][$00$2C$33$00]![n]
-You...! You're betraying[n]
-me!!
-
-[TWinBtm]
-[Wait 10]
-Sorry, but I thought it[n]
-over, and[k]
-[dcs]
-I decided that there[n]
-was nothing that would[n]
-get me to help you.[k]
-[cs]
-I hate to say it, but[n]
-you're going to die.
-
-[TWinTop]
-Damn it! All of you...[k]
-
-[exit]
-
-
-# 0x30e29c
-# @@455355@@
-[Merge 6f2aa]
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Faval' 0033]
-
-[TWinTop]
-Y, you're[sp][$00$2C$33$00]![n]
-You...! You're betraying[n]
-me!!
-
-[TWinBtm]
-[Wait 10]
-Sorry, but I thought it[n]
-over, and[k]
-[dcs]
-I decided that there[n]
-was nothing that would[n]
-get me to help you.[k]
-[cs]
-I hate to say it, but[n]
-you're going to die.
-
-[TWinTop]
-Damn it! All of you...[k]
-
-[exit]
-
-
-# 0x30e315
-# @@455372@@
-
-[TWinTop][DlgOpn]['Ishtar' 0142]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-Hey, aren't you[sp][$00$2C$3D$00]?[n]
-Why are you fighting[n]
-me?
-
-[TWinBtm]
-[Wait 10]
-Lord Sister Ishtar!?[n]
-I, I'm sorry...[k]
-[dcs]
-
-[TWinTop]
-So, you're betraying[n]
-us...[k]
-[cs]
-I misjudged you,[sp][$00$2C$3D$00]![k]
-
-[exit]
-
-
-# 0x30e315
-# @@455389@@
-[Merge 6f2cc]
-
-[TWinTop][DlgOpn]['Ishtar' 0142]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-Hey, aren't you[sp][$00$2C$3D$00]?[n]
-Why are you fighting[n]
-me?
-
-[TWinBtm]
-[Wait 10]
-Lord Sister Ishtar!?[n]
-I, I'm sorry...[k]
-[dcs]
-
-[TWinTop]
-So, you're betraying[n]
-us...[k]
-[cs]
-I misjudged you,[sp][$00$2C$3D$00]![k]
-
-[exit]
-
-
-# 0x30e381
-# @@455406@@
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-[$00$2C$3D$00]... you ingrate!
-
-[TWinBtm]
-[Wait 10]
-You drove my mother[n]
-to her death,[n]
-remember?[k]
-[dcs]
-Or do I have to remind[n]
-you!?[k]
-[cs]
-
-[TWinTop]
-D, damn it...[k]
-
-[exit]
-
-
-# 0x30e381
-# @@455423@@
-[Merge 6f2ee]
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-[$00$2C$3D$00]... you ingrate!
-
-[TWinBtm]
-[Wait 10]
-You drove my mother[n]
-to her death,[n]
-remember?[k]
-[dcs]
-Or do I have to remind[n]
-you!?[k]
-[cs]
-
-[TWinTop]
-D, damn it...[k]
-
-[exit]
-
-
-
-# 0x30e3e8
-# @@455440@@
-
-[TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Celice' 0019]
-
-[TWinTop]
-Y, you're Sigurd's...[n]
-You brat! I won't let[n]
-you live!
-
-[TWinBtm]
-[Wait 10]
-Those are my words,[n]
-King Blume.[k]
-[dcs]
-There's no escape for[n]
-you this time. You might[n]
-as well give up.[k]
-[cs]
-
-[TWinTop]
-D, damn it... You...![n]
-I'll take you with me![k]
 
 [exit]
 
@@ -2202,8 +792,7 @@ Damn... it's the rebels...[k]
 
 [TWinBtm][DlgOpn]['Ovo' 025D]
 You're pretty good...[n]
-but even so, this is the[n]
-end![k]
+but even so, this is the end![k]
 
 [exit]
 
@@ -2240,11 +829,10 @@ Take this! ELTHUNDER![k]
 
 [TWinBtm][DlgOpn]['Blume' 0254]
 Damn...[n]
-What happened out[n]
-there!?[k]
+What happened out there!?[k]
 [cs]
-You... I won't forgive[n]
-you![k]
+You...[n]
+I won't forgive you![k]
 
 [exit]
 
@@ -2254,8 +842,7 @@ you![k]
 
 [TWinBtm][DlgOpn]['Coruta' 014B]
 Heheheh...[n]
-Sorry, but you're[n]
-gonna die.[k]
+Sorry, but you're gonna die.[k]
 
 [exit]
 
@@ -2264,196 +851,7 @@ gonna die.[k]
 # @@455617@@
 
 [TWinBtm][DlgOpn]['Maikov' 025C]
-This is our land.[n]
-Are you tryin' to take[n]
-it all for yourselves?[k]
-
-[exit]
-
-
-# 0x33a979
-# @@456851@@
-
-[TWinTop][DlgOpn]['Althena' 002C]
-[TWinBtm][DlgOpn]['Arion' 025B]
-
-[TWinTop]
-Brother, please stop.[n]
-What is the point in[n]
-fighting like this!?
-
-[TWinBtm]
-[Wait 10]
-Altenna... you look well.[k]
-[dcs]
-I've wanted to fight[n]
-you for a long time.[n]
-I won't go easy on you.[k]
-[cs]
-Now bring it on!![k]
-[cs]
-
-[TWinTop]
-Brother...[k]
-
-[exit]
-
-
-# 0x30e4a8
-# @@456868@@
-
-[TWinTop][DlgOpn]['Althena' 002C]
-[TWinBtm][DlgOpn]['Leif' 001D]
-
-[TWinTop]
-So, you're the Prince[n]
-of Lenster.[k]
-[cs]
-Think you can take our[n]
-country!?
-
-[TWinBtm]
-[Wait 10]
-W, wait![n]
-You're my...[k]
-[dcs]
-
-[TWinTop]
-Shut up! Prattle has no[n]
-place on the[n]
-battlefield!![k]
-
-[exit]
-
-
-# 0x30e517
-# @@456885@@
-
-[TWinTop][DlgOpn]['Althena' 002C]
-[TWinBtm][DlgOpn]['Adult Fin' 0022]
-
-[TWinTop]
-Sorry, but this is[n]
-where you'll die.[n]
-Forgive me...
-
-[TWinBtm]
-[Wait 10]
-![n]
-...l, lord Altenna...!?[n]
-It really is you...[k]
-
-[exit]
-
-
-# 0x30e5ec
-# @@456902@@
-
-[TWinTop][DlgOpn]['Torabant' 0161]
-[TWinBtm][DlgOpn]['Leif' 001D]
-
-[TWinTop]
-Heheheh...[n]
-So you're Cuan's son.[k]
-[cs]
-Blume should've taken[n]
-care of you while he[n]
-had the chance.
-
-[TWinBtm]
-[Wait 10]
-Trabant, we meet at[n]
-last...[k]
-[dcs]
-I... I've waited so long[n]
-for this day to arrive...[k]
-[cs]
-I've dreamed of killing[n]
-you with my bare[n]
-hands, and[k]
-[cs]
-I've lived to carry it[n]
-out!!
-
-[TWinTop]
-Hmph... you fool...[k]
-[dcs]
-You can't even use the[n]
-Gae Bolg, and you think[n]
-you can defeat me!?[k]
-[cs]
-Die, you little brat![n]
-I'll do to you what I[n]
-did to Cuan![k]
-
-[exit]
-
-
-# 0x30e6f7
-# @@456919@@
-
-[TWinTop][DlgOpn]['Torabant' 0161]
-[TWinBtm][DlgOpn]['Adult Fin' 0022]
-
-[TWinTop]
-Fin, isn't it? It's been[n]
-a while.[k]
-[cs]
-So you're still alive...[n]
-how stubborn of you.
-
-[TWinBtm]
-[Wait 10]
-King Trabant,[k]
-[dcs]
-today I will take my[n]
-revenge for what you[n]
-did to my lord![k]
-[dcs]
-
-[TWinTop]
-Hahaha, don't make me[n]
-laugh.[k]
-[cs]
-What do you think you[n]
-can do to me!?[k]
-[cs]
-You're the one who's[n]
-gonna die!![k]
-
-[exit]
-
-
-# 0x30e78e
-# @@456936@@
-
-[TWinTop][DlgOpn]['Arion' 0166]
-[TWinBtm][DlgOpn]['Celice' 0019]
-
-[TWinTop]
-You're the Imperial[n]
-Prince Celice, aren't[n]
-you?[k]
-[cs]
-Hm, you should make an[n]
-admirable adversary.[k]
-[dcs]
-Care for a match?
-
-[TWinBtm]
-[Wait 10]
-Prince Arion![n]
-We can still work this[n]
-out!![k]
-[dcs]
-
-[TWinTop]
-I have nothing else to[n]
-say![n]
-Let's do this, Celice.[k]
-[cs]
-Have a taste of my[n]
-Gungnir![k]
+This is our land. Are you tryin' to take it all for yourselves?[k]
 
 [exit]
 
@@ -2471,15 +869,11 @@ You can't defeat me![k]
 # 0x33ad7a
 # @@456969@@
 
-[TWinBtm][DlgOpn]['Hannival' 0024]
-Do I really have to[n]
-fight...?[k]
+[TWinBtm][DlgOpn]['Hanibal' 0024]
+Do I really have to fight...?[k]
 [cs]
-For the sake of[n]
-Thracia...[k]
-[cs]
-There's nothing else I[n]
-can do...[k]
+For the sake of Thracia...[n]
+There's nothing else I can do...[k]
 
 [exit]
 
@@ -2488,12 +882,7 @@ can do...[k]
 # @@456985@@
 
 [TWinBtm][DlgOpn]['Kanatz' 0263]
-General Hannibal left[n]
-me in charge of this[n]
-castle.[k]
-[cs]
-I'll give my life to[n]
-protect it![k]
+General Hanibal left me in charge of this castle. I'll give my life to protect it![k]
 
 [exit]
 
@@ -2502,11 +891,9 @@ protect it![k]
 # @@457001@@
 
 [TWinBtm][DlgOpn]['Disler' 0262]
-What...? The Rebel[n]
-Army!?[k]
+What...? The Rebel Army!?[k]
 [cs]
-Damn, we're not[n]
-prepared yet![k]
+Damn, we're not prepared yet![k]
 
 [exit]
 
@@ -2515,11 +902,7 @@ prepared yet![k]
 # @@457017@@
 
 [TWinBtm][DlgOpn]['Musar' 0261]
-Die, rebel scum![k]
-[cs]
-There is only death[n]
-for those that defy[n]
-the Empire![k]
+Die, rebel scum! There is only death for those that defy the Empire![k]
 
 [exit]
 
@@ -2528,16 +911,9 @@ the Empire![k]
 # @@457033@@
 
 [TWinBtm][DlgOpn]['Judah' 0267]
-You're... what?[n]
-A liberation army?[n]
-Ha![k]
+You're... what? A liberation army? Ha! We don't need your light in this world.[k]
 [cs]
-We don't need your[n]
-light in this world.[k]
-[cs]
-Lord Loputousu's[n]
-darkness shall conquer[n]
-all![k]
+Lord Loputousu's darkness shall conquer all![k]
 
 [exit]
 
@@ -2548,12 +924,7 @@ all![k]
 [TWinBtm][DlgOpn]['Arion' 025B]
 Hmph... you fools...[k]
 [cs]
-Obviously you haven't[n]
-noticed the Lance of[n]
-the Heavens,[k]
-[dcs]
-Gungnir,[n]
-in my grasp.[k]
+Clearly you haven't noticed the Lance of the Heavens, Gungnir, in my grasp.[k]
 
 [exit]
 
@@ -2562,136 +933,9 @@ in my grasp.[k]
 # @@457065@@
 
 [TWinBtm][DlgOpn]['Trabant' 0260]
-Ha ha ha,[n]
-I'm Trabant, you rebel[n]
-wimps.[k]
+Hahaha, I'm Trabant, you rebel wimps.[k]
 [cs]
-Remember this as a[n]
-gift from hell![k]
-
-[exit]
-
-
-# 0x33cc04
-# @@3179503@@
-
-[TWinTop][DlgOpn]['Celice' 0019]
-[TWinBtm][DlgOpn]['Alvis' 026E]
-
-[TWinTop]
-Emperor Alvis![n]
-Why did you kill my[n]
-father...
-
-[TWinBtm]
-[Wait 10]
-Celice... So you made it.[n]
-I commend your[n]
-bravery.[k]
-[dcs]
-But you will,[n]
-nonetheless, be[n]
-incinerated by my fire.[k]
-[cs]
-You're just as pathetic[n]
-as your father was...[k]
-
-[exit]
-
-
-# 0x30e81e
-# @@3179520@@
-
-[TWinTop][DlgOpn]['Hilda' 017D]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-Hohoho, if it isn't[sp][$00$2C$3D$00].[k]
-[cs]
-You're that woman's[n]
-daughter, right?[k]
-[cs]
-You're just as[n]
-ungrateful as she was.
-
-[TWinBtm]
-[Wait 10]
-Hilda... because of you,[n]
-my mother...![k]
-[dcs]
-
-[TWinTop]
-Ah, she was an[n]
-eyesore.[k]
-[cs]
-I made her life a living[n]
-hell! Hahaha, I had so[n]
-much fun back then...
-
-[TWinBtm]
-[Wait 10]
-![n]
-I'll never forgive you...[k]
-[dcs]
-
-[TWinTop]
-Well, don't we sound all[n]
-grown up!?[k]
-[cs]
-What can a little girl[n]
-like you do to me?[k]
-[cs]
-I'll send you to hell,[n]
-just as I did her![k]
-
-[exit]
-
-
-# 0x30e81e
-# @@3179537@@
-[Merge 308400]
-
-[TWinTop][DlgOpn]['Hilda' 017D]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-Hohoho, if it isn't[sp][$00$2C$3D$00].[k]
-[cs]
-You're that woman's[n]
-daughter, right?[k]
-[cs]
-You're just as[n]
-ungrateful as she was.
-
-[TWinBtm]
-[Wait 10]
-Hilda... because of you,[n]
-my mother...![k]
-[dcs]
-
-[TWinTop]
-Ah, she was an[n]
-eyesore.[k]
-[cs]
-I made her life a living[n]
-hell! Hahaha, I had so[n]
-much fun back then...
-
-[TWinBtm]
-[Wait 10]
-![n]
-I'll never forgive you...[k]
-[dcs]
-
-[TWinTop]
-Well, don't we sound all[n]
-grown up!?[k]
-[cs]
-What can a little girl[n]
-like you do to me?[k]
-[cs]
-I'll send you to hell,[n]
-just as I did her![k]
+Remember this as a gift from hell![k]
 
 [exit]
 
@@ -2710,10 +954,7 @@ Thanks.[k]
 # @@3179586@@
 
 [TWinBtm][DlgOpn]['Hilda' 0268]
-I will avenge my father,[n]
-my husband, and my[n]
-son.[k]
-[cs]
+I will avenge my father, my husband, and my son.[n]
 ...Feel my wrath!![k]
 
 [exit]
@@ -2723,8 +964,7 @@ son.[k]
 # @@3179602@@
 
 [TWinBtm][DlgOpn]['Morrigan' 025F]
-Feel the terror that is[n]
-my dark magic!![k]
+Feel the terror that is my dark magic!![k]
 
 [exit]
 
@@ -2734,8 +974,7 @@ my dark magic!![k]
 
 [TWinBtm][DlgOpn]['Julius' 026F]
 Heheheh...[n]
-Looks like I've won,[n]
-Ishtar.[k]
+Looks like I've won, Ishtar.[k]
 
 [exit]
 
@@ -2744,8 +983,7 @@ Ishtar.[k]
 # @@3179634@@
 
 [TWinBtm][DlgOpn]['Ishtar' 0271]
-It seems I've won,[n]
-Lord Julius.[k]
+It seems I've won, Lord Julius.[k]
 
 [exit]
 
@@ -2755,8 +993,7 @@ Lord Julius.[k]
 
 [TWinBtm][DlgOpn]['Zagam' 0185]
 Heheheh...[n]
-Your misfortunes are[n]
-cursed...[k]
+Your misfortunes are cursed...[k]
 
 [exit]
 
@@ -2765,416 +1002,8 @@ cursed...[k]
 # @@3179666@@
 
 [TWinBtm][DlgOpn]['Alvis' 026E]
-Hmph... you're pathetic.[k]
-[cs]
-You'll all be consumed[n]
-in my hellfire![k]
-
-[exit]
-
-
-# 0x32bd14
-# @@3254173@@
-
-[TWinBtm][DlgOpn]['Julius' 026F]
-Hmph. Celice.[k]
-[cs]
-So you're the
-supposed 'Imperial[n]
-Prince of Light'?[k]
-[cs]
-Don't make me laugh.[k]
-[cs]
-No warrior of Baldo[n]
-lineage can defeat me![n]
-You're going to die!![k]
-
-[exit]
-
-
-# 0x32bce9
-# @@3254190@@
-
-[TWinBtm][DlgOpn]['Julius' 026F]
-J, Julia...[n]
-...why are you...[k]
-[dcs]
-You've made a big[n]
-mistake, Manfloy!![k]
-
-[exit]
-
-
-# 0x30e969
-# @@3254207@@
-
-[TWinTop][DlgOpn]['Brian' 01B8]
-[TWinBtm][DlgOpn]['Johan' 001E]
-
-[TWinTop]
-Johan, you traitor![n]
-Are you trying to[n]
-destroy House Dozel!?
-
-[TWinBtm]
-[Wait 10]
-Don't worry, big[n]
-brother.[k]
-[dcs]
-I'm doing a wonderful[n]
-job restoring Dozel's[n]
-good name.[k]
-[cs]
-Time for you to step[n]
-aside.
-
-[TWinTop]
-Y, you...[k]
-
-[exit]
-
-
-# 0x30e9f7
-# @@3254224@@
-
-[TWinTop][DlgOpn]['Brian' 01B8]
-[TWinBtm][DlgOpn]['Johalva' 0031]
-
-[TWinTop]
-Johalva, you idiot![n]
-Are you trying to[n]
-divide our House!?
-
-[TWinBtm]
-[Wait 10]
-Big brother Brian...[k]
-[dcs]
-Hmph, don't worry.[n]
-I'm protecting the[n]
-Duchy.[k]
-[cs]
-This is what the people[n]
-want.
-
-[TWinTop]
-W, what!?[n]
-You... you won't get[n]
-away with this![k]
-
-[exit]
-
-
-# 0x30ea89
-# @@3254241@@
-
-[TWinTop][DlgOpn]['Hilda' 01BF]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-Heheheh... So you've come,[sp][$00$2C$3D$00].[k]
-[cs]
-I've been waiting for[n]
-you.[k]
-[cs]
-I've decided that I[n]
-want to kill you[n]
-personally.
-
-[TWinBtm]
-[Wait 10]
-I don't think so![n]
-Mother, please watch![n]
-I'm going to kill Hilda!![k]
-
-[exit]
-
-
-# 0x30ea89
-# @@3254258@@
-[Merge 31a7e1]
-
-[TWinTop][DlgOpn]['Hilda' 01BF]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-Heheheh... So you've come,[sp][$00$2C$3D$00].[k]
-[cs]
-I've been waiting for[n]
-you.[k]
-[cs]
-I've decided that I[n]
-want to kill you[n]
-personally.
-
-[TWinBtm]
-[Wait 10]
-I don't think so![n]
-Mother, please watch![n]
-I'm going to kill Hilda!![k]
-
-[exit]
-
-
-# 0x30eb06
-# @@3254275@@
-
-[TWinTop][DlgOpn]['Hilda' 01BF]
-[TWinBtm][DlgOpn]['Arthur' 0038]
-
-[TWinTop]
-Heheheh...[n]
-You're Tailtiu's kid,[n]
-right?[k]
-[cs]
-I drove that woman to[n]
-her grave.[k]
-[cs]
-You've come to avenge[n]
-her death, have ya?
-
-[TWinBtm]
-[Wait 10]
-Well, I didn't want my[n]
-sister getting her[n]
-hands dirty, so...[k]
-[dcs]
-
-[TWinTop]
-Is that so?[n]
-In that case, I'll take[n]
-you with me to hell![k]
-
-[exit]
-
-
-# 0x30eb9d
-# @@3254292@@
-
-[TWinTop][DlgOpn]['Scorpio' 01BC]
-[TWinBtm][DlgOpn]['Faval' 0033]
-
-[TWinTop]
-Who are you?
-
-[TWinBtm]
-[Wait 10]
-I'm Faval, son of Brigid.[k]
-[dcs]
-
-[TWinTop]
-What? My Aunt Brigid!?[n]
-Really...?[k]
-[cs]
-So, you're that[n]
-traitor's kid![k]
-[cs]
-How convenient.[n]
-You can die right[n]
-here!
-
-[TWinBtm]
-[Wait 10]
-Hmph. That's my line![k]
-
-[exit]
-
-
-# 0x30ec3c
-# @@3254309@@
-
-[TWinTop][DlgOpn]['Scorpio' 01BC]
-[TWinBtm][DlgOpn]['Lester' 0037]
-
-[TWinTop]
-Who are you...?
-
-[TWinBtm]
-[Wait 10]
-I'm Lester... Edain's son.
-[dcs]
-
-[TWinTop]
-What? My Aunt Edain!?[n]
-Really...?[k]
-[cs]
-So, you're that[n]
-traitor's kid![k]
-[cs]
-How convenient.[n]
-You can die right here!
-
-[TWinBtm]
-[Wait 10]
-Hmph. I believe that's[n]
-my line.[k]
-
-[exit]
-
-
-# 0x30ecde
-# @@3254326@@
-
-[TWinTop][DlgOpn]['Ishtar' 01D5]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-[$00$2C$3D$00]...
-
-[TWinBtm]
-[Wait 10]
-Ishtar, please...[k]
-[dcs]
-This isn't like you...[n]
-you've always been so[n]
-kind to me.[k]
-[cs]
-I know you don't want[n]
-to fight us.
-
-[TWinTop]
-...I may have gone down[n]
-the wrong path, but I[n]
-can't go back now.[k]
-[dcs]
-Please forgive me,[sp][$00$2C$3D$00]...[k]
-
-[exit]
-
-
-# 0x30ecde
-# @@3254343@@
-[Merge 31a836]
-
-[TWinTop][DlgOpn]['Ishtar' 01D5]
-[TWinBtm][DlgOpn]['Tinny' 003D]
-
-[TWinTop]
-[$00$2C$3D$00]...
-
-[TWinBtm]
-[Wait 10]
-Ishtar, please...[k]
-[dcs]
-This isn't like you...[n]
-you've always been so[n]
-kind to me.[k]
-[cs]
-I know you don't want[n]
-to fight us.
-
-[TWinTop]
-...I may have gone down[n]
-the wrong path, but I[n]
-can't go back now.[k]
-[dcs]
-Please forgive me,[sp][$00$2C$3D$00]...[k]
-
-[exit]
-
-
-# 0x30ed80
-# @@3254360@@
-
-[TWinTop][DlgOpn]['Manfloy' 01C4]
-[TWinBtm][DlgOpn]['Celice' 0019]
-
-[TWinTop]
-Mwahaha...[n]
-So you've come?[k]
-[cs]
-I've been waiting for[n]
-you...
-
-[TWinBtm]
-[Wait 10]
-Manfloy![n]
-You put a spell on[n]
-Julia![k]
-[dcs]
-
-[TWinTop]
-Indeed. And the only[n]
-way to break the spell[n]
-is to kill me.[k]
-[cs]
-Heheheh, I did the[n]
-same thing to her[n]
-mother.[k]
-[cs]
-She's like putty in my[n]
-hands...
-
-[TWinBtm]
-[Wait 10]
-Really? So you're the[n]
-one who deceived my[n]
-mother...[k]
-[dcs]
-It's been you all along,[n]
-hasn't it?
-
-[TWinTop]
-Heheheh... you're only[n]
-just now realising[n]
-that?[k]
-[dcs]
-This was all part of[n]
-our dream to[n]
-resurrect[k]
-[cs]
-Lord Loputousu.[k]
-[cs]
-And now, we've gotten[n]
-our wish.[k]
-[cs]
-The God of Darkness[n]
-has finished[n]
-descending into[k]
-[cs]
-Lord Julius, and[n]
-the world will soon be[n]
-shrouded once more.[k]
-[cs]
-There's nothing you[n]
-can do now...
-
-[TWinBtm]
-[Wait 10]
-My father's sadness,[n]
-my mother's grief...[k]
-[dcs]
-It was all part of your[n]
-plot...[k]
-Your sinister ambitions[n]
-are the cause of all of[n]
-this...[k]
-[cs]
-Damn it... MANFLOY![n]
-I won't forgive you.[k]
-[cs]
-I will NEVER forgive[n]
-you for this![k]
-
-[exit]
-
-
-# 0x30ef61
-# @@3254377@@
-
-[TWinTop][DlgOpn]['Arion' 0166]
-[TWinBtm][DlgOpn]['Althena' 002C]
-
-[TWinTop]
-Altenna...[n]
-I didn't want to meet[n]
-you like this.[k]
-[cs]
-I'm still living in[n]
-disgrace...
-
-[TWinBtm]
-[Wait 10]
-Brother...[k]
+Hmph... you're pathetic.[n]
+You'll all be consumed in my hellfire![k]
 
 [exit]
 
@@ -3183,10 +1012,7 @@ Brother...[k]
 # @@3254394@@
 
 [TWinBtm][DlgOpn]['Roberto' 01A4]
-You'll make an easy[n]
-target for the reward[n]
-money.[k]
-[cs]
+You'll make an easy target for the reward money.[n]
 Prepare to die![k]
 
 [exit]
@@ -3196,9 +1022,7 @@ Prepare to die![k]
 # @@3254410@@
 
 [TWinBtm][DlgOpn]['Boyce' 01AA]
-Do I really have to kill[n]
-another worthless[n]
-person...?[k]
+Do I really have to kill another worthless person...?[k]
 
 [exit]
 
@@ -3220,9 +1044,7 @@ You...![k]
 Gwahaha...[n]
 Foolish people...[k]
 [cs]
-You shall become the[n]
-victims of my dark[n]
-magic![k]
+You shall become the victims of my dark magic![k]
 
 [exit]
 
@@ -3231,8 +1053,7 @@ magic![k]
 # @@3254458@@
 
 [TWinBtm][DlgOpn]['Fisher' 01B5]
-Damn it![n]
-You're going down![k]
+Damn it! You're going down![k]
 
 [exit]
 
@@ -3240,16 +1061,10 @@ You're going down![k]
 # 0x32bb08
 # @@3254474@@
 
-[TWinBtm][DlgOpn]['Brian' 01B8]
-You people killed my[n]
-father.[k]
+[TWinBtm][DlgOpn]['Burian' 01B8]
+You're the people that killed my father.[k]
 [cs]
-Time to end this[n]
-grudge that has[n]
-plagued the[k]
-[cs]
-House of Dozel for 3[n]
-generations![k]
+It's time to end this grudge that has plagued the House of Dozel for 3 generations![k]
 
 [exit]
 
@@ -3261,9 +1076,7 @@ generations![k]
 Gwahaha...[n]
 Foolish people...[k]
 [cs]
-You shall become the[n]
-victims of my dark[n]
-magic![k]
+You shall become the victims of my dark magic![k]
 
 [exit]
 
@@ -3273,8 +1086,7 @@ magic![k]
 
 [TWinBtm][DlgOpn]['Hilda' 0268]
 Hmph...[n]
-I don't go down that[n]
-easy![k]
+I don't go down that easy![k]
 
 [exit]
 
@@ -3283,9 +1095,7 @@ easy![k]
 # @@3254522@@
 
 [TWinBtm][DlgOpn]['(null)' 0272]
-I'll take this[n]
-oppurtunity to avenge[n]
-my father, Andre![k]
+I'll take this oppurtunity to avenge my father, Andre![k]
 
 [exit]
 
@@ -3297,9 +1107,7 @@ my father, Andre![k]
 Gwahaha...[n]
 Foolish people...[k]
 [cs]
-You shall become the[n]
-victims of my dark[n]
-magic![k]
+You shall become the victims of my dark magic![k]
 
 [exit]
 
@@ -3308,8 +1116,7 @@ magic![k]
 # @@3254554@@
 
 [TWinBtm][DlgOpn]['Meng' 0269]
-Sorry, but you're[n]
-gonna die![k]
+Sorry, but you're gonna die![k]
 
 [exit]
 
@@ -3318,8 +1125,7 @@ gonna die![k]
 # @@3254570@@
 
 [TWinBtm][DlgOpn]['(null)' 026A]
-Take this! Critical[n]
-Sword![k]
+Take this! Critical Sword![k]
 
 [exit]
 
@@ -3346,11 +1152,8 @@ I'm so sorry...[k]
 # @@3254618@@
 
 [TWinBtm][DlgOpn]['Ishtar' 0271]
-No words from you...[k]
-[cs]
-Witness the wrath of[n]
-the Goddess of[n]
-Thunder!![k]
+No words from you...[k][n]
+Just witness the wrath of the Goddess of Thunder!![k]
 
 [exit]
 
@@ -3368,14 +1171,10 @@ Heheheh......[k]
 # @@3254650@@
 
 [TWinBtm][DlgOpn]['Manfloy' 026C]
-You fools...[k]
+You fools...[n]
+I've been working for this my entire life, and you...[k]
 [cs]
-I've been working for[n]
-this my entire life, and[n]
-you...[k]
-[cs]
-Damn you all! I won't[n]
-forgive this!![k]
+Damn you all! I won't forgive this!![k]
 
 [exit]
 
@@ -3385,8 +1184,7 @@ forgive this!![k]
 
 [TWinBtm][DlgOpn]['Julius' 026F]
 Heheheh...[n]
-You've obviously[n]
-lost your mind.[k]
+You've obviously lost your mind.[k]
 [cs]
 You can't defeat me.[k]
 

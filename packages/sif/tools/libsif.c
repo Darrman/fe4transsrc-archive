@@ -21,7 +21,7 @@
    SIF file handling library
 */
 
-/* Last modified: 05/07/04
+/* Last modified: 23/06/2006
    This file was modified by Dark Twilkitri */
 #include <stdio.h>
 #include <stdlib.h>
@@ -193,6 +193,7 @@ int WriteSifBlock(SifWriter *w,void *block,unsigned int size,unsigned long addr,
    if(flags & SIF_NOMERGE) h.flag.nomerge = 1;
    if(flags & SIF_ASM) h.flag.asmptrs = 1;
    if(flags & SIF_ASM3) h.flag.asmptrs3 = 1;
+   if(flags & SIF_HASM) h.flag.halfasm = 1;
    if(flags & SIF_NOPTR) h.flag.noptr = 1;
    if(flags & SIF_BLOCK) h.flag.blocked = 1;
    h.address = addr;

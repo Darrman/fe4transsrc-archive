@@ -1,6 +1,8 @@
 # 8 7 weap
 
-# Last modified: 08/06/04
+# Fontcheck: Tiled
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is used for altering the weapon names.
@@ -129,7 +131,7 @@ Berserk
 # @@253478@@
 
 #????????????
-Heros
+Hero
 
 #*# [exit]
 
@@ -174,7 +176,7 @@ Defence
 # @@253488@@
 
 #??????????
-Flame
+Fire
 
 #*# [exit]
 
@@ -237,7 +239,7 @@ Tyrfing
 # @@253502@@
 
 #?o???????N
-Balmunk
+Balmung
 
 #*# [exit]
 
@@ -246,7 +248,7 @@ Balmunk
 # @@253504@@
 
 #????????????
-IronCut
+Cutter
 
 #*# [exit]
 
@@ -255,7 +257,7 @@ IronCut
 # @@253506@@
 
 #????????????
-WngClip
+Clipper
 
 #*# [exit]
 
@@ -327,7 +329,7 @@ Javelin
 # @@253522@@
 
 #?i?C?g?L???[
-KntKill
+Slayer
 
 #*# [exit]
 
@@ -336,7 +338,7 @@ KntKill
 # @@253524@@
 
 #??????????????
-Heros
+Hero
 
 #*# [exit]
 
@@ -426,7 +428,7 @@ Silver
 # @@253544@@
 
 #??????????????
-Heros
+Hero
 
 #*# [exit]
 
@@ -507,7 +509,7 @@ Silver
 # @@253562@@
 
 #??????????????
-Heros
+Hero
 
 #*# [exit]
 
@@ -561,7 +563,7 @@ Broken
 # @@253574@@
 
 #?????O?A?[?`
-LongArc
+Long
 
 #*# [exit]
 
@@ -570,7 +572,7 @@ LongArc
 # @@253576@@
 
 #?A?C?A???A?[?`
-IronArc
+Iron
 
 #*# [exit]
 
@@ -579,7 +581,7 @@ IronArc
 # @@253578@@
 
 #?L???[?A?[?`
-KillArc
+Killer
 
 #*# [exit]
 
@@ -588,7 +590,7 @@ KillArc
 # @@253580@@
 
 #?O???[?g?A?[?`
-GoldArc
+Great
 
 #*# [exit]
 
@@ -678,7 +680,7 @@ THammer
 # @@253600@@
 
 #?T???_?X?g?[??
-ThunStrm
+Storm
 
 #*# [exit]
 
@@ -723,7 +725,7 @@ Holsety
 # @@253610@@
 
 #?u???U?[?h
-Blizard
+Blizzrd
 
 #*# [exit]
 
@@ -741,7 +743,7 @@ Lghtning
 # @@253614@@
 
 #???U?C?A
-Rizziah
+Rezire
 
 #*# [exit]
 
@@ -768,7 +770,7 @@ Narga
 # @@253620@@
 
 #???c?????K???h
-Yotsmung
+Jormung
 
 #*# [exit]
 
@@ -786,7 +788,7 @@ Fenrir
 # @@253624@@
 
 #?w??
-Hell
+Hel
 
 #*# [exit]
 
@@ -795,7 +797,7 @@ Hell
 # @@253626@@
 
 #???v?g?E?X
-Loptous
+Lopt
 
 #*# [exit]
 

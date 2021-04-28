@@ -1,4 +1,6 @@
-# Last Modified: 06/07/04
+# Fontcheck: Tiled
+
+# Last Modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is used for altering the green (selected)
@@ -39,7 +41,7 @@ Map[spx]
 
 # Individual
 # @@652217@@
-Ind[spx]
+Solo
 [exit]
 
 # Save file 1

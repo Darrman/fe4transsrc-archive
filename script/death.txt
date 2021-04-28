@@ -1,19 +1,24 @@
 # 0 10 BANK8E
 
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the death speeches of every character.
+
 [section BANK8E]
 [map 10]
 [bits16]
 [winlimit 160]
 [forcewipe]
 
-
 # 0xed9de
 # @@979932@@
 
 [TWinBtm][DlgOpn]['Sigurd' 0001]
-...Erg...[n]
-Everyone... I'm sorry...
-[k]
+[TextSpd 08]...Urgh...[n]
+Everyone... [Wait 15]I'm sorry...[k]
 
 [exit]
 
@@ -22,10 +27,9 @@ Everyone... I'm sorry...
 # @@979936@@
 
 [TWinBtm][DlgOpn]['Noish' 0002]
-Lord Sigurd...[n]
+[TextSpd 08]Sir Sigurd...[n]
 ...I am so sorry...[n]
-Stay strong...
-[k]
+Stay strong...[k]
 
 [exit]
 
@@ -34,10 +38,9 @@ Stay strong...
 # @@979940@@
 
 [TWinBtm][DlgOpn]['Alec' 0003]
-Argh... I...[n]
+[TextSpd 08]Argh... I...[n]
 May luck be on your side,[n]
-Lord Sigurd...
-[k]
+Sir Sigurd...[k]
 
 [exit]
 
@@ -45,10 +48,9 @@ Lord Sigurd...
 # 0xeda63
 # @@979944@@
 
-[TWinBtm][DlgOpn]['Arden' 0004]
-Lord Sigurd...[n]
-I've served you my whole life, I have no regrets.
-[k]
+[TWinBtm][DlgOpn]['Ardan' 0004]
+[TextSpd 08]Sir Sigurd...[n]
+I've served you my whole life, I have no regrets.[k]
 
 [exit]
 
@@ -57,10 +59,9 @@ I've served you my whole life, I have no regrets.
 # @@979948@@
 
 [TWinBtm][DlgOpn]['Young Fin' 0005]
-...my apologies.[n]
-I cannot fight with this wound, so I shall return to
-Lenster at once.
-[k]
+[TextSpd 07]...my apologies.[k]
+[cs]
+I cannot fight with this wound, so I shall return to Lenster at once.[k]
 
 [exit]
 
@@ -69,19 +70,16 @@ Lenster at once.
 # @@979952@@
 
 [TWinBtm][DlgOpn]['Cuan' 0006]
-Erg... What have I...
-[k]
+[TextSpd 07]Urgh... [Wait 10]What have I...[k]
 
 [exit]
-
 
 # 0xedb77
 # @@979956@@
 
-[TWinBtm][DlgOpn]['Mideel' 0007]
-Aah... Lord Sigurd,[n]
-I'm so sorry.
-[k]
+[TWinBtm][DlgOpn]['Midir' 0007]
+Aah... Sir Sigurd,[n]
+I'm so sorry.[k]
 
 [exit]
 
@@ -90,10 +88,10 @@ I'm so sorry.
 # @@979960@@
 
 [TWinBtm][DlgOpn]['Levin' 0008]
-Erg... I...[n]
-I still have things I must do...[n]
-I can NOT die...
-[k]
+[TextSpd 08]Urgh... I...[n]
+I still have things I must do...[k]
+[cs]
+I can NOT die...[k]
 
 [exit]
 
@@ -102,9 +100,8 @@ I can NOT die...
 # @@979964@@
 
 [TWinBtm][DlgOpn]['Holin' 0009]
-Heh...[n]
-I'm such a fool...
-[k]
+[TextSpd 08]Heh...[n]
+I'm such a fool...[k]
 
 [exit]
 
@@ -113,9 +110,8 @@ I'm such a fool...
 # @@979968@@
 
 [TWinBtm][DlgOpn]['Azel' 000A]
-Sir Sigurd...[n]
-...I'll leave the rest to you.
-[k]
+[TextSpd 08]Sir Sigurd...[n]
+...I'll leave the rest to you.[k]
 
 [exit]
 
@@ -123,9 +119,8 @@ Sir Sigurd...[n]
 # 0xedc76
 # @@979972@@
 
-[TWinBtm][DlgOpn]['Jamuka' 000B]
-Erg... I'm already done for...?
-[k]
+[TWinBtm][DlgOpn]['Jamka' 000B]
+[TextSpd 08]Urgh... I'm already done for...?[k]
 
 [exit]
 
@@ -134,9 +129,8 @@ Erg... I'm already done for...?
 # @@979976@@
 
 [TWinBtm][DlgOpn]['Claude' 000C]
-Gods... My life is yours.[n]
-Please watch over them in return...
-[k]
+[TextSpd 08]Gods...[Wait 10] My life is yours.[n]
+Please watch over theirs in return...[k]
 
 [exit]
 
@@ -145,9 +139,8 @@ Please watch over them in return...
 # @@979980@@
 
 [TWinBtm][DlgOpn]['Beowulf' 000D]
-Argh... Damn it![n]
-My luck has finally ran out...
-[k]
+[TextSpd 08]Argh... Damn it![n]
+My luck has finally ran out...[k]
 
 [exit]
 
@@ -156,10 +149,9 @@ My luck has finally ran out...
 # @@979984@@
 
 [TWinBtm][DlgOpn]['Lex' 000E]
-I'm such a weakling...[n]
+[TextSpd 08]I'm such a weakling...[n]
 ...Sir Sigurd,[n]
-Please allow me to die in peace...
-[k]
+Please allow me to die in peace...[k]
 
 [exit]
 
@@ -167,10 +159,9 @@ Please allow me to die in peace...
 # 0xedd25
 # @@979988@@
 
-[TWinBtm][DlgOpn]['Deu' 000F]
-How unlucky...[n]
-...I've blundered once too much...[n]
-[k]
+[TWinBtm][DlgOpn]['Dew' 000F]
+[TextSpd 08]How unlucky...[n]
+...I've blundered once too much...[k]
 
 [exit]
 
@@ -178,10 +169,9 @@ How unlucky...[n]
 # 0xedd48
 # @@979992@@
 
-[TWinBtm][DlgOpn]['Diadora' 0010]
-Stop![n]
-Where are you taking me?!
-[k]
+[TWinBtm][DlgOpn]['Deirdre' 0010]
+[TextSpd 08]Stop![n]
+Where are you taking me?![k]
 
 [exit]
 
@@ -189,10 +179,9 @@ Where are you taking me?!
 # 0xeddd1
 # @@979996@@
 
-[TWinBtm][DlgOpn]['Ethrin' 0011]
-Ah... Cuan...[n]
-...help...
-[k]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
+[TextSpd 07]Aah... Cuan...[n]
+[Wait 18]...help...[k]
 
 [exit]
 
@@ -201,8 +190,7 @@ Ah... Cuan...[n]
 # @@980000@@
 
 [TWinBtm][DlgOpn]['Lachesis' 0012]
-Ah... brother Elto...
-[k]
+[TextSpd 08]Aah... Elty...[k]
 
 [exit]
 
@@ -211,8 +199,7 @@ Ah... brother Elto...
 # @@980004@@
 
 [TWinBtm][DlgOpn]['Ira' 0013]
-Shanan, be strong...
-[k]
+[TextSpd 08]Shanan, be strong...[k]
 
 [exit]
 
@@ -221,9 +208,8 @@ Shanan, be strong...
 # @@980008@@
 
 [TWinBtm][DlgOpn]['Fury' 0014]
-Prince Levin,[n]
-please forgive me...
-[k]
+[TextSpd 08]Prince Levin,[n]
+please forgive me...[k]
 
 [exit]
 
@@ -232,8 +218,7 @@ please forgive me...
 # @@980012@@
 
 [TWinBtm][DlgOpn]['Tiltyu' 0015]
-Stop! I can't take any more...!
-[k]
+[TextSpd 08]Stop! I can't take any more...![k]
 
 [exit]
 
@@ -242,8 +227,7 @@ Stop! I can't take any more...!
 # @@980016@@
 
 [TWinBtm][DlgOpn]['Sylvia' 0016]
-Why... why am I...
-[k]
+[TextSpd 08]Why... why am I...[k]
 
 [exit]
 
@@ -251,10 +235,9 @@ Why... why am I...
 # 0xedf78
 # @@980020@@
 
-[TWinBtm][DlgOpn]['Edin' 0017]
-...gods,[n]
-please protect everyone.
-[k]
+[TWinBtm][DlgOpn]['Etain' 0017]
+[TextSpd 08]...gods,[n]
+please protect everyone.[k]
 
 [exit]
 
@@ -263,8 +246,7 @@ please protect everyone.
 # @@980024@@
 
 [TWinBtm][DlgOpn]['Brigid' 0018]
-...is this... the end...?!
-[k]
+[TextSpd 08]...is this...[Wait 10] the end...?![k]
 
 [exit]
 
@@ -273,8 +255,7 @@ please protect everyone.
 # @@980028@@
 
 [TWinBtm][DlgOpn]['Celice' 0019]
-Ahh... father...
-[k]
+[TextSpd 08]Ahh... father...[k]
 
 [exit]
 
@@ -283,8 +264,7 @@ Ahh... father...
 # @@980032@@
 
 [TWinBtm][DlgOpn]['Celice' 0019]
-Ahh... father...
-[k]
+[TextSpd 08]Ahh... father...[k]
 
 [exit]
 
@@ -293,8 +273,7 @@ Ahh... father...
 # @@980036@@
 
 [TWinBtm][DlgOpn]['Celice' 0019]
-Ahh... father...
-[k]
+[TextSpd 08]Ahh... father...[k]
 
 [exit]
 
@@ -303,8 +282,7 @@ Ahh... father...
 # @@980042@@
 
 [TWinBtm][DlgOpn]['Celice' 0019]
-Ahh... father...
-[k]
+[TextSpd 08]Ahh... father...[k]
 
 [exit]
 
@@ -313,8 +291,7 @@ Ahh... father...
 # @@980046@@
 
 [TWinBtm][DlgOpn]['Shanan' 001A]
-Urgh... Celice, forgive me!
-[k]
+[TextSpd 08]Urgh... Celice, forgive me![k]
 
 [exit]
 
@@ -323,8 +300,7 @@ Urgh... Celice, forgive me!
 # @@980050@@
 
 [TWinBtm][DlgOpn]['Rodolban' 001B]
-Damn it...
-[k]
+[TextSpd 08]Damn it...[k]
 
 [exit]
 
@@ -333,8 +309,7 @@ Damn it...
 # @@980054@@
 
 [TWinBtm][DlgOpn]['Asaello' 001C]
-Crr, I've made a big mistake!
-[k]
+[TextSpd 08]Grr, I've made a big mistake![k]
 
 [exit]
 
@@ -343,9 +318,8 @@ Crr, I've made a big mistake!
 # @@980058@@
 
 [TWinBtm][DlgOpn]['Leif' 001D]
-Father...[n]
-...Mother...
-[k]
+[TextSpd 08]Father...[n]
+[Wait 10]...Mother...[k]
 
 [exit]
 
@@ -354,9 +328,8 @@ Father...[n]
 # @@980062@@
 
 [TWinBtm][DlgOpn]['Johan' 001E]
-Though Johan dies,[n]
-love will never... guhaa...
-[k]
+[TextSpd 08]Though Johan dies, love will never...[n]
+[Wait 10]Guhaa...[k]
 
 [exit]
 
@@ -365,8 +338,7 @@ love will never... guhaa...
 # @@980066@@
 
 [TWinBtm][DlgOpn]['Sharlow' 001F]
-...father!
-[k]
+[TextSpd 08]...father![k]
 
 [exit]
 
@@ -375,9 +347,8 @@ love will never... guhaa...
 # @@980070@@
 
 [TWinBtm][DlgOpn]['Hawk' 0020]
-This is the limit of my power...?[n]
-...how regretful...!
-[k]
+[TextSpd 08]This is the limit of my power...?[n]
+[Wait 10]...how regretful...![k]
 
 [exit]
 
@@ -386,8 +357,7 @@ This is the limit of my power...?[n]
 # @@980074@@
 
 [TWinBtm][DlgOpn]['Tristan' 0021]
-Lord Celice, I wish you luck...
-[k]
+[TextSpd 08]Lord Celice, I wish you luck...[k]
 
 [exit]
 
@@ -396,10 +366,9 @@ Lord Celice, I wish you luck...
 # @@980078@@
 
 [TWinBtm][DlgOpn]['Adult Fin' 0022]
-Lord Cuan...[n]
+[TextSpd 08]Lord Cuan...[n]
 ......Lady Ethlin...[n]
-Please forgive me...
-[k]
+[Wait 18]Please forgive me...[k]
 
 [exit]
 
@@ -408,9 +377,8 @@ Please forgive me...
 # @@980082@@
 
 [TWinBtm][DlgOpn]['Dimna' 0023]
-Lord Celice,[n]
-I leave the rest to you...
-[k]
+[TextSpd 08]Lord Celice,[n]
+I leave the rest to you...[k]
 
 [exit]
 
@@ -418,9 +386,9 @@ I leave the rest to you...
 # 0xee10a
 # @@980086@@
 
-[TWinBtm][DlgOpn]['Hannival' 0024]
-This is fate...[n]
-Ah, my son...[k]
+[TWinBtm][DlgOpn]['Hanibal' 0024]
+[TextSpd 08]This is fate...[n]
+Aah, my son...[k]
 
 [exit]
 
@@ -429,16 +397,16 @@ Ah, my son...[k]
 # @@980090@@
 
 [TWinBtm][DlgOpn]['Aless' 0025]
-No... How could I be...[k]
+[TextSpd 08]No... How could I be...[k]
 
 [exit]
 
 
 # 0xee148
 # @@980094@@ 
+
 [TWinBtm][DlgOpn]['Amid' 0026]
-Heh... how silly...
-[k]
+[TextSpd 08]Heh... how silly...[k]
 
 [exit]
 
@@ -447,10 +415,9 @@ Heh... how silly...
 # @@980098@@
 
 [TWinBtm][DlgOpn]['Oifaye' 0027]
-Lord Sigurd,[n]
+[TextSpd 08]Sir Sigurd,[n]
 I'm so sorry...[n]
-...I'm already...
-[k]
+[Wait 18]...I'm already...[k]
 
 [exit]
 
@@ -459,17 +426,15 @@ I'm so sorry...[n]
 # @@980102@@
 
 [TWinBtm][DlgOpn]['Daisy' 0028]
-I can't take any more!
-[k] 
+[TextSpd 08]I can't take any more![k] 
 [exit]
 
 
 # 0xee1ab
 # @@980106@@
 
-[TWinBtm][DlgOpn]['Radney' 0029]
-Urgh... is this the end...?
-[k]
+[TWinBtm][DlgOpn]['Radnay' 0029]
+[TextSpd 08]Urgh... is this the end...?[k]
 
 [exit]
 
@@ -478,8 +443,7 @@ Urgh... is this the end...?
 # @@980110@@
 
 [TWinBtm][DlgOpn]['Mana' 002A]
-Ahh, Lord Celice...
-[k]
+[TextSpd 08]Ahh, Sir Celice...[k]
 
 [exit]
 
@@ -487,10 +451,9 @@ Ahh, Lord Celice...
 # 0xee204
 # @@980114@@
 
-[TWinBtm][DlgOpn]['Yuria' 002B
-Please stop![n]
-Where am I being taken?!
-[k]
+[TWinBtm][DlgOpn]['Yuria' 002B]
+[TextSpd 08]Please stop![n]
+Where am I being taken?![k]
 
 [exit]
 
@@ -499,8 +462,7 @@ Where am I being taken?!
 # @@980118@@
 
 [TWinBtm][DlgOpn]['Althena' 002C]
-Brother...
-[k]
+[TextSpd 08]Brother...[k]
 
 [exit]
 
@@ -509,8 +471,7 @@ Brother...
 # @@980122@@
 
 [TWinBtm][DlgOpn]['Femina' 002D]
-Ahh, brother...
-[k]
+[TextSpd 08]Ahh, brother...[k]
 
 [exit]
 
@@ -519,8 +480,7 @@ Ahh, brother...
 # @@980126@@
 
 [TWinBtm][DlgOpn]['Linda' 002E]
-Mother...
-[k]
+[TextSpd 08]Mother...[k]
 
 [exit]
 
@@ -529,8 +489,7 @@ Mother...
 # @@980130@@
 
 [TWinBtm][DlgOpn]['Laylea' 002F]
-Aless... I'm sorry...
-[k]
+[TextSpd 08]Aless...[Wait 10] I'm sorry...[k]
 
 [exit]
 
@@ -539,9 +498,8 @@ Aless... I'm sorry...
 # @@980134@@
 
 [TWinBtm][DlgOpn]['Janne' 0030]
-Prince Leaf,[n]
-I'll leave the rest to you...
-[k]
+[TextSpd 08]Prince Leaf,[n]
+I'll leave the rest to you...[k]
 
 [exit]
 
@@ -549,11 +507,10 @@ I'll leave the rest to you...
 # 0xee377
 # @@980138@@
 
-[TWinBtm][DlgOpn]['Skasaher' 0032]
-How is this...?[n]
-Lakche...[n]
-I'll leave the rest up to you...
-[k]
+[TWinBtm][DlgOpn]['Skasaha' 0032]
+[TextSpd 08]How is this...[n]
+[Wait 18]Lakche...[n]
+I'll leave the rest to you...[k]
 
 [exit]
 
@@ -562,8 +519,8 @@ I'll leave the rest up to you...
 # @@980142@@
 
 [TWinBtm][DlgOpn]['Faval' 0033]
-Patty... I'm sorry...
-[k]
+[TextSpd 08]Patty...[n]
+I'm sorry...[k]
 
 [exit]
 
@@ -572,8 +529,7 @@ Patty... I'm sorry...
 # @@980146@@
 
 [TWinBtm][DlgOpn]['Johalva' 0031]
-Gah! How in the...?
-[k]
+[TextSpd 08]Gah! How did you...[k]
 
 [exit]
 
@@ -581,10 +537,9 @@ Gah! How in the...?
 # 0xee3b4
 # @@980150@@
 
-[TWinBtm][DlgOpn]['Coupl' 0034]
-...father...[n]
-Thank you for raising me...
-[k]
+[TWinBtm][DlgOpn]['Corple' 0034]
+[TextSpd 08]...father...[n]
+Thank you for raising me...[k]
 
 [exit]
 
@@ -593,9 +548,8 @@ Thank you for raising me...
 # @@980154@@
 
 [TWinBtm][DlgOpn]['Sety' 0035]
-Is this the limit of my power...?[n]
-...how sad...!
-[k]
+[TextSpd 08]Is this the limit of my power...?[n]
+...how sad...![k]
 
 [exit]
 
@@ -604,8 +558,7 @@ Is this the limit of my power...?[n]
 # @@980158@@
 
 [TWinBtm][DlgOpn]['Delmud' 0036]
-Lord Celice, good luck...
-[k]
+[TextSpd 08]Sir Celice, good luck...[k]
 
 [exit]
 
@@ -614,9 +567,8 @@ Lord Celice, good luck...
 # @@980162@@
 
 [TWinBtm][DlgOpn]['Lester' 0037]
-Lord Celice,[n]
-I leave the rest to you...
-[k]
+[TextSpd 08]Lord Celice,[n]
+I leave the rest to you...[k]
 
 [exit]
 
@@ -625,8 +577,7 @@ I leave the rest to you...
 # @@980166@@
 
 [TWinBtm][DlgOpn]['Arthur' 0038]
-Heh... how silly...
-[k]
+[TextSpd 08]Heh... how silly...[k]
 
 [exit] 
 
@@ -634,8 +585,7 @@ Heh... how silly...
 # @@980170@@
 
 [TWinBtm][DlgOpn]['Patty' 0039]
-Help me, Faval!
-[k]
+[TextSpd 08]Help me, Faval![k]
 
 [exit]
 
@@ -644,8 +594,7 @@ Help me, Faval!
 # @@980174@@
 
 [TWinBtm][DlgOpn]['Lakche' 003A]
-Urgh... is this the end...?
-[k]
+[TextSpd 08]Urgh... is this the end...?[k]
 
 [exit]
 
@@ -653,9 +602,8 @@ Urgh... is this the end...?
 # 0xee4ce
 # @@980178@@
 
-[TWinBtm][DlgOpn]['Rana' 003B]
-Ahh, Edain, my mother...
-[k]
+[TWinBtm][DlgOpn]['Lana' 003B]
+[TextSpd 08]Aah, mother...[k]
 
 [exit]
 
@@ -664,8 +612,7 @@ Ahh, Edain, my mother...
 # @@980182@@
 
 [TWinBtm][DlgOpn]['Fee' 003C]
-Ahh, my brother...
-[k]
+[TextSpd 08]Aah, brother...[k]
 
 [exit]
 
@@ -674,8 +621,7 @@ Ahh, my brother...
 # @@980186@@
 
 [TWinBtm][DlgOpn]['Tinny' 003D]
-Tailtiu, my mother...
-[k]
+[TextSpd 08]Mother...[k]
 
 [exit]
 
@@ -683,9 +629,8 @@ Tailtiu, my mother...
 # 0xee562
 # @@980190@@
 
-[TWinBtm][DlgOpn]['Lynn' 003E]
-Aless, I'm sorry...
-[k]
+[TWinBtm][DlgOpn]['Leen' 003E]
+[TextSpd 08]Aless, I'm sorry...[k]
 
 [exit]
 
@@ -694,9 +639,8 @@ Aless, I'm sorry...
 # @@980194@@
 
 [TWinBtm][DlgOpn]['Nanna' 003F]
-Prince Leaf,[n]
-I leave the rest in your hands...
-[k]
+[TextSpd 08]Prince Leaf,[n]
+I leave the rest in your hands...[k]
 
 [exit]
 
@@ -704,8 +648,8 @@ I leave the rest in your hands...
 # 0xedb77
 # @@980200@@
 
-[TWinBtm][DlgOpn]['Mideel' 0007]
-Aah... Lord Sigurd,[n]
+[TWinBtm][DlgOpn]['Midir' 0007]
+[TextSpd 08]Aah... Sir Sigurd,[n]
 I'm so sorry.
 [k]
 
@@ -716,9 +660,9 @@ I'm so sorry.
 # @@980204@@
 
 [TWinBtm][DlgOpn]['Azel' 000A]
-Sir Sigurd...[n]
+[TextSpd 08]Sir Sigurd...[n]
 ...I'm leaving it up to you.[n]
-...[$00$22]...[k]
+[$00$22]...[k]
 
 [exit]
 
@@ -726,10 +670,9 @@ Sir Sigurd...[n]
 # 0xedc51
 # @@980208@@
 
-[TWinBtm][DlgOpn]['Jamuka' 000B]
-Erg... I'm already done for...?[n]
-...[$00$22]...
-[k]
+[TWinBtm][DlgOpn]['Jamka' 000B]
+[TextSpd 08]Urgh... I'm already done for...?[n]
+[$00$22]...[k]
 
 [exit]
 
@@ -738,10 +681,9 @@ Erg... I'm already done for...?[n]
 # @@980212@@
 
 [TWinBtm][DlgOpn]['Ira' 0013]
-Shanan, be strong...[n]
-...[$00$22],[n]
-I want to see you again...
-[k]
+[TextSpd 08]Shanan, be strong...[n]
+[$00$22],[n]
+I want to see you again...[k]
 
 [exit]
 
@@ -750,9 +692,8 @@ I want to see you again...
 # @@980216@@
 
 [TWinBtm][DlgOpn]['Tiltyu' 0015]
-Stop! I can't take any more...![n]
-...[$00$22], you idiot!
-[k]
+[TextSpd 08]Stop! I can't take any more...![n]
+[$00$22], you idiot![k]
 
 [exit]
 
@@ -761,10 +702,8 @@ Stop! I can't take any more...![n]
 # @@980220@@
 
 [TWinBtm][DlgOpn]['Sylvia' 0016]
-Why... why am I...[n]
-...[$00$22],[n]
-what are you going to do about this!?
-[k]
+[TextSpd 08]Why... why am I...[n]
+[$00$22], what are you going to do about this!?[k]
 
 [exit]
 
@@ -772,11 +711,9 @@ what are you going to do about this!?
 # 0xedf46
 # @@980224@@
 
-[TWinBtm][DlgOpn]['Edin' 0017]
-...gods,[n]
-please protect everyone.[n]
-[$00$22], I'm sorry...
-[k]
+[TWinBtm][DlgOpn]['Etain' 0017]
+[TextSpd 08]...gods, please protect everyone.[n]
+[$00$22], I'm sorry...[k]
 
 [exit]
 
@@ -785,8 +722,7 @@ please protect everyone.[n]
 # @@980228@@
 
 [TWinBtm][DlgOpn]['Mana' 002A]
-Ahh, Lord[sp][$00$22]...
-[k]
+[TextSpd 08]Ahh,[$00$22]...[k]
 
 [exit]
 
@@ -795,8 +731,7 @@ Ahh, Lord[sp][$00$22]...
 # @@980232@@
 
 [TWinBtm][DlgOpn]['Yuria' 002B]
-Ahh, Lord Celice...
-[k]
+[TextSpd 08]Ahh, Sir Celice...[k]
 
 [exit]
 
@@ -805,8 +740,7 @@ Ahh, Lord Celice...
 # @@3254801@@
 
 [TWinBtm][DlgOpn]['Yuria' 002B]
-Ahh, Lord Celice...
-[k]
+[TextSpd 08]Ahh, Sir Celice...[k]
 
 [exit]
 
@@ -815,8 +749,7 @@ Ahh, Lord Celice...
 # @@980236@@
 
 [TWinBtm][DlgOpn]['Femina' 002D]
-Ahh,[sp][$00$22]...
-[k]
+[TextSpd 08]Ahh,[$00$22]...[k]
 
 [exit]
 
@@ -825,8 +758,7 @@ Ahh,[sp][$00$22]...
 # @@980240@@
 
 [TWinBtm][DlgOpn]['Laylea' 002F]
-[$00$22]... I'm sorry...
-[k]
+[TextSpd 08][$00$22]... I'm sorry...[k]
 
 [exit]
 
@@ -835,9 +767,8 @@ Ahh,[sp][$00$22]...
 # @@980244@@
 
 [TWinBtm][DlgOpn]['Lakche' 003A]
-Urgh... is this the end...?[n]
-[$00$22]...
-[k]
+[TextSpd 08]Urgh... is this the end...?[n]
+[$00$22]...[k]
 
 [exit]
 
@@ -845,10 +776,9 @@ Urgh... is this the end...?[n]
 # 0xee4ab
 # @@980248@@
 
-[TWinBtm][DlgOpn]['Rana' 003B]
-Ahh, Edain, my mother...[n]
-Lord[sp][$00$22]...
-[k]
+[TWinBtm][DlgOpn]['Lana' 003B]
+[TextSpd 08]Aah, mother...[n]
+[$00$22]...[k]
 
 [exit]
 
@@ -857,9 +787,8 @@ Lord[sp][$00$22]...
 # @@980252@@
 
 [TWinBtm][DlgOpn]['Fee' 003C]
-Ahh, brother...[n]
-[$00$22]...
-[k]
+[TextSpd 08]Aah, brother...[n]
+[$00$22]...[k]
 
 [exit]
 
@@ -868,9 +797,8 @@ Ahh, brother...[n]
 # @@980256@@
 
 [TWinBtm][DlgOpn]['Tinny' 003D]
-Tailtiu, my mother...[n]
-[$00$22]...
-[k]
+[TextSpd 08]Mother...[n]
+[$00$22]...[k]
 
 [exit]
 
@@ -878,9 +806,8 @@ Tailtiu, my mother...[n]
 # 0xee54e
 # @@980260@@
 
-[TWinBtm][DlgOpn]['Lynn' 003E]
-[$00$22]... I'm sorry...
-[k]
+[TWinBtm][DlgOpn]['Leen' 003E]
+[TextSpd 08][$00$22]... I'm sorry...[k]
 
 [exit]
 
@@ -956,10 +883,9 @@ I shall return!
 # 0xedfce
 # @@980294@@
 
-[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinBtm][DlgOpn]['Jamka' 000B]
 Father...
-[k]
-
+[Wait C8]
 [exit]
 
 
@@ -968,7 +894,7 @@ Father...
 
 [TWinBtm][DlgOpn]['Elliot' 0066]
 Damn...[n]
-Why do things always go Eltosian's way... 
+Why do things always go Eltshan's way... 
 [Wait C8]
 [exit]
 
@@ -1015,7 +941,7 @@ I... I can't believe I've been defeated...
 # 0xee772 # @@980318@@
 
 [TWinBtm][DlgOpn]['Clement' 0075]
-Erg...[n]
+Urgh...[n]
 Don't forget me...
 [Wait C8]
 [exit]
@@ -1041,7 +967,8 @@ Is the end of Agustria...?
 [exit]
 
 
-# 0xee756 # @@980330@@
+# 0xee756 
+# @@980330@@
 
 [TWinBtm][DlgOpn]['Beowulf' 000D]
 Ugh... This ain't my day...
@@ -1071,7 +998,7 @@ Wh, what a pity...
 # 0xee81a
 # @@980342@@
 
-[TWinBtm][DlgOpn]['Eltosian' 005A]
+[TWinBtm][DlgOpn]['Eltshan' 005A]
 Forgive me...[n]
 Agustria...
 [Wait C8]
@@ -1197,8 +1124,8 @@ N, no way...
 # 0xee9b9
 # @@980394@@
 
-[TWinBtm][DlgOpn]['Vylon' 027E]
-Sigurd... Sor..ry...
+[TWinBtm][DlgOpn]['Byron' 027E]
+Sigurd... Sor... ry...
 [Wait C8]
 [exit]
 
@@ -1229,13 +1156,14 @@ Avenge me...
 [TWinBtm][DlgOpn]['Langobalt' 00DB]
 No...[n]
 I've been defeated...?[n]
-Danan... it's up to you.
+Dannan... it's up to you.
 [Wait C8]
 [exit]
 
 
 # 0xeea51
 # @@980410@@ 
+
 [TWinBtm][DlgOpn]['Vaha' 00EB]
 Uuh...[n]
 Lord Alvis, please forgive me... 
@@ -1256,9 +1184,10 @@ Glory to Thracia!
 # 0xeea95
 # @@980418@@
 
-[TWinBtm][DlgOpn]['Leptor' 00F5]
+[TWinBtm][DlgOpn]['Reptor' 00F5]
 Alvis... you...[n]
-Just what are you planning...[n]
+Just what are you planning...[k]
+[cs]
 Gah...
 [Wait C8]
 [exit]
@@ -1267,7 +1196,7 @@ Gah...
 # 0xeeabe
 # @@451673@@
 
-[TWinBtm][DlgOpn]['Leptor' 00F5]
+[TWinBtm][DlgOpn]['Reptor' 00F5]
 Y... you......[n]
 ...guhaaa...
 [Wait C8]
@@ -1278,7 +1207,7 @@ Y... you......[n]
 # 0xeeadb
 # @@980422@@
 
-[TWinBtm][DlgOpn]['Ethrin' 0011]
+[TWinBtm][DlgOpn]['Ethlin' 0011]
 Ahh, Altenna... forgive me...[n]
 Cuan, I'm sorry...
 [Wait C8]
@@ -1319,7 +1248,8 @@ I'm sorry...
 # @@980440@@
 
 [TWinBtm][DlgOpn]['Johan' 001E]
-Ahh... The virtuous rebel army has defeated me...[n]
+Ahh... The virtuous rebel army has defeated me...[k]
+[cs]
 [$00$2C$3A$00],[n]
 Our love is eternal...
 [Wait C8]
@@ -1330,12 +1260,13 @@ Our love is eternal...
 # @@980444@@
 
 [TWinBtm][DlgOpn]['Shumit' 0245]
-Lord Danan... please forgive me!
+Lord Dannan... please forgive me!
 [Wait C8]
 [exit]
 
 
-# 0xeebe5 # @@980448@@
+# 0xeebe5 
+# @@980448@@
 
 [TWinBtm][DlgOpn]['Danan' 024D]
 Cough...[n]
@@ -1369,8 +1300,7 @@ the Lopt Empire...
 
 [TWinBtm][DlgOpn]['Liza' 0253]
 Aah... Lord Ishtor...
-[k]
-
+[Wait C8]
 [exit]
 
 
@@ -1418,7 +1348,7 @@ Darna is mine...[n]
 # @@980476@@
 
 [TWinBtm][DlgOpn]['Vampa' 0255]
-Crr. For the moment, I'll retreat.
+Grr. For the moment, I'll retreat.
 [Wait C8]
 [exit]
 
@@ -1427,7 +1357,7 @@ Crr. For the moment, I'll retreat.
 # @@980480@@
 
 [TWinBtm][DlgOpn]['Fetora' 0256]
-Crr. For the moment, I'll retreat.
+Grr. For the moment, I'll retreat.
 [Wait C8]
 [exit]
 
@@ -1436,7 +1366,7 @@ Crr. For the moment, I'll retreat.
 # @@980484@@
 
 [TWinBtm][DlgOpn]['Eliu' 0257]
-Crr. For the moment, I'll retreat.
+Grr. For the moment, I'll retreat.
 [Wait C8]
 [exit]
 
@@ -1454,7 +1384,8 @@ Ahh...
 
 [TWinBtm][DlgOpn]['Blume' 0254]
 Urgh... How...!?[n]
-It's unavoidable... I'll have to retreat to Conote.[n]
+It's unavoidable... I'll have to retreat to Conote.[k]
+[cs]
 For the time being, at least...
 [Wait C8]
 [exit]
@@ -1557,14 +1488,14 @@ Glory to Thracia![n]
 # @@980536@@
 
 [TWinBtm][DlgOpn]['Althena' 002C]
-Brother... Arion, my lord brother...
+Brother... Arion, my brother...
 [Wait C8]
 [exit] 
 
 # 0xeeec5
 # @@980540@@
 
-[TWinBtm][DlgOpn]['Hannival' 0024]
+[TWinBtm][DlgOpn]['Hanibal' 0024]
 My son... please live on...
 [Wait C8]
 [exit]
@@ -1602,7 +1533,8 @@ Long... live... the Grandbell Empire...!
 # @@980556@@
 
 [TWinBtm][DlgOpn]['Judah' 0267]
-Huhaha...[n]
+Huhaha...[k]
+[cs]
 When Lord Loputousu is revived...[n]
 ...you'll...
 [Wait C8]
@@ -1670,12 +1602,14 @@ Playtime is over, I'm going home.
 
 # 0xef067
 # @@980584@@ 
+
 [TWinBtm][DlgOpn]['Ishtar' 0271]
 Eh? Why...?
 [Wait C8]
 [exit] 
 
-# 0xef07c # @@980588@@
+# 0xef07c 
+# @@980588@@
 
 [TWinBtm][DlgOpn]['Zagam' 0185]
 Archbishop Manfloy...[n]
@@ -1688,7 +1622,7 @@ Please forgive me...
 # @@980592@@
 
 [TWinBtm][DlgOpn]['Alvis' 026E]
-Dierdre...[n]
+Deirdre...[n]
 ...Julia...
 [Wait C8]
 [exit]
@@ -1743,7 +1677,7 @@ H, how is this possible...
 # 0xef17e
 # @@980616@@
 
-[TWinBtm][DlgOpn]['Brian' 01B8]
+[TWinBtm][DlgOpn]['Burian' 01B8]
 The Swanchika was defeated so easily!?[n]
 Was I on the right side...[Wait C8]
 [exit]
@@ -1851,7 +1785,7 @@ The Lopt Empire is in your hands now.
 [TWinBtm][DlgOpn]['Julius' 026F]
 [BGM 30][TextSpd 0C]
 [Wait 0F]
-GWAAAAAAAAAAaaaaaaaaaaaa...
+GWAAAAAAAAAAaaaaaaaaaa...
 [Wait C8]
 [exit]
 
@@ -1918,10 +1852,8 @@ Gaaahhh...
 [TWinBtm][DlgOpn]['(null)' 02B4]
 Uuh...
 [Wait 40][cs]
-
 [TWinBtm][DlgOpn]['Yuria' 002B]
-Ahh... Lord Celice...
-[k]
+Ahh... Sir Celice...[k]
 
 [exit]
 
@@ -1932,9 +1864,7 @@ Ahh... Lord Celice...
 [TWinBtm][DlgOpn]['(null)' 02B4]
 Uuh...
 [Wait 40][cs]
-
 [TWinBtm][DlgOpn]['Yuria' 002B]
-Ahh... Lord Celice...
-[k]
+Ahh... Sir Celice...[k]
 
 [exit]

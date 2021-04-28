@@ -1,6 +1,8 @@
 # 0 10 dynanames
 
-# Last modified: 08/06/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was added by Dark Twilkitri
 
 # This file is used for altering the names of characters whereever they are used in a dialogue sense.
@@ -34,7 +36,7 @@ Alec
 
 # 0xd949d
 # @@889875@@
-Arden
+Ardan
 [exit]
 
 
@@ -52,7 +54,7 @@ Cuan
 
 # 0xd94ae
 # @@889881@@
-Mideel
+Midir
 [exit]
 
 
@@ -76,7 +78,7 @@ Azel
 
 # 0xd94c5
 # @@889889@@
-Jamuka
+Jamka
 [exit]
 
 
@@ -106,7 +108,7 @@ Dew
 
 # 0xd94e6
 # @@889899@@
-Dierdre
+Deirdre
 [exit]
 
 
@@ -124,7 +126,7 @@ Lachesis
 
 # 0xd94f9
 # @@889905@@
-Ayra
+Aira
 [exit]
 
 
@@ -148,13 +150,13 @@ Sylvia
 
 # 0xd9512
 # @@889913@@
-Edin
+Aideen
 [exit]
 
 
 # 0xd9519
 # @@889915@@
-Bridget
+Brigid
 [exit]
 
 
@@ -226,7 +228,7 @@ Dimna
 
 # 0xd9560
 # @@889939@@
-Hannival
+Hanibal
 [exit]
 
 
@@ -256,7 +258,7 @@ Daisy
 
 # 0xd9581
 # @@889949@@
-Radney
+Radnay
 [exit]
 
 
@@ -310,7 +312,7 @@ Johalva
 
 # 0xd95b4
 # @@889967@@
-Skasaher
+Skasaha
 [exit]
 
 
@@ -322,7 +324,7 @@ Faval
 
 # 0xd95c0
 # @@889971@@
-Coupl
+Corple
 [exit]
 
 
@@ -364,7 +366,7 @@ Lakche
 
 # 0xd95e9
 # @@889985@@
-Rana
+Lana
 [exit]
 
 
@@ -382,7 +384,7 @@ Tinny
 
 # 0xd95f8
 # @@889991@@
-Lynn
+Leen
 [exit]
 
 

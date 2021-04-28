@@ -1,3 +1,5 @@
+# Fontcheck: Reformatted
+
 # Last modified: 02/05/04
 # This file was added by Dark Twilkitri
 
@@ -15,13 +17,13 @@ Pro
 
 # 0xd9e8f
 # @@1158833@@
-C[$09$B1]
+C[$09$B1][sp]
 [exit]
 
 
 # 0xd9e96
 # @@1158845@@
-C10
+C10[sp]
 [exit]
 
 

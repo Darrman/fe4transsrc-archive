@@ -1,0 +1,87 @@
+# Fontcheck: Reformatted
+
+# Last modified: 13/06/2006
+# This file was added by Dark Twilkitri
+
+# This file contains the 2A-type scripts for
+# Chapter 10
+
+[blocked]
+
+# 0x33b928
+# @@887440@@
+[block b000]
+
+[resolve b001]
+[dcs]
+However, in order to be able to open the gate to Miletos, we'll need to have control of Rados.[k]
+[cs]
+
+[TWinTop]
+Got it. Our next goal is to take Rados Castle.[k]
+
+[exit]
+
+
+# 0x33ba59
+# @@887490@@
+[block b002]
+
+[resolve b003]
+[cs]
+It seems that the gate to Miletos will be open soon. What do you want to do, Celice?[k]
+[cs]
+
+[TWinTop]
+We should head for Miletos, of course. I'm worried about the children... and Julia as well.
+
+[TWinBtm]
+And then, on to Grandbell![k]
+
+[exit]
+
+
+# 0x33b8c0:
+# @@887429@@
+[block b001]
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+
+[TWinTop] # Selis
+Levin, did you find the children?
+
+[TWinBtm] # (null)
+[Wait 10]
+No. I'm guessing they were moved to Miletos. We need to move. Their lives are in danger.[k]
+
+[exit]
+
+
+# 0x33b98a:
+# @@887479@@
+[block b003]
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+
+[TWinTop] # Selis
+Geez, it's like a ghost town here.
+
+[TWinBtm] # (null)
+[Wait 10]
+Yeah, Morigan's mages massacred all those who tried to resist.[k]
+[dcs]
+
+[TWinTop] # Selis
+That's horrible![n]
+I can't believe it...
+
+[TWinBtm] # (null)
+[Wait 10]
+Celice, now you know why we must fight.[k]
+[dcs]
+There's just no room for good people to exist in the Lopt Empire.[k]
+
+
+[exit]

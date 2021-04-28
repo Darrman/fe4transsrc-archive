@@ -1,0 +1,200 @@
+See, this is why you should comment as you go -_- I can't remember what ¾ of this is supposed to be doing.
+
+This starts at 2E:B9AE
+
+/* Since we're a different bank now, we need to get the Data Bank up to speed */
+8B		Push Data Bank
+08		Push Processor Status
+4B		Push Program Bank
+AB		Pull Data Bank
+
+/* Stack some Direct Page information and stuff; we're gonna use those areas */
+A5 00		Load DP:00 into accumulator
+48		Push Accumulator
+A5 02		Load DP:02 into accumulator
+48		Push Accumulator
+A5 04		Load DP:04 into accumulator
+48		Push Accumulator
+DA		Push X
+5A		Push Y
+
+AC 31 05	Load Y from 7E:0531. Why? Dunno at the moment
+E2 20		Set Accumulator et al to 8-bit
+AD 33 05	Load Accumulator from 7E:0533
+48		Push Accumulator
+C2 20		Set Accumulator et al to 16-bit
+AB		Pull Data Bank
+
+B9 06 00	Load [0006 + Y] into Accumulator
+85 33		Store Accumulator at DP:33
+B9 07 00	Load [0007 + Y] into Accumulator
+85 34		Store Accumulator at DP:34
+64 00		Store Zero at DP:00
+
+8A		Transfer X to Accumulator
+E2 20		Set Accumulator et al to 8-bit
+85 00		Store Accumulator at DP:00
+EB		Swap B and A inside Accumulator
+8F 02 42 00	Store Accumulator at 00:4202 (Multiply A)
+B9 00 00	Load [0000 + Y] into Accumulator
+8F 03 42 00	Store Accumulator at 00:4203 (Multiply B)
+EA		Wait...
+EA		...three...
+EA		...cycles
+C2 20		Set Accumulator et al to 16-bit
+AF 16 42 00	Load Accumulator from 004216 (Multiplication result)
+
+18		Clear the Carry Flag (prepare for addition)
+65 00		Add DP:00 to Accumulator
+0A		Shift Accumulator Left (multiply by 2)
+48		Push Accumulator
+
+B9 00 00	Load [0000 + Y] into Accumulator
+29 FF 00	AND Accumulator with 0x00FF
+0A		Shift Accumulator Left (multiply by 2)
+85 04		Store Accumulator at DP:04
+
+7A		Pull Y (Was: Accumulator)
+A6 24		Load DP:24 into X
+E2 20		Set Accumulator et al to 8-bit
+A5 26		Load DP:26 into A
+48		Push Accumulator
+C2 20		Set Accumulator et al to 16-bit
+AB		Pull Data Bank
+A9 00 00	Load 0x0000 into Accumulator
+48		Push Accumulator
+
+-Loopback-
+68		Pull Accumulator
+1A		Increment Accumulator
+48		Push Accumulator
+C9 07 00	Compare Accumulator with 0x0007
+B0 15		If Accumulator was higher, hop forward 0x15 (to -Ending-)
+BD 00 00	Load [0x000 + X] into Accumulator
+F0 10		If Accumulator is now zero, hop forward 0x10 (to -Ending-)
+29 FF 00	AND Accumulator with 0x00FF
+C9 84 00	Compare Accumulator with 0x0084
+B0 63		If Accumulator was higher, hop forward 0x63 (to -Kanji-)
+80 15		Jump forward 0x15 (to -Normal-)
+
+-Next Character-
+E8		Increment X
+E8		Increment X
+C8		Increment Y
+C8		Increment Y
+80 E3		Jump forward 0xE3 (back to -Loopback-)
+
+/* Return stored information */
+-Ending-
+68		Pull Accumulator
+7A		Pull Y
+FA		Pull X
+68		Pull Accumulator
+85 04		Store Accumulator at DP:04
+68		Pull Accumulator
+85 02		Store Accumulator at DP:02
+68		Pull Accumulator
+85 00		Store Accumulator at DP:00
+28		Pull Processor Status
+AB		Pull Data Bank
+6B		RETURN
+
+-Normal-
+/* This is the stuff described in fe4menu.rtf
+DA		Push X
+38		Set Carry Flag (prepare from subtraction)
+E9 81 00	Subtract 0x81 from Accumulator
+0A		Shift Accumulator Left (multiply by 2)
+AA		Transfer Accumulator to X
+BF 71 94 87	Load Accumulator from [07:9471 + X]
+85 00		Store Accumulator at DP:00
+FA		Pull X
+DA		Push X
+5A		Push Y
+BD 01 00	Load Accumulator from [0001 + X]
+29 FF 00	AND Accumulator with 0x00FF
+38		Set Carry Flag (prepare from subtraction)
+E9 40 00	Subtract 0x40 from Accumulator
+48		Push Accumulator
+
+29 07 00	AND Accumulator with 0x0007
+85 02		Store Accumulator at DP:02
+68		Pull Accumulator
+29 F8 FF	AND Accumulator with 0xFFF8
+0A		Shift Accumulator Left (multiply by 2)
+18		Clear the Carry Flag (prepare for addition)
+65 02		Add DP:02 to Accumulator
+0A		Shift Accumulator Left (multiply by 2)
+18		Clear the Carry Flag (prepare for addition)
+65 00		Add DP:00 to Accumulator
+AA		Transfer Accumulator to X
+AF 3A 05 00	Load Accumulator from 00:053A
+18		Clear the Carry Flag (prepare for addition)
+7F 71 94 87	Add [07:9471 + X] to Accumulator
+97 33		Store Accumulator at [[DP:33] + Y]
+
+98		Transfer Y to Accumulator
+18		Clear the Carry Flag (prepare for addition)
+65 04		Add DP:04 to Accumulator
+A8		Transfer Accumulator to Y
+AF 3A 05 00	Load Accumulator from 00:053A
+18		Clear the Carry Flag (prepare for addition)
+7F 71 94 87	Add [07:9471 + X] to Accumulator
+97 33		Store Accumulator at [[DP:33] + Y]
+7A		Pull Y
+FA		Pull X
+80 9F		Jump forward 0x9F (back to -Next Character-)
+
+-Kanji-
+DA		Push X
+BD 00 00	Load [0x000 + X] into Accumulator
+A2 00 00	Load 0x0000 into X
+
+-Kanji Loop-
+DF 77 9D 87	Compare [07:9D77 + X] with Accumulator
+F0 0D		If equal, jump forward 0x0D (to -Found Kanji-)
+
+E8		Increment X
+E8		Increment X
+E8		Increment X
+E8		Increment X
+E8		Increment X
+E8		Increment X
+E0 5A 00	Compare X to 0x005A
+90 EF		If X is lower, jump forward 0XEF (back to -Kanji Loop-)
+80 22		Jump forward 0x22 (to -Kanji Failed-)
+
+-Found Kanji-
+5A		Push Y
+AF 3A 05 00	Load Accumulator from 00:053A
+18		Clear the Carry Flag (prepare for addition)
+7F 79 9D 87	Add [07:9D79 + X] to Accumulator
+97 33		Store Accumulator at [[DP:33] + Y]
+
+98		Transfer Y to Accumulator
+18		Clear the Carry Flag (prepare for addition)
+65 04		Add DP:04 to Accumulator
+A8		Transfer Accumulator to Y
+AF 3A 05 00	Load Accumulator from 00:053A
+18		Clear the Carry Flag (prepare for addition)
+7F 79 9D 87	Add [07:9D79 + X] to Accumulator
+97 33		Store Accumulator at [[DP:33] + Y]
+7A		Pull Y
+FA		Pull X
+
+5C AE B9 AE	Jump to 2E:B9AE
+
+-Kanji Failed-
+5A		Push Y
+AF 3C 05 00	Load Accumulator from 00:053C
+97 33		Store Accumulator at [[DP:33] + Y]
+98		Transfer Y to Accumulator
+18		Clear the Carry Flag (prepare for addition)
+65 04		Add DP:04 to Accumulator
+A8		Transfer Accumulator to Y
+
+AF 3C 05 00	Load Accumulator from 00:053C
+97 33		Store Accumulator at [[DP:33] + Y]
+7A		Pull Y
+FA		Pull X
+5C AE B9 AE	Jump to 2E:B9AE

@@ -1,4 +1,6 @@
-# Last modified: 08/08/04
+# Fontcheck: Reformatted
+
+# Last modified: 22/06/2006
 # This file was modified by Dark Twilkitri
 
 # This file is for altering text from Chapter 4.
@@ -46,7 +48,7 @@ I'll round up some reinforcements and meet up with you again. Until then.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinTop][DlgOpn]['Ethlin' 0011]
 Sigurd, I'm leaving with Cuan too, but we will be back. Take care of yourself![k]
 [cs]
 
@@ -55,7 +57,7 @@ Sigurd, I'm leaving with Cuan too, but we will be back. Take care of yourself![k
 [TWinTop][DlgOpn]['Finn' 0005]
 Sir, I'll be heading back with Cuan as well. Thanks for everything![k]
 [cs]
-I know you'll be cleared of that false accusation one day soon. Stay strong and persevere.
+I know you'll be cleared of that false accusation soon. Stay strong and persevere.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -80,7 +82,7 @@ I'll round up some reinforcements and meet up with you again. Until then.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinTop][DlgOpn]['Ethlin' 0011]
 Sigurd, I'm leaving with Cuan too, but we will be back. Take care of yourself!
 
 [TWinBtm] # Sigurd
@@ -103,7 +105,7 @@ Sir, thank you for everything.[k]
 [cs]
 I'm heading back to Lenster to help Cuan assemble some reinforcement troops.[k]
 [cs]
-I know you'll be cleared of that false accusation one day soon. Stay strong and persevere.
+I know you'll be cleared of that false accusation soon. Stay strong and persevere.
 
 [TWinBtm] # Sigurd
 [Wait 10]
@@ -142,7 +144,7 @@ Yes. Our squadron is to divert the enemy.[k]
 [TWinTop] # (null)
 Alright, then get going![k]
 [cs]
-Heeheh... The heads of the Grandbell traitors should fetch us a nice little sum![k]
+Heheh... The heads of the Grandbell traitors should fetch us a nice little sum![k]
 
 [exit]
 
@@ -167,13 +169,13 @@ Now to show these traitors the true ferocity of a wind mage![k]
 [TWinTop] # (null)
 Maios has moved his troops, has he?[k]
 [cs]
-Heh-heh. This is getting interesting. Wouldn't you agree, Pamela?
+Heheh. This is getting interesting. Wouldn't you agree, Pamela?
 
 [TWinBtm] # (null)
 [Wait 10]
 Indeed. The fugitive army is quite a surprise though. They may prove to be a real threat.[k]
 [dcs]
-So you think our takeover of Silesia will go smoothly if Duke Maios can just draw them in.[k]
+So you think our takeover of Silesia will go smoothly if Duke Maios can just draw them in?[k]
 [cs]
 
 [TWinTop] # (null)
@@ -185,8 +187,7 @@ Heh heh... Pamela, the day I am to become Silesia's next king is not that far of
 
 [TWinBtm] # (null)
 [Wait 10]
-Yes, it shall certainly come.
-[k]
+Yes, it shall certainly come.[k]
 
 [exit]
 
@@ -205,7 +206,7 @@ They can't cross without this key. Heh heh... I can just imagine their dumbfound
 # 0xeaedd:
 # @@955778@@
 
-[TWinBtm][DlgOpn]['Deu' 000F]
+[TWinBtm][DlgOpn]['Dew' 000F]
 Oh, it's just one of these locks. These are nothin'.
 [$00$2B$E0]
 [Wait 1E]
@@ -224,7 +225,7 @@ There ya go!
 [TWinBtm][DlgOpn]['(null)' 0241]
 
 [TWinTop] # (null)
-Thove's been captured? Hmph. My brother never did realize he was just a mere pawn in my greater scheme.[k]
+Thove's been captured? Hmph. My brother never did realise he was just a mere pawn in my greater scheme.[k]
 [cs]
 Pamela, it's time to prove your worth. Now go lead your Pegasus Knights to victory![k]
 [cs]
@@ -284,9 +285,9 @@ I need to get going. Pegasus Knights, get into formation![k]
 [TWinBtm][DlgOpn]['(null)' 0241]
 
 [TWinTop] # Manya
-Pamela... haven't seen YOU around for a while... and to think we trained together as knights.[k]
+Pamela... haven't seen you around for a while... and to think we trained together as knights.[k]
 [cs]
-I never imagined we would come down to this!
+I never imagined we would come to this!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -298,11 +299,11 @@ Well, I'll become the top ranking Falcon Knight once you're gone. Nothing person
 [TWinTop] # Manya
 Pamela, you're the one acting like a fool! Well... I guess if this is how fate'll have it.[k]
 [cs]
-Let's at least fight with a little grace and dignity. We are both Silesian Knights after all.
+Let's at least fight with a little grace and dignity. We are both Knights of Silesia after all.
 
 [TWinBtm] # (null)
 [Wait 10]
-Shesh... Enough of your rhetoric![k]
+Sheesh... Enough of your rhetoric![k]
 
 [exit]
 
@@ -314,9 +315,9 @@ Shesh... Enough of your rhetoric![k]
 [TWinBtm][DlgOpn]['(null)' 023B]
 
 [TWinTop] # (null)
-Ah, Lord Andre. I see you've arrived..... Nice mullet.[k]
+Ah, Lord Andre. I see you've finally arrived...[k]
 [cs]
-So this must be the Beiger Ritter - the reputed archery knights of Jungby... Impressive!
+So this must be the Beige Ritter, the reputed archery knights of Jungby... Impressive!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -324,7 +325,7 @@ My father is no longer with us and my older sister is being pursued for her invo
 [dcs]
 So as the new lord of Jungby I now command the entire archer brigade![k]
 [cs]
-Their Pegasus Knights won't pose a problem in the face of the Beiger Ritter. Now watch 'em fall![k]
+Those Pegasus Knights won't pose a problem in the face of the Beige Ritter. Now watch 'em fall![k]
 
 [exit]
 
@@ -353,7 +354,8 @@ Yes sir![k]
 # @@956352@@
 
 [TWinBtm][DlgOpn]['(null)' 0284]
-What!? Mahnya died in battle!? Aahhh... No... Mahnya...... Forgive me.[k]
+What!? Mahnya died in battle!? Aahhh... No... Mahnya......[n]
+Forgive me...[k]
 
 [exit]
 
@@ -362,7 +364,8 @@ What!? Mahnya died in battle!? Aahhh... No... Mahnya...... Forgive me.[k]
 # @@956373@@
 
 [TWinBtm][DlgOpn]['Levin' 0008]
-What! Mahnya died!? Th..That can't be.!![k]
+What! Mahnya died!?[n]
+Th, that can't be![k]
 
 [exit]
 
@@ -371,7 +374,7 @@ What! Mahnya died!? Th..That can't be.!![k]
 # @@956391@@
 
 [TWinBtm][DlgOpn]['Fury' 0014]
-Huh!? My sister has...? No! It can't be true![k]
+Huh!? My sister was... No! It can't be true![k]
 [cs]
 Ooooah! Please! Someone tell me it's not true!![k]
 
@@ -382,7 +385,7 @@ Ooooah! Please! Someone tell me it's not true!![k]
 # @@956424@@
 
 [TWinBtm][DlgOpn]['(null)' 023B]
-We got Silesia Castle? OK. We're finished here. Let's wrap up and head back to Grandbell![k]
+We got Silesia Castle? Okay. We're finished here. Let's wrap up and head back to Grandbell![k]
 
 [exit]
 
@@ -394,13 +397,13 @@ We got Silesia Castle? OK. We're finished here. Let's wrap up and head back to G
 [TWinBtm][DlgOpn]['(null)' 0243]
 
 [TWinTop] # (null)
-Heh heh heh... Silesia Castle is finally in my possession, it is?[k]
+Heh heh heh... Silesia Castle is finally in my possession, is it?[k]
 [cs]
-OK. We need a patrol south of Silesia River. Send some wind mages.[k]
+Okay. We need a patrol south of Silesia River. Send some wind mages.[k]
 [cs]
 And Donovan, I want you to take your axemen to Silesia and occupy the castle.[k]
 [cs]
-But don't lay a hand on Queen Rahna. She'll prove to be a valuable hostage for us.
+But don't lay a hand on Queen Rahna. She'll be a valuable hostage for us.
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -440,7 +443,7 @@ Everybody! Let's do as the queen says. Let's get outta here![k]
 # @@956855@@
 
 [TWinBtm][DlgOpn]['(null)' 0243]
-What!? Where the hell is everyone!?[k]
+What? Where the hell is everyone!?[k]
 [cs]
 You don't want to mess with me! You guys go out 'n kill every one of 'em![k]
 [cs]
@@ -450,7 +453,7 @@ No one gets away! You got me!?[k]
 [TWinTop][DlgOpn]['(null)' 0284]
 Please, stop! They're just innocent people.[k]
 [cs]
-You can do with me what you want, but please don't hurt them!
+You can do what you want with me, but please don't hurt them!
 
 [TWinBtm] # (null)
 [Wait 10]
@@ -474,7 +477,7 @@ Heh heh... Donovan's working out real nice.
 
 [TWinBtm] # Leimia
 [Wait 10]
-Yeah, he's a real animal! You guys are seriously corrupt, though! Tryin' to subdue an entire kingdom! Heehee![k]
+Yeah, he's a real animal! You guys are seriously corrupt, though! Tryin' to seize an entire kingdom! Heehee![k]
 [dcs]
 
 [TWinTop] # (null)
@@ -484,7 +487,7 @@ It's no wonder they call you 'Lamia the Wicked'. It sure suits you.
 
 [TWinBtm] # Leimia
 [Wait 10]
-Heehehe... I'll take that as a compliment. So what'll you have us do?[k]
+Hehehe... I'll take that as a compliment. So what'll you have us do?[k]
 [dcs]
 
 [TWinTop] # (null)
@@ -521,7 +524,7 @@ Queen Rahna, you're okay! Forgive us for taking so long to get here.
 
 [TWinBtm] # (null)
 [Wait 10]
-No, I really..... You did just fine making it this far.[k]
+No, I really... You did just fine making it this far.[k]
 [dcs]
 I feel so useless. So many people have died... I can't tell you how horrible I feel![k]
 [cs]
@@ -533,13 +536,13 @@ Queen Rahna, don't lose heart. I will personally take it upon myself to avenge h
 [cs]
 And Daccar has gone way too far![k]
 [cs]
-I request your permission to lay siege on Zaxon Castle.
+I request your permission to lay siege to Zaxon Castle.
 
 [TWinBtm] # (null)
 [Wait 10]
 Lord Daccar has put the innocent citizens of Silesia through enough suffering.[k]
 [dcs]
-That man's a murderer, nothing more. He must pay for his crimes.[k]
+The man's a murderer, nothing more. He must pay for his crimes.[k]
 [cs]
 
 [TWinTop] # Sigurd
@@ -567,30 +570,19 @@ No, I really... You did just fine making it this far.[k]
 [dcs]
 I feel so useless. So many people have died... I can't tell you how horrible I feel![k]
 [cs]
-And poor Mahnya.....[k]
+And poor Mahnya...[k]
 [cs]
 
 [TWinTop] # Sigurd
 Queen Rahna, don't lose heart. We were able to avenge Mahnya's killer.[k]
 [cs]
-I wish to apologize for moving my soldiers without your permission.
+I wish to apologise for moving my soldiers without your permission.
 
 [TWinBtm] # (null)
 [Wait 10]
 That's not a problem at all. I really appreciate all you've done.[k]
 [dcs]
 I'll be by Zaxon Castle later. Let's meet up again then.[k]
-
-[exit]
-
-
-# 0xebcd4:
-# @@957310@@
-
-[TWinBtm][DlgOpn]['(null)' 0240]
-Silesia was overtaken by the Grandbell traitors!?[k]
-[cs]
-What the hell is Donovan doing out there!?[k]
 
 [exit]
 
@@ -646,7 +638,7 @@ But what about you?
 
 [TWinBtm] # (null)
 [Wait 10]
-I'll be fine, Levn.[k]
+I'll be fine, Levin.[k]
 [dcs]
 You, as a descendant of the Wind Crusader, must guide the world onto the proper path.[k]
 [cs]
@@ -661,7 +653,7 @@ So this is our family's Book of Holsety! Eraagh... What power! Where's this heat
 [TWinBtm] # (null)
 [Wait 10]
 Levin, please remember the Wind Crusader flows like a cool breeze guiding all living beings to the path of peace.[k]
-[cs]
+[dcs]
 His way is never to be confused with violence.[k]
 [cs]
 
@@ -684,7 +676,7 @@ Go! Please...[k]
 [dcs]
 
 [TWinTop] # Levin
-OK. You take care.
+Okay. You take care.
 [Wait 20]
 [cs]
 
@@ -720,17 +712,19 @@ Nope. I managed to get through somehow.[k]
 [TWinTop] # (null)
 If at all possible, I'd like you to station your troops here at Zaxon Castle.[k]
 [cs]
-Duke Langobalt of Grandbell brought in a large military force and overran Lubeck Castle. They're a mere stone's throw to the east.[k]
+Duke Langbart of Grandbell brought in a large military force and overran Lubeck Castle.[k]
+[cs]
+They're a mere stone's throw to the east.[k]
 [cs]
 The citizens of Silesia are a bit uneasy right now. They don't want a war with Grandbell.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Langobalt's military is here for us, not Silesia.[k]
+Langbart's military is here for us, not Silesia.[k]
 [dcs]
 The Silesians have been too kind to us. This my problem, and I can't drag them into it.[k]
 [cs]
-We need to move out of Zaxon Castle at once and settle this with Langobalt.[k]
+We need to move out of Zaxon Castle at once and settle this with Langbart.[k]
 [cs]
 
 [TWinTop] # (null)
@@ -758,7 +752,7 @@ I'm sorry to leave so suddenly. I so look forward to the day we meet again. Unti
 [TWinTop] # (null)
 The same goes for me, Sir Sigurd. You be careful and don't push yourself too hard.[k]
 [cs]
-I'll be praying for Dierdre's safe return.[k]
+I'll be praying for Deirdre's safe return.[k]
 
 [exit]
 
@@ -767,7 +761,7 @@ I'll be praying for Dierdre's safe return.[k]
 # @@957415@@
 
 [TWinBtm][DlgOpn]['(null)' 02AF]
-Ohh... Thank you... Thank you so much![k]
+Oh... Thank you... Thank you so much![k]
 
 [exit]
 
@@ -776,7 +770,7 @@ Ohh... Thank you... Thank you so much![k]
 # @@957428@@
 
 [TWinBtm][DlgOpn]['(null)' 02B0]
-Ahh! Thank you![k]
+Ah! Thank you![k]
 
 [exit]
 
@@ -785,7 +779,9 @@ Ahh! Thank you![k]
 # @@957441@@
 
 [TWinBtm][DlgOpn]['(null)' 02AB]
-Magic also has attributes much in the same way as weapons do. Fire is stronger than Wind, Wind is stronger than Thunder, and Thunder'd be stronger than Fire.[k]
+Magic has attributes much in the same way as weapons do.[k]
+[cs]
+Fire is stronger than Wind, Wind is stronger than Thunder, and Thunder's stronger than Fire.[k]
 [cs]
 However, Light and Dark magic have the upper hand on all of 'em. [k]
 
@@ -813,9 +809,9 @@ But that practice is strictly forbidden, and for obvious reasons![k]
 [TWinBtm][DlgOpn]['(null)' 02AB]
 There are various advantages that come with being of divine lineage.[k]
 [cs]
-You'll be able to handle items of a very high class, and your ability as a knight will progress quicker than others.[k]
+You'll be able to handle items of a very high class, and your innate abilities will improve quicker than others.[k]
 [cs]
-Granted only a few can claim to be of such a divine heredity.[k]
+Granted, only a few can claim to be of such divine heredity.[k]
 
 [exit]
 
@@ -849,7 +845,7 @@ And the only ones who inherit Narga's power are Grandbell's Royal Family, the He
 [TWinBtm][DlgOpn]['(null)' 02AB]
 It is said that all direct descendants of the Crusaders have a sacred marking appear somewhere on their body during infancy.[k]
 [cs]
-Prince Kult's daughter was recognized as a direct descendant of Saint Heim by the mark on her forehead.[k]
+Prince Kurth's daughter was recognised as a direct descendant of Saint Heim by the mark on her forehead.[k]
 [exit]
 
 
@@ -857,22 +853,9 @@ Prince Kult's daughter was recognized as a direct descendant of Saint Heim by th
 # @@957525@@
 
 [TWinBtm][DlgOpn]['(null)' 02AB]
-If Prince Kult's daughter were to bear a child, that child would become heir to the Grandbell Kingdom.[k]
+If Prince Kurth's daughter were to bear a child, that child would become heir to the Grandbell Kingdom.[k]
 [cs]
 That'd put the husband to be, Lord Alvis, into quite a position of power, I'd say.[k]
-
-[exit]
-
-
-# 0xec998:
-# @@957545@@
-
-[TWinBtm][DlgOpn]['(null)' 02AD]
-The drawbridge over Thove River is under the control of Lord Maios.[k]
-[cs]
-If it's not down, and you don't have a key, you're not getting across.[k]
-[cs]
-But I bet if you had someone handy along like a thief, you might be able get it down.[k]
 
 [exit]
 
@@ -888,7 +871,7 @@ Sir, one of the elders would like to speak with you.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Good. I'd like to have a word with him as well. Please, send him this way.[k]
+Good, I'd like to have a word with him as well. Please, send him this way.[k]
 [dcs]
 
 [TWinTop] # Oifaye
@@ -902,11 +885,11 @@ All the townsfolk are rejoicing!
 
 [TWinBtm] # Sigurd
 [Wait 10]
-I don't understand. I thought for sure you all considered us the aggressor here.[k]
+...I don't understand. I thought for sure you all considered us the aggressor here.[k]
 [dcs]
 
 [TWinTop] # (null)
-Listen here. Lord Maios was nothing but a tyrant to us. Plain and simple.[k]
+Listen here. Lord Maios was nothing but a tyrant. Plain and simple.[k]
 [cs]
 There is not a Silesian alive who does not have the utmost of adoration for Queen Rahna.
 
@@ -935,7 +918,7 @@ Yes, I will protect her to the absolute best of my ability.[k]
 # @@957645@@
 
 [TWinBtm][DlgOpn]['Leimia' 00D5]
-Why's Daccar so damn freaked out? OK. Let's go work up an appetite![k]
+Why's Daccar so damn freaked out? Okay, let's go work up an appetite![k]
 
 [exit]
 
@@ -947,7 +930,7 @@ Why's Daccar so damn freaked out? OK. Let's go work up an appetite![k]
 [TWinBtm][DlgOpn]['Sylvia' 0016]
 
 [TWinTop] # (null)
-Wow! Sir Sigurd's troops have come t'rescue us! Hey, you're a dancer, arn'cha.[k]
+Wow! Sir Sigurd's troops have come t'rescue us! Hey, you're a dancer, arn'cha?[k]
 [cs]
 If ya don't mine, we'd sure like t'see yer dance.[k]
 [cs]
@@ -999,7 +982,7 @@ Whew... (pant...) ahaa... Well... how was I?[k]
 [cs]
 
 [TWinTop] # (null)
-Whoa! That's was fabulous! That dancin' energized me somehow![k]
+Whoa! That was fabulous! That dancin' energised me somehow![k]
 [cs]
 Thank you so much! Here's a magic sword for ya in 'preciation. It'll protect ya good![k]
 
@@ -1060,8 +1043,6 @@ Hmph, Fine! You just wait and see!
 [DlgCls][xChr]
 
 [TWinBtm] # Fury
-. . . . . .[k]
+......[k]
 
 [exit]
-
-

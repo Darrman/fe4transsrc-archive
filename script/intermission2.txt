@@ -1,0 +1,19 @@
+# 0 0 BANK88
+
+# Fontcheck: Reformatted
+
+# Last modified: 23/06/2006
+# This file was added by Dark Twilkitri
+
+# This file is for altering the minority of the narration in the intermission, which JUST HAD TO BE DIFFERENT.
+
+[section BANK88]
+[HALFASM]
+[nocompress]
+[rowlimit 255]
+
+# 0x8edfd
+# @@583222@@
+And those who fought alongside Sigurd at Barhara, whose fates are unknown...[n]
+[n]
+[exit]
