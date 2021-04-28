@@ -1,0 +1,2605 @@
+
+
+# 0x30d1e7
+# @@1082134@@
+
+[TWinTop][DlgOpn]['Gerrard' 0040]
+[TWinBtm][DlgOpn]['Mideel' 0007]
+[TWinTop]ま、待て！
+飛び道具とはひきょうだぞ！
+
+[TWinBtm][Wait 10]だまれ！  エ?ディン様をどこにやった！
+早く返せ！！
+[k]
+
+[exit]
+
+
+# 0x319491
+# @@1082151@@
+
+[TWinBtm][DlgOpn]['DiMaggio' 0041]来やがったな、
+グランベルの腰抜けどもめ
+俺様がまとめて片付けてやる！[k]
+
+[exit]
+
+
+# 0x3197fa
+# @@1082167@@
+
+[TWinBtm][DlgOpn]['Gerrard' 0040]グランベルの犬め、
+くたばれ！
+[k]
+
+[exit]
+
+
+# 0x30d23a
+# @@445396@@
+
+[TWinTop][DlgOpn]['Gandolf' 004D]
+[TWinBtm][DlgOpn]['Mideel' 0007]
+[TWinTop]なに！  おまえはあのときの弓騎士！？
+ちっ、しくじったぜ
+生きていやがったか！
+[TWinBtm][Wait 10]ガンドルフ、覚悟しろ！
+貴様だけは許さない！！
+[k]
+
+[exit]
+
+
+# 0x30d29b
+# @@445413@@
+
+[TWinTop][DlgOpn]['Gandolf' 004D]
+[TWinBtm][DlgOpn]['Azel' 000A]
+[TWinTop]なんだおまえは？
+ガキがいっちょまえに
+気取るんじゃねえぜ！
+[TWinBtm][Wait 10]おまえがガンドルフか
+エ?ディンをよくも・・・
+[k]
+
+[exit]
+
+
+# 0x30d2eb
+# @@445430@@
+
+[TWinBtm][DlgOpn]['Sandima' 0052]なに？
+おまえはシャ?マンなのか？
+[k]
+[cs]
+もしや、
+おまえがディアドラ・・・
+呪われた娘か・・・[k]
+
+[exit]
+
+
+# 0x30d328
+# @@445446@@
+
+[TWinTop][DlgOpn]['Sandima' 0052]
+[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinTop]くくく、
+ジャムカよ、もはや手おくれだ
+きさまのオヤジは死んだぞ
+[TWinBtm][Wait 10]な、なんだと！？
+サンディマ！  きさま・・・
+[k]
+
+[exit]
+
+
+# 0x10987e
+# @@445463@@
+
+[TWinBtm][DlgOpn]['Ira' 0013]シャナンのためだ
+死んでもらうぞ
+わが流星剣、受けてみよ！[k]
+
+[exit]
+
+
+# 0x1098ac
+# @@445479@@
+
+[TWinBtm][DlgOpn]['Kinbois' 0048]オレ様に剣を向けるとは
+・・・バカな奴らだ！
+どたまカチわってやる！[k]
+
+[exit]
+
+
+# 0x10a313
+# @@445495@@
+
+[TWinBtm][DlgOpn]['Gandolf' 004D]ちくしょう、
+女には逃げられるし
+城は攻められるし[k]
+[cs]
+俺は何て不幸なんだ！
+[k]
+
+[exit]
+
+
+# 0x10a27d
+# @@445511@@
+
+[TWinBtm][DlgOpn]['Elliot' 0066]くそう、エルトシャンめ！
+いつも善人面しおって！
+[k]
+[cs]
+今こそせきねんのうらみ、
+晴らしてくれるわ！
+[k]
+
+[exit]
+
+
+# 0x10b5ce
+# @@445527@@
+
+[TWinBtm][DlgOpn]['Sandima' 0052]ククク・・・
+わが暗黒魔法の恐ろしさ
+とくと思い知れ[k]
+
+[exit]
+
+
+# 0x10c0ff
+# @@445543@@
+
+[TWinBtm][DlgOpn]['Jamuka' 000B]お前達を殺したくない
+早くこの国から立ち去れ！
+[k]
+
+[exit]
+
+
+# 0xfb041
+# @@446708@@
+
+[TWinBtm][DlgOpn]['Fury' 0014]レヴィン王子！？
+まさか、そんなはずが・・・
+[k]
+
+[exit]
+
+
+# 0x30d3b5
+# @@446724@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Fury' 0014]
+[TWinTop]ふふふ、きさまか・・・
+ようやく気付いたようだな
+バカな女め！
+[TWinBtm][Wait 10]シャガ?ル！  よくもだましたわね
+あなただけは許せない
+覚悟しなさい！！[k]
+
+[exit]
+
+
+# 0x30d418
+# @@446741@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+[TWinTop]くっ、おまえはエルトシャンの妹だな
+わしに刃向かうとは、どういうつもりだ
+
+[TWinBtm][Wait 10]あなたを王などとは思いません！
+はやく兄上を返しなさい！！
+[k]
+
+[exit]
+
+
+# 0x30d480
+# @@446758@@
+
+[TWinTop][DlgOpn]['Elliot' 0066]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+[TWinTop]ラケシス姫、
+いいかげんにあきらめたらどうだ
+俺の妻になるなら命だけは助けてやるぞ
+[TWinBtm][Wait 10]よらないで！  汚らわしい！！
+あなたの妻になるくらいなら
+死んだ方がましです！[k]
+
+[exit]
+
+
+# 0x30d4f9
+# @@446775@@
+
+[TWinTop][DlgOpn]['Voltz' 0073]
+[TWinBtm][DlgOpn]['Beowulf' 000D]
+[TWinTop]ふっ、ベオ  ウルフか
+俺と戦うには少し早すぎたようだな
+
+[TWinBtm][Wait 10]ああ、確かにな・・・だが俺も傭兵だ
+命じられたからにはしかたねぇ・・・
+[k]
+
+[exit]
+
+
+# 0x30d562
+# @@446792@@
+
+[TWinTop][DlgOpn]['Macbeth' 006F]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop]な、なんだおまえは・・・
+
+[TWinBtm][Wait 10]おまえがマクベスか？
+おまえは王として失格のようだ
+あきらめるんだな・・・[k]
+
+[exit]
+
+
+# 0xf8f5e
+# @@446809@@
+
+[TWinBtm][DlgOpn]['Elliot' 0066]げっ・・・
+なぜグランベル軍がここに！
+[k]
+[cs]
+こうなったら
+まとめて片付けてやる！
+[k]
+
+[exit]
+
+
+# 0xf8f95
+# @@446825@@
+
+[TWinBtm][DlgOpn]['Phillip' 005F]グランベルめ・・・
+私が生きているかぎり、
+ハイライン城へは行かせぬ！[k]
+
+[exit]
+
+
+# 0xf8fca
+# @@446841@@
+
+[TWinBtm][DlgOpn]['Boldor' 005D]なにっ、グランベル軍だと！？
+くそう・・・どいつもこいつも
+役たたずどもめ！[k]
+[cs]
+こうなったら、ワシが相手だ！
+[k]
+
+[exit]
+
+
+# 0xfa061
+# @@446857@@
+
+[TWinBtm][DlgOpn]['Macbeth' 006F]ま、まさか、グランベルか！？
+くそっ、傭兵どもめ
+いくら払ったと思っておる！[k]
+[cs]
+ううっ・・・こうなったら
+私が相手だ！
+[k]
+
+[exit]
+
+
+# 0xf9912
+# @@446873@@
+
+[TWinBtm][DlgOpn]['Voltz' 0073]これも仕事だ、悪く思うなよ
+[k]
+
+[exit]
+
+
+# 0xf9931
+# @@446889@@
+
+[TWinBtm][DlgOpn]['Beowulf' 000D]おまえにうらみはないが
+・・・これも生きて行くためだ
+[k]
+
+[exit]
+
+
+# 0xfa42a
+# @@446905@@
+
+[TWinBtm][DlgOpn]['Clement' 0075]くそっ、侵略者め！
+・・・かくなる上は、このワシが
+相手になってくれるわ！[k]
+
+[exit]
+
+
+# 0xfa922
+# @@446921@@
+
+[TWinBtm][DlgOpn]['Zain' 0083]おのれグランベルめ・・・・・・
+こうなったら武人の意地だ！
+まとめて片付けてくれるわ！[k]
+
+[exit]
+
+
+# 0xfb018
+# @@446937@@
+
+[TWinBtm][DlgOpn]['Fury' 0014]グランベルの騎士よ
+レヴィン王子を返しなさい！！
+[k]
+
+[exit]
+
+
+# 0xfaa51
+# @@446953@@
+
+[TWinBtm][DlgOpn]['Shagaar' 00A1]ちっ・・・あなどるなよ
+きさまなどに
+わしがたおせるものか[k]
+
+[exit]
+
+
+# 0x1dabcf
+# @@448270@@
+
+[TWinBtm][DlgOpn]['Eltosian' 005A]だめだラケシス、
+おまえとは戦いたくない！
+[k]
+
+[exit]
+
+
+# 0x30d772
+# @@400728@@
+
+[TWinBtm][DlgOpn]['Eltosian' 009F]ラケシス、待て！
+お前とは戦いたくないのだ！！
+[k]
+
+[exit]
+
+
+# 0x30d5d2
+# @@448286@@
+
+[TWinTop][DlgOpn]['Eltosian' 009F]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+[TWinTop]シグルドよ、
+貴様と剣を交える日が来ようとは
+思わなかったぞ[k]
+[cs]
+だがこれも騎士の宿命だな
+しかたあるまい
+
+[TWinBtm][Wait 10]ま、待て！  エルトシャン！！
+[k]
+
+[exit]
+
+
+# 0x30d640
+# @@448303@@
+
+[TWinTop][DlgOpn]['Dobarl' 00AA]
+[TWinBtm][DlgOpn]['Brigid' 0018]
+[TWinTop]けっ、まだ生きていやがったか
+しぶとい女め！
+
+[TWinBtm][Wait 10]ドバ?ル！
+あんただけは許さないからね！！
+[k]
+
+[exit]
+
+
+# 0x30d68a
+# @@448320@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+[TWinTop]ふふふ、今頃来てもおそいな
+エルトシャンは、もういないぞ
+
+[TWinBtm][Wait 10]にいさまはあなたのせいで・・・
+ゆるせない・・・
+[k]
+
+[exit]
+
+
+# 0x30d6db
+# @@448337@@
+
+[TWinTop][DlgOpn]['Shagaar' 00A1]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+[TWinTop]シグルドめ、
+よくもわしをこけにしてくれたな！
+
+[TWinBtm][Wait 10]シャガ?ル王よ、
+あなたは罪もない人を大勢殺し
+そのうえ、エルトシャンまで・・・[k]
+[dcs]
+なんという卑劣な男だ！
+[k]
+[cs]
+
+[TWinTop]バカめ！  おまえに何がわかる！
+死ねっ、シグルド！！
+[k]
+
+[exit]
+
+
+# 0x1da1e0
+# @@448354@@
+
+[TWinBtm][DlgOpn]['Shacoban' 008A]ふっ、くらえ！
+いかずちの剣！
+[k]
+
+[exit]
+
+
+# 0x1dab8b
+# @@448370@@
+
+[TWinBtm][DlgOpn]['Eltosian' 005A]この魔剣ミストルティンの
+えじきになりたいか、
+[k]
+[cs]
+死にたくないものは
+私に近寄るな・・・・・！
+[k]
+
+[exit]
+
+
+# 0x1dac21
+# @@448386@@
+
+[TWinBtm][DlgOpn]['Shagaar' 00A1]な・・・なんだ貴様ら！
+私はアグストリアの王だぞ！
+無礼者どもが！[k]
+[cs]
+くそう・・・
+私が成敗してくれるわ！
+[k]
+
+[exit]
+
+
+# 0x1dabf1
+# @@448402@@
+
+[TWinBtm][DlgOpn]['Papilion' 00A4]ふふふ、
+竜騎士団の恐ろしさ
+思い知るがいい、覚悟しろ！[k]
+
+[exit]
+
+
+# 0x1db6ed
+# @@448418@@
+
+[TWinBtm][DlgOpn]['Dobarl' 00AA]くそっ、どいつもこいつも
+役立たずばか  りだ！
+[k]
+
+[exit]
+
+
+# 0x1db654
+# @@448434@@
+
+[TWinBtm][DlgOpn]['Pizarl' 00AC]グランベル軍がなんだ！
+オ?ガヒルの海賊の恐ろしさ
+たっぷり楽しませてやるぜ！[k]
+
+[exit]
+
+
+# 0x30d79a
+# @@449589@@
+
+[TWinTop][DlgOpn]['Maios' 00B8]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop]けっ、誰かと思ったら
+ラ?ナのバカ息子か
+貴様、帰ってきたのだな
+[TWinBtm][Wait 10]おじ上には悪いが、死んでもらう
+これもシレジアを守るためだ
+[k]
+
+[exit]
+
+
+# 0x30d802
+# @@449606@@
+
+[TWinTop][DlgOpn]['Dakar' 00C6]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop]くっ・・・レヴィン・・・きさま・・・
+
+[TWinBtm][Wait 10]ダッカ?！  よくもマ?ニャを！！
+貴様だけは、ただでは殺さん！
+[k]
+
+[TWinTop][dcs]
+何を生意気な！  死ねっ、レヴィン！
+[k]
+
+[exit]
+
+
+# 0x30d86d
+# @@449623@@
+
+[TWinTop][DlgOpn]['Deetva' 00C2]
+[TWinBtm][DlgOpn]['Fury' 0014]
+[TWinTop]ふふふ、フュリ?か
+これはいいところで会った
+[k]
+[cs]
+その首、私がもらうよ
+マイオス公への手みやげにさせてもらう
+
+[TWinBtm][Wait 10]そうはいかないわ、ディ?トバ
+わたしはもう昔のフュリ?じゃない
+あなたにも負けないから！[k]
+
+[TWinTop][dcs]
+ふっ、
+泣きむしフュリ?が大きなことを！
+笑わせるんじゃないわよ！！[k]
+
+[exit]
+
+
+# 0x30d922
+# @@449640@@
+
+[TWinTop][DlgOpn]['Pamela' 00C9]
+[TWinBtm][DlgOpn]['Fury' 0014]
+[TWinTop]あら、おまえはフュリ?だね
+帰っていたのかい
+
+[TWinBtm][Wait 10]パメラ！！
+よくもお妹さまを・・・許さないわ！
+[k]
+
+[TWinTop][dcs]
+ふんっ、
+ヒヨッコが生意気言うんじゃないよ！
+[k]
+[cs]
+おまえもマ?ニャのもとへ送ってやるよ
+覚悟するんだね！！
+[k]
+
+[exit]
+
+
+# 0x30d9b0
+# @@449657@@
+
+[TWinTop][DlgOpn]['Pamela' 00C9]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop]これはレヴィン王子
+お久しぶりです
+[k]
+[cs]
+マ?ニャは
+私が片付けて差し上げましたよ
+ほほほ・・・
+[TWinBtm][Wait 10]くっ、パメラ！！
+きさまというヤツは・・・
+[k]
+
+[TWinTop][dcs]
+ふっ、これもすべて、
+レヴィン様がお悪いのです・・・
+[k]
+
+[exit]
+
+
+# 0xeacdc
+# @@449674@@
+
+[TWinBtm][DlgOpn]['Cuvuli' 00BD]うむむ・・・こんなはずでは・・・
+[k]
+
+[exit]
+
+
+# 0xeacf7
+# @@449690@@
+
+[TWinBtm][DlgOpn]['Deetva' 0242]我はシレジア
+四天徒騎士の一人
+ディ?トバなり[k]
+[cs]
+かわいそうだが死んでもらう！
+[k]
+
+[exit]
+
+
+# 0xeaf16
+# @@449706@@
+
+[TWinBtm][DlgOpn]['Maios' 023F]反逆者どもめ！
+その首、グランベルに
+差し出してくれるわ！[k]
+
+[exit]
+
+
+# 0xeb3ae
+# @@449722@@
+
+[TWinBtm][DlgOpn]['Mahnya' 00B6]ごめんね、あなたたちに
+罪はないのだけれど・・・
+[k]
+
+[exit]
+
+
+# 0xeb3d3
+# @@449738@@
+
+[TWinBtm][DlgOpn]['Pamela' 0241]ふっ、ザコども、死ね！
+[k]
+
+[exit]
+
+
+# 0xeb3eb
+# @@449754@@
+
+[TWinBtm][DlgOpn]['Andre' 023B]ぐはっはっは、
+おもしろいように落ちる
+[k]
+[cs]
+まるでトンボとりでも
+してるようだな
+[k]
+
+[exit]
+
+
+# 0xeb97e
+# @@449770@@
+
+[TWinBtm][DlgOpn]['Donovan' 0243]げへへ・・・しねや！
+[k]
+
+[exit]
+
+
+# 0xec233
+# @@449786@@
+
+[TWinBtm][DlgOpn]['Dakar' 0240]シレジアの王座は、
+私にこそふさわしいのだ！
+貴様らに邪魔はさせぬわ！[k]
+
+[exit]
+
+
+# 0xec26a
+# @@449802@@
+
+[TWinBtm][DlgOpn]['Lamia' 00D5]ふふふ・・・
+あんたら、バカだねぇ
+[k]
+
+[exit]
+
+
+# 0x30bb33
+# @@451249@@
+
+[TWinBtm][DlgOpn]['Slayder' 029A]バイロン卿、申し訳ないが、
+これも主命だ
+ここで死んでもらうぞ！[k]
+
+[exit]
+
+
+# 0x30da3c
+# @@451265@@
+
+[TWinTop][DlgOpn]['Langobalt' 00DB]
+[TWinBtm][DlgOpn]['Lex' 000E]
+[TWinTop]お、おまえは
+レックスだな・・・この裹切り者め！
+父親に刃向かうとは、恥を知れ！！
+[TWinBtm][Wait 10]だから俺はいやだと言ったのに・・・
+オヤジ、これも運命だ
+許せよ・・・[k]
+
+[exit]
+
+
+# 0x30dab6
+# @@451282@@
+
+[TWinTop][DlgOpn]['Leptor' 00F5]
+[TWinBtm][DlgOpn]['Tiltyu' 0015]
+[TWinTop]ティ、ティルテュ・・・
+お前なのか・・・
+[k]
+[cs]
+反乱軍にいるとはきいたが、
+まさかわしの前にあらわれるとは・・・
+
+[TWinBtm][Wait 10]お父さま・・・ごめんなさい・・・
+[k]
+
+[TWinTop][dcs]
+くっ、クロ?ドめ！
+娘をたぶらか  しおって・・・
+[k]
+[cs]
+やむをえぬな・・・
+フリ?ジ家の名誉を守るために
+ティルテュよ、お前には死んでもらうぞ
+[TWinBtm][Wait 10]！  ・・・・・・お父さま・・・
+[k]
+
+[exit]
+
+
+# 0x30db90
+# @@451299@@
+
+[TWinBtm][DlgOpn]['Magorn' 00F0]・・・おまえがシグルドだな
+ふふふ・・・あわれなヤツよ・・・
+[k]
+
+[exit]
+
+
+# 0x30baae
+# @@451315@@
+
+[TWinTop][DlgOpn]['Langobalt' 00DB]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+[TWinTop]がっはっはっ・・・来たか小僧
+ちょうどよいわ、
+きさまもバイロンのもとへ送ってやろう[k]
+[cs]
+ヤツも一人ではさみしかろうよ
+
+[TWinBtm][Wait 10]ランゴバルト！  きさまだけは許さない
+わが父の無念、思い知れ！
+[k]
+
+[exit]
+
+
+# 0x30dbb9
+# @@451332@@
+
+[TWinTop][DlgOpn]['Leptor' 00F5]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+[TWinTop]シグルド！？  ・・・この反逆者め！
+聖地をおかすつもりか！
+
+[TWinBtm][Wait 10]レプト?ル卿、反逆者はあなただ！
+[k]
+[dcs]
+わが父をおとしいれ、
+クルト皇子を手にかけた
+身におぼえがあるだろう！[k]
+[cs]
+
+[TWinTop]ふん、バカめ！  政治とは力だ！
+おまえの父は力がなかったから
+死んだまでの事[k]
+[cs]
+おまえも騎士なら、
+それくらいはわかるだろう
+
+[TWinBtm][Wait 10]騎士は正義と名誉を重んじる者、
+あなたのやり方に正義などはない
+[k]
+[dcs]
+私はグランベルの名誉を取り戻すために
+祖国に帰ってきたのだ！
+[k]
+[cs]
+
+[TWinTop]ご苦労なことだが、それもここまでだな
+おまえもバイロンと同じように
+反逆者として死ぬのだよ[k]
+[cs]
+わがト?ルハンマ?の前には
+おまえの力など通用しない
+[k]
+[cs]
+シグルドよ、自分の無力を思い知れ
+わっはっは・・・
+[k]
+
+[exit]
+
+
+# 0x30dd71
+# @@451349@@
+
+[TWinTop][DlgOpn]['Leptor' 00F5]
+[TWinBtm][DlgOpn]['Aida' 00F3]
+[TWinTop]アイ?ダ・・・
+きさま、よくも裹切ったな・・・
+
+[TWinBtm][Wait 10]ほっほっほ・・・
+レプト?ル卿もおうじょうぎわが悪い
+もはやあきらめる事ですね[k]
+
+[exit]
+
+
+# 0x30b96e
+# @@451366@@
+
+[TWinTop][DlgOpn]['Andre' 00E9]
+[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop]ほぉ?、裹切り者の妹上と
+こんなところで会えるとはな
+[k]
+[cs]
+わがユングヴィの名を汚した罪、
+自らの命でつぐなってもらおうか
+
+[TWinBtm][Wait 10]アンドレイ・・・かわいそうな人・・・
+[k]
+
+[exit]
+
+
+# 0x30b9e9
+# @@451383@@
+
+[TWinTop][DlgOpn]['Andre' 00E9]
+[TWinBtm][DlgOpn]['Brigid' 0018]
+[TWinTop]なんと！？  まさかブリギッド妹上？
+海賊に身を落としたとはきいていたが
+その上、反逆者に荷坦とはな・・・[k]
+[cs]
+いずれにしてもわが家の恥、
+死んでもらわねばなるまいな
+
+[TWinBtm][Wait 10]だまれ！  父上を殺した不孝者め
+貴様こそ、ユングヴィ家の恥さらし
+聖戦士ウリルの名を汚す者だ！！[k]
+
+[exit]
+
+
+# 0x30bc52
+# @@451400@@
+
+[TWinBtm][DlgOpn]['Ethrin' 0011]アルテナ、あなただけは、
+この私が守ります！
+[k]
+
+[exit]
+
+
+# 0x30bb81
+# @@451428@@
+
+[TWinBtm][DlgOpn]['Slayder' 029A]なに、なぜおまえたちが
+ここにいる？
+[k]
+[cs]
+すでに前線は
+突破されたというのか！？
+[k]
+
+[exit]
+
+
+# 0x30bb68
+# @@451444@@
+
+[TWinBtm][DlgOpn]['Vylon' 027E]くっ、もはやこれまでか・・・
+[k]
+
+[exit]
+
+
+# 0x30bbba
+# @@451460@@
+
+[TWinBtm][DlgOpn]['Andre' 00E9]ふふふ・・・おろか者め
+・・・死ね！！
+[k]
+
+[exit]
+
+
+# 0x30bbdc
+# @@451476@@
+
+[TWinBtm][DlgOpn]['Langobalt' 00DB]がっはっはっ・・・ざこどもよ
+わしにこの
+スワンチカの斧があるかぎり[k]
+[cs]
+きさまたちなど
+何人来ても同じこと
+死にたくなければ近よるな！[k]
+
+[exit]
+
+
+# 0x30bc33
+# @@451492@@
+
+[TWinBtm][DlgOpn]['Vaha' 00EB]くらえ、天の怒り！
+メティオ！！
+[k]
+
+[exit]
+
+
+# 0x30bcc4
+# @@451508@@
+
+[TWinBtm][DlgOpn]['Torabant' 00EF]これが世に名高い
+グングニルの槍だ
+[k]
+[cs]
+ふふふっ、きさまは幸せだな
+死ぬ前に
+とくとおがんでおけよ[k]
+
+[exit]
+
+
+# 0x30bd0c
+# @@451524@@
+
+[TWinBtm][DlgOpn]['Magorn' 00F0]これも我らの仕事なのでな
+・・・悪く思うなよ
+[k]
+
+[exit]
+
+
+# 0x30ddd0
+# @@3310495@@
+
+[TWinTop][DlgOpn]['Danan' 0111]
+[TWinBtm][DlgOpn]['Johan' 001E]
+[TWinTop]くっ、ヨハン・・・
+つまらぬ女にだまされおって！
+
+[TWinBtm][Wait 10]ふっ・・・私は愛に生きると誓ったのだ
+許せよ、父上・・・
+[k]
+
+[TWinTop][dcs]
+ば、ばかめ・・・
+[k]
+
+[exit]
+
+
+# 0x30de39
+# @@3310512@@
+
+[TWinTop][DlgOpn]['Danan' 0111]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+[TWinTop]きさまはヨハルヴァか！
+親にたてつくとは
+いったいどういうつもりだ！！
+[TWinBtm][Wait 10]すまねぇな
+だが俺はもう悪事に手をかすのは
+まっぴらなんだよ[k]
+[dcs]
+親父、悪く思うなよ
+[k]
+[cs]
+
+[TWinTop]く、くそ・・・ヨハルヴァ！
+[k]
+
+[exit]
+
+
+# 0x30debe
+# @@3310529@@
+
+[TWinTop][DlgOpn]['Johan' 001E]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+[TWinTop]ふっ、ヨハルヴァか、
+おろかな弟をもって私は悲しいぞ
+
+[TWinBtm][Wait 10]バカなのは貴様の方だが、まあいいや、
+いつかこんな日がくると思っていたぜ！
+今日こそ決着をつけてやろう！[k]
+
+[TWinTop][dcs]
+おお、望むところだ！
+[k]
+
+[exit]
+
+
+# 0x30df77
+# @@3310546@@
+
+[TWinBtm][DlgOpn]['Johalva' 0031]ま、待てよ[$00$2C$3A$00]
+俺はおまえとは
+戦いたくないんだ！[k]
+
+[exit]
+
+
+# 0x30df77
+# @@3310562@@
+[Merge 3283d2]
+
+[TWinBtm][DlgOpn]['Johalva' 0031]ま、待てよ[$00$2C$3A$00]
+俺はおまえとは
+戦いたくないんだ！[k]
+
+[exit]
+
+
+# 0x30df49
+# @@3310578@@
+
+[TWinBtm][DlgOpn]['Johan' 001E]ま、待ってくれ、[$00$2C$3A$00]！
+私はお前とは戦いたくない！
+[k]
+
+[exit]
+
+
+# 0x30df49
+# @@3310594@@
+[Merge 3283f2]
+
+[TWinBtm][DlgOpn]['Johan' 001E]ま、待ってくれ、[$00$2C$3A$00]！
+私はお前とは戦いたくない！
+[k]
+
+[exit]
+
+
+# 0x30dfa2
+# @@3310610@@
+
+[TWinTop][DlgOpn]['Danan' 0111]
+[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinTop]き、きさまがシグルドのこせがれか！
+く、くそ！  わが父上のうらみ、
+思い知らせてくれる！！
+[TWinBtm][Wait 10]ダナン王・・・あなたの支配によって
+多くの人々が苦しみ、死んでいった
+今こそ、その報いを受けるときだ[k]
+
+[exit]
+
+
+# 0x10e9e2
+# @@3310627@@
+
+[TWinBtm][DlgOpn]['Harold' 024E]くっ・・・
+たかが反乱軍ごとき！
+[k]
+
+[exit]
+
+
+# 0x10ea00
+# @@3310643@@
+
+[TWinBtm][DlgOpn]['Johalva' 0031]俺様の城はわたさねえぞ！
+反乱軍どもめ、
+ぶちのめしてやる！[k]
+
+[exit]
+
+
+# 0x10ea2e
+# @@3310659@@
+
+[TWinBtm][DlgOpn]['Johan' 001E]ふふふ・・・
+私に勝てる者などいない
+[k]
+[cs]
+私の手にかかって死ねる事を
+喜ぶがいい
+[k]
+
+[exit]
+
+
+# 0x10ea71
+# @@3310675@@
+
+[TWinBtm][DlgOpn]['Shumit' 0245]ダナン様のご命令だ
+貴様らをこれ以上、
+行かせはせんぞ！[k]
+
+[exit]
+
+
+# 0x10eaa1
+# @@3310691@@
+
+[TWinBtm][DlgOpn]['Danan' 024D]おのれ、反乱軍どもめ！
+グランベル帝国を
+あまく見るな！[k]
+
+[exit]
+
+
+# 0x31cf7c
+# @@453412@@
+
+[TWinBtm][DlgOpn]['Vampa' 0255]フェトラ、エリウ、いくわよ！
+トライアングルアタ?ック！！
+[Wait C8]
+[exit]
+
+
+# 0x31cfa8
+# @@453424@@
+
+[TWinBtm][DlgOpn]['Fetora' 0256]ヴァンパ、エリウ、いくわよ！
+トライアングルアタ?ック！！
+[k]
+
+[exit]
+
+
+# 0x31cfd0
+# @@453436@@
+
+[TWinBtm][DlgOpn]['Eliu' 0257]ヴァンパ、フェトラ、いくわよ！
+トライアングルアタ?ック！！
+[k]
+
+[exit]
+
+
+# 0x30e030
+# @@453452@@
+
+[TWinTop][DlgOpn]['Tinny' 003D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+[TWinTop]ごめんなさい・・・
+戦いたくはないのだけど・・・
+
+[TWinBtm][Wait 10]あっ、待ってくれ！
+きみはもしや・・・
+[k]
+
+[exit]
+
+
+# 0x30e030
+# @@453469@@
+[Merge 6eb4c]
+
+[TWinTop][DlgOpn]['Tinny' 003D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+[TWinTop]ごめんなさい・・・
+戦いたくはないのだけど・・・
+
+[TWinBtm][Wait 10]あっ、待ってくれ！
+きみはもしや・・・
+[k]
+
+[exit]
+
+
+# 0x30e078
+# @@453486@@
+
+[TWinTop][DlgOpn]['Bramsel' 012C]
+[TWinBtm][DlgOpn]['Aless' 0025]
+[TWinTop]なにっ、貴様はアレスか！？
+おのれ、裹切ったな！！
+
+[TWinBtm][Wait 10]ブラムセル！
+[$00$2C$3E$00]を返せ！！
+[k]
+
+[TWinTop][dcs]
+もう、おそいわ！
+あの女はいまごろ・・・ふふふ・・・
+
+[TWinBtm][Wait 10]き、きさま！  ・・・許さん！！
+[k]
+
+[exit]
+
+
+# 0x30e0fa
+# @@453503@@
+
+[TWinTop][DlgOpn]['Jabarro' 0129]
+[TWinBtm][DlgOpn]['Aless' 0025]
+[TWinTop]アレス！  この恩知らずめ！！
+ただではおかんぞ！
+
+[TWinBtm][Wait 10]あんたには愛想がつきた
+悪いが死んでもらう・・・
+[k]
+
+[exit]
+
+
+# 0x30e14c
+# @@453520@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]おまえは[$00$2C$3D$00]！？
+わ、わしを裹切るのか・・・
+
+[TWinBtm][Wait 10]ごめんなさい、伯父様・・・
+[k]
+
+[exit]
+
+
+# 0x30e14c
+# @@453537@@
+[Merge 6eb90]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]おまえは[$00$2C$3D$00]！？
+わ、わしを裹切るのか・・・
+
+[TWinBtm][Wait 10]ごめんなさい、伯父様・・・
+[k]
+
+[exit]
+
+
+# 0x30e190
+# @@453554@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+[TWinTop]なに？  ・・・お、おまえは・・・
+
+[TWinBtm][Wait 10]ブル?ム、俺はこの日を待っていた！
+わが母上と妹を奪ったうらみ
+今こそ思い知いしれ！！[k]
+
+[TWinTop][dcs]
+くっ、ほざけ小僧！
+おまえなどにわしが倒せるものか！
+[k]
+
+[exit]
+
+
+# 0x30e190
+# @@453571@@
+[Merge 6ebb2]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+[TWinTop]なに？  ・・・お、おまえは・・・
+
+[TWinBtm][Wait 10]ブル?ム、俺はこの日を待っていた！
+わが母上と妹を奪ったうらみ
+今こそ思い知いしれ！！[k]
+
+[TWinTop][dcs]
+くっ、ほざけ小僧！
+おまえなどにわしが倒せるものか！
+[k]
+
+[exit]
+
+
+# 0x30e21a
+# @@453588@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Leif' 001D]
+[TWinTop]ほほう、
+おまえはキュアンのこせがれだな
+まだ生きておったか
+[TWinBtm][Wait 10]ブル?ム王、わが民を苦しめた罪、
+その死をもってつぐなってもらうぞ
+[k]
+
+[TWinTop][dcs]
+ふんっ、バカめ！
+死ぬのはおまえの方だ！！
+[k]
+
+[exit]
+
+
+# 0x31d416
+# @@453616@@
+
+[TWinBtm][DlgOpn]['Coutozov' 0250]反乱軍め・・・
+神聖なイ?ド神殿を
+汚しおって！[k]
+[cs]
+おのれ、暗黒魔法で
+ほうむりさってくれるわ！[k]
+
+[exit]
+
+
+# 0x31d416
+# @@453632@@
+[Merge 6ebf0]
+
+[TWinBtm][DlgOpn]['Coutozov' 0250]反乱軍め・・・
+神聖なイ?ド神殿を
+汚しおって！[k]
+[cs]
+おのれ、暗黒魔法で
+ほうむりさってくれるわ！[k]
+
+[exit]
+
+
+# 0x31d45b
+# @@453648@@
+
+[TWinBtm][DlgOpn]['Liza' 0253]反乱軍か・・・残念だが、
+お前達の進軍もここまでだ
+[k]
+[cs]
+このライザがいる限り、
+メルゲン城には行かせないよ
+[k]
+
+[exit]
+
+
+# 0x31d4eb
+# @@453664@@
+
+[TWinBtm][DlgOpn]['Jabarro' 0251]フッ・・・これまでだな
+死ね！
+[k]
+
+[exit]
+
+
+# 0x31d507
+# @@453680@@
+
+[TWinBtm][DlgOpn]['Bramsel' 024F]なに！？  ジャバ  ロ?め
+しくじりおって
+[k]
+[cs]
+ダ?ナはワシのものだ、
+誰にもわたさんぞ！
+[k]
+
+[exit]
+
+
+# 0x31d542
+# @@453696@@
+
+[TWinBtm][DlgOpn]['Vampa' 0255]くらえ！  エルファイア?！！
+[k]
+
+[exit]
+
+
+# 0x31d55b
+# @@453712@@
+
+[TWinBtm][DlgOpn]['Fetora' 0256]くらえ！  エルウインド！！[k]
+
+[exit]
+
+
+# 0x31d572
+# @@453728@@
+
+[TWinBtm][DlgOpn]['Eliu' 0257]くらえ！  エルサ  ンダ?！！[k]
+
+[exit]
+
+
+# 0x31d58c
+# @@453744@@
+
+[TWinBtm][DlgOpn]['Tinny' 003D]ごめんなさい・・・
+[k]
+
+[exit]
+
+
+# 0x31d58c
+# @@453760@@
+[Merge 6ec70]
+
+[TWinBtm][DlgOpn]['Tinny' 003D]ごめんなさい・・・
+[k]
+
+[exit]
+
+
+# 0x31d5a0
+# @@453776@@
+
+[TWinBtm][DlgOpn]['Blume' 0254]ふふふ・・・こわっぱどもめ
+このト?ルハンマ?があれば
+貴様達など恐れはしない！[k]
+
+[exit]
+
+
+# 0xfe0ae
+# @@455266@@
+
+[TWinBtm][DlgOpn]['Vampa' 0255]フェトラ、エリウ、
+こんどこそいくわよ！
+トライアングルアタ?ック！！[k]
+
+[exit]
+
+
+# 0xfe0f4
+# @@455278@@
+
+[TWinBtm][DlgOpn]['Fetora' 0256]ヴァンパ、エリウ、
+こんどこそいくわよ！
+トライアングルアタ?ック！！[k]
+
+[exit]
+
+
+# 0xfe139
+# @@455290@@
+
+[TWinBtm][DlgOpn]['Eliu' 0257]ヴァンパ、フェトラ、
+こんどこそいくわよ！  
+トライアングルアタ?ック！！[k]
+
+[exit]
+
+
+# 0xfe04e
+# @@455306@@
+
+[TWinBtm][DlgOpn]['Faval' 0033]え？  [$00$2C$39$00]・・・って、
+そんなことはないよな
+[k]
+
+[exit]
+
+
+# 0xfe04e
+# @@455322@@
+[Merge 6f28a]
+
+[TWinBtm][DlgOpn]['Faval' 0033]え？  [$00$2C$39$00]・・・って、
+そんなことはないよな
+[k]
+
+[exit]
+
+
+# 0x30e29c
+# @@455338@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Faval' 0033]
+[TWinTop]き、きさまは[$00$2C$33$00]！
+おのれ！  裹切ったな！！
+
+[TWinBtm][Wait 10]すまねぇな、よくかんがえてみれば
+あんたに手をかすなんてまっぴらだ
+悪いが死んでもらうぜ[k]
+
+[TWinTop][dcs]
+くっ、どいつもこいつも・・・
+[k]
+
+[exit]
+
+
+# 0x30e29c
+# @@455355@@
+[Merge 6f2aa]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Faval' 0033]
+[TWinTop]き、きさまは[$00$2C$33$00]！
+おのれ！  裹切ったな！！
+
+[TWinBtm][Wait 10]すまねぇな、よくかんがえてみれば
+あんたに手をかすなんてまっぴらだ
+悪いが死んでもらうぜ[k]
+
+[TWinTop][dcs]
+くっ、どいつもこいつも・・・
+[k]
+
+[exit]
+
+
+# 0x30e315
+# @@455372@@
+
+[TWinTop][DlgOpn]['Ishtar' 0142]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]あら、あなたは[$00$2C$3D$00]ね、
+どうして敵に？
+
+[TWinBtm][Wait 10]イシュタル妹様！？
+ご、ごめんなさい・・・
+[k]
+
+[TWinTop][dcs]
+そう、裹切ったのね・・・
+見そこなったわ、[$00$2C$3D$00]！
+[k]
+
+[exit]
+
+
+# 0x30e315
+# @@455389@@
+[Merge 6f2cc]
+
+[TWinTop][DlgOpn]['Ishtar' 0142]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]あら、あなたは[$00$2C$3D$00]ね、
+どうして敵に？
+
+[TWinBtm][Wait 10]イシュタル妹様！？
+ご、ごめんなさい・・・
+[k]
+
+[TWinTop][dcs]
+そう、裹切ったのね・・・
+見そこなったわ、[$00$2C$3D$00]！
+[k]
+
+[exit]
+
+
+# 0x30e381
+# @@455406@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop][$00$2C$3D$00]か・・・この恩知らずめ！
+
+[TWinBtm][Wait 10]でも、お母さまを死に追いやったのは、
+あなたです
+忘れたとは言わせません！[k]
+
+[TWinTop][dcs]
+くっ、くそ・・・
+[k]
+
+[exit]
+
+
+# 0x30e381
+# @@455423@@
+[Merge 6f2ee]
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop][$00$2C$3D$00]か・・・この恩知らずめ！
+
+[TWinBtm][Wait 10]でも、お母さまを死に追いやったのは、
+あなたです
+忘れたとは言わせません！[k]
+
+[TWinTop][dcs]
+くっ、くそ・・・
+[k]
+
+[exit]
+
+
+# 0x30e3e8
+# @@455440@@
+
+[TWinTop][DlgOpn]['Blume' 011D]
+[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinTop]き、貴様がシグルドの・・・
+小僧、貴様だけは生か  しておかん！
+
+[TWinBtm][Wait 10]ブル?ム王、それは私の言葉だ
+もはや逃げられない、あきらめろ
+[k]
+
+[TWinTop][dcs]
+く、くそ・・・ほざくな小僧！
+この上は貴様も道連れだ！
+[k]
+
+[exit]
+
+
+# 0xfe02e
+# @@455457@@
+
+[TWinBtm][DlgOpn]['Faval' 0033]すまない・・・
+これも金のためだ・・・
+[k]
+
+[exit]
+
+
+# 0xfe02e
+# @@455473@@
+[Merge 6f321]
+
+[TWinBtm][DlgOpn]['Faval' 0033]すまない・・・
+これも金のためだ・・・
+[k]
+
+[exit]
+
+
+# 0xfe009
+# @@455489@@
+
+[TWinBtm][DlgOpn]['Ishtar' 0271]すまない・・・死んでもらう！
+ト?ルハンマ?！！
+[k]
+
+[exit]
+
+
+# 0xfe071
+# @@455505@@
+
+[TWinBtm][DlgOpn]['Muhammed' 025E]くっ・・・反乱軍め・・・
+[k]
+
+[exit]
+
+
+# 0xfe08b
+# @@455521@@
+
+[TWinBtm][DlgOpn]['Ovo' 025D]なかなかやるな
+しか  しそれも、ここまでだ！
+[k]
+
+[exit]
+
+
+# 0xfe0db
+# @@455537@@
+
+[TWinBtm][DlgOpn]['Vampa' 0255]くらえ！  エルファイア?！！
+[k]
+
+[exit]
+
+
+# 0xfe121
+# @@455553@@
+
+[TWinBtm][DlgOpn]['Fetora' 0256]くらえ！  エルウインド！！
+[k]
+
+[exit]
+
+
+# 0xfe168
+# @@455569@@
+
+[TWinBtm][DlgOpn]['Eliu' 0257]くらえ！  エルサ  ンダ?！！
+[k]
+
+[exit]
+
+
+# 0xfe183
+# @@455585@@
+
+[TWinBtm][DlgOpn]['Blume' 0254]くっ・・・これはいったい
+どうしたことだ
+きさまら・・・ゆるさんぞ！[k]
+
+[exit]
+
+
+# 0xfe1af
+# @@455601@@
+
+[TWinBtm][DlgOpn]['Coruta' 014B]ふふふ・・・
+悪いが、死んでもらうぞ
+[k]
+
+[exit]
+
+
+# 0xfe1d0
+# @@455617@@
+
+[TWinBtm][DlgOpn]['Maikov' 025C]この土地はわれらのものだ
+きさまたちに
+奪われてたまるか[k]
+
+[exit]
+
+
+# 0x33a979
+# @@456851@@
+
+[TWinTop][DlgOpn]['Althena' 002C]
+[TWinBtm][DlgOpn]['Arion' 025B]
+[TWinTop]兄上、もうやめて下さい
+こんな戦いになんの意味があるのです！
+
+[TWinBtm][Wait 10]アルテナか・・・元気そうだな
+おまえと戦えるなら私も本望だ
+手加減はしないぞ[k]
+[dcs]
+さあ、かかってこい！！
+[k]
+[cs]
+
+[TWinTop]兄上・・・
+[k]
+
+[exit]
+
+
+# 0x30e4a8
+# @@456868@@
+
+[TWinTop][DlgOpn]['Althena' 002C]
+[TWinBtm][DlgOpn]['Leif' 001D]
+[TWinTop]おまえはレンスタ?の王子だな
+わが国を奪うつもりか！
+
+[TWinBtm][Wait 10]ま、待ってください！
+あなたと私は・・・
+[k]
+
+[TWinTop][dcs]
+言うな！  戦場にざれ言は無用だ！！
+[k]
+
+[exit]
+
+
+# 0x30e517
+# @@456885@@
+
+[TWinTop][DlgOpn]['Althena' 002C]
+[TWinBtm][DlgOpn]['Adult Fin' 0022]
+[TWinTop]悪いが死んでもらう、許せよ・・・
+
+[TWinBtm][Wait 10]！  ・・・ア、アルテナ様・・・！？
+やはりあなたは・・・
+[k]
+
+[exit]
+
+
+# 0x30e5ec
+# @@456902@@
+
+[TWinTop][DlgOpn]['Torabant' 0161]
+[TWinBtm][DlgOpn]['Leif' 001D]
+[TWinTop]ククク・・・
+貴様がキュアンのこせがれか
+[k]
+[cs]
+ブル?ムも問抜けな男よ
+さっさと殺しておけばよいものを
+
+[TWinBtm][Wait 10]トラバント、やっとめぐり会えた・・・
+私は・・・この日が来るのを
+どんなに待ち望んだことか・・・[k]
+[dcs]
+貴様をこの手で殺すことだけをゆめみて
+私は生きてきたのだ！！
+[k]
+[cs]
+
+[TWinTop]ふっ・・・おろかな・・・
+ゲイボルグも使えぬおまえに
+このわしが倒せるものか！[k]
+[cs]
+死ねっ小僧！
+おまえもキュアンと同じようにな！
+[k]
+
+[exit]
+
+
+# 0x30e6f7
+# @@456919@@
+
+[TWinTop][DlgOpn]['Torabant' 0161]
+[TWinBtm][DlgOpn]['Adult Fin' 0022]
+[TWinTop]貴様はフィンか、久しぶりだな
+まだしぶとく生きていたか
+
+[TWinBtm][Wait 10]トラバント王、わが主君のうらみ、
+今日こそ晴らさせてもらうぞ！
+[k]
+
+[TWinTop][dcs]
+ははは、笑わせるな
+貴様のようなザコに何ができる！
+死ぬのは貴様の方だ！！[k]
+
+[exit]
+
+
+# 0x30e78e
+# @@456936@@
+
+[TWinTop][DlgOpn]['Arion' 0166]
+[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinTop]おまえがセリス皇子か、
+うむ、相手にとって不足はない
+お手合わせ願おうか・・・
+[TWinBtm][Wait 10]アリオ?ン王子！
+あなたはまだわからないのか！！
+[k]
+
+[TWinTop][dcs]
+もう何も言うな！
+行くぞ、セリス
+このグングニルを受けてみよ！[k]
+
+[exit]
+
+
+# 0x33ad56
+# @@456953@@
+
+[TWinBtm][DlgOpn]['Althena' 002C]やめろ！
+お前などにこの私は倒せない！
+[k]
+
+[exit]
+
+
+# 0x33ad7a
+# @@456969@@
+
+[TWinBtm][DlgOpn]['Hannival' 0024]やはり戦わねばならぬのか・・・
+これもトラキアのため・・・
+しかたあるまい・・・[k]
+
+[exit]
+
+
+# 0x33adae
+# @@456985@@
+
+[TWinBtm][DlgOpn]['Kanatz' 0263]この城はハンニバル様より
+お預か  りしたもの
+[k]
+[cs]
+この命にかけても、
+わたしはせぬぞ！
+[k]
+
+[exit]
+
+
+# 0x33adee
+# @@457001@@
+
+[TWinBtm][DlgOpn]['Disler' 0262]なに・・・反乱軍か！？
+くそ、油斯したわ！
+[k]
+
+[exit]
+
+
+# 0x33ae14
+# @@457017@@
+
+[TWinBtm][DlgOpn]['Musar' 0261]死ね、反乱軍ども！
+帝国に逆らう者は、
+死あるのみだ！[k]
+
+[exit]
+
+
+# 0x33ae45
+# @@457033@@
+
+[TWinBtm][DlgOpn]['Judah' 0267]おのれ・・・なにが解放軍だ・・・
+この世に光など必要ない
+[k]
+[cs]
+ロプトウス様の闇が、
+全てを支配するのだ！
+[k]
+
+[exit]
+
+
+# 0x33ae94
+# @@457049@@
+
+[TWinBtm][DlgOpn]['Arion' 025B]ふっ・・・おろかな・・・
+この天槍グングニルが、
+目に入らないと見える・・・[k]
+
+[exit]
+
+
+# 0x33aecc
+# @@457065@@
+
+[TWinBtm][DlgOpn]['Trabant' 0260]はっはっは、
+反乱軍のざこどもよ
+わしがトラバントだ[k]
+[cs]
+めいどのみやげに、
+よくおぼえておけよ！
+[k]
+
+[exit]
+
+
+# 0x33cc04
+# @@3179503@@
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Alvis' 026E]
+[TWinTop]アルヴィス皇帝！  
+あなたはなぜ私の父を・・・
+
+[TWinBtm][Wait 10]セリスか・・・よく来たな
+その勇気はほめてやろう
+[k]
+[dcs]
+だが、おまえも
+わが炎に灼かれる運命にある
+親子ともども哀れなものよ・・・[k]
+
+[exit]
+
+
+# 0x30e81e
+# @@3179520@@
+
+[TWinTop][DlgOpn]['Hilda' 017D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]ほほほ、これは[$00$2C$3D$00]じゃないか
+やっぱりあの女の娘だねぇ
+恩知らずなところはそっくりだ
+[TWinBtm][Wait 10]ヒルダ・・・あなたのためにお母さまは！
+[k]
+
+[TWinTop][dcs]
+ああ、あの女はめざわりだったからね
+いじめて、いじめて、いじめぬいてやった
+ほほほ、あの頃は楽しかったねえ・・・
+[TWinBtm][Wait 10]！  ・・・許せない・・・
+[k]
+
+[TWinTop][dcs]
+一人前の口をきくんじゃないよ！
+おまえのような小娘に何ができる
+[k]
+[cs]
+おまえもあの女と同じように
+このあたしが地獄に送ってやるよ！！
+[k]
+
+[exit]
+
+
+# 0x30e81e
+# @@3179537@@
+[Merge 308400]
+
+[TWinTop][DlgOpn]['Hilda' 017D]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]ほほほ、これは[$00$2C$3D$00]じゃないか
+やっぱりあの女の娘だねぇ
+恩知らずなところはそっくりだ
+[TWinBtm][Wait 10]ヒルダ・・・あなたのためにお母さまは！
+[k]
+
+[TWinTop][dcs]
+ああ、あの女はめざわりだったからね
+いじめて、いじめて、いじめぬいてやった
+ほほほ、あの頃は楽しかったねえ・・・
+[TWinBtm][Wait 10]！  ・・・許せない・・・
+[k]
+
+[TWinTop][dcs]
+一人前の口をきくんじゃないよ！
+おまえのような小娘に何ができる
+[k]
+[cs]
+おまえもあの女と同じように
+このあたしが地獄に送ってやるよ！！
+[k]
+
+[exit]
+
+
+# 0x30e92d
+# @@3179554@@
+
+[TWinBtm][DlgOpn]['Hilda' 017D]おまえはセリスだね！
+[k]
+[cs]
+くっ・・・おまえのために
+ブル?ムやイシュト?は・・・
+許さないよ！！[k]
+
+[exit]
+
+
+# 0x33cc88
+# @@3179570@@
+
+[TWinBtm][DlgOpn]['Lideel' 026D]久々にまともな戦ができそうだ
+礼を言うぞ
+[k]
+
+[exit]
+
+
+# 0x33ccae
+# @@3179586@@
+
+[TWinBtm][DlgOpn]['Hilda' 0268]わが父、わが夫、
+わが息子のうらみ
+・・・思い知れ！！[k]
+
+[exit]
+
+
+# 0x33ccde
+# @@3179602@@
+
+[TWinBtm][DlgOpn]['Morrigan' 025F]わが暗黒魔法の恐ろしさ
+とくと思い知れ！
+[k]
+
+[exit]
+
+
+# 0x33cd05
+# @@3179618@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]フフフ・・・イシュタルよ、
+私の勝ちだな
+[k]
+
+[exit]
+
+
+# 0x33cd28
+# @@3179634@@
+
+[TWinBtm][DlgOpn]['Ishtar' 0271]ユリウスさま、
+わたしの勝ちのようですね
+[k]
+
+[exit]
+
+
+# 0x33ce23
+# @@3179650@@
+
+[TWinBtm][DlgOpn]['Zagam' 0185]ふふふ・・・
+おのれの不幸を呪うのだな・・・
+[k]
+
+[exit]
+
+
+# 0x33ce48
+# @@3179666@@
+
+[TWinBtm][DlgOpn]['Alvis' 026E]ふっ、哀れなものどもよ
+わが地獄の炎に灼かれるのだ！
+[k]
+
+[exit]
+
+
+# 0x32bd14
+# @@3254173@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]フッ、セリスか
+・・・光の皇子だと？
+わらわせるな[k]
+[cs]
+バルドの戦士など
+私の相手にもならぬ！
+死ぬのはおまえの方だ！！[k]
+
+[exit]
+
+
+# 0x32bce9
+# @@3254190@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]ユ、ユリア
+・・・なぜおまえが・・・
+マンフロイめ、ぬかったな！！[k]
+
+[exit]
+
+
+# 0x30e969
+# @@3254207@@
+
+[TWinTop][DlgOpn]['Brian' 01B8]
+[TWinBtm][DlgOpn]['Johan' 001E]
+[TWinTop]むっ、おまえはヨハンだな
+この裹切り者め！
+ドズル家を滅ぼすつもりか！
+[TWinBtm][Wait 10]兄上、心配するな
+ドズル家は私が立派に再建してみせる
+もう兄上の出る慕はないのだ[k]
+
+[TWinTop][dcs]
+き、きさま・・・
+[k]
+
+[exit]
+
+
+# 0x30e9f7
+# @@3254224@@
+
+[TWinTop][DlgOpn]['Brian' 01B8]
+[TWinBtm][DlgOpn]['Johalva' 0031]
+[TWinTop]ヨハルヴァ！！  このバカ弟め！
+ドズル家をつぶすつもりか！！
+
+[TWinBtm][Wait 10]ブリアン兄貴か
+[k]
+[dcs]
+ふん、心配するな
+ドズル公国は俺が守ってやるよ
+民もそれを望んでいるさ[k]
+[cs]
+
+[TWinTop]な、なんだと！
+きさま・・・ただではおかん！
+[k]
+
+[exit]
+
+
+# 0x30ea89
+# @@3254241@@
+
+[TWinTop][DlgOpn]['Hilda' 01BF]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]ほほほ、来たね[$00$2C$3D$00]
+待っていたよ
+[k]
+[cs]
+おまえだけは
+この手で殺してやろうと思っていたのさ
+
+[TWinBtm][Wait 10]そうはいかないわ！
+お母さま、見ていて下さい
+ヒルダは私が殺します！！[k]
+
+[exit]
+
+
+# 0x30ea89
+# @@3254258@@
+[Merge 31a7e1]
+
+[TWinTop][DlgOpn]['Hilda' 01BF]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop]ほほほ、来たね[$00$2C$3D$00]
+待っていたよ
+[k]
+[cs]
+おまえだけは
+この手で殺してやろうと思っていたのさ
+
+[TWinBtm][Wait 10]そうはいかないわ！
+お母さま、見ていて下さい
+ヒルダは私が殺します！！[k]
+
+[exit]
+
+
+# 0x30eb06
+# @@3254275@@
+
+[TWinTop][DlgOpn]['Hilda' 01BF]
+[TWinBtm][DlgOpn]['Arthur' 0038]
+[TWinTop]ほほほ、
+おまえはティルテュの息子だってね
+[k]
+[cs]
+あの女はあたしがいじめ殺してやったが
+そのかたきうちに来たのかい？
+
+[TWinBtm][Wait 10]ああ、妹の手は汚したくないからな・・・
+[k]
+
+[TWinTop][dcs]
+そうか、
+それなら地獄への道連れにしてやるよ！
+[k]
+
+[exit]
+
+
+# 0x30eb9d
+# @@3254292@@
+
+[TWinTop][DlgOpn]['Scorpio' 01BC]
+[TWinBtm][DlgOpn]['Faval' 0033]
+[TWinTop]なんだおまえは？
+
+[TWinBtm][Wait 10]俺はファバル、ブリギッドの子供だ
+[k]
+
+[TWinTop][dcs]
+なに？  ブリギッド伯母上の！？
+そうか・・・
+おまえがあの裹切り者の子供か！[k]
+[cs]
+ならば、ちょうどいい
+ここで死んでもらおう！
+
+[TWinBtm][Wait 10]ふん、それは俺が言うセリフだ！
+[k]
+
+[exit]
+
+
+# 0x30ec3c
+# @@3254309@@
+
+[TWinTop][DlgOpn]['Scorpio' 01BC]
+[TWinBtm][DlgOpn]['Lester' 0037]
+[TWinTop]なんだおまえは・・・
+
+[TWinBtm][Wait 10]私はレスタ?・・・エ?ディンの子供だ
+[k]
+
+[TWinTop][dcs]
+なに？  エ?ディン伯母上の！？
+そうか・・・
+おまえがあの裹切り者の子供か！[k]
+[cs]
+ならばちょうどいい
+ここで死んでもらおう！
+
+[TWinBtm][Wait 10]ふっ、それは私が言うセリフだな
+[k]
+
+[exit]
+
+
+# 0x30ecde
+# @@3254326@@
+
+[TWinTop][DlgOpn]['Ishtar' 01D5]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop][$00$2C$3D$00]・・・
+
+[TWinBtm][Wait 10]イシュタル妹様、もうやめて下さい！
+妹様はわたしに優しくして下さいました
+こんな戦いなど望まれていないはずです[k]
+
+[TWinTop][dcs]
+・・・私はまちがっていたのかもしれない
+だけど、もう後へはもどれないの・・・
+許してね、[$00$2C$3D$00]・・・[k]
+
+[exit]
+
+
+# 0x30ecde
+# @@3254343@@
+[Merge 31a836]
+
+[TWinTop][DlgOpn]['Ishtar' 01D5]
+[TWinBtm][DlgOpn]['Tinny' 003D]
+[TWinTop][$00$2C$3D$00]・・・
+
+[TWinBtm][Wait 10]イシュタル妹様、もうやめて下さい！
+妹様はわたしに優しくして下さいました
+こんな戦いなど望まれていないはずです[k]
+
+[TWinTop][dcs]
+・・・私はまちがっていたのかもしれない
+だけど、もう後へはもどれないの・・・
+許してね、[$00$2C$3D$00]・・・[k]
+
+[exit]
+
+
+# 0x30ed80
+# @@3254360@@
+
+[TWinTop][DlgOpn]['Manfloy' 01C4]
+[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinTop]くくく・・・来たか小僧、待っていたぞ
+
+[TWinBtm][Wait 10]マンフロイ！
+ユリアに術をかけたのはおまえだな！
+[k]
+
+[TWinTop][dcs]
+そうだ、わしを倒さぬ限り術は解けぬ
+ふふふ、あの娘も母親と同じよ
+わしの手の内で踊るのじゃ・・・
+[TWinBtm][Wait 10]そうか、やっぱりおまえが母上を・・・
+くっ・・・そうか・・・すべてはおまえが・・・
+[k]
+
+[TWinTop][dcs]
+ふふ、やっと気付いたか・・・
+全てはロプトウス様の再生を願っての事
+[k]
+[cs]
+そして、われらの願いは達成された
+偉大なる暗黒神はユリウス様に降臨し、
+やがてこの世界は闇に閉ざされる[k]
+[cs]
+もはや止める方法はないのじゃよ・・・
+
+[TWinBtm][Wait 10]マンフロイ・・・
+[k]
+[dcs]
+父の悲しみ、母の嘆き・・・
+すべてはおまえのはか  りごと・・・
+その邪悪な野心によるものか・・・[k]
+[cs]
+くっ・・・マンフロイ！！
+私は許さない・・・・
+きさまだけは、絶対に許さない！！！[k]
+
+[exit]
+
+
+# 0x30ef61
+# @@3254377@@
+
+[TWinTop][DlgOpn]['Arion' 0166]
+[TWinBtm][DlgOpn]['Althena' 002C]
+[TWinTop]アルテナか・・・
+おまえだけには会いたくなかったな
+私はまだ生き恥をさらしている・・・
+[TWinBtm][Wait 10]兄上・・・
+[k]
+
+[exit]
+
+
+# 0x32ba4b
+# @@3254394@@
+
+[TWinBtm][DlgOpn]['Roberto' 01A4]これは絶好の賞金首だな
+悪いが死んでもらうぞ！
+[k]
+
+[exit]
+
+
+# 0x32ba78
+# @@3254410@@
+
+[TWinBtm][DlgOpn]['Boyce' 01AA]またつまらぬものを
+きらねばならぬのか・・・
+[k]
+
+[exit]
+
+
+# 0x32ba99
+# @@3254426@@
+
+[TWinBtm][DlgOpn]['Rodan' 01AD]な、なんとしたことだ・・・
+おのれ！
+[k]
+
+[exit]
+
+
+# 0x32bab6
+# @@3254442@@
+
+[TWinBtm][DlgOpn]['Yupheel' 01B2]くふふ・・・
+ばかな人問どもよ・・・
+わが暗黒魔法のえじきとなれ[k]
+
+[exit]
+
+
+# 0x32bae5
+# @@3254458@@
+
+[TWinBtm][DlgOpn]['Fisher' 01B5]くそっ、その首、
+たたき落としてやる！！
+[k]
+
+[exit]
+
+
+# 0x32bb08
+# @@3254474@@
+
+[TWinBtm][DlgOpn]['Brian' 01B8]よくも父を殺してくれたな
+ドズル家三代にわたるうらみ
+思い知れ！[k]
+
+[exit]
+
+
+# 0x32bb3e
+# @@3254490@@
+
+[TWinBtm][DlgOpn]['(null)' 0277]くふふ・・・
+ばかな人問どもよ・・・
+わが暗黒魔法のえじきとなれ[k]
+
+[exit]
+
+
+# 0x32bb6d
+# @@3254506@@
+
+[TWinBtm][DlgOpn]['Hilda' 0268]ふん、そう度々やられて
+たまるものか！
+[k]
+
+[exit]
+
+
+# 0x32bb8e
+# @@3254522@@
+
+[TWinBtm][DlgOpn]['(null)' 0272]わが父アンドレイのうらみ、
+今こそ晴らしてくれる！！
+[k]
+
+[exit]
+
+
+# 0x32bbb9
+# @@3254538@@
+
+[TWinBtm][DlgOpn]['(null)' 0275]くふふ・・・
+ばかな人問どもよ・・・
+わが暗黒魔法のえじきとなれ[k]
+
+[exit]
+
+
+# 0x32bbe8
+# @@3254554@@
+
+[TWinBtm][DlgOpn]['Meng' 0269]わるいね、死んでもらうよ！
+[k]
+
+[exit]
+
+
+# 0x32bc02
+# @@3254570@@
+
+[TWinBtm][DlgOpn]['(null)' 026A]くらえっ  必殺の剣！！
+[k]
+
+[exit]
+
+
+# 0x32bc1c
+# @@3254586@@
+
+[TWinBtm][DlgOpn]['(null)' 0270]・・・・・しね！
+[k]
+
+[exit]
+
+
+# 0x32bc2f
+# @@3254602@@
+
+[TWinBtm][DlgOpn]['Arion' 025B]すまぬな・・・
+[k]
+
+[exit]
+
+
+# 0x32bc41
+# @@3254618@@
+
+[TWinBtm][DlgOpn]['Ishtar' 0271]もはや言うべき言葉はない・・・
+きさまに雷神イシュタルの
+最後の戦いを見せてやろう！[k]
+
+[exit]
+
+
+# 0x32bd68
+# @@3254634@@
+
+[TWinBtm][DlgOpn]['(null)' 02B4]ククク・・・・・・・
+[k]
+
+[exit]
+
+
+# 0x32bc83
+# @@3254650@@
+
+[TWinBtm][DlgOpn]['Manfloy' 026C]ばかな・・・わしが生涯をかけて
+築いてきたものを・・・
+くっ、きさま達、許さぬ！！[k]
+
+[exit]
+
+
+# 0x32bcbf
+# @@3254666@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]ふふふ・・・血迷ったか
+おまえごときに私は倒せぬ
+[k]
+
+[exit]
+
+# 0x30e563
+# @@2344328@@
+
+[TWinTop][DlgOpn]['Arion' 0166]
+[TWinBtm][DlgOpn]['Althena' 002C]
+[TWinTop]アルテナよ、
+えんりょなしにかかってこい
+おまえと戦えるなら私も本望だ
+[TWinBtm][Wait 10]兄上、どうしてもダメなのか！
+[k]
+
+[TWinTop][dcs]
+見苦しいぞアルテナ
+おまえも騎士なら、いさぎよく戦え
+
+[TWinBtm][Wait 10]くっ・・・兄上・・・
+[k]
+
+[exit]

@@ -1,3 +1,11 @@
+# 0 0 menus
+
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is used for the command list on the map (without a character selected)
+# after any character has moved on that turn.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English
@@ -21,6 +29,7 @@
 #
 #Please refer to the 'LICENSE' file for the entire license and copying rights.
 
+[section menus]
 [mode-sjis]
 
 # 0x05DF0C:
@@ -39,7 +48,7 @@ Unit
 
 [$ED$DB$85$01$01$81$40]
 #?A?C?e??
-Items
+Item
 
 [exit]
 
@@ -59,7 +68,7 @@ Data
 
 [$0E$DC$85$01$01$81$40]
 #?X?L??
-Skills
+Skill
 
 [exit]
 
@@ -79,7 +88,7 @@ Config
 
 [$26$DC$85$01$01$81$40]
 #?^?[???G???h
-End Turn
+End
 
 [exit]
 

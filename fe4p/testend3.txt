@@ -1,0 +1,4349 @@
+
+[blocked]
+# 0x1dcd04
+# @@313131@@
+[block b000]
+[resolve b001]
+[resolve b002]
+
+[exit]
+
+
+# 0x1dcd0f
+# @@31313131@@
+[block b003]
+[resolve b001]
+[resolve b002]
+[$00$2D$40$BC$91]
+[exit]
+
+
+# 0x1dcd1f
+# @@??????@@
+[block b004]
+[resolve b001]
+[resolve b005]
+[cs]
+[DlgCls][xChr][Wait 20]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1dcd39
+# @@??????@@
+[block b006]
+[resolve b001]
+[resolve b005]
+[$00$2D$46$BC$91]
+[exit]
+
+
+# 0x1dcd49
+# @@??????@@
+[block b001]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Levin' 0280]ꥹ衢褯�
+褯줷ߤˤƤޤ�褿�[Wait 60][cs]
+
+[TWinTop]��Ͼ�˽��$ϹӤ�ƤƤޤä
+�Ϥ줫��Τ$���
+[TWinBtm][Wait 20]Ӥ�ƤΩ���٤Ƥοͤ����狼d�Фʤ�[Wait 60][dcs]
+Τ�ϥ꣭#ɬ��;�Τη�Ԥϡ
+줾���Ȥʤ�Wait 60][cs]
+ơߤʤ��
+$�ˤʤ�
+$�Τ�Wait 60][cs]
+
+[TWinTop]$
+
+[TWinBtm][Wait 20]!ƥꥹ衢
+ޤϤΥ�٥�Ȥʤ��[Wait 60][dcs]
+ޤˤϡ�٥벦Ȥ��Τ٤ƤߤdӤ
+�Ǥ�$[Wait 60][cs]
+
+[TWinTop]䤬�٥�ˡ
+
+[exit]
+
+
+# 0x1dcef4
+# @@??????@@
+[block b002]
+
+[TWinBtm][Wait 20]��٥벦Ȥη�ݤԤϡ
+�䡢ޤȥ�$ʤ[Wait 60][dcs]
+$Υ��襤��ä
+[Wait 60][cs]
+
+[TWinTop]���«Τˡ
+��Ǥ!
+
+[TWinBtm][Wait 20]ꥹ衢
+�λ��ˤƤϤʤ�
+[Wait 60][dcs]
+λҤϡ
+�ʱ̿ˤ⤿ơ�³
+[Wait 60][cs]
+���dˤʤ�
+�Ǥä�ǥɥ�
+ݤ$�[Wait 60][cs]
+ꥹ衢狼�
+ޤϡ��ΰ�
+ݤͤФʤ�[Wait 60][cs]
+͡ϡޤ�Ƥ��餬�˺�Ϥʤ�
+[Wait 60][cs]
+
+[TWinTop]Ϥ
+狼  ��
+[Wait 60][cs]
+�ˤĤʤ���Ϥθ¤ꡢ�Ƥߤޤ
+[Wait 60]
+[exit]
+
+
+# 0x1dd093
+# @@??????@@
+[block b007]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]ꥹ����Ƥ��ɤʤȤ$äƤޤ
+[Wait 60][cs]
+�����Ǥʤ�ꥹ�Τ�ˤʤꤿΤǤ
+[Wait 60][cs]
+
+[TWinTop]꤬Ȥ[$00$22]
+ϡߤ$λ٤�[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1dd122
+# @@??????@@
+[block b005]
+
+[TWinBtm][Wait 20]��٥벦Ȥη�ݤԤϡ
+�䡢ޤd$�Wait 60][dcs]
+ޤϡ�ȤȤ�
+��ΰ�ݤͤФʤ�
+[Wait 60][cs]
+͡ϡޤ�Ƥ��餬�˺�Ϥʤ�
+[Wait 60][cs]
+
+[TWinTop]Ϥ
+狼  ��
+�Ϥθ¤ꡢ�Ƥߤޤ
+[TWinBtm][Wait 20]�
+[Wait 60][dcs]
+
+[TWinTop][DlgCls][xChr]
+[TWinTop][DlgOpn]['(null)' 02B7]
+[TWinBtm]ޤ⤤ʡ
+[Wait 60][cs]
+
+[TWinTop]Ϥ錄�ꥹ�
+ˤޤ[Wait 60][cs]
+Ȥɤʤ˿ɤƤ�錄�ꤷޤ
+[Wait 60]
+[exit]
+
+
+# 0x1dd254
+# @@??????@@
+[block b008]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]�
+ꥹ�ƤƤ�
+[TWinBtm][Wait 20]Ϥ�ǡ
+Ǥ⡢��ϡ
+[Wait 60]
+[TWinTop][dcs]
+錄ϡ
+��ؤΤĤʤޤ
+[Wait 60][cs]
+줬ǥɥ��ͤΡ
+ꤤ$ä顦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1dd2f8
+# @@??????@@
+[block b009]
+[cs]
+
+[TWinBtm][Wait 20]������ߤʤ����뺢$�[Wait 60][cs]
+ꥹޤβȤƤν��ߤʤˤͤ餤θ�դƤ�
+[Wait 60]
+[exit]
+
+
+# 0x1dd34d
+# @@??????@@
+[block b010]
+[resolve b011]
+[resolve b012]
+
+[exit]
+
+
+# 0x1dd358
+# @@??????@@
+[block b013]
+[resolve b011]
+[$00$2D$4C$BC$91][resolve b012]
+
+[exit]
+
+
+# 0x1dd3c8
+# @@??????@@
+[block b014]
+äȻ��³Ƥ줿
+դƤޤ
+
+[TWinBtm][Wait 20]�ޤ�㡢
+�˽�
+ǥɥ�ͤˤ襤äƤ$[Wait 60][dcs]
+  ��ǡ
+ǥɥ�ͤäƤޤä
+�ΤȤϺǤ���[Wait 60][cs]
+ꥹ衢
+�ͤФʤ�Τϻ���[Wait 60][cs]
+
+[TWinTop]ʤ�ο�Τ��8Ƥ�ΤǤ[Wait 60][cs]
+ϻ�դ뤵ȡ
+褷ơ˺줿�ޤ
+
+[TWinBtm][Wait 20]θ�դС
+μ��֤$���
+[Wait 60][dcs]
+
+[exit]
+
+
+# 0x1dd4f5
+# @@??????@@
+[block b015]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]��ä顢
+ޤ��ˤǤ�äƤ�
+ꥹ�ϥ�٥벦ʤΤˤ�[TWinBtm][Wait 20][$00$22]$�줫�ꥹȸƤФʤ��[Wait 60][dcs]
+���ȤǤ�ä�褤
+[Wait 60][cs]
+
+[TWinTop]��ä顢�äƤ�Υ�ʤ�ʤ�ɤ�[Wait 60][cs]
+�ʤ
+�Ȥäd�ơ
+
+[TWinBtm][Wait 20]եá
+ޤˤϤϤĤʤ
+[Wait 60]
+[TWinTop][dcs]
+��
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1dd600
+# @@??????@@
+[block b012]
+
+[TWinTop]��ʤȻפäƤ�ɤĤޤǤ��ǤƤۤ
+
+[TWinBtm][Wait 20]�ꥹ˷
+�8˺�ʤ
+[Wait 60]
+[exit]
+
+
+# 0x1dd662
+# @@??????@@
+[block b016]
+[resolve b017]
+
+[exit]
+
+
+# 0x1dd668
+# @@??????@@
+[block b018]
+[resolve b017]
+[$00$2D$52$BC$91]
+[exit]
+
+
+# 0x1dd673
+# @@??????@@
+[block b019]
+[resolve b020]
+
+[exit]
+
+
+# 0x1dd679
+# @@??????@@
+[block b021]
+[resolve b020]
+[$00$2D$58$BC$91]
+[exit]
+
+
+# 0x1dd684
+# @@??????@@
+[block b017]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Skasaher' 0032]ꥹ����ޤ
+˴ʤ�����䤬�ͤФʤ�[Wait 60][cs]
+
+[TWinTop]$͡��˴ȤʤäƤ�ȤˤϤߤʤ[Wait 60][cs]
+ɤο͡��
+[TWinBtm][Wait 20]Ϥ�ˤƤ⡪
+[Wait 60]
+[exit]
+
+
+# 0x1dd738
+# @@??????@@
+[block b022]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�
+��ΤȤ
+ޤ���Τ�[TWinBtm][Wait 20]�̵�$��ϲã�ˤȤäƤ���
+˺���[Wait 60]
+[TWinTop][dcs]
+䤬¦ˤƤ�ᡩ
+
+[TWinBtm][Wait 20]  [$00$22]
+ä��Ƥ�Τ
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]Τʤ顦
+
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[exit]
+
+
+# 0x1dd7ff
+# @@??????@@
+[block b020]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Skasaher' 0032]ꥹ��ȤȤ���ޤ
+��ơ
+ƷΤǤ[Wait 60][cs]
+
+[TWinTop]$͡��ˤϤߤɬ��[Wait 60][cs]
+˴ʤäߤ��
+�ͤΤ��ο͡Ƥۤ
+[TWinBtm][Wait 20]Ϥ�ˤƤ⡪
+[Wait 60]
+[exit]
+
+
+# 0x1dd8bb
+# @@??????@@
+[block b023]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]줷͡
+���ʤˤ�
+[TWinBtm][Wait 20][$00$22]�
+ʬΰ�$�
+[Wait 60]
+[TWinTop][dcs]
+��
+
+[TWinBtm][Wait 20]
+[Wait 60]
+[TWinTop][dcs]
+͡[$00$23]
+�ä�ԤäƤ
+
+[TWinBtm][Wait 20]ˡ  ߤ
+����ȸ$Τ
+[Wait 60]
+[TWinTop][dcs]
+
+
+[TWinBtm][Wait 20][$00$22]꤬Ȥ
+[Wait 60]
+[exit]
+
+
+# 0x1dd989
+# @@??????@@
+[block b024]
+[resolve b025]
+
+[exit]
+
+
+# 0x1dd98f
+# @@??????@@
+[block b026]
+[resolve b025]
+[$00$2D$52$BC$91]
+[exit]
+
+
+# 0x1dd99a
+# @@??????@@
+[block b027]
+[resolve b028]
+
+[exit]
+
+
+# 0x1dd9a0
+# @@??????@@
+[block b029]
+[resolve b028]
+[$00$2D$58$BC$91]
+[exit]
+
+
+# 0x1dd9ab
+# @@??????@@
+[block b025]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Rodolban' 001B]ꥹ����ޤ
+[Wait 60][cs]
+˴ʤ����ꡢ
+�餬
+�ͤФʤ�[Wait 60][cs]
+
+[TWinTop]$͡��
+��ʤꡢ
+Ȥη��Ƥޤä[Wait 60][cs]
+�Ǥ�ΤȤϤ뤬
+�ǤϤߤd
+��[TWinBtm][Wait 20]Ϥ�ˤƤ⡪
+[Wait 60]
+[exit]
+
+
+# 0x1dda7e
+# @@??????@@
+[block b028]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Rodolban' 001B]ꥹ��ȤȤ���ޤ
+��ơ
+ƷΤǤ[Wait 60][cs]
+
+[TWinTop]$͡��
+�ˤϤߤɬ��[Wait 60][cs]
+���ο͡Ƥۤ
+
+[TWinBtm][Wait 20]Ϥ�ˤƤ⡪
+[Wait 60]
+[exit]
+
+
+# 0x1ddb2b
+# @@??????@@
+[block b030]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Lakche' 003A]ꥹ����ޤ
+˴ʤ�����䤬�ޤ[Wait 60][cs]
+
+[TWinTop]$͡饯e
+Ȥ˻ĤäΤ�ߤ$ˤʤäƤޤä[Wait 60][cs]
+ο͡ˤȤäƤ�ߤ$���ɤ���Ƥۤ
+[TWinBtm][Wait 20]Ϥꥹ��ˤƤ⡪
+[Wait 60]
+[TWinTop][dcs]
+[resolve b031]
+
+[exit]
+
+
+# 0x1ddbfc
+# @@??????@@
+[block b032]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ��˵�
+[Wait 60][cs]
+
+[TWinTop][$00$22]Ϥ襤ʤȤ
+Ƥۤ
+
+[TWinBtm][Wait 0F]���
+��ʤä�8
+�˺�ȤϤǤޤ[Wait 60]
+[TWinTop][dcs]
+[resolve b031]
+
+[exit]
+
+
+# 0x1ddc8c
+# @@??????@@
+[block b033]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Lakche' 003A]ꥹ��Ȱ�˹˵�
+[Wait 60][cs]
+
+[TWinTop]ߤ$���ФäƤۤ
+ϤΤȤϡ
+
+[TWinBtm][Wait 20]狼äƤޤ
+�ؤ�פޤ
+[Wait 60]
+[TWinTop][dcs]
+[resolve b031]
+
+[exit]
+
+
+# 0x1ddd14
+# @@??????@@
+[block b034]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ��ȤȤ�˵�
+[Wait 60][cs]
+
+[TWinTop][resolve b031]
+
+[exit]
+
+
+# 0x1ddd49
+# @@??????@@
+[block b031]
+[$00$23]
+Ĥ�ޤ�Ƥ�ɤǡ[Wait 60]
+[exit]
+
+
+# 0x1ddd77
+# @@??????@@
+[block b035]
+[resolve b032]
+
+[exit]
+
+
+# 0x1ddd7d
+# @@??????@@
+[block b036]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Radney' 0029]ꥹ��Ȱ�˹˵�
+[Wait 60][cs]
+
+[TWinTop]��Ϥ襤ʤȤ
+Ƥۤ
+
+[TWinBtm][Wait 20]��$äȻפޤ
+�ؤ�פޤ
+[Wait 60]
+[TWinTop][dcs]
+[resolve b031]
+
+[exit]
+
+
+# 0x1dde0d
+# @@??????@@
+[block b037]
+[resolve b034]
+
+[exit]
+
+
+# 0x1dde13
+# @@??????@@
+[block b038]
+[resolve b039]
+
+[exit]
+
+
+# 0x1dde19
+# @@??????@@
+[block b040]
+[resolve b039]
+[$00$2D$5E$BC$91]
+[exit]
+
+
+# 0x1dde24
+# @@??????@@
+[block b041]
+[resolve b042]
+
+[exit]
+
+
+# 0x1dde2a
+# @@??????@@
+[block b043]
+[resolve b042]
+[$00$2D$63$BC$91]
+[exit]
+
+
+# 0x1dde35
+# @@??????@@
+[block b039]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Dimna' 0023]ꥹ�
+[Wait 60][cs]
+
+[TWinTop]ǥ�ߤ⥤ء
+
+[TWinBtm][Wait 20]Ϥ� �$�ˤʤ�
+[Wait 60]
+[TWinTop][dcs]
+ޥʤΤȤϤޤʤä
+Ƥۤ
+
+[TWinBtm][Wait 20]���ǤǤ
+ޥʤϡꥹ�
+[Wait 60]
+[TWinTop][dcs]
+狼äƤ�ǥ�ޤ
+Ĥ�äȡ
+[TWinBtm][Wait 20]Ϥ
+[Wait 60]
+[exit]
+
+
+# 0x1ddeff
+# @@??????@@
+[block b044]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]ǥ�ص�
+
+[TWinBtm][Wait 20]ι$顦
+[Wait 60]
+[TWinTop][dcs]
+գʤ!
+
+[TWinBtm][Wait 20][$00$22]Τߤ�Ȱ���ۤ
+[Wait 60]
+[TWinTop][dcs]
+⤷  ơޥʤ��ꡩ
+
+[TWinBtm][Wait 20]d
+Ϥߤ
+[Wait 60]
+[TWinTop][dcs]
+�狼äƤ��Ԥ�[Wait 60]
+[exit]
+
+
+# 0x1ddfba
+# @@??????@@
+[block b042]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Dimna' 0023]ꥹ�
+[Wait 60][cs]
+
+[TWinTop]ǥ�ߤ⥤ء
+
+[TWinBtm][Wait 20]Ϥ� �$�ˤʤ�
+[Wait 60]
+[TWinTop][dcs]
+䡢䤳դƤ�꤬Ȥ
+
+[TWinBtm][Wait 20]ꥹ�ɤǡ
+[Wait 60]
+[exit]
+
+
+# 0x1de03f
+# @@??????@@
+[block b045]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]ǥ�ص�
+
+[TWinBtm][Wait 20]ι$顦
+[Wait 60]
+[TWinTop][dcs]
+գʤ!
+
+[TWinBtm][Wait 20][$00$22]Τߤ�Ȱ���ۤ
+[Wait 60]
+[TWinTop][dcs]
+
+[Wait 60]
+[exit]
+
+
+# 0x1de0b7
+# @@??????@@
+[block b046]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Mana' 002A]ꥹ�
+� �$�ˤʤ�
+[Wait 60][cs]
+
+[TWinTop]ޥʡ�
+
+[TWinBtm][Wait 20]
+[Wait 60]
+[TWinTop][dcs]
+[$00$22]�Ƥޤäơ
+Ǥ��äȤߤ�Ƥ�$顢Ф�[TWinBtm][Wait 20]Ϥꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x1de152
+# @@??????@@
+[block b047]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Mana' 002A]ꥹ�
+� �$�ˤʤ�
+[Wait 60][cs]
+
+[TWinTop]ޥʡߤޤǡ
+
+[TWinBtm][Wait 20]�ϥ
+�Ȥ����
+ߤɡʤ�[Wait 60]
+[TWinTop][dcs]
+ޥʡ�
+[Wait 60]
+[exit]
+
+
+# 0x1de1d3
+# @@??????@@
+[block b048]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Mana' 002A]ꥹ�
+� �$�ˤʤ�
+[Wait 60][cs]
+
+[TWinTop]ޥʡߤޤǡ
+
+[TWinBtm][Wait 20]�ϥ
+�Ȥ���ʤ�
+[Wait 60][dcs]
+ǥ�Ȱ���ޤ
+[Wait 60][cs]
+
+[TWinTop]ޥʡ
+[Wait 60]
+[exit]
+
+
+# 0x1de267
+# @@??????@@
+[block b049]
+[resolve b050]
+μ�衢[resolve b051]
+
+[exit]
+
+
+# 0x1de27e
+# @@??????@@
+[block b052]
+[resolve b050]
+[resolve b051]
+
+[exit]
+
+
+# 0x1de289
+# @@??????@@
+[block b050]
+[resolve b053]
+
+[TWinBtm][DlgOpn]['Levin' 0280]Ǥϡ���
+[exit]
+
+
+# 0x1de2a4
+# @@??????@@
+[block b051]
+Ǥ餻衪
+[Wait 60]
+[exit]
+
+
+# 0x1de2b3
+# @@??????@@
+[block b053]
+[dcs]
+
+[TWinTop][DlgCls][xChr]
+[exit]
+
+
+# 0x1de2bb
+# @@??????@@
+[block b054]
+[resolve b055]
+�郎��ʤؤ���ĤʤǤ
+[resolve b056]
+
+[exit]
+
+
+# 0x1de2e4
+# @@??????@@
+[block b057]
+[resolve b055]
+�郎��ʤؤ���ĤʤǤ
+[resolve b056]
+[$00$2D$68$BC$91]
+[exit]
+
+
+# 0x1de312
+# @@??????@@
+[block b058]
+[resolve b055]
+郎��ʤ�ΤȤ˾Ǥޤ
+[resolve b056]
+
+[exit]
+
+
+# 0x1de338
+# @@??????@@
+[block b059]
+[resolve b055]
+郎��ʤ�ΤȤ˾Ǥޤ
+[resolve b056]
+[$00$2D$6D$BC$91]
+[exit]
+
+
+# 0x1de363
+# @@??????@@
+[block b055]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Leif' 001D]ꥹ�$�ˤʤ�
+����ޤ
+[Wait 60][cs]
+�Ф�줿ȥ饭Ⱦ�ι
+ƷΤǤ
+[Wait 60][cs]
+
+[exit]
+
+
+# 0x1de3c5
+# @@??????@@
+[block b056]
+[Wait 60][cs]
+
+[TWinTop]
+ȥ饭�˴
+[Wait 60][cs]
+ߤϡ��饭βȤơ
+���Ǥ�äƤ�[Wait 60][cs]
+��$Ȥϻפ
+ɤФäƤۤ
+
+[TWinBtm][Wait 20]Ϥꥹ���[Wait 60]
+[TWinTop][dcs]
+Ĥơ郎��ȡ
+ߤ��奢Ҥ�8�ʬy��$ä[Wait 60][cs]
+꣭ղҡ
+䤿d⤽ꤿȴ�Ƥޤ
+
+[TWinBtm][Wait 20]Ϥ  錄⡪
+[Wait 60]
+[exit]
+
+
+# 0x1de4c5
+# @@??????@@
+[block b060]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]꣭ղҡԤäƤޤ��Ǥ
+
+[TWinBtm][Wait 20][$00$22]����Τ$���
+[Wait 60]
+[TWinTop][dcs]
+  褤ΤǤ
+
+[TWinBtm][Wait 20]���Ƥۤ
+ߤ�Ϥɬ�ʤ�[Wait 60]
+[TWinTop][dcs]
+ϡϤ
+[Wait 60]
+[exit]
+
+
+# 0x1de54f
+# @@??????@@
+[block b061]
+[resolve b062]
+ꥪλϡ
+
+[TWinBtm][Wait 20]�
+⤦�ȤǤ
+[Wait 60]
+[exit]
+
+
+# 0x1de586
+# @@??????@@
+[block b063]
+[resolve b062]
+[resolve b064]
+
+[exit]
+
+
+# 0x1de591
+# @@??????@@
+[block b065]
+[resolve b066]
+ꥪλϡ�Ǥ
+ʤϡ�ƤΤǤ礦
+
+[TWinBtm][Wait 20]�⤦$�ǡ
+⤦�ȤǤ
+[Wait 60]
+[exit]
+
+
+# 0x1de5ee
+# @@??????@@
+[block b067]
+[resolve b066]
+[resolve b064]
+
+[exit]
+
+
+# 0x1de5f9
+# @@??????@@
+[block b062]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Althena' 002C]ꥹ�$�ˤʤ�
+����ޤ
+[Wait 60][cs]
+�Ф�줿ȥ饭Ⱦ�ι
+ۤäƤϤޤ
+[Wait 60][cs]
+�Υ꣭դ��ä�䤬�Ʒޤ
+[Wait 60][cs]
+
+[TWinTop]
+[Wait 60][cs]
+꣭ղҤä
+��饭α̿�ʤ˰Ѥͤ�Ƥ�Wait 60][cs]
+��$Ȥϻפ
+ɤФäƤۤ
+
+[TWinBtm][Wait 20]Ϥꥹ���[Wait 60]
+[TWinTop][dcs]
+
+[exit]
+
+
+# 0x1de6ff
+# @@??????@@
+[block b064]
+ꥪ�ϤˤʤäƤ�Ф
+
+[TWinBtm][Wait 20]�
+Ϥޤ��Ǥ
+Ǥ⡢ĤƤС[Wait 60]
+[exit]
+
+
+# 0x1de747
+# @@??????@@
+[block b066]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Althena' 002C]
+[TWinTop]�ʲ
+ʤ�饭ء
+
+[TWinBtm][Wait 20]Ϥ꣭ղơ
+ȥ饭��ʤȤƤߤޤ
+[Wait 60][dcs]
+줬��Ƥ줿
+ȥ�Ȳ䡢ꥪؤΡ
+���ǤܤǤ[Wait 60][cs]
+
+[TWinTop]
+[exit]
+
+
+# 0x1de7d5
+# @@??????@@
+[block b068]
+[resolve b069]
+Τ緯ؤε�̤Τ��sΤ�[Wait 60][dcs]
+Ǥ�ϡ
+꣭ղҤ�ȤǤʤä
+[Wait 60][cs]
+ä��ϡ
+䤬�  ʤ�
+[Wait 60][cs]
+
+[TWinTop]ʤ˼ʬ��Ǥ$
+�ǿɤʤ�
+[Wait 60][cs]
+եɤΡȥ饭�ߤޤ
+ɤ͡Ʋ
+
+[TWinBtm][Wait 20]Ϥ줳奢�
+꣭�ͤؤΤĤʤǤ
+�Ϥθ¤�Ƥߤޤ[Wait 60]
+[exit]
+
+
+# 0x1de8d0
+# @@??????@@
+[block b070]
+[resolve b069]
+��εΤȤ�緯ؤ��̤$
+ΤȤ�sλޤǤǤ[Wait 60][dcs]
+
+[TWinTop]եɤΡȥ饭�ߤޤ
+꣭ղҤ�ȥ饭��ʤƤ$
+[TWinBtm][Wait 20]Ϥ줳
+奢�δꤤǤ
+�Ϥθ¤�Ƥߤޤ[Wait 60]
+[exit]
+
+
+# 0x1de986
+# @@??????@@
+[block b069]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Adult Fin' 0022]ꥹ����ޤ
+ɤ�[Wait 60][cs]
+
+[TWinTop]Υե꤬Ȥ
+ʤˤ��Ȼ�
+��ˤ錄äơƤ$ޤ[Wait 60][cs]
+��ˡʤ��$Ф褤Τ
+
+[TWinBtm][Wait 20]
+[exit]
+
+
+# 0x1dea12
+# @@??????@@
+[block b071]
+[resolve b072]
+����[resolve b073]
+
+[exit]
+
+
+# 0x1dea23
+# @@??????@@
+[block b074]
+[resolve b072]
+[resolve b075]
+
+[exit]
+
+
+# 0x1dea2e
+# @@??????@@
+[block b076]
+[resolve b072]
+ץ�resolve b073]
+
+[exit]
+
+
+# 0x1dea3e
+# @@??????@@
+[block b077]
+[resolve b072]
+[resolve b075]
+
+[exit]
+
+
+# 0x1dea49
+# @@??????@@
+[block b072]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Hannival' 0024]ꥹ衢$�ˤʤä
+����[Wait 60][cs]
+
+[TWinTop]ϥ˥Х뾭
+ʤ�饭ء
+
+[TWinBtm][Wait 20]
+[exit]
+
+
+# 0x1dea97
+# @@??????@@
+[block b073]
+Τʤȥ饭ʤ�ꤿϤʤ
+̱ΤȤפȤ⤤ޤ[Wait 60]
+[TWinTop][dcs]
+�ϡäޤ
+� �꤬Ȥ
+ɤǡ[Wait 60]
+[exit]
+
+
+# 0x1deaf8
+# @@??????@@
+[block b075]
+ࡢ̱�äƤ�Ǥ�ȥ饭ߤ�Фʤ�
+[Wait 60]
+[TWinTop][dcs]
+Ǥ͡ȥ饭κƷˤ�Τ�ɬ�Ǥ
+ɤ㤤��Ʋ[Wait 60]
+[exit]
+
+
+# 0x1deb60
+# @@??????@@
+[block b078]
+[resolve b079]
+
+[exit]
+
+
+# 0x1deb66
+# @@??????@@
+[block b080]
+[resolve b079]
+[$00$2D$72$BC$91]
+[exit]
+
+
+# 0x1deb71
+# @@??????@@
+[block b081]
+[resolve b082]
+
+[exit]
+
+
+# 0x1deb77
+# @@??????@@
+[block b083]
+[resolve b082]
+[$00$2D$77$BC$91]
+[exit]
+
+
+# 0x1deb82
+# @@??????@@
+[block b079]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ߤޤǹԤΤ
+Ǥ⡢ɤơ
+ϥ˥Х뾭Ϥ⤦
+[TWinBtm][Wait 20]狼äƤޤǤ⡢ȥ饭��$顦
+[Wait 60][dcs]
+ܤ$äơ
+�ΰ�ݤ!
+[Wait 60][cs]
+
+[TWinTop]
+[$00$23]ޤʤ
+䤬ä
+[TWinBtm][Wait 20]ꥹ�
+ܤ$äƤ⤦Ҷ��狼äƤޤ[Wait 60][dcs]
+�ΤȤ�ᤷ�ï⤦�Ǥʤɤޤ
+ܤ�ʤ[Wait 60]
+[exit]
+
+
+# 0x1dec83
+# @@??????@@
+[block b082]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]
+ߤ⾭Ȱ�˵�
+
+[TWinBtm][Wait 20]Ϥ�Ȱ��ȥ饭Ʒޤ
+[Wait 60]
+[TWinTop][dcs]
+
+Ǥ⾯�ޤ�[$00$23]Ϲ$�[TWinBtm][Wait 20]Ϥ�Ϥܤθؤ�
+�ĤʤäƤʤƤ�ܤϥϥ˥Х�ҶǤ[Wait 60]
+[exit]
+
+
+# 0x1ded28
+# @@??????@@
+[block b084]
+[resolve b085]
+
+[exit]
+
+
+# 0x1ded2e
+# @@??????@@
+[block b086]
+[resolve b085]
+[$00$2D$7C$BC$91]
+[exit]
+
+
+# 0x1ded39
+# @@??????@@
+[block b087]
+[resolve b088]
+
+[exit]
+
+
+# 0x1ded3f
+# @@??????@@
+[block b089]
+[resolve b088]
+[$00$2D$81$BC$91]
+[exit]
+
+
+# 0x1ded4a
+# @@??????@@
+[block b090]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Asaello' 001C]ꥹ�˵�$�ˤʤä�[Wait 60][cs]
+
+[TWinTop]�ΣȤνпȤ$ä�
+[TWinBtm][Wait 20]
+ΣȤΤޤ�դλҤ$ä
+ξƤ���ޤ��$�Wait 60]
+[TWinTop][dcs]
+
+[exit]
+
+
+# 0x1dedce
+# @@??????@@
+[block b085]
+[resolve b090]
+ޤʤξ�ޤǡ
+
+[TWinBtm][Wait 20]Τ��ä�[Wait 60][dcs]
+˵äƥǥĤ
+ĤξƤ��
+Ϣ�äƤ��Wait 60][cs]
+
+[TWinTop]���
+[Wait 60]
+[exit]
+
+
+# 0x1dee4f
+# @@??????@@
+[block b091]
+
+[TWinBtm][Wait 20][$00$22]ޤʤ
+ޤá
+ޤǤ⤤ʤ褫ޥ$�Wait 60]
+[TWinTop][dcs]
+
+[exit]
+
+
+# 0x1dee7d
+# @@??????@@
+[block b088]
+[resolve b090]
+$äΤ
+
+[TWinBtm][Wait 20]ϲȤ²Ȥ��餤$ɡޤϹ$
+Ф�ʡꥹ[Wait 60]
+[TWinTop][dcs]
+꤬Ȥ�[Wait 60]
+[exit]
+
+
+# 0x1deedb
+# @@??????@@
+[block b092]
+[resolve b093]
+
+[exit]
+
+
+# 0x1deee1
+# @@??????@@
+[block b094]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Daisy' 0028]
+[TWinTop]ǥ  ߤ⡩
+
+[TWinBtm][Wait 20]Ĥޤʤɡ
+¾ˤϵ�ʤ
+d�⤤ʤ[resolve b095]
+
+[exit]
+
+
+# 0x1def32
+# @@??????@@
+[block b096]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Daisy' 0028]
+[TWinTop]ǥ  ߤ⡩
+
+[TWinBtm][Wait 20]Ĥޤʤ�¾ˤϹԤȤʤ
+d�Ȱ�˵�resolve b095]
+
+[exit]
+
+
+# 0x1def84
+# @@??????@@
+[block b093]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]  㤤Ƥ�
+
+[TWinBtm][Wait 20]㤤Ƥ�
+
+[Wait 60]
+[TWinTop][dcs]
+[$00$22]ΤȤ
+ʤ˹$ä�
+[TWinBtm][Wait 20]$ä衢�ǰƤ�ꥹ�ɤ餤Ρ
+[Wait 60]
+[TWinTop][dcs]
+�����Ǥ�[$00$23]
+8Ƥ�Wait 60][cs]
+�ȤϤäѤ뤱ɡ
+�ƤϤ$�
+
+[TWinBtm][Wait 20]ФäƤߤ롦
+Ǥ⡢�$ꤤ�
+[Wait 60][dcs]
+ꥹ�Τ�ǻפ�
+Ǥ�[Wait 60][cs]
+
+[TWinTop][$00$23]
+[Wait 60]
+[exit]
+
+
+# 0x1df0ab
+# @@??????@@
+[block b095]
+[Wait 60]
+[TWinTop][dcs]
+ΣȤ˵ä�Ȥ⤢뤵
+Ǥ⡢�ߤϤ$��
+[TWinBtm][Wait 20]⤪áꥹ�ä�ɤ
+�±�­餤ޤ
+[Wait 60]
+[TWinTop][dcs]
+ϤϤϡ��
+㤢͡ǥ�
+[TWinBtm][Wait 20]ꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x1df137
+# @@??????@@
+[block b097]
+[resolve b053]
+
+[TWinBtm][DlgOpn]['Levin' 0280]ȥ饭Ⱦ�μ�衢
+ޤd�̳ϽŤ
+[Wait 60][cs]
+[resolve b098]
+
+[exit]
+
+
+# 0x1df16e
+# @@??????@@
+[block b099]
+[resolve b053]
+
+[TWinBtm][DlgOpn]['Levin' 0280]ޤ�̳ϽŤ
+[resolve b098]
+
+[exit]
+
+
+# 0x1df18f
+# @@??????@@
+[block b098]
+�ߤ͡�ˤޤȤ�ʿ�ʹ��Wait 60]
+[exit]
+
+
+# 0x1df1b6
+# @@??????@@
+[block b100]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]ꥹ����Ƥ��ɤʤȤ$äƤޤ
+[Wait 60][cs]
+�����Ǥʤ�ꥹ�Τ�ˤʤꤿ�[Wait 60][cs]
+
+[TWinTop]꤬Ȥ[$00$22]
+ϡߤ$λ٤�[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df242
+# @@??????@@
+[block b101]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]ꥹ����Ƥ��ɤʤȤ$äƤޤ
+[Wait 60][cs]
+�����Ǥʤ�ꥹ�Τ�ˤʤꤿΤǤ
+[Wait 60][cs]
+
+[TWinTop]꤬Ȥ[$00$22]
+ϡߤ$λ٤�[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df2d0
+# @@??????@@
+[block b102]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]�
+ꥹ�ƤƤ�
+[TWinBtm][Wait 20]Ϥ�ǡ
+Ǥ⡢��ϡ
+[Wait 60]
+[TWinTop][dcs]
+錄ϡ
+��ؤΤĤʤޤ
+[Wait 60][cs]
+줬ǥɥ��ͤΡ
+ꤤ$ä顦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df373
+# @@??????@@
+[block b103]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]��ä顢
+ޤ��ˤǤ�äƤ�
+ꥹ�ϥ�٥벦ʤΤˤ�[TWinBtm][Wait 20][$00$22]$�줫�ꥹȸƤФʤ��[Wait 60][dcs]
+���ȤǤ�ä�褤
+[Wait 60][cs]
+
+[TWinTop]��ä顢�äƤ�Υ�ʤ�ʤ�ɤ�[Wait 60][cs]
+�ʤ
+�Ȥäd�ơ
+
+[TWinBtm][Wait 20]եá
+ޤˤϤϤĤʤ
+[Wait 60]
+[TWinTop][dcs]
+��
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df47e
+# @@??????@@
+[block b104]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]��ϡ
+ޤ��ˤǤ�äƤ�
+ꥹ�ϥ�٥벦ʤΤǤ�[TWinBtm][Wait 20][$00$22]$�줫�ꥹȸƤФʤ��[Wait 60][dcs]
+���ȤǤ�ä�褤
+[Wait 60][cs]
+
+[TWinTop]�ʤ
+��ϥꥹ��Υ�ʤ�ʤ�ɤΤǤ�Wait 60][cs]
+ߤޤ
+�ȤäƤޤäơ
+
+[TWinBtm][Wait 20]եá
+ޤˤϤϤĤʤ
+[Wait 60]
+[TWinTop][dcs]
+��
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df58d
+# @@??????@@
+[block b105]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�
+��ΤȤ
+ޤ����[TWinBtm][Wait 20]�̵�$��ϲã�ˤȤäƤ���
+˺���[Wait 60]
+[TWinTop][dcs]
+䤬¦ˤƤ�ᡩ
+
+[TWinBtm][Wait 20]  [$00$22]
+ä��Ƥ�Τ
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]Τʤ顦
+[Wait 60]
+[exit]
+
+
+# 0x1df648
+# @@??????@@
+[block b106]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�
+��ΤȤ
+ޤ���Τ�[TWinBtm][Wait 20]�̵�$��ϲã�ˤȤäƤ���
+˺���[Wait 60]
+[TWinTop][dcs]
+䤬¦ˤƤ�ᡩ
+
+[TWinBtm][Wait 20]  [$00$22]
+�ʤΤ
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]Τʤ顦
+
+[TWinBtm][Wait 60]
+[exit]
+
+
+# 0x1df6ff
+# @@??????@@
+[block b107]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�ᤷ͡
+��ΤȤ
+ޤ���Τ�[TWinBtm][Wait 20]�̵�$��ϲã�ˤȤäƤ���
+˺���[Wait 60]
+[TWinTop][dcs]
+䤬¦ˤƤ�ᡩ
+
+[TWinBtm][Wait 20]  [$00$22]
+�ʤΤ
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]Τʤ顦
+
+[TWinBtm][Wait 60]
+[exit]
+
+
+# 0x1df7b7
+# @@??????@@
+[block b108]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]줷͡
+���ʤˤ�
+[TWinBtm][Wait 20][$00$22]�
+ʬΰ�$�
+[Wait 60]
+[TWinTop][dcs]
+��
+
+[TWinBtm][Wait 20]
+[Wait 60]
+[TWinTop][dcs]
+͡[$00$23]
+�ä�ԤäƤ
+
+[TWinBtm][Wait 20]ˡ  ߤ
+����ȸ$Τ
+[Wait 60]
+[TWinTop][dcs]
+
+
+[TWinBtm][Wait 20][$00$22]꤬Ȥ
+[Wait 60]
+[exit]
+
+
+# 0x1df885
+# @@??????@@
+[block b109]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]줷
+Ǥ⤭�Ϥ狼�
+�ȹ˵�$��[TWinBtm][Wait 20][$00$22]$äƤ$�ϲã�$�
+[Wait 60]
+[TWinTop][dcs]
+
+
+[TWinBtm][Wait 20][$00$22]ϰ�˵äƤ�$���
+[Wait 60]
+[TWinTop][dcs]
+ΤĤ�$�
+[TWinBtm][Wait 20]褫ä�ư¿�[Wait 60]
+[exit]
+
+
+# 0x1df937
+# @@??????@@
+[block b110]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ص�
+
+[TWinBtm][Wait 20]ΤĤ�!
+[Wait 60]
+[TWinTop][dcs]
+գʤΡ
+
+[TWinBtm][Wait 20][$00$22]Τߤ�ܤȰ���ۤ
+[Wait 60]
+[TWinTop][dcs]
+⤷  ơ[$00$30]��ꡩ
+
+[TWinBtm][Wait 20]d  ܤϤߤ
+[Wait 60]
+[TWinTop][dcs]
+�狼äƤ�
+�Ԥ�[Wait 60]
+[exit]
+
+
+# 0x1df9ea
+# @@??????@@
+[block b111]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ص�
+
+[TWinBtm][Wait 20]ΤĤ�!
+[Wait 60]
+[TWinTop][dcs]
+գʤΡ
+
+[TWinBtm][Wait 20][$00$22]Τߤ�ܤȰ���ۤ
+[Wait 60]
+[TWinTop][dcs]
+⤷  ơ[$00$30]��ꡩ
+
+[TWinBtm][Wait 20]d  ܤϤߤ
+[Wait 60]
+[TWinTop][dcs]
+�ʤ狼äƤ��Ԥ�[Wait 60]
+[exit]
+
+
+# 0x1dfa9f
+# @@??????@@
+[block b112]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ϥص�
+
+[TWinBtm][Wait 20]ΤĤ�$�$00$22]ϡ
+[Wait 60]
+[TWinTop][dcs]
+�ɤ뤫ʡ
+
+[TWinBtm][Wait 20]ܤ�$00$22]Ȱ�˵ꤿ
+[Wait 60]
+[TWinTop][dcs]
+⤷  ơ[$00$30]��ꡩ
+
+[TWinBtm][Wait 20]d  ߤ$顪
+[Wait 60]
+[TWinTop][dcs]
+ʤˡФʻ$äƤ�衪
+Ǥ⡢ޤ��˵äƤ�Wait 60]
+[exit]
+
+
+# 0x1dfb66
+# @@??????@@
+[block b113]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ص�
+
+[TWinBtm][Wait 20]ΤĤ�!
+[Wait 60]
+[TWinTop][dcs]
+գʤΡ
+
+[TWinBtm][Wait 20][$00$22]Τߤ�ܤȰ���ۤ
+[Wait 60]
+[TWinTop][dcs]
+áΡ
+�Ϣ�äƤ��
+[TWinBtm][Wait 20]  ߤ褱�
+[Wait 60]
+[exit]
+
+
+# 0x1dfbfc
+# @@??????@@
+[block b114]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ص�
+
+[TWinBtm][Wait 20]ΤĤ�!
+[Wait 60]
+[TWinTop][dcs]
+գʤΡ
+
+[TWinBtm][Wait 20][$00$22]Τߤ�ܤȰ���ۤ
+[Wait 60]
+[TWinTop][dcs]
+áΡ
+�Ϣ�äƤ�Ρ
+
+[TWinBtm][Wait 20]  ߤ褱�
+[Wait 60]
+[exit]
+
+
+# 0x1dfc95
+# @@??????@@
+[block b115]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ϥص�
+
+[TWinBtm][Wait 20]ΤĤ�$�$00$22]ϡ
+[Wait 60]
+[TWinTop][dcs]
+�ɤ뤫ʡ
+
+[TWinBtm][Wait 20]ܤ�$00$22]Ȱ�˵ꤿ
+[Wait 60]
+[TWinTop][dcs]
+ɤơ
+
+[TWinBtm][Wait 20]��ߤ$顪
+[Wait 60]
+[TWinTop][dcs]
+ʤˡФʻ$äƤ�衪
+Ǥ⡢ޤ��ˤäƤ�Wait 60]
+[exit]
+
+
+# 0x1dfd4e
+# @@??????@@
+[block b116]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]꣭�͡Ԥäd㤦�
+[TWinBtm][Wait 20][$00$22]����Τ$���
+[Wait 60]
+[TWinTop][dcs]
+á  �äƤΡ
+
+[TWinBtm][Wait 20]���Ƥۤ
+ߤ�Ϥɬ�ʤ�[Wait 60]
+[TWinTop][dcs]
+�꣭�ͤá줷
+[Wait 60]
+[exit]
+
+
+# 0x1dfde3
+# @@??????@@
+[block b117]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]꣭ղҡԤäƤޤΤǤ
+
+[TWinBtm][Wait 20][$00$22]����Τ$���
+[Wait 60]
+[TWinTop][dcs]
+  䤬ԤäƤ�ΤǤ
+
+[TWinBtm][Wait 20]˴ʤä������Ƥۤ
+ߤ�Ϥɬ�ʤ�Wait 60]
+[TWinTop][dcs]
+ϡϤ
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@??????@@
+[block b118]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]꣭ղҡԤäƤޤ��Ǥ
+
+[TWinBtm][Wait 20][$00$22]����Τ$���
+[Wait 60]
+[TWinTop][dcs]
+  褤ΤǤ
+
+[TWinBtm][Wait 20]���Ƥۤ
+ߤ�Ϥɬ�ʤ�[Wait 60]
+[TWinTop][dcs]
+ϡϤ
+[Wait 60]
+[exit]
+
+
+# 0x1dffa4
+# @@??????@@
+[block b119]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]$�[Wait 60][cs]
+��פ衢
+줫�䤬¦ˤƤ�ʤΤ�ˤʤäƤ뤫�
+[TWinBtm][Wait 20][$00$22]
+Ǥ⡢ɤơ
+[Wait 60]
+[TWinTop][dcs]
+⤦�Ѥ�ʤ$顪
+Ǥ⡢İ$ɤ�Τ衢ˤ狼뤫��Wait 60]
+[exit]
+
+
+# 0x1e004a
+# @@??????@@
+[block b120]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]$�ʤ�ˤǤ礦
+[Wait 60][cs]
+��פ衢
+줫�䤬��ߤƤ�
+[TWinBtm][Wait 20][$00$22]
+Ǥ⡢ɤơ
+[Wait 60]
+[TWinTop][dcs]
+�Ѥ�$00$23]ϻҶ�Ǥ⤤Τ衢ˤ狼뤫�[Wait 60]
+[exit]
+
+
+# 0x1e00d4
+# @@??????@@
+[block b121]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]$�ʤ�ˤǤ礦
+[Wait 60][cs]
+��פ衢
+줫�䤬��ߤƤޤ
+
+[TWinBtm][Wait 20][$00$22]
+Ǥ⡢ɤơ
+[Wait 60]
+[TWinTop][dcs]
+�Ѥ�$00$23]ϻҶ�Ǥ⤤Τ衢ˤ狼  �
+[Wait 60]
+[exit]
+
+
+# 0x30bd8b
+# @@??????@@
+[block b122]
+[resolve b123]
+
+[exit]
+
+
+# 0x30bd91
+# @@??????@@
+[block b124]
+[resolve b123]
+[$00$2D$86$BC$91]
+[exit]
+
+
+# 0x30bd9c
+# @@??????@@
+[block b123]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Aless' 0025]ꥹ
+ޤˤ�礭ʼڤ꤬Ǥ
+�˺�ʤ[Wait 60][cs]
+
+[TWinTop]쥹��ʤȤᤰ�ƹ$ä
+[Wait 60][cs]
+ʤΤ��郎��̵�ο�$ä
+[Wait 60][cs]
+�ʽ��Ϥä
+�⿮ȤƤޤ
+[Wait 60][cs]
+쥹ҡ
+�夿d̤ʤä�
+�餬¸ޤ礦[Wait 60][cs]
+ʤ�͡���ơ
+�ߤdӤƹԤΤǤ
+
+[TWinBtm][Wait 20]�Ȥ�ꥹ衢
+ȥꥢ��ʿ�ϡ
+郎�δꤤǤ⤢ä[Wait 60][dcs]
+ϡ�ΰ�ݤ
+ȥꥢƷ�[Wait 60]
+[exit]
+
+
+# 0x30bf13
+# @@??????@@
+[block b125]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ߤϡ
+
+[TWinBtm][Wait 20]ˤ�ĹʤƤʤ
+�[$00$22]��
+ȥꥢ˹Ԥ[Wait 60]
+[TWinTop][dcs]
+Ǥ⡢$ơ
+äȤȤ�
+
+[TWinBtm][Wait 20]ˤ�٤꤬뤷�ޤǤ$äư�$ä
+줫�äư��ƹԤޤ[Wait 60]
+[TWinTop][dcs]
+[$00$23]
+[Wait 60]
+[exit]
+
+
+# 0x30bfd5
+# @@??????@@
+[block b126]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ߤϡ
+
+[TWinBtm][Wait 20]ˤ�ĹʤƤʤ
+쥹���ɡ
+ȥꥢ˹ԤĤ�[resolve b127]
+
+[exit]
+
+
+# 0x30c02d
+# @@??????@@
+[block b128]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ߤϡ
+
+[TWinBtm][Wait 20]ˤ�ĹʤƤʤ
+ȥꥢ˹ԤäƤߤ롦
+[resolve b127]
+
+[exit]
+
+
+# 0x30c073
+# @@??????@@
+[block b127]
+[Wait 60]
+[TWinTop][dcs]
+Ǥ⡢$ơ
+ƥʿͤĤ뤵
+[$00$23]Ϥ襤�
+[TWinBtm][Wait 20]դդáꥹ�
+ʤ����[Wait 60][dcs]
+Ǥ��ˤ�٤꤬뤷
+[Wait 60][cs]
+ޤǤ$äư�$ä
+줫�äư��ƹԤޤ
+[Wait 60][cs]
+
+[TWinTop][$00$23]
+[Wait 60]
+[exit]
+
+
+# 0x30c11b
+# @@??????@@
+[block b129]
+[resolve b130]
+
+[exit]
+
+
+# 0x30c121
+# @@??????@@
+[block b131]
+[resolve b130]
+[$00$2D$8B$BC$91]
+[exit]
+
+
+# 0x30c12c
+# @@??????@@
+[block b132]
+[resolve b133]
+
+[exit]
+
+
+# 0x30c132
+# @@??????@@
+[block b134]
+[resolve b133]
+[$00$2D$90$BC$91]
+[exit]
+
+
+# 0x30c13d
+# @@??????@@
+[block b130]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Delmud' 0036]ꥹ�
+�ȥꥢˤޤ�
+[Wait 60][cs]
+쥹Ҥ��ä�䤬Ʒޤ
+[Wait 60][resolve b135]
+���Ǥޤ[Wait 60]
+[exit]
+
+
+# 0x30c1a8
+# @@??????@@
+[block b135]
+[cs]
+
+[TWinTop][$00$23]
+ߤ���Υǥ��$ä�[TWinBtm][Wait 20][resolve b136]
+
+[exit]
+
+
+# 0x30c1d9
+# @@??????@@
+[block b136]
+Ϥ郎�饱����塢
+ơï�ⲦäƤ�[Wait 60][dcs]
+��ȥ��ΰ�ݤ
+ȥꥢ���
+
+[exit]
+
+
+# 0x30c243
+# @@??????@@
+[block b137]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]ꥹ�
+�ǥ�åɤȶˤޤ�
+[Wait 60][cs]
+
+[TWinTop][$00$22]
+$äΤ
+��ä衢�Ȥ
+[TWinBtm][Wait 20]Ϥ꤬Ȥޤ
+Ǥ⡢�  �[Wait 60]
+[TWinTop][dcs]
+ǥ�åɤϤ�
+ɤˤ�
+[TWinBtm][Wait 20]Ϥꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x30c2e8
+# @@??????@@
+[block b133]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Delmud' 0036]ꥹ��쥹Ҥȶ�ȥꥢؤޤ�
+[Wait 60][cs]
+Ҥ�Ϥ�ơ
+Ʒޤ
+[Wait 60][resolve b135]
+���Ǥޤ[Wait 60]
+[exit]
+
+
+# 0x30c35f
+# @@??????@@
+[block b138]
+[resolve b139]
+
+[exit]
+
+
+# 0x30c365
+# @@??????@@
+[block b140]
+[resolve b139]
+[$00$2D$95$BC$91]
+[exit]
+
+
+# 0x30c370
+# @@??????@@
+[block b141]
+[resolve b142]
+
+[exit]
+
+
+# 0x30c376
+# @@??????@@
+[block b143]
+[resolve b142]
+[$00$2D$9A$BC$91]
+[exit]
+
+
+# 0x30c381
+# @@??????@@
+[block b139]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Tristan' 0021]
+[TWinTop]ȥꥹߤˤϿ�ʤ
+ȥꥢ˹ԤäƤۤ
+[Wait 60][cs]
+ȥꥢβȤ��
+�����[Wait 60][cs]
+��Ĥ�$
+�Ǥϡߤ˼�ƤۤΤ�
+[TWinBtm][Wait 20]Ϥá  줬Τ̿�Ȥ�
+[Wait 60]
+[exit]
+
+
+# 0x30c423
+# @@??????@@
+[block b144]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]
+ߤ�ꥹȰ�˹ԤФ
+�ͤΥʤƻ�ϤǤʤ�[TWinBtm][Wait 20]  ꥹ�
+$äΤǤ
+[Wait 60]
+[TWinTop][dcs]
+��ͤƤ�狼뤵
+ˤ͡[$00$22]
+[TWinBtm][Wait 20]Ϥ  ꤬Ȥޤ
+[Wait 60]
+[exit]
+
+
+# 0x30c4bb
+# @@??????@@
+[block b142]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Tristan' 0021]
+[TWinTop]ȥꥹߤˤϤޤʤ
+ȥꥢ˹ԤäƤۤ
+[Wait 60][cs]
+쥹Ҥơ
+ޤ����륢ȥꥢ
+ߤäƤۤΤ�[TWinBtm][Wait 20]ȥꥢϤ郎�
+Τ$�ʤ��Ǥޤ�[Wait 60]
+[exit]
+
+
+# 0x30c552
+# @@??????@@
+[block b145]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Nanna' 003F]ꥹ�
+�ȥꥢˤޤ�
+[Wait 60][cs]
+˴ʤ�쥹���ä�䤬ƷΤǤ
+[Wait 60][cs]
+[resolve b135]
+�ΤǤ[Wait 60]
+[exit]
+
+
+# 0x30c5c5
+# @@??????@@
+[block b146]
+[resolve b147]
+ʥʡФ�ȥꥢˤϤߤɬ�ʤ�[TWinBtm][Wait 20]Ϥ��͡Τ��Ԥޤ
+[Wait 60]
+[exit]
+
+
+# 0x30c61a
+# @@??????@@
+[block b147]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ�
+�ȥꥢˤޤ�
+[Wait 60][cs]
+[$00$22]ΤȤ�˺�줽ˤʤ�ĤޤǤ�ƤϤ�ޤ[Wait 60][cs]
+
+[TWinTop]ɤ$���ɻ�ʤ�
+[exit]
+
+
+# 0x30c688
+# @@??????@@
+[block b148]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Nanna' 003F]ꥹ�
+�ȥꥢˤޤ�
+ߤ��[Wait 60][cs]
+
+[TWinTop]Ǥ⡢Фơ
+쥹Ƥۤ
+
+[TWinBtm][Wait 20][resolve b136]
+���Ǥޤ[Wait 60]
+[exit]
+
+
+# 0x30c70e
+# @@??????@@
+[block b149]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Nanna' 003F]ꥹ�
+�ȥꥢˤޤ�
+[Wait 60][cs]
+ȤȤ�
+���ᤶơФ�
+[Wait 60][cs]
+
+[TWinTop]ʥʤ��ˤ��ʤΤ
+
+[TWinBtm][Wait 20]Ϥ�ˤ�⤦�ĤȤϤ�
+[Wait 60]
+[TWinTop][dcs]
+
+ʥʡǡ
+ߤι�Ƥ�[TWinBtm][Wait 20]Ϥꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x30c7e2
+# @@??????@@
+[block b150]
+[resolve b147]
+�̡Ф�[Wait 60][cs]
+ȥꥢ��ĤƤۤ
+
+[TWinBtm][Wait 20]Ϥꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x30c82b
+# @@??????@@
+[block b151]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Janne' 0030]ꥹ�
+�ȥꥢˤޤ�
+[Wait 60][cs]
+
+[TWinTop]�̤
+áߤw��ȥꥢνпȤ$ä�[TWinBtm][Wait 20]Ϥ�ϥΥǥεΤǤ
+饱˻Ť��Ǥ
+̾ȸ$ޤ[Wait 60]
+[TWinTop][dcs]
+ߤ�Ƥp�襤Ǥʤ
+ƺ�ϷΥȥꥹޤǡ
+��ˤޤʤȻפäƤ�[TWinBtm][Wait 20]ꥹ�
+�⤦�ΤǤ
+Ǥ�Ĥ$ꤤ�[Wait 60][dcs]
+ɤ��Τʤ$
+줬Ǥ�ϥꥹ�$Ǥ
+[Wait 60]
+[exit]
+
+
+# 0x30c96b
+# @@??????@@
+[block b152]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Janne' 0030]ꥹ��ȤȤ�
+ȥꥢˤޤ�
+[Wait 60][cs]
+
+[TWinTop]�̤��ˤ��ʤΤ
+
+[TWinBtm][Wait 20]Ϥ�ˤ�⤦�ĤȤϤ�
+[Wait 60]
+[TWinTop][dcs]
+
+�̡ǡ
+ߤι�Ƥ�[TWinBtm][Wait 20]Ϥꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x30ca25
+# @@??????@@
+[block b153]
+[resolve b154]
+
+ɤߤʤ�Ϥ��ФäƤۤ[Wait 60][cs]
+[resolve b155]
+ޤdμ����[Wait 60]
+[exit]
+
+
+# 0x30ca62
+# @@??????@@
+[block b156]
+[resolve b154]
+ФäƤۤ
+[resolve b155]
+ޤμ����Wait 60]
+[exit]
+
+
+# 0x30ca87
+# @@??????@@
+[block b154]
+[resolve b053]
+
+[TWinBtm][DlgOpn]['Levin' 0280]ȥꥢϤޤ���ʤˤ�
+[Wait 60][cs]
+�ʻŻ$
+[exit]
+
+
+# 0x30cac1
+# @@??????@@
+[block b155]
+ȥꥢ���
+[exit]
+
+
+# 0x30cad1
+# @@??????@@
+[block b157]
+[resolve b158]
+
+[exit]
+
+
+# 0x30cad7
+# @@??????@@
+[block b159]
+[resolve b158]
+[$00$2D$9F$BC$91]
+[exit]
+
+
+# 0x30cae2
+# @@??????@@
+[block b158]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ���ˤޤ�
+[Wait 60][cs]
+
+[TWinTop]�ء
+��ϥ�Ҥ$ä��Ϥ狼�[Wait 60][cs]
+�ϲȤ�˴Ƥ�Ӥ�Ƥơ
+Ǥϻ±�ۤƤ�
+[TWinBtm][Wait 20]Ϥ�ͤǤɤ�ɤλǤ뤫
+狼  �Ȥˤ
+±dιˤϤƤޤ[Wait 60]
+[TWinTop][dcs]
+���ξƤᤰ�ä
+ơ��8ޤ줿Ǥ⤢�Wait 60][cs]
+[$00$23]䤫�ꤤ�ɤ͡ߤäƤۤ
+
+[TWinBtm][Wait 20]Ϥꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x30cc2d
+# @@??????@@
+[block b160]
+[resolve b158]
+
+[exit]
+
+
+# 0x30cc33
+# @@??????@@
+[block b161]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ��[$00$30]Ȱ���ˤޤ�
+[Wait 60][cs]
+
+[TWinTop][$00$23]⡦
+
+[TWinBtm][Wait 20]Ϥ[$00$30]Ȱ�ˡ
+��Ʒޤ
+[Wait 60][dcs]
+±ʤ
+ߤ�ɤФƤ�ޤ
+[Wait 60]
+[exit]
+
+
+# 0x30ccbe
+# @@??????@@
+[block b162]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ��[$00$30]Ȱ���ˤޤ�
+[Wait 60][cs]
+
+[TWinTop][$00$22]ΤȤ��$ä�
+[TWinBtm][Wait 20]⤦Ǥ
+�ΤȤ˺�����ޤ[Wait 60][dcs]
+[$00$30]ơ
+��Ʒޤ
+[Wait 60]
+[exit]
+
+
+# 0x30efb3
+# @@??????@@
+[block b163]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]ꥹ�
+�ǥ�åɤȰ�˹Ԥޤ
+[Wait 60][cs]
+
+[TWinTop][$00$22]
+$äΤ
+��ä衢�Ȥ
+[TWinBtm][Wait 20]Ϥϡd�ȥƥ�㤦�Ǥ⡦줷Ǥ
+[Wait 60][dcs]
+
+[TWinTop]ǥ�åɤ�$00$22]ʤ餪ˤ$�ɤˤ�
+[TWinBtm][Wait 20]Ϥ  ꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@??????@@
+[block b164]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]ꥹ�
+�ǥ�åɤȤȤ�ޤ�
+[Wait 60][cs]
+
+[TWinTop][$00$22]
+$äΤ
+��ä衢�Ȥ
+[TWinBtm][Wait 20]Ϥ꤬Ȥޤ
+Ǥ⡢�  Ǥ
+[Wait 60][dcs]
+
+[TWinTop]ǥ�åɤ�$00$22]ʤ餪ˤ$�ɤˤ�
+[TWinBtm][Wait 20]Ϥꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x30f104
+# @@??????@@
+[block b165]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]
+ߤ�ꥹȰ�˹ԤФ
+�ͤΥʤƻ�ϤǤʤ�[TWinBtm][Wait 20]� ꥹ��äƤΡ
+㣭áϤ  �[Wait 60]
+[TWinTop][dcs]
+դդá
+��ͤƤ�狼�
+ˤ͡[$00$22]
+[TWinBtm][Wait 20]Ϥ  ꤬Ȥޤ
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@??????@@
+[block b166]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]
+ߤ�ꥹȰ�˹ԤФ
+�ͤΥʤƻ�ϤǤʤ�[TWinBtm][Wait 20]  ꥹ�
+$äΤǤ
+[Wait 60]
+[TWinTop][dcs]
+��ͤƤ�狼뤵
+ˤ͡[$00$22]
+[TWinBtm][Wait 20]Ϥ  ꤬Ȥޤ
+[Wait 60]
+[exit]
+
+
+# 0x30f249
+# @@??????@@
+[block b167]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�Ԥ
+
+[TWinBtm][Wait 20]$��$00$22]
+�Ϥޤ$ޤ����ʤ�[Wait 60][dcs]
+äȷޤ��顢
+��ԤäƤƤۤ
+[Wait 60][cs]
+
+[TWinTop]�Ƥܤ�ơ
+ä�˹Ԥ�
+
+[TWinBtm][Wait 20]�狼ä�$00$22]
+�˹Ԥ��[Wait 60]
+[exit]
+
+
+# 0x30f2f5
+# @@??????@@
+[block b168]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�Ԥ
+
+[TWinBtm][Wait 20]$��$00$22]
+�Ϥޤ$ޤ����ʤ�[Wait 60][dcs]
+äȷޤ��顢
+��ԤäƤƤۤ
+[Wait 60][cs]
+
+[TWinTop]Х$�ǡ
+��$00$22]Ȥޤ�$���Wait 60][cs]
+ʤ�Ԥ�ˤ�ޤ
+
+[TWinBtm][Wait 20]ϤϤϡ$ä�[$00$22]
+±ʤ�Ϥʤ[Wait 60][dcs]
+ä�˹Ԥ
+ߤƤ�л��[Wait 60]
+[exit]
+
+
+# 0x30f3f1
+# @@??????@@
+[block b169]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]�Ԥ
+
+[TWinBtm][Wait 20]$��$00$22]
+�Ϥޤ$ޤ����ʤ�[Wait 60][dcs]
+äȷޤ��顢
+��ԤäƤƤۤ
+[Wait 60][cs]
+
+[TWinTop]�äƤ�ʤƤ�
+[Wait 60][cs]
+䤿a�٤Ǥ�̤줿�⤦��Ȳʤʤ뤫��Ǥ礦[Wait 60][cs]
+䡢��ȥǥɥ�ͤ�褦ˤʤ�Ϥ�
+
+[TWinBtm][Wait 20]�狼ä衢[$00$22]
+�˹Ԥ��[Wait 60]
+[exit]
+
+
+# 0x30f4e5
+# @@??????@@
+[block b170]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]եХ롢㡢��$ϡ
+
+[TWinBtm][Wait 20]  ʤ$ä
+[Wait 60]
+[TWinTop][dcs]
+ޤ˺줿��
+
+[TWinBtm][Wait 20]硢�̤
+ʶ��衢�
+[Wait 60]
+[TWinTop][dcs]
+⤦á��
+[Wait 60]
+[exit]
+
+
+# 0x30f56d
+# @@??????@@
+[block b171]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]եХ롢㡢��$ϡ
+
+[TWinBtm][Wait 20]  ʤ$ä
+[Wait 60]
+[TWinTop][dcs]
+ޤ˺줿�Ǥ礦�
+[TWinBtm][Wait 20]硢�̤
+ʶ��衢�
+[Wait 60]
+[TWinTop][dcs]
+⤦áʤ�
+[Wait 60]
+[exit]
+
+
+# 0x30f5fa
+# @@??????@@
+[block b172]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]եХ롢㡢��$ϡ
+
+[TWinBtm][Wait 20]  ʤ$ä
+[Wait 60]
+[TWinTop][dcs]
+ޤ˺줿�Ǥ礦�
+[TWinBtm][Wait 20]硢�̤
+ʶ��衢�
+[Wait 60]
+[TWinTop][dcs]
+⤦á��
+[Wait 60]
+[exit]
+
+
+# 0x30f686
+# @@??????@@
+[block b173]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]եХ롢㡢��$ϡ
+
+[TWinBtm][Wait 20]  ʤ$ä
+[Wait 60]
+[TWinTop][dcs]
+ޤ˺줿�Ǥ礦�
+[TWinBtm][Wait 20]硢�̤
+ʶ��衢�
+[Wait 60]
+[TWinTop][dcs]
+⤦á��顪
+[Wait 60]
+[exit]
+
+
+# 0x30f713
+# @@??????@@
+[block b174]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]쥹㡢��$ϡ
+
+[TWinBtm][Wait 20]��ܤƤ�
+[Wait 60]
+[TWinTop][dcs]
+��쥹�
+[TWinBtm][Wait 20][$00$22]϶�
+[Wait 60]
+[TWinTop][dcs]
+áҤɤ
+ʤȸ$Τʤ�⤦��դá[Wait 60]
+[exit]
+
+
+# 0x30f798
+# @@??????@@
+[block b175]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]쥹㡢��$ϡ
+
+[TWinBtm][Wait 20]��ܤƤ�
+[Wait 60]
+[TWinTop][dcs]
+��쥹�
+[TWinBtm][Wait 20][$00$22]϶�
+[Wait 60]
+[TWinTop][dcs]
+á$ä�դդá
+[Wait 60]
+[exit]
+
+
+# 0x30f80d
+# @@??????@@
+[block b176]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]⡦
+쥹��ɤ�
+[TWinBtm][Wait 20]ꥹ�
+ޤӤ����[Wait 60]
+[exit]
+
+
+# 0x30f84e
+# @@??????@@
+[block b177]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]⡦
+쥹��ɤ�
+[TWinBtm][Wait 20]Ϥꥹ�
+줫  ��ͤޤ
+[Wait 60]
+[exit]
+
+
+# 0x30f894
+# @@??????@@
+[block b178]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]⤦Ԥ��d�
+
+[TWinBtm][Wait 20][$00$22]��Ѥ�$�狼äԤ
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]㤢͡ꥹ�
+ФФ
+[Wait 60]
+[exit]
+
+
+# 0x30f8ff
+# @@??????@@
+[block b179]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]⤦Ǥ礦
+ꥹ�⤪Ĥ�褦$�
+[TWinBtm][Wait 20][$00$22]$�狼äԤ
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]Ǥϥꥹ�䤿dϤޤ�
+ɤǡ
+[Wait 60]
+[exit]
+
+
+# 0x30f979
+# @@??????@@
+[block b180]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]⤦Ǥ礦
+ꥹ�⤪Ĥ�褦$�
+[TWinBtm][Wait 20][$00$22]$�狼äԤ
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]Ǥϥꥹ�䤿dϹԤޤ
+ɤǡ
+[Wait 60]
+[exit]
+
+
+# 0x30f9f4
+# @@??????@@
+[block b181]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ޤ$
+��
+[TWinBtm][Wait 20][$00$22]
+ʤǤߤ
+[Wait 60]
+[TWinTop][dcs]
+�ˤ�襤$��˹ԤäƤ�
+꤬Ȼפʤ
+[TWinBtm][Wait 20]d��
+[Wait 60]
+[exit]
+
+
+# 0x30fa6d
+# @@??????@@
+[block b182]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ޤ$ʤΡ
+Ϥ䤯Ԥޤ礦
+
+[TWinBtm][Wait 20][$00$22]
+ʤǤߤ
+[Wait 60]
+[TWinTop][dcs]
+�ǹԤ�ϲİ�$��˹ԤäƤ�꤬Ȼפʤ
+[TWinBtm][Wait 20]d��
+[Wait 60]
+[exit]
+
+
+# 0x30faf1
+# @@??????@@
+[block b183]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ޤ$Ǥ
+⤦����ʤȡ
+
+[TWinBtm][Wait 20][$00$22]
+ʤǤߤ
+[Wait 60]
+[TWinTop][dcs]
+��˹Ԥޤ
+ʤλ�$顦
+
+[TWinBtm][Wait 20]꤬Ȥ[$00$22]
+[Wait 60]
+[exit]
+
+
+# 0x30fb6a
+# @@??????@@
+[block b184]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]�áޤ㤷d�Ƥ롢
+ޤ줬ʤ�Ȥ�$ɤ�[TWinBtm][Wait 20][$00$22]�
+[Wait 60]
+[TWinTop][dcs]
+դդá狼äƤ��䡢��
+[TWinBtm][Wait 20]  [$00$22]
+[Wait 60]
+[exit]
+
+
+# 0x30fbe5
+# @@??????@@
+[block b185]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]�áޤ㤷d�Ƥ롢
+ޤ줬ʤ�Ȥ�$ɤ�[TWinBtm][Wait 20][$00$22]�
+[Wait 60]
+[TWinTop][dcs]
+դդá狼äƤ��䡢��
+[TWinBtm][Wait 20]  [$00$22]�ʤƹʤ!
+[Wait 60]
+[exit]
+
+
+# 0x30fc6c
+# @@??????@@
+[block b186]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]�ϴ㤷Ƥ��դդáʤ餷�
+[TWinBtm][Wait 20][$00$22]�
+[Wait 60]
+[TWinTop][dcs]
+狼äƤޤ
+ʤΤ�ϡ
+
+[TWinBtm][Wait 20]  [$00$22]
+�ʤƹʤ!
+[Wait 60]
+[exit]
+
+
+# 0x30fcdf
+# @@??????@@
+[block b187]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]ꥹ�
+��ϤƤ��
+οͤϥ㥤$顦[Wait 60][cs]
+
+[TWinTop]ϤϤϡ狼äƤ뤵
+[$00$22]⡢Ǥ�����
+[TWinBtm][Wait 20]ʤҤȡ
+ۤäƤϤʤ�
+䤬ä  긫�Ƥ�Wait 60][dcs]
+Ǥϡꥹ�⸵Ǥͤ�[Wait 60]
+[exit]
+
+
+# 0x30fd80
+# @@??????@@
+[block b188]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]ꥹ�
+��ϤƤ��
+οͤ�Դ�Ѥ$顦[Wait 60][cs]
+
+[TWinTop]ϤϤϡ狼äƤ뤵
+[$00$22]⡢Ǥ�����
+[TWinBtm][Wait 20]ϤʤҤȡ
+ۤäƤϤޤ
+䤬ä  긫�ޤ[Wait 60][dcs]
+Ǥϡꥹ�⤪�[Wait 60]
+[exit]
+
+
+# 0x30fe20
+# @@??????@@
+[block b189]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]ϸɻã�
+λҤd����ʤä�Ω�˰�Ƥߤ뤫�[TWinBtm][Wait 20][$00$22]��ס
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]�ʤǤ�$äơ�Ȥˤ��$��Wait 60]
+[exit]
+
+
+# 0x30fea1
+# @@??????@@
+[block b190]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]Ҷãϻ�ޤ�λҤd����ʤä�Ω�˰�Ƥߤ�
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+դդá�ʤ��ɻã
+ʬλҶ$ȻפäƤޤ[Wait 60]
+[exit]
+
+
+# 0x30ff27
+# @@??????@@
+[block b191]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ɻãߤޤ
+λҤd����ʤä�Ω�˰�Ƥߤޤ�[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+�ʤǡ
+�λҤd
+ʬλҶ$ȻפäƤޤ[Wait 60]
+[exit]
+
+
+# 0x30ffb0
+# @@??????@@
+[block b192]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]�ɻãߤޤ
+λҤd����ʤä�Ω�˰�Ƥߤޤ
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]�ʤ��λҤd
+ʬλҶ$ȻפäƤޤ[Wait 60]
+[exit]
+
+
+# 0x310032
+# @@??????@@
+[block b193]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ɻãߤޤ
+λҤd����ʤä�Ω�˰�Ƥߤޤ�[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]�ʤ��λҤd
+ʬλҶ$ȻפäƤޤ[Wait 60]
+[exit]
+
+
+# 0x31eaef
+# @@??????@@
+[block b194]
+[resolve b195]
+
+[exit]
+
+
+# 0x31eaf5
+# @@??????@@
+[block b196]
+[resolve b195]
+[$00$2D$A4$BC$91]
+[exit]
+
+
+# 0x31eb00
+# @@??????@@
+[block b195]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Faval' 0033]ꥹ�
+Ǥϻ䤿dϥ���ޤ
+[Wait 60][cs]
+
+[TWinTop]եХ뤬�
+ݤǤ�ΤϿ�
+[TWinBtm][Wait 20]졦䡢�
+ޤפäƤ�ޤǤ
+[Wait 60][dcs]
+Ǥ⡢���֥ꥮåɸ�Τäơ
+[Wait 60][cs]
+ʬΤʤ٤Ȥ
+�Ȥ狼äΤǤ
+[Wait 60][cs]
+ꥹ�˽ޤ
+�ʤ��$äơ
+[Wait 60]
+[exit]
+
+
+# 0x31ebe6
+# @@??????@@
+[block b197]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Patty' 0039]ꥹ�
+����[Wait 60][cs]
+
+[TWinTop]ѥƥ�ݤ$äƤ���ס
+
+[TWinBtm][Wait 20]졩  ꥹ�
+ʤ$�¤Ǥ�[Wait 60]
+[TWinTop][dcs]
+��$�d�Ȥ͡
+
+[TWinBtm][Wait 20]��פǤ��äƥ֥ꥮåɤ�
+[Wait 60][dcs]
+Ƥ⡢
+�Ȥ㡢�$�ꥹ�ƤƲ�Wait 60]
+[exit]
+
+
+# 0x31ecc3
+# @@??????@@
+[block b198]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Patty' 0039]
+[TWinTop]ѥƥ  ߤ⡩
+
+[TWinBtm][Wait 20]Ĥޤʤɡ
+¾ˤϹԤȤʤ
+d�Ȱ�˹Ԥ[Wait 60]
+[TWinTop][dcs]
+�˵ä�ڤȤ⤢뤵
+[Wait 60][cs]
+Ǥ⡢⤦�ߤϤ$��ѥƥϸʤ$�
+[TWinBtm][Wait 20]⤪áꥹ�ä�ɤ
+�±�­餤ޤ
+[Wait 60]
+[TWinTop][dcs]
+ϤϤϡ��
+㤢͡ѥƥ�
+[TWinBtm][Wait 20]Ϥꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x31edb3
+# @@??????@@
+[block b199]
+[resolve b093]
+
+[exit]
+
+
+# 0x31edb9
+# @@??????@@
+[block b200]
+[resolve b201]
+
+[exit]
+
+
+# 0x31edbf
+# @@??????@@
+[block b202]
+[resolve b201]
+[$00$2D$A9$BC$91]
+[exit]
+
+
+# 0x31edca
+# @@??????@@
+[block b203]
+[resolve b204]
+
+[exit]
+
+
+# 0x31edd0
+# @@??????@@
+[block b205]
+[resolve b204]
+[$00$2D$AE$BC$91]
+[exit]
+
+
+# 0x31eddb
+# @@??????@@
+[block b201]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Lester' 0037]ꥹ�
+Ǥϻ����ޤ
+[Wait 60][cs]
+
+[TWinTop]쥹�
+ݤǤ�ΤϿ�
+[TWinBtm][Wait 20]ۥȤϥ֥ꥮåɸλҶã
+ݤΤڤ$ɡ��
+[Wait 60][dcs]
+ǥ���äơ
+䤬�Ʒޤ
+[Wait 60][cs]
+��٥벦Ȥʤ�ꥹ�ˡ
+�?�ޤ[Wait 60]
+[exit]
+
+
+# 0x31eeb7
+# @@??????@@
+[block b204]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Lester' 0037]ꥹ�
+Ǥϻ����ޤ
+[Wait 60][cs]
+
+[TWinTop]ߤ�Ϥ���� �Ƥ�Ƥۤ
+
+[TWinBtm][Wait 20]Ϥ䤿dϤȤƱΡ
+��ɤä�ãΤ褦�䤿d��ƹԤޤ[Wait 60]
+[exit]
+
+
+# 0x31ef4e
+# @@??????@@
+[block b206]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Rana' 003B]
+[TWinTop]�
+�ݤȤˤʤ��
+[TWinBtm][Wait 20]Ϥ�ʤȤˤʤ��פäƤ�ޤǤ
+[Wait 60][dcs]
+Ǥ⡢ꥹΤ¦Ǥ��Ƥ��줷ȻפäƤޤ
+[Wait 60][cs]
+
+[TWinTop]�ȤϤäȰ�˰�Ƥ�Ǥ⡢̿ä�Ի׵Ĥ$�
+[TWinBtm][Wait 20]���[Wait 60]
+[exit]
+
+
+# 0x31f015
+# @@??????@@
+[block b207]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Rana' 003B]
+[TWinTop]�ޤʻˤʤ�ơ
+
+[TWinBtm][Wait 20]�ʤ
+Ǥ��$00$22]
+Ƥޤޤ[Wait 60][dcs]
+��ʳϤ�ޤ
+[Wait 60][cs]
+
+[TWinTop]
+��˵�
+
+[TWinBtm][Wait 20]Ϥ褦ʤ顢ꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x31f0b6
+# @@??????@@
+[block b208]
+[resolve b209]
+��ܤäƤ�$���
+[resolve b210]
+
+[exit]
+
+
+# 0x31f0d0
+# @@??????@@
+[block b211]
+[resolve b209]
+��ܤäƤ�ƥ쥹$äƤ
+[resolve b210]
+
+[exit]
+
+
+# 0x31f0f3
+# @@??????@@
+[block b209]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Rana' 003B]
+[TWinTop]��
+
+[TWinBtm][Wait 20]
+[Wait 60]
+[TWinTop][dcs]
+
+[exit]
+
+
+# 0x31f123
+# @@??????@@
+[block b210]
+
+[TWinBtm][Wait 20]$äƥꥹ�ϡ
+Ǥ⡢⤦�[Wait 60][dcs]
+��ص�
+褦ʤ顢ꥹ�
+[Wait 60][cs]
+
+[TWinTop]�
+[Wait 60]
+[exit]
+
+
+# 0x31f175
+# @@??????@@
+[block b212]
+[resolve b213]
+
+[exit]
+
+
+# 0x31f17b
+# @@??????@@
+[block b214]
+[resolve b213]
+[$00$2D$B3$BC$91]
+[exit]
+
+
+# 0x31f186
+# @@??????@@
+[block b213]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ߤϥե꣭$ä�
+[TWinBtm][Wait 20]Ϥ�ȣ롢
+֥룭�Ҥϵޤ
+ե꣭�ˤϺ�ʤΤǤ[Wait 60][dcs]
+�˴ʤä���äơ
+ե꣭�ƳͤФʤ�
+[Wait 60][cs]
+
+[TWinTop]ơ줬Ǥ��ߤ$ʤ�[Wait 60][cs]
+�ߤ�ʤˤ�ޤ�
+[$00$23]䤿dϤĤޤǤ�ã$�
+[TWinBtm][Wait 20]Ϥꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x31f269
+# @@??????@@
+[block b215]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ե꣭ݤΤ
+�ɤפƤޤ
+
+[TWinBtm][Wait 20]�Τ��
+䡢Ǥ�ΤȤϤ�Ƥߤ�Ǥ⥻ꥹ�Ʋ�Wait 60]
+[TWinTop][dcs]
+��
+�ĤʤǹԤ�[Wait 60]
+[exit]
+
+
+# 0x31f2fc
+# @@??????@@
+[block b216]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]�$00$30]Ȱ�˹ԤΤ
+[$00$22]ΤȤϤ⤦˺�줿
+
+[TWinBtm][Wait 20]ޤ%%�
+Ǥ�Ф�
+[Wait 60][dcs]
+ƥʷˤ��
+ä�ФäƤߤޤ
+[Wait 60]
+[exit]
+
+
+# 0x31f378
+# @@??????@@
+[block b217]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]�$00$30]Ȱ�˹ԤΤ
+
+[TWinBtm][Wait 20]䡢[$00$30]�Τ�d�[Wait 60]
+[TWinTop][dcs]
+[$00$23]�$00$30]ˤ٤ä���
+[TWinBtm][Wait 20]$äơ
+ˤޤΤȹʤ$�
+[Wait 60]
+[exit]
+
+
+# 0x31f3f0
+# @@??????@@
+[block b218]
+[resolve b219]
+
+[exit]
+
+
+# 0x31f3f6
+# @@??????@@
+[block b220]
+[resolve b219]
+[$00$2D$B8$BC$91]
+[exit]
+
+
+# 0x31f401
+# @@??????@@
+[block b219]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ�
+�ɥ���
+[Wait 60][cs]
+
+[TWinTop][$00$23]��ϥ�$ä�ɥ�͡⡢
+ߤε��äƤ����
+[TWinBtm][Wait 20]Ϥ�Х�%ʥ�̾�郎ɥ��
+̱줷�[Wait 60][dcs]
+�˴����ɥ�ƷͤФʤ�
+[Wait 60][cs]
+
+[TWinTop]��
+ơ줫  ���ˤʤäƤۤ
+
+[TWinBtm][Wait 20]Ϥ  ꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x31f4ff
+# @@??????@@
+[block b221]
+[resolve b219]
+
+[exit]
+
+
+# 0x31f505
+# @@??????@@
+[block b222]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ��ɥ�ޤ�
+[Wait 60][cs]
+
+[TWinTop][$00$23]⡢
+Ǥ⡢ޤˤ�Уϥ�Ӥ��ۤ
+[TWinBtm][Wait 20]Ϥ꤬Ȥޤ
+�ʤ顢äȡ
+[Wait 60]
+[TWinTop][dcs]
+㤢[$00$23]Ǥ�
+[TWinBtm][Wait 20]Ϥ  ꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x31f5a9
+# @@??????@@
+[block b223]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ��ɥ�ޤ�
+[Wait 60][cs]
+
+[TWinTop][$00$23]⡢
+ߤ$���ɡ�Ȥʤ�
+[TWinBtm][Wait 20]Ϥ[$00$22]�äȻ��Ƥ�ޤ
+䡢��  ޤ[Wait 60]
+[TWinTop][dcs]
+�[$00$23]�㤢Ǥ�
+[TWinBtm][Wait 20]Ϥ  ꥹ�⡦
+[Wait 60]
+[exit]
+
+
+# 0x31f65c
+# @@??????@@
+[block b224]
+[resolve b225]
+
+[exit]
+
+
+# 0x31f662
+# @@??????@@
+[block b226]
+[resolve b225]
+[$00$2D$BD$BC$91]
+[exit]
+
+
+# 0x31f66d
+# @@??????@@
+[block b225]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Johan' 001E]ꥹ衢$�ˤʤä�[Wait 60][cs]
+
+[TWinTop]�ҡɥ��ߤޤ
+
+[TWinBtm][Wait 20]˵�ϿɤȤ$
+�䷻κ�Ĥʤ�Фʤ�
+̱ϻ�Ƥ�$���[Wait 60]
+[TWinTop][dcs]
+ʤ�Ϥä��襤�$ΤǤ
+[Wait 60][cs]
+͡�ΤäƤޤ
+ʤ�ï��
+[TWinBtm][Wait 20]ꥹդ�ɤɥ�Ƥۤ
+[Wait 60]
+[TWinTop][dcs]
+��Ǥ���٥�$Τ�
+��  Ƥ$
+[TWinBtm][Wait 20]�!ꥹ
+ɥ�ϥ�٥벦Ȥ�ʱ����«褦[Wait 60]
+[exit]
+
+
+# 0x31f7cf
+# @@??????@@
+[block b227]
+[resolve b228]
+
+[exit]
+
+
+# 0x31f7d5
+# @@??????@@
+[block b229]
+[resolve b228]
+[$00$2D$C2$BC$91]
+[exit]
+
+
+# 0x31f7e0
+# @@??????@@
+[block b228]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Johalva' 0031]ꥹ衢$�ˤʤä
+[Wait 60][cs]
+
+[TWinTop]��ҡɥ��ߤޤ
+
+[TWinBtm][Wait 20]˵�Ͽɤ
+䥸ΤĤʤ�[Wait 60][dcs]
+ޤ�Ƥߤ뤵
+ޤˤϴդƤ뤼
+[Wait 60][cs]
+
+[TWinTop]��Ҥ�Ի׵Ĥʿͤ�ʬ��Ȥʤ
+
+[TWinBtm][Wait 20]դá褻䤤
+ʸ�դϲˤϤˤ�
+[Wait 60][dcs]
+ޤáꥹФ��㤢ʡФ�[Wait 60]
+[exit]
+
+
+# 0x31f8c8
+# @@??????@@
+[block b230]
+[resolve b231]
+
+[exit]
+
+
+# 0x31f8ce
+# @@??????@@
+[block b232]
+[resolve b231]
+[$00$2D$C7$BC$91]
+[exit]
+
+
+# 0x31f8d9
+# @@??????@@
+[block b231]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]ϥå$˵�
+
+[TWinBtm][Wait 20]Ϥ����ɤΰ�ݤ
+å8�ޤ
+[Wait 60]
+[TWinTop][dcs]
+å6��Ϥ�礭
+ɤ�٥�$Τ�
+;ʤ뤤Τ�Ƥۤ
+[TWinBtm][Wait 20]Ϥꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x31f975
+# @@??????@@
+[block b233]
+[resolve b231]
+
+[exit]
+
+
+# 0x31f97b
+# @@??????@@
+[block b234]
+[resolve b235]
+[resolve b236]
+
+[exit]
+
+
+# 0x31f986
+# @@??????@@
+[block b237]
+[resolve b235]
+��[$00$22]λ⡦[resolve b236]
+
+[exit]
+
+
+# 0x31f9a1
+# @@??????@@
+[block b235]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]⥨å$ˡ
+
+[TWinBtm][Wait 20]Ϥå$νƻ���ݤ줿͡ĤΤǤ
+
+[exit]
+
+
+# 0x31f9e8
+# @@??????@@
+[block b236]
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]餷�䤫��$꤬Ȥ
+
+[TWinBtm][Wait 20]ꥹ�⡢ɤǡ
+[Wait 60]
+[exit]
+
+
+# 0x31fa2e
+# @@??????@@
+[block b238]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ޣ˹Ԥ
+
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+ʤ�Ԥʤ
+䤿�ͤʤ顢ɤʤ˿ɤȤǤ�ޤǤ�硪[Wait 60]
+[exit]
+
+
+# 0x31fa9b
+# @@??????@@
+[block b239]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ޣ˹Ԥ
+
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+ʤ�ǤϹԤʤ
+[Wait 60][cs]
+䤿�ͤʤ顢
+ɤʤ˿ɤȤäƤ⡢
+�ƹԤ�[Wait 60]
+[exit]
+
+
+# 0x31fb15
+# @@??????@@
+[block b240]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ޣ˹Ԥ
+
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+ʤ�ǤϹԤޤ
+䤿�ͤʤ顢ɤʤ˿ɤȤǤ�ޤǤ�Ǥ[Wait 60]
+[exit]
+
+
+# 0x31fb85
+# @@??????@@
+[block b241]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ޣ˹Ԥ
+
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+ʤ�Ԥʤ
+䤿�ͤʤ顢ɤʤ˿ɤȤǤ�ޤǤ��Wait 60]
+[exit]
+
+
+# 0x31fbf1
+# @@??????@@
+[block b242]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]��ޣ˹Ԥ
+
+[TWinBtm][Wait 20][$00$22]
+[Wait 60]
+[TWinTop][dcs]
+ʤ�Ԥʤ
+䤿�ͤʤ顢ɤʤ˿ɤȤǤ�ޤǤ�礦[Wait 60]
+[exit]
+
+
+# 0x31fc5e
+# @@??????@@
+[block b243]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]ꥹ�ե�ΤȤ�ˤޤƲ
+[Wait 60][cs]
+
+[TWinTop][$00$22]��˹ԤäƤ�Τ
+
+[TWinBtm][Wait 20]ե�ˤϵ�ɬ�$顢
+Ф餯ϡ
+˵٤ޤƤ�Wait 60]
+[TWinTop][dcs]
+$͡ߤθ$Ȥ�
+[$00$22]ե�$�
+[TWinBtm][Wait 20]Ϥ  ꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x31fd1f
+# @@??????@@
+[block b244]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]ꥹ�ե�ΤȤ��ޤ
+[Wait 60][cs]
+
+[TWinTop][$00$22]��˹ԤäƤ�Τ
+
+[TWinBtm][Wait 20]Ϥե�ˤϵ�ɬ�Ǥ
+Ф餯ϡ
+˵٤ޤƤΤǤ[Wait 60]
+[TWinTop][dcs]
+$͡ߤθ$Ȥ�
+[$00$22]ե�$�
+[TWinBtm][Wait 20]Ϥ  ꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x31ede0
+# @@??????@@
+[block b245]
+
+[TWinBtm][DlgOpn]['Lester' 0037]ꥹ�
+Ǥϻ����ޤ
+[Wait 60][cs]
+
+[TWinTop]쥹�
+ݤǤ�ΤϿ�
+[TWinBtm][Wait 20]ۥȤϥ֥ꥮåɸλҶã
+ݤΤڤ$ɡ��
+[Wait 60][dcs]
+ǥ���äơ
+䤬�Ʒޤ
+[Wait 60][cs]
+��٥벦Ȥʤ�ꥹ�ˡ
+�?�ޤ[Wait 60]
+[exit]
+
+
+# 0x31fe4b
+# @@??????@@
+[block b246]
+
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop]졩  [$00$22]
+ߤ�Τ
+
+[TWinBtm][Wait 20][$00$23]�ȡ
+[Wait 60]
+[TWinTop][dcs]
+�Ȥ
+�ͤιΤäƤ�
+
+[TWinBtm][Wait 20]Ϥ꤬Ȥޤ
+[Wait 60]
+[exit]
+
+
+# 0x31feb9
+# @@??????@@
+[block b247]
+ꥹ�
+錄�$00$23]Ȱ��쥸˹Ԥޤ[Wait 60][cs]
+
+[TWinTop][$00$22]⡩
+�褫ä
+[Wait 60][cs]
+[$00$23]�Ϥ碌
+쥸ο͡Ƥۤ
+
+[TWinBtm][Wait 20]Ф��[Wait 60]
+[exit]
+
+
+# 0x31ff2b
+# @@??????@@
+[block b248]
+ꥹ�
+錄�$00$23]ȤȤ�
+쥸ˤޤ�[Wait 60][cs]
+
+[TWinTop][$00$22]⡩
+�褫ä
+[Wait 60][cs]
+[$00$23]�Ϥ碌
+쥸ο͡Ƥۤ
+
+[TWinBtm][Wait 20]Ϥꥹ�
+[Wait 60]
+[exit]
+
+
+# 0x32c013
+# @@??????@@
+[block b249]
+[resolve b250]
+
+[exit]
+
+
+# 0x32c019
+# @@??????@@
+[block b251]
+[resolve b250]
+[$00$2D$CC$BC$91]
+[exit]
+
+
+# 0x32c024
+# @@??????@@
+[block b250]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]ꥹ�
+[Wait 60][cs]
+
+[TWinTop][$00$23]ߤˤ��ֿɤ��ĤƤޤä
+ޤʤȻפäƤ�[TWinBtm][Wait 20]
+�ޣ߲Ȥ�Ĥ�ơ
+[Wait 60][dcs]
+�  �
+Ĥʤ�Фʤ�
+[Wait 60][cs]
+�郎�
+�δꤤǤ⤢�
+[Wait 60][cs]
+
+[TWinTop][$00$23]�⤦
+��ǤϤʤ
+[Wait 60][cs]
+�ϱ̿˲Ĥ֤줿�ͤ��ĤäƤƤۤ
+
+[TWinBtm][Wait 20]ꥹ�
+꤬Ȥޤ
+[Wait 60][dcs]
+�Υ�ޣȤ�ֱ��ϡפ  �dΤ뤷!פ�$��͡˸$��[Wait 60][cs]
+ФäƤȻפޤ
+[Wait 60]
+[exit]
+
+
+# 0x32c1a5
+# @@??????@@
+[block b252]
+[resolve b250]
+
+[exit]
+
+
+# 0x32c1ab
+# @@??????@@
+[block b253]
+[resolve b254]
+[Wait 60][cs]
+Ǥ⡢�ޣ�ߤ�ͤμ�äƤ�ФäƺƷƤۤ
+[TWinBtm][Wait 20]Ϥޤ
+[Wait 60]
+[exit]
+
+
+# 0x32c1fc
+# @@??????@@
+[block b255]
+[resolve b254]
+
+[TWinBtm][Wait 20][$00$22]��
+d��ᤷ�[Wait 60]
+[TWinTop][dcs]
+�Ϥ狼�Ǥ⸵Ф�[Wait 60][cs]
+�ޣ�ߤdμ�äƤ롢
+�ͤǤФäƤۤ
+[TWinBtm][Wait 20]Ϥޤ
+[Wait 60]
+[exit]
+
+
+# 0x32c27c
+# @@??????@@
+[block b254]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]
+[TWinTop][$00$23]��ޣ$�ɤǤ�
+[TWinBtm][Wait 20]ϤǤ⤵ߤʤä�Уϥ�ͷӤ��⤤Ǥ
+[Wait 60]
+[TWinTop][dcs]
+��ĤǤ⤪Ǥ�
+[exit]
+
+
+# 0x32c2e0
+# @@??????@@
+[block b256]
+[resolve b257]
+
+[exit]
+
+
+# 0x32c2e6
+# @@??????@@
+[block b258]
+[resolve b257]
+[$00$2D$D1$BC$91]
+[exit]
+
+
+# 0x32c2f1
+# @@??????@@
+[block b257]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Oifaye' 0027]Ǥϥꥹ�
+��ˤޤ�
+[Wait 60][cs]
+
+[TWinTop]áʤ%ե
+�Ϥʤɬ��[Wait 60][cs]
+äȻ�ФˤƤ���פäƤ
+
+[TWinBtm][Wait 20]ꥹ�
+ʤϤ⤦Ω�ˤ�ƹԤޤ
+[Wait 60][dcs]
+��ꥹ���ä���ͤФʤ�
+[Wait 60][cs]
+
+[TWinTop]�$ä
+Τ˥եθ$Ȥ�
+[Wait 60][cs]
+䤬ݤʤʾ塢
+߲Ȥη�Ĥʤ뤢ʤ
+�ˤϻĤ�ʤ[Wait 60][cs]
+�$ɤ�뤷ʤΤ
+
+[TWinBtm][Wait 20]¿
+���ꥹ��ޤ[Wait 60]
+[TWinTop][dcs]
+ե
+ʤ����Ȥäơ
+ޤˡ�夽Τ�$ä[Wait 60][cs]
+�ά
+ΤȤƤιԤ
+�Ƥ줿[Wait 60][cs]
+ʤˤϴդθ�դ�פФʤ
+
+[TWinBtm][Wait 20]ꥹ�
+�ʤ��ˤ�Ǥ[Wait 60][dcs]
+��ϸɻȤʤä��
+�Τ褦˲İäƤ$ޤ
+[Wait 60][cs]
+�Τ˻�
+��κǴ⸫Ȥɤ�
+����Ǥ[Wait 60][cs]
+
+[TWinTop]ե㤫ʤǤ衦
+ܤ$äơ
+
+[TWinBtm][Wait 20]Ϥá��
+Ǥϡꥹ�ɤ
+[Wait 60]
+[TWinTop][dcs]
+ե⸵Ǥ͡
+[Wait 60]
+[exit]
+
+
+# 0x32c5e5
+# @@??????@@
+[block b259]
+[resolve b260]
+
+[exit]
+
+
+# 0x32c5eb
+# @@??????@@
+[block b261]
+[resolve b260]
+[$00$2D$D6$BC$91]
+[exit]
+
+
+# 0x32c5f6
+# @@??????@@
+[block b260]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Sety' 0035]ꥹ�ʤ�
+桹⼺�ޤ
+[Wait 60][cs]
+
+[TWinTop][$00$23]ϥ쥸˵�
+
+[TWinBtm][Wait 20]Ϥˤ��ο͡�äƤޤ
+[Wait 60][dcs]
+����쥸���ԤĤ�Ǥޤ[Wait 60][cs]
+
+[TWinTop]
+ߤ�Ϥ�쥸ϰ¿$�Ǥϡǡͦ�$00$23]
+[TWinBtm][Wait 20]Ϥꥹ�⡪
+[Wait 60]
+[exit]
+
+
+# 0x32c6cd
+# @@??????@@
+[block b262]
+[resolve b263]
+�
+[Wait 60]
+[TWinTop][dcs]
+[$00$22]Τȡ
+
+[TWinBtm][Wait 20]
+[Wait 60]
+[TWinTop][dcs]
+�[$00$23]�ޤ�
+[TWinBtm][Wait 20]
+ꥹ�櫓㤢�
+�ʤ䡢⤦Ԥޤ[Wait 60]
+[TWinTop][dcs]
+[Wait 0C]
+[TWinBtm][DlgCls][xChr][Wait 18]
+[TWinTop][$00$23]
+[Wait 60]
+[exit]
+
+
+# 0x32c75f
+# @@??????@@
+[block b264]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Fee' 003C]
+[TWinTop][$00$23]⥷쥸˵�$���
+
+[TWinBtm][Wait 20]Ϥ�[Wait 60]
+[TWinTop][dcs]
+ڥΥޣ˥�
+
+[TWinBtm][Wait 20]$�[Wait 60]
+[TWinTop][dcs]
+[$00$23]ϡ
+
+[TWinBtm][Wait 20]�$�[Wait 60]
+[TWinTop][dcs]
+ϤϤϡ[$00$23]餷�
+[TWinBtm][Wait 20]鸵�夲�ʤˤ�ʤäơ
+ꥹ�$Ǥ�Wait 60]
+[TWinTop][dcs]
+�ʤ狼ä
+
+[TWinBtm][Wait 20]⤩Ҥɤ$�㤢��
+ꥹ�⡢Ǥ͡[Wait 60]
+[exit]
+
+
+# 0x32c854
+# @@??????@@
+[block b263]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Fee' 003C]
+[TWinTop][$00$23]⥷쥸˵�$���
+
+[TWinBtm][Wait 20]Ϥ
+[Wait 60]
+[TWinTop][dcs]
+ڥΥޣ˥�
+
+[TWinBtm][Wait 20]Ǥ
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]ϡ
+
+[TWinBtm][Wait 20]
+[exit]
+
+
+# 0x32c8b7
+# @@??????@@
+[block b265]
+[resolve b266]
+
+[TWinTop][dcs]
+[DlgCls][xChr][Wait 20]
+[TWinTop][DlgOpn]['Levin' 0280][resolve b267]
+�Ϥ狼  �
+쥸ˤ��ɬ�ʤΤǤ
+[Wait 60][dcs]
+ɤɤꤤǤ
+쥸ˤ�겼
+[Wait 60][cs]
+
+[TWinTop]ɤ[$00$23]
+�ޤ餻�
+[Wait 60][cs]
+ޤϤ⤦�Ƥ��$���[$00$23]
+[TWinBtm][Wait 20]�塦
+[Wait 60]
+[exit]
+
+
+# 0x32c969
+# @@??????@@
+[block b268]
+[resolve b266]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$2D$DB$BC$91]
+[TWinTop][dcs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Levin' 0280][$00$22][$00$23]�  $
+�쥸ؤϹԤ�쥸Ϥޤã�ͤǼ�[Wait 20]
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2F]áɤƤǤ�塪
+⤦�Ͻ�ΤǤ
+�˹ؤ�겼[Wait 60]
+[TWinTop][dcs]
+䡢���Ͻ�Τ�[Wait 60][cs]
+¾ιǤ��쥸�
+8ޤ�Ѥ�ͤФʤ�[Wait 60][cs]
+Τ�ϡ
+ޤΤ褦ʼ㤤�ɬ��
+[TWinBtm][Wait 20]�Ϥ狼  �
+쥸ˤ��ɬ�ʤΤǤ
+[Wait 60][dcs]
+ɤɤꤤǤ
+쥸ˤ�겼
+[Wait 60]
+[TWinTop][dcs]
+ɤ[$00$23]
+�ޤ餻�
+[Wait 60][cs]
+ޤϤ⤦�Ƥ��$ʡ[$00$23][Wait 20]
+[TWinBtm]�塦
+[Wait 60]
+[exit]
+
+
+# 0x32cb0c
+# @@??????@@
+[block b269]
+[resolve b266]
+
+[TWinTop][dcs]
+[DlgCls][xChr][Wait 20]
+[TWinTop][DlgOpn]['Levin' 0280][resolve b267]
+�Ϥ狼  �
+쥸ˤ��ɬ�ʤΤǤ
+[Wait 60][dcs]
+ɤɤꤤǤ
+쥸ˤ�겼
+[Wait 60][cs]
+
+[TWinTop]ɤ[$00$23]
+�ޤ餻�
+[Wait 60][cs]
+ޤϤ⤦�Ƥ��$���[$00$23]
+[TWinBtm][Wait 20]�塦
+[Wait 60]
+[TWinTop][dcs]
+�䡢�ȤϤʤ
+Ԥ  쥸�  $
+[Wait 60]
+[exit]
+
+
+# 0x32cbee
+# @@??????@@
+[block b270]
+[resolve b268]
+
+[TWinTop][dcs]
+�䡢�ȤϤʤ
+Ԥ  쥸�  $
+[Wait 60]
+[exit]
+
+
+# 0x32cc24
+# @@??????@@
+[block b266]
+[resolve b271]
+Ϥ���ؤ�
+����褦ʿͤˤʤꤿ��Ƥޤ[Wait 60]
+[exit]
+
+
+# 0x32cc64
+# @@??????@@
+[block b271]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]Ǥϥꥹ�
+���ˡ쥸˵�
+� �$�ˤʤ�[Wait 60][cs]
+
+[TWinTop][$00$23]Ϥ��Τ褦��
+Ƥ�  $�
+[TWinBtm][Wait 20]
+[exit]
+
+
+# 0x32ccd2
+# @@??????@@
+[block b267]
+[$00$23]�쥸ؤϹԤ�쥸Ϥޤ�
+[TWinBtm][Wait 20]áɤƤǤ�塪
+⤦�Ͻ�ΤǤ
+�˹ؤ�겼[Wait 60]
+[TWinTop][dcs]
+䡢���Ͻ�Τ�[Wait 60][cs]
+¾ιǤ��쥸�
+8ޤ�Ѥ�ͤФʤ�[Wait 60][cs]
+Τ�ϡ
+ޤΤ褦ʼ㤤�ɬ��
+[TWinBtm][Wait 20]
+[exit]
+
+
+# 0x32cda1
+# @@??????@@
+[block b272]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn][$00$2F]Ǥϥꥹ�
+���ˡ쥸˵�
+� �$�ˤʤ�[Wait 60][cs]
+
+[TWinTop][DlgCls][xChr]
+[TWinTop][DlgOpn]['Levin' 0280][$00$23]�쥸ؤϹԤ�쥸Ϥޤ�
+[TWinBtm][Wait 20]áɤ�⤦�Ͻ�ΤǤ礦
+�˹ؤ�겼[Wait 60]
+[TWinTop][dcs]
+䡢���Ͻ�Τ�[Wait 60][cs]
+¾ιǤ��쥸�
+8ޤ�Ѥ�ͤФʤ�[Wait 60][cs]
+Τ�ϡ
+ޤΤ褦ʼ㤤�ɬ��
+[TWinBtm][Wait 20]錄ˤϡ狼  �
+쥸ˤϡ
+錄ˤϡ�夬ɬ�ʤΤǤ[Wait 60][dcs]
+ɤɤꤤǤ
+錄ȶ˥쥸ˤ�겼
+[Wait 60][cs]
+
+[TWinTop][$00$23]�ࡦ
+�塢�餻ʤǤ졦
+
+[TWinBtm][Wait 20]�ޡ
+[Wait 60]
+[TWinTop][dcs]
+�䡢�ȤϤʤ
+Ԥ  쥸�  $
+[Wait 60]
+[exit]
+
+
+# 0x32cf8d
+# @@??????@@
+[block b273]
+
+[TWinBtm][dcs]
+[DlgCls][xChr][DlgOpn][$00$2F]�äƤ衢
+�äɤȡ
+[Wait 60][cs]
+�ޤ�ޤ䤿dΤƤ�ä�Ρ
+[Wait 60][cs]
+ʤεʤ
+ɤȤʤΤ��Ʋ
+[Wait 60][cs]
+
+[TWinTop][$00$23]�ࡦ
+�塢�餻ʤǤ졦
+
+[TWinBtm][Wait 20]�ޡ
+[Wait 60][resolve b274]
+
+[exit]
+
+
+# 0x32d045
+# @@??????@@
+[block b274]
+
+[TWinTop][dcs]
+�䡢�ȤϤʤ
+Ԥ  쥸�  $
+[Wait 60]
+[exit]
+
+
+# 0x32d076
+# @@??????@@
+[block b275]
+[TextSpd 06][$00$14$03]
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Levin' 0280]Ǥϥꥹ衢̾Ĥ�ˤ
+�ιΩĤȤ褦
+[Wait 60][cs]
+
+[TWinTop]�꤬Ȥ
+ʤϡ䤿�ĤԤ
+äȸ�ƤƤ줿[Wait 60][cs]
+��ˡդƤޤ
+
+[TWinBtm][Wait 20]�ߤ�̳�̤ޤ����Ƴ�
+[Wait 60][dcs]
+Ƹϡ
+ޤã��ο���[Wait 60][cs]
+
+[TWinTop]Ϥ狼äƤޤ
+ε²Ͽ��˳Ϳ뤳Ȥ
+��ޤ[Wait 60][cs]
+Ǥ⡢ʤϡ�ݤ�äƤޤ���ƳƤ줿
+[Wait 60][cs]
+䤿dϡ��Ϥ뤫ꡢ
+ʤΤ˺�
+[Wait 60][cs]
+�䡦
+Ϥ뤫ʤ���
+�Υե륻ƥ衦[Wait C0]
+[exit]

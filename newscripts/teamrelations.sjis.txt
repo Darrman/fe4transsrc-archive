@@ -1,0 +1,13 @@
+[mode-sjis]
+
+# @@775331@@
+Us[exit]
+
+# @@775334@@
+Them[exit]
+
+# @@775337@@
+Ally[exit]
+
+# @@775340@@
+Neut[exit]

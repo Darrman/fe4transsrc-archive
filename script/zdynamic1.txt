@@ -1,0 +1,379 @@
+# 0 10 dynaclasses
+
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering class names whereever they are used in a dialogue sense.
+# Eg: Class Change dialogue
+# Not: Character Status Screen
+
+[section dynaclasses]
+[map 10]
+[bits16]
+[nospaces]
+[nocompress]
+
+
+# 0xd9b22
+# @@891538@@
+SoclKnt[exit]
+
+
+# 0xd9b2b
+# @@891540@@
+LnceKnt[exit]
+
+
+# 0xd9b33
+# @@891542@@
+ArchKnt[exit]
+
+
+# 0xd9b3b
+# @@891544@@
+AxeKnt[exit]
+
+
+# 0xd9b43
+# @@891546@@
+FreeKnt[exit]
+
+
+# 0xd9b4b
+# @@891548@@
+Troubadour[exit]
+
+
+# 0xd9b53
+# @@891550@@
+LordKnight[exit]
+
+
+# 0xd9b5b
+# @@891552@@
+DukeKnight[exit]
+
+
+# 0xd9b64
+# @@891554@@
+MasterKnight[exit]
+
+
+# 0xd9b6d
+# @@891556@@
+Paladin[exit]
+
+
+# 0xd9b6d
+# @@891558@@
+Paladin[exit]
+
+
+# 0xd9b74
+# @@891560@@
+BowKnight[exit]
+
+
+# 0xd9b7b
+# @@891562@@
+ForestKnight[exit]
+
+
+# 0xd9b85
+# @@891564@@
+MageKnight[exit]
+
+
+# 0xd9b8d
+# @@891566@@
+GreatKnight[exit]
+
+
+# 0xd9b96
+# @@891568@@
+PgRdr[exit]
+
+
+# 0xd9ba0
+# @@891570@@
+PgKnt[exit]
+
+
+# 0xd9ba9
+# @@891572@@
+FalconKnight[exit]
+
+
+# 0xd9bb3
+# @@891574@@
+DgRdr[exit]
+
+
+# 0xd9bbd
+# @@891576@@
+DgKnt[exit]
+
+
+# 0xd9bc6
+# @@891578@@
+DragonMaster[exit]
+
+
+# 0xd9bd0
+# @@891580@@
+BwFtr[exit]
+
+
+# 0xd9bd9
+# @@891582@@
+SwFtr[exit]
+
+
+# 0xd9be3
+# @@891584@@
+SwordMaster[exit]
+
+
+# 0xd9bec
+# @@891586@@
+Sniper[exit]
+
+
+# 0xd9bf3
+# @@891588@@
+Forrest[exit]
+
+
+# 0xd9bfb
+# @@891590@@
+General[exit]
+
+
+# 0xd9c02
+# @@891592@@
+Emperor[exit]
+
+
+# 0xd9c09
+# @@891594@@
+Baron[exit]
+
+
+# 0xd9c0e
+# @@891596@@
+
+[exit]
+
+
+# 0xd9c15
+# @@891598@@
+
+[exit]
+
+
+# 0xd9c1f
+# @@891600@@
+
+[exit]
+
+
+# 0xd9c29
+# @@891602@@
+
+[exit]
+
+
+# 0xd9c30
+# @@891604@@
+
+[exit]
+
+
+# 0xd9c3a
+# @@891606@@
+Amr[exit]
+
+
+# 0xd9c40
+# @@891608@@
+AxAmr[exit]
+
+
+# 0xd9c49
+# @@891610@@
+BwAmr[exit]
+
+
+# 0xd9c51
+# @@891612@@
+SwAmr[exit]
+
+
+# 0xd9c5a
+# @@891614@@
+Brigand[exit]
+
+
+# 0xd9c62
+# @@891616@@
+AxFtr[exit]
+
+
+# 0xd9c6c
+# @@891618@@
+MThief[exit]
+
+
+# 0xd9c76
+# @@891620@@
+Warrior[exit]
+
+
+# 0xd9c7d
+# @@891622@@
+Hunter[exit]
+
+
+# 0xd9c83
+# @@891624@@
+Pirate[exit]
+
+
+# 0xd9c8a
+# @@891626@@
+JuniorLord[exit]
+
+
+# 0xd9c93
+# @@891628@@
+MageFighter[exit]
+
+
+# 0xd9c9d
+# @@891630@@
+Prince[exit]
+
+
+# 0xd9ca3
+# @@891632@@
+Princess[exit]
+
+
+# 0xd9caa
+# @@891634@@
+MageFighter[exit]
+
+
+# 0xd9cb4
+# @@891636@@
+Queen[exit]
+
+
+# 0xd9cba
+# @@891638@@
+Dancer[exit]
+
+
+# 0xd9cc3
+# @@891640@@
+Priest[exit]
+
+
+# 0xd9cca
+# @@891642@@
+Mage[exit]
+
+
+# 0xd9ccf
+# @@891644@@
+FireMage[exit]
+
+
+# 0xd9cd8
+# @@891646@@
+ThunderMage[exit]
+
+
+# 0xd9ce4
+# @@891648@@
+WindMage[exit]
+
+
+# 0xd9ced
+# @@891650@@
+HighPriest[exit]
+
+
+# 0xd9cf6
+# @@891652@@
+Bishop[exit]
+
+
+# 0xd9cfd
+# @@891654@@
+Sage[exit]
+
+
+# 0xd9d02
+# @@891656@@
+Bard[exit]
+
+
+# 0xd9d07
+# @@891658@@
+Shaman[exit]
+
+
+# 0xd9d0e
+# @@891660@@
+DarkMage[exit]
+
+
+# 0xd9d16
+# @@891662@@
+DarkBishop[exit]
+
+
+# 0xd9d1d
+# @@891664@@
+Thief[exit]
+
+
+# 0xd9d22
+# @@891666@@
+ThiefFighter[exit]
+
+
+# 0xd9d2c
+# @@891668@@
+Civilian[exit]
+
+
+# 0xd9d33
+# @@891670@@
+Civilian[exit]
+
+
+# 0xd9d3a
+# @@891672@@
+LongArc[exit]
+
+
+# 0xd9d42
+# @@891674@@
+IronArc[exit]
+
+
+# 0xd9d4b
+# @@891676@@
+KillArc[exit]
+
+
+# 0xd9d53
+# @@891678@@
+GreatArc[exit]
+
+
+# 0xd9d5c
+# @@891680@@
+DarkPrince[exit]

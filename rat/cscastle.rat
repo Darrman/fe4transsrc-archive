@@ -1,0 +1,9 @@
+.rat
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# RAT for the castle names in the cutscenes
+SECTION PUBLIC
+        0D92B5-0D9384
+        0D9393-0D940C
+END

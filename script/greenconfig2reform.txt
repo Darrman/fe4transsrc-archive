@@ -1,0 +1,13 @@
+# Last Modified: 06/07/04
+# This file was added by Dark Twilkitri
+
+# Yeah, this requires reformatting too :P
+# Only the one option, though...
+
+[noptr]
+[mode-notext]
+
+# Fast X location
+# @@651565@@
+0x1A
+[exit]

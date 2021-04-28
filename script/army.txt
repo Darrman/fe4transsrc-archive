@@ -1,5 +1,11 @@
 # 7 6 army
 
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is for altering the army names, as used in the Phase description
+# at the start of each turn, and in the Data Screen.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used 
 #      to replace all Japanese elements with English
@@ -70,7 +76,7 @@ Agusty
 # @@252656@@
 
 #?n?C???C???R
-Heirhein
+Herhein
 
 #*# [exit]
 
@@ -97,7 +103,7 @@ Nodion
 # @@252662@@
 
 #???F???g?}?[?R
-Velthomer
+Velthom
 
 #*# [exit]
 
@@ -259,7 +265,7 @@ Lubeck
 # @@252698@@
 
 #?e?B???i?m?O?R
-Tilnanogue
+Tilnano
 
 #*# [exit]
 
@@ -268,7 +274,7 @@ Tilnanogue
 # @@252700@@
 
 #?K?l?[?V???R
-Ganeishire
+Ganeish
 
 #*# [exit]
 
@@ -376,7 +382,7 @@ Miletos
 # @@252724@@
 
 #?y?????[?N?R
-Peruluke
+Peruluk
 
 #*# [exit]
 
@@ -412,7 +418,7 @@ Mease
 # @@252732@@
 
 #?J?p?g?M?A?R
-Kapathogia
+Kapatho
 
 #*# [exit]
 
@@ -421,7 +427,7 @@ Kapathogia
 # @@252734@@
 
 #???e?L?A?R
-Luthecia
+Lutheci
 
 #*# [exit]
 
@@ -448,7 +454,7 @@ Grutia
 # @@252740@@
 
 #???F???g?}?[?R
-Velthomer
+Velthom
 
 #*# [exit]
 
@@ -511,7 +517,7 @@ Jungby
 # @@252754@@
 
 #?V?O???h?R
-Siglud's army
+Sigurd
 
 #*# [exit]
 
@@ -520,6 +526,6 @@ Siglud's army
 # @@252756@@
 
 #?Z???X?R
-Celice's army
+Celice
 
 #*# [exit]

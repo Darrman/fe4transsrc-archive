@@ -1,5 +1,12 @@
 # 6 5 chrnam
 
+# Last modified: 08/06/04
+# This file was modified by Dark Twilkitri
+
+# This file is for altering the character names whereever they are used in a status sense.
+# Eg: In the speech bubbles on the map; in the data screen; etc.
+# Not in dialogue.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English
@@ -34,7 +41,7 @@
 # @@236633@@
 
 #?V?O???h
-Siglud
+Sigurd
 
 #*# [exit]
 
@@ -88,7 +95,7 @@ Cuan
 # @@236645@@
 
 #?~?f?F?[??
-Midayle
+Midale
 
 #*# [exit]
 
@@ -97,7 +104,7 @@ Midayle
 # @@236647@@
 
 #?????B??
-Levn
+Levin
 
 #*# [exit]
 
@@ -124,7 +131,7 @@ Azel
 # @@236653@@
 
 #?W?????J
-Jamka
+Jamuka
 
 #*# [exit]
 
@@ -133,7 +140,7 @@ Jamka
 # @@236655@@
 
 #?N???[?h
-Claud
+Claude
 
 #*# [exit]
 
@@ -142,7 +149,7 @@ Claud
 # @@236657@@
 
 #?x?I?E???t
-Beowolf
+Beowulf
 
 #*# [exit]
 
@@ -169,7 +176,7 @@ Dew
 # @@236663@@
 
 #?f?B?A?h??
-Diadora
+Dierdre
 
 #*# [exit]
 
@@ -187,7 +194,7 @@ Ethlin
 # @@236667@@
 
 #???P?V?X
-Rackesis
+Lachesis
 
 #*# [exit]
 
@@ -205,7 +212,7 @@ Ira
 # @@236671@@
 
 #?t?????[
-Ferry
+Fury
 
 #*# [exit]
 
@@ -214,7 +221,7 @@ Ferry
 # @@236673@@
 
 #?e?B???e??
-Tailto
+Tailtiu
 
 #*# [exit]
 
@@ -232,7 +239,7 @@ Sylvia
 # @@236677@@
 
 #?G?[?f?B??
-Adean
+Edain
 
 #*# [exit]
 
@@ -241,7 +248,7 @@ Adean
 # @@236679@@
 
 #?u???M?b?h
-Briggid
+Brigid
 
 #*# [exit]
 
@@ -268,7 +275,7 @@ Shanan
 # @@236685@@
 
 #???h???o??
-Roddlevan
+Rodolban
 
 #*# [exit]
 
@@ -349,7 +356,7 @@ Dimna
 # @@236703@@
 
 #?n???j?o??
-Hannibal
+Hanibal
 
 #*# [exit]
 
@@ -376,7 +383,7 @@ Amid
 # @@236709@@
 
 #?I?C?t?F
-Oifey
+Oifaye
 
 #*# [exit]
 
@@ -394,7 +401,7 @@ Daisy
 # @@236713@@
 
 #???h?l?C
-Radney
+Radnay
 
 #*# [exit]
 
@@ -412,7 +419,7 @@ Mana
 # @@236717@@
 
 #?????A
-Yuria
+Julia
 
 #*# [exit]
 
@@ -475,7 +482,7 @@ Johalva
 # @@236731@@
 
 #?X?J?T?n
-Skasaher
+Skasaha
 
 #*# [exit]
 
@@ -493,7 +500,7 @@ Faval
 # @@236735@@
 
 #?R?[?v??
-Corpul
+Corple
 
 #*# [exit]
 
@@ -556,7 +563,7 @@ Lakche
 # @@236749@@
 
 #???i
-Lana
+Rana
 
 #*# [exit]
 
@@ -565,7 +572,7 @@ Lana
 # @@236751@@
 
 #?t?B?[
-Phee
+Fee
 
 #*# [exit]
 
@@ -574,7 +581,7 @@ Phee
 # @@236753@@
 
 #?e?B?j?[
-Teeny
+Tinny
 
 #*# [exit]
 
@@ -583,7 +590,7 @@ Teeny
 # @@236755@@
 
 #???[??
-Leen
+Lynn
 
 #*# [exit]
 
@@ -601,7 +608,7 @@ Nanna
 # @@236759@@
 
 #?Q?????h
-Gerard
+Gerrard
 
 #*# [exit]
 
@@ -610,7 +617,7 @@ Gerard
 # @@236761@@
 
 #?f?}?W?I
-Demagio
+DiMaggio
 
 #*# [exit]
 
@@ -619,7 +626,7 @@ Demagio
 # @@236763@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -628,7 +635,7 @@ Verdane army
 # @@236765@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -637,7 +644,7 @@ Verdane army
 # @@236767@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -646,7 +653,7 @@ Verdane army
 # @@236769@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -655,7 +662,7 @@ Verdane army
 # @@236771@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -664,7 +671,7 @@ Verdane army
 # @@236773@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -682,7 +689,7 @@ Kinbois
 # @@236777@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -691,7 +698,7 @@ Verdane army
 # @@236779@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -700,7 +707,7 @@ Verdane army
 # @@236781@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -709,7 +716,7 @@ Verdane army
 # @@236783@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -727,7 +734,7 @@ Gandolf
 # @@236787@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -736,7 +743,7 @@ Commander
 # @@236789@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -745,7 +752,7 @@ Verdane army
 # @@236791@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -754,7 +761,7 @@ Verdane army
 # @@236793@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -772,7 +779,7 @@ Sandima
 # @@236797@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -781,7 +788,7 @@ Verdane army
 # @@236799@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -790,7 +797,7 @@ Verdane army
 # @@236801@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -799,7 +806,7 @@ Commander
 # @@236803@@
 
 #???F???_????
-Verdane army
+Verdane
 
 #*# [exit]
 
@@ -826,7 +833,7 @@ Elliot
 # @@236809@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -835,7 +842,7 @@ Heirhein army
 # @@236811@@
 
 #?G???g?V????
-Eltshan
+Eltosian
 
 #*# [exit]
 
@@ -844,7 +851,7 @@ Eltshan
 # @@236813@@
 
 #?N???X?i?C?c
-Cross Knights
+CrossKnt
 
 #*# [exit]
 
@@ -853,7 +860,7 @@ Cross Knights
 # @@236815@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -871,7 +878,7 @@ Boldo
 # @@236819@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -889,7 +896,7 @@ Philip
 # @@236823@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -898,7 +905,7 @@ Heirhein army
 # @@236825@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -907,7 +914,7 @@ Heirhein army
 # @@236827@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -916,7 +923,7 @@ Heirhein army
 # @@236829@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -925,7 +932,7 @@ Heirhein army
 # @@236831@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -934,7 +941,7 @@ Heirhein army
 # @@236833@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -952,7 +959,7 @@ Elliot
 # @@236837@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -961,7 +968,7 @@ Heirhein army
 # @@236839@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -970,7 +977,7 @@ Heirhein army
 # @@236841@@
 
 #?n?C???C????
-Heirhein army
+Heirhein
 
 #*# [exit]
 
@@ -979,7 +986,7 @@ Heirhein army
 # @@236843@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -988,7 +995,7 @@ Commander
 # @@236845@@
 
 #?A???t?H?j?[??
-Anphony army
+Anphony
 
 #*# [exit]
 
@@ -1006,7 +1013,7 @@ Thief
 # @@236849@@
 
 #?}?b?L???[??
-Mackily army
+Mackily
 
 #*# [exit]
 
@@ -1033,7 +1040,7 @@ Macbeth
 # @@236855@@
 
 #?A???t?H?j?[??
-Anphony army
+Anphony
 
 #*# [exit]
 
@@ -1042,7 +1049,7 @@ Anphony army
 # @@236857@@
 
 #?A???t?H?j?[??
-Anphony army
+Anphony
 
 #*# [exit]
 
@@ -1051,7 +1058,7 @@ Anphony army
 # @@236859@@
 
 #?A???t?H?j?[??
-Anphony army
+Anphony
 
 #*# [exit]
 
@@ -1069,7 +1076,7 @@ Voltz
 # @@236863@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -1087,7 +1094,7 @@ Clement
 # @@236867@@
 
 #?}?b?L???[??
-Mackily army
+Mackily
 
 #*# [exit]
 
@@ -1096,7 +1103,7 @@ Mackily army
 # @@236869@@
 
 #?}?b?L???[??
-Mackily army
+Mackily
 
 #*# [exit]
 
@@ -1105,7 +1112,7 @@ Mackily army
 # @@236871@@
 
 #?}?b?L???[??
-Mackily army
+Mackily
 
 #*# [exit]
 
@@ -1114,7 +1121,7 @@ Mackily army
 # @@236873@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1123,7 +1130,7 @@ Commander
 # @@236875@@
 
 #?}?b?L???[??
-Mackily army
+Mackily
 
 #*# [exit]
 
@@ -1141,7 +1148,7 @@ Shagall
 # @@236879@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1150,7 +1157,7 @@ Agusty army
 # @@236881@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1159,7 +1166,7 @@ Agusty army
 # @@236883@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1168,7 +1175,7 @@ Commander
 # @@236885@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1177,7 +1184,7 @@ Agusty army
 # @@236887@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1186,7 +1193,7 @@ Commander
 # @@236889@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1195,7 +1202,7 @@ Agusty army
 # @@236891@@
 
 #?t?????[????
-Ferry's squad
+FurySqd
 
 #*# [exit]
 
@@ -1213,7 +1220,7 @@ Zain
 # @@236895@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1222,7 +1229,7 @@ Agusty army
 # @@236897@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1231,7 +1238,7 @@ Agusty army
 # @@236899@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1240,7 +1247,7 @@ Agusty army
 # @@236901@@
 
 #?A?O?X?e?B??
-Agusty army
+Agusty
 
 #*# [exit]
 
@@ -1267,7 +1274,7 @@ Alva
 # @@236907@@
 
 #?V???R?o??
-Jacoban
+Shacoban
 
 #*# [exit]
 
@@ -1276,7 +1283,7 @@ Jacoban
 # @@236909@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1285,7 +1292,7 @@ Madino army
 # @@236911@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1294,7 +1301,7 @@ Madino army
 # @@236913@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1303,7 +1310,7 @@ Madino army
 # @@236915@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1312,7 +1319,7 @@ Madino army
 # @@236917@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1321,7 +1328,7 @@ Madino army
 # @@236919@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1330,7 +1337,7 @@ Commander
 # @@236921@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1339,7 +1346,7 @@ Madino army
 # @@236923@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1348,7 +1355,7 @@ Commander
 # @@236925@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1357,7 +1364,7 @@ Madino army
 # @@236927@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1366,7 +1373,7 @@ Commander
 # @@236929@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1375,7 +1382,7 @@ Madino army
 # @@236931@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1384,7 +1391,7 @@ Commander
 # @@236933@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1393,7 +1400,7 @@ Madino army
 # @@236935@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1402,7 +1409,7 @@ Commander
 # @@236937@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1411,7 +1418,7 @@ Madino army
 # @@236939@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1420,7 +1427,7 @@ Commander
 # @@236941@@
 
 #?}?f?B?m??
-Madino army
+Madino
 
 #*# [exit]
 
@@ -1438,7 +1445,7 @@ Pirate
 # @@236945@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1447,7 +1454,7 @@ Commander
 # @@236947@@
 
 #?V???x?[????
-Silvail army
+Silvail
 
 #*# [exit]
 
@@ -1456,7 +1463,7 @@ Silvail army
 # @@236949@@
 
 #?G???g?V????
-Eltshan
+Eltosian
 
 #*# [exit]
 
@@ -1465,7 +1472,7 @@ Eltshan
 # @@236951@@
 
 #?N???X?i?C?c
-Cross Knights
+CrossKnt
 
 #*# [exit]
 
@@ -1483,7 +1490,7 @@ Shagall
 # @@236955@@
 
 #?V???x?[????
-Silvail army
+Silvail
 
 #*# [exit]
 
@@ -1492,7 +1499,7 @@ Silvail army
 # @@236957@@
 
 #?V???x?[????
-Silvail army
+Silvail
 
 #*# [exit]
 
@@ -1501,7 +1508,7 @@ Silvail army
 # @@236959@@
 
 #?p?s????
-Papilon
+Papilion
 
 #*# [exit]
 
@@ -1510,7 +1517,7 @@ Papilon
 # @@236961@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -1573,7 +1580,7 @@ Pirate
 # @@236975@@
 
 #?s?T?[??
-Pisar
+Pizar
 
 #*# [exit]
 
@@ -1627,7 +1634,7 @@ Alvis
 # @@236987@@
 
 #?????S?o???g
-Langobalt
+Langbalt
 
 #*# [exit]
 
@@ -1636,7 +1643,7 @@ Langobalt
 # @@236989@@
 
 #?O???I???b?^?[
-Grauen Ritter
+GrauRit
 
 #*# [exit]
 
@@ -1654,7 +1661,7 @@ Reptor
 # @@236993@@
 
 #?Q???v???b?^?[
-Gelben Ritter
+GelbRit
 
 #*# [exit]
 
@@ -1672,7 +1679,7 @@ Mahnya
 # @@236997@@
 
 #?V???W?A??
-Silesia army
+Silesia
 
 #*# [exit]
 
@@ -1690,7 +1697,7 @@ Maios
 # @@237001@@
 
 #?g?[???F??
-Thove army
+Thove
 
 #*# [exit]
 
@@ -1699,7 +1706,7 @@ Thove army
 # @@237003@@
 
 #?g?[???F??
-Thove army
+Thove
 
 #*# [exit]
 
@@ -1708,7 +1715,7 @@ Thove army
 # @@237005@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1717,7 +1724,7 @@ Commander
 # @@237007@@
 
 #?g?[???F??
-Thove army
+Thove
 
 #*# [exit]
 
@@ -1726,7 +1733,7 @@ Thove army
 # @@237009@@
 
 #?N?u??
-Cuvulie
+Cuvuli
 
 #*# [exit]
 
@@ -1735,7 +1742,7 @@ Cuvulie
 # @@237011@@
 
 #?g?[???F??
-Thove army
+Thove
 
 #*# [exit]
 
@@ -1744,7 +1751,7 @@ Thove army
 # @@237013@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -1753,7 +1760,7 @@ Commander
 # @@237015@@
 
 #?g?[???F??
-Thove army
+Thove
 
 #*# [exit]
 
@@ -1762,7 +1769,7 @@ Thove army
 # @@237017@@
 
 #?g?[???F??
-Thove army
+Thove
 
 #*# [exit]
 
@@ -1771,7 +1778,7 @@ Thove army
 # @@237019@@
 
 #?f?B?[?g?o
-Deet'var
+Deetva
 
 #*# [exit]
 
@@ -1780,7 +1787,7 @@ Deet'var
 # @@237021@@
 
 #?f?B?[?g?o????
-Deet'var's squad
+DeetSqd
 
 #*# [exit]
 
@@ -1798,7 +1805,7 @@ Pirate
 # @@237025@@
 
 #?V???W?A??
-Silesia army
+Silesia
 
 #*# [exit]
 
@@ -1807,7 +1814,7 @@ Silesia army
 # @@237027@@
 
 #?_?b?J?[
-Daccar
+Dakar
 
 #*# [exit]
 
@@ -1825,7 +1832,7 @@ Mahnya
 # @@237031@@
 
 #?}?[?j??????
-Mahnya's squad
+MahnSqd
 
 #*# [exit]
 
@@ -1843,7 +1850,7 @@ Pamela
 # @@237035@@
 
 #?p????????
-Pamela's squad
+PamSqd
 
 #*# [exit]
 
@@ -1852,7 +1859,7 @@ Pamela's squad
 # @@237037@@
 
 #?A???h???C
-Andorey
+Andre
 
 #*# [exit]
 
@@ -1861,7 +1868,7 @@ Andorey
 # @@237039@@
 
 #?o?C?Q???b?^?[
-Beigen Ritter
+BeigeRit
 
 #*# [exit]
 
@@ -1897,7 +1904,7 @@ Donovan
 # @@237047@@
 
 #?U?N?\????
-Zaxon army
+Zaxon
 
 #*# [exit]
 
@@ -1906,7 +1913,7 @@ Zaxon army
 # @@237049@@
 
 #?U?N?\????
-Zaxon army
+Zaxon
 
 #*# [exit]
 
@@ -1915,7 +1922,7 @@ Zaxon army
 # @@237051@@
 
 #?U?N?\????
-Zaxon army
+Zaxon
 
 #*# [exit]
 
@@ -1924,7 +1931,7 @@ Zaxon army
 # @@237053@@
 
 #?U?N?\????
-Zaxon army
+Zaxon
 
 #*# [exit]
 
@@ -1933,7 +1940,7 @@ Zaxon army
 # @@237055@@
 
 #?U?N?\????
-Zaxon army
+Zaxon
 
 #*# [exit]
 
@@ -1942,7 +1949,7 @@ Zaxon army
 # @@237057@@
 
 #???C?~?A
-Leimia
+Lamia
 
 #*# [exit]
 
@@ -1951,7 +1958,7 @@ Leimia
 # @@237059@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -1960,7 +1967,7 @@ Mercenary
 # @@237061@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -1969,7 +1976,7 @@ Mercenary
 # @@237063@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -1978,7 +1985,7 @@ Mercenary
 # @@237065@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -1987,7 +1994,7 @@ Mercenary
 # @@237067@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -1996,7 +2003,7 @@ Mercenary
 # @@237069@@
 
 #?????S?o???g
-Langobalt
+Langbalt
 
 #*# [exit]
 
@@ -2014,7 +2021,7 @@ Child
 # @@237073@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2023,7 +2030,7 @@ Lubeck army
 # @@237075@@
 
 #?X???C?_?[
-Slader
+Slayder
 
 #*# [exit]
 
@@ -2032,7 +2039,7 @@ Slader
 # @@237077@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2041,7 +2048,7 @@ Lubeck army
 # @@237079@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2050,7 +2057,7 @@ Commander
 # @@237081@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2059,7 +2066,7 @@ Lubeck army
 # @@237083@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2077,7 +2084,7 @@ Thief
 # @@237087@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2086,7 +2093,7 @@ Commander
 # @@237089@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2095,7 +2102,7 @@ Lubeck army
 # @@237091@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2104,7 +2111,7 @@ Lubeck army
 # @@237093@@
 
 #?????[?x?b?N??
-Lubeck army
+Lubeck
 
 #*# [exit]
 
@@ -2122,7 +2129,7 @@ Vylon
 # @@237097@@
 
 #?A???h???C
-Andorey
+Andre
 
 #*# [exit]
 
@@ -2131,7 +2138,7 @@ Andorey
 # @@237099@@
 
 #?o?C?Q???b?^?[
-Beigen Ritter
+BeigeRit
 
 #*# [exit]
 
@@ -2149,7 +2156,7 @@ Vaha
 # @@237103@@
 
 #???F???g?}?[??
-Velthomer army
+Velthom
 
 #*# [exit]
 
@@ -2167,7 +2174,7 @@ Priest
 # @@237107@@
 
 #???F???g?}?[??
-Velthomer army
+Velthom
 
 #*# [exit]
 
@@ -2185,7 +2192,7 @@ Trabant
 # @@237111@@
 
 #?}?S?[?l
-Magone
+Magorn
 
 #*# [exit]
 
@@ -2194,7 +2201,7 @@ Magone
 # @@237113@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -2203,7 +2210,7 @@ Thracia army
 # @@237115@@
 
 #?????X?^?[??
-Lenster army
+Lenster
 
 #*# [exit]
 
@@ -2221,7 +2228,7 @@ Ida
 # @@237119@@
 
 #???F???g?}?[??
-Velthomer army
+Velthom
 
 #*# [exit]
 
@@ -2239,7 +2246,7 @@ Reptor
 # @@237123@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2248,7 +2255,7 @@ Freege army
 # @@237125@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2257,7 +2264,7 @@ Freege army
 # @@237127@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2266,7 +2273,7 @@ Freege army
 # @@237129@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2275,7 +2282,7 @@ Freege army
 # @@237131@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2284,7 +2291,7 @@ Freege army
 # @@237133@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2293,7 +2300,7 @@ Freege army
 # @@237135@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2302,7 +2309,7 @@ Freege army
 # @@237137@@
 
 #?t???[?W??
-Freege army
+Freege
 
 #*# [exit]
 
@@ -2311,7 +2318,7 @@ Freege army
 # @@237139@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2320,7 +2327,7 @@ Commander
 # @@237141@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -2329,7 +2336,7 @@ Roten Ritter
 # @@237143@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2338,7 +2345,7 @@ Commander
 # @@237145@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -2347,7 +2354,7 @@ Roten Ritter
 # @@237147@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2356,7 +2363,7 @@ Commander
 # @@237149@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -2374,7 +2381,7 @@ Alvis
 # @@237153@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2383,7 +2390,7 @@ Commander
 # @@237155@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -2403,7 +2410,7 @@ Harold
 # @@237159@@
 
 #?K?l?[?V????
-Ganeishire army
+Ganei
 
 #*# [exit]
 
@@ -2412,7 +2419,7 @@ Ganeishire army
 # @@237161@@
 
 #?K?l?[?V????
-Ganeishire army
+Ganei
 
 #*# [exit]
 
@@ -2430,7 +2437,7 @@ Thief
 # @@237165@@
 
 #?\?t?@????
-Sophara army
+Sophara
 
 #*# [exit]
 
@@ -2439,7 +2446,7 @@ Sophara army
 # @@237167@@
 
 #?C?U?[?N??
-Isaac army
+Isaac
 
 #*# [exit]
 
@@ -2448,7 +2455,7 @@ Isaac army
 # @@237169@@
 
 #?C?U?[?N??
-Isaac army
+Isaac
 
 #*# [exit]
 
@@ -2457,7 +2464,7 @@ Isaac army
 # @@237171@@
 
 #?\?t?@????
-Sophara army
+Sophara
 
 #*# [exit]
 
@@ -2475,7 +2482,7 @@ Schmidt
 # @@237175@@
 
 #???{?[??
-Rivough army
+Rivough
 
 #*# [exit]
 
@@ -2493,7 +2500,7 @@ Danan
 # @@237179@@
 
 #?K?l?[?V????
-Ganeishire army
+Ganei
 
 #*# [exit]
 
@@ -2502,7 +2509,7 @@ Ganeishire army
 # @@237181@@
 
 #?K?l?[?V????
-Ganeishire army
+Ganei
 
 #*# [exit]
 
@@ -2511,7 +2518,7 @@ Ganeishire army
 # @@237183@@
 
 #?N?g?D?[?]?t
-Cutouzov
+Cutozov
 
 #*# [exit]
 
@@ -2520,7 +2527,7 @@ Cutouzov
 # @@237185@@
 
 #?C?[?h?}?[?W
-Yied Mage
+Yied
 
 #*# [exit]
 
@@ -2529,7 +2536,7 @@ Yied Mage
 # @@237187@@
 
 #?C?[?h?}?[?W
-Yied Mage
+Yied
 
 #*# [exit]
 
@@ -2538,7 +2545,7 @@ Yied Mage
 # @@237189@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -2547,7 +2554,7 @@ Mercenary
 # @@237191@@
 
 #?C?[?h?}?[?W
-Yied Mage
+Yied
 
 #*# [exit]
 
@@ -2556,7 +2563,7 @@ Yied Mage
 # @@237193@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2565,7 +2572,7 @@ Commander
 # @@237195@@
 
 #?A???X?^?[??
-Alster army
+Alster
 
 #*# [exit]
 
@@ -2574,7 +2581,7 @@ Alster army
 # @@237197@@
 
 #?A???X?^?[??
-Alster army
+Alster
 
 #*# [exit]
 
@@ -2592,7 +2599,7 @@ Thief
 # @@237201@@
 
 #?u???[??
-Bloom
+Blume
 
 #*# [exit]
 
@@ -2601,7 +2608,7 @@ Bloom
 # @@237203@@
 
 #?A???X?^?[??
-Alster army
+Alster
 
 #*# [exit]
 
@@ -2610,7 +2617,7 @@ Alster army
 # @@237205@@
 
 #?_?[?i??
-Darna army
+Darna
 
 #*# [exit]
 
@@ -2619,7 +2626,7 @@ Darna army
 # @@237207@@
 
 #?C?V???g?[
-Ishtore
+Ishtor
 
 #*# [exit]
 
@@ -2628,7 +2635,7 @@ Ishtore
 # @@237209@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2646,7 +2653,7 @@ Liza
 # @@237213@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2655,7 +2662,7 @@ Melgen army
 # @@237215@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2664,7 +2671,7 @@ Melgen army
 # @@237217@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2673,7 +2680,7 @@ Melgen army
 # @@237219@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2682,7 +2689,7 @@ Melgen army
 # @@237221@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2691,7 +2698,7 @@ Melgen army
 # @@237223@@
 
 #?????Q????
-Melgen army
+Melgen
 
 #*# [exit]
 
@@ -2709,7 +2716,7 @@ Jabarro
 # @@237227@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -2718,7 +2725,7 @@ Mercenary
 # @@237229@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -2736,7 +2743,7 @@ Bramsel
 # @@237233@@
 
 #?_?[?i??
-Darna army
+Darna
 
 #*# [exit]
 
@@ -2745,7 +2752,7 @@ Darna army
 # @@237235@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2754,7 +2761,7 @@ Commander
 # @@237237@@
 
 #?A???X?^?[??
-Alster army
+Alster
 
 #*# [exit]
 
@@ -2763,7 +2770,7 @@ Alster army
 # @@237239@@
 
 #?A???X?^?[??
-Alster army
+Alster
 
 #*# [exit]
 
@@ -2790,7 +2797,7 @@ Fetra
 # @@237245@@
 
 #?G???E
-Elliou
+Eliu
 
 #*# [exit]
 
@@ -2799,7 +2806,7 @@ Elliou
 # @@237247@@
 
 #?n?C?}?[?W
-High Mage
+High
 
 #*# [exit]
 
@@ -2808,7 +2815,7 @@ High Mage
 # @@237249@@
 
 #?n?C?}?[?W
-High Mage
+High
 
 #*# [exit]
 
@@ -2817,7 +2824,7 @@ High Mage
 # @@237251@@
 
 #?n?C?}?[?W
-High Mage
+High
 
 #*# [exit]
 
@@ -2826,7 +2833,7 @@ High Mage
 # @@237253@@
 
 #???n?}?h
-Muhammad
+Muhammed
 
 #*# [exit]
 
@@ -2835,7 +2842,7 @@ Muhammad
 # @@237255@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2844,7 +2851,7 @@ Conote army
 # @@237257@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2853,7 +2860,7 @@ Conote army
 # @@237259@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2880,7 +2887,7 @@ Ovo
 # @@237265@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2889,7 +2896,7 @@ Conote army
 # @@237267@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2907,7 +2914,7 @@ Thief
 # @@237271@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2916,7 +2923,7 @@ Commander
 # @@237273@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2934,7 +2941,7 @@ Ishtar
 # @@237277@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2943,7 +2950,7 @@ Commander
 # @@237279@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2952,7 +2959,7 @@ Conote army
 # @@237281@@
 
 #?u???[??
-Bloom
+Blume
 
 #*# [exit]
 
@@ -2961,7 +2968,7 @@ Bloom
 # @@237283@@
 
 #?R?m?[?g??
-Conote army
+Conote
 
 #*# [exit]
 
@@ -2988,7 +2995,7 @@ Civilian
 # @@237289@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -2997,7 +3004,7 @@ Commander
 # @@237291@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3006,7 +3013,7 @@ Thracia army
 # @@237293@@
 
 #?R???[?^
-Corutta
+Coruta
 
 #*# [exit]
 
@@ -3015,7 +3022,7 @@ Corutta
 # @@237295@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3024,7 +3031,7 @@ Thracia army
 # @@237297@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3033,7 +3040,7 @@ Commander
 # @@237299@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3042,7 +3049,7 @@ Thracia army
 # @@237301@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3051,7 +3058,7 @@ Commander
 # @@237303@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3060,7 +3067,7 @@ Thracia army
 # @@237305@@
 
 #?}?C?R?t
-Maikoff
+Maikov
 
 #*# [exit]
 
@@ -3087,7 +3094,7 @@ Fetra
 # @@237311@@
 
 #?G???E
-Elliou
+Eliu
 
 #*# [exit]
 
@@ -3096,7 +3103,7 @@ Elliou
 # @@237313@@
 
 #?J?p?g?M?A??
-Kapathogia army
+Kapath
 
 #*# [exit]
 
@@ -3105,7 +3112,7 @@ Kapathogia army
 # @@237315@@
 
 #?J?p?g?M?A??
-Kapathogia army
+Kapath
 
 #*# [exit]
 
@@ -3114,7 +3121,7 @@ Kapathogia army
 # @@237317@@
 
 #?J?p?g?M?A??
-Kapathogia army
+Kapath
 
 #*# [exit]
 
@@ -3123,7 +3130,7 @@ Kapathogia army
 # @@237319@@
 
 #?J?p?g?M?A??
-Kapathogia army
+Kapath
 
 #*# [exit]
 
@@ -3132,7 +3139,7 @@ Kapathogia army
 # @@237321@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3141,7 +3148,7 @@ Thracia army
 # @@237323@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3168,7 +3175,7 @@ Kanatz
 # @@237329@@
 
 #?f?B?X???[
-Disra
+Disler
 
 #*# [exit]
 
@@ -3177,7 +3184,7 @@ Disra
 # @@237331@@
 
 #?O???e?B?A??
-Grutia army
+Grutia
 
 #*# [exit]
 
@@ -3186,7 +3193,7 @@ Grutia army
 # @@237333@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3195,7 +3202,7 @@ Mercenary
 # @@237335@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3213,7 +3220,7 @@ Trabant
 # @@237339@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3231,7 +3238,7 @@ Judah
 # @@237343@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3240,7 +3247,7 @@ Commander
 # @@237345@@
 
 #?O???e?B?A??
-Grutia army
+Grutia
 
 #*# [exit]
 
@@ -3249,7 +3256,7 @@ Grutia army
 # @@237347@@
 
 #?A???I?[??
-Areone
+Arion
 
 #*# [exit]
 
@@ -3258,7 +3265,7 @@ Areone
 # @@237349@@
 
 #?h???S???i?C?c
-Dragon Knights
+Dragon
 
 #*# [exit]
 
@@ -3267,7 +3274,7 @@ Dragon Knights
 # @@237351@@
 
 #?h???S???i?C?c
-Dragon Knights
+Dragon
 
 #*# [exit]
 
@@ -3276,7 +3283,7 @@ Dragon Knights
 # @@237353@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3285,7 +3292,7 @@ Commander
 # @@237355@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3294,7 +3301,7 @@ Thracia army
 # @@237357@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3303,7 +3310,7 @@ Commander
 # @@237359@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3312,7 +3319,7 @@ Thracia army
 # @@237361@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3321,7 +3328,7 @@ Commander
 # @@237363@@
 
 #?g???L?A??
-Thracia army
+Thracia
 
 #*# [exit]
 
@@ -3339,7 +3346,7 @@ Musar
 # @@237367@@
 
 #??????
-Imperial Guard
+Imperial
 
 #*# [exit]
 
@@ -3348,7 +3355,7 @@ Imperial Guard
 # @@237369@@
 
 #??????
-Imperial Guard
+Imperial
 
 #*# [exit]
 
@@ -3357,7 +3364,7 @@ Imperial Guard
 # @@237371@@
 
 #??????
-Imperial Guard
+Imperial
 
 #*# [exit]
 
@@ -3366,7 +3373,7 @@ Imperial Guard
 # @@237373@@
 
 #??????
-Imperial Guard
+Imperial
 
 #*# [exit]
 
@@ -3384,7 +3391,7 @@ Ridale
 # @@237377@@
 
 #???f?[??????
-Ridale's squad
+RidSqd
 
 #*# [exit]
 
@@ -3393,7 +3400,7 @@ Ridale's squad
 # @@237379@@
 
 #???f?[??????
-Ridale's squad
+RidSqd
 
 #*# [exit]
 
@@ -3402,7 +3409,7 @@ Ridale's squad
 # @@237381@@
 
 #???f?[??????
-Ridale's squad
+RidSqd
 
 #*# [exit]
 
@@ -3411,7 +3418,7 @@ Ridale's squad
 # @@237383@@
 
 #???f?[??????
-Ridale's squad
+RidSqd
 
 #*# [exit]
 
@@ -3420,7 +3427,7 @@ Ridale's squad
 # @@237385@@
 
 #???f?[??????
-Ridale's squad
+RidSqd
 
 #*# [exit]
 
@@ -3429,7 +3436,7 @@ Ridale's squad
 # @@237387@@
 
 #?????K??
-Morgan
+Morigan
 
 #*# [exit]
 
@@ -3438,7 +3445,7 @@ Morgan
 # @@237389@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3465,7 +3472,7 @@ Hilda
 # @@237395@@
 
 #????????????
-Dark Priest
+Dark
 
 #*# [exit]
 
@@ -3474,7 +3481,7 @@ Dark Priest
 # @@237397@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3483,7 +3490,7 @@ Dark Mage
 # @@237399@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3492,7 +3499,7 @@ Dark Mage
 # @@237401@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3501,7 +3508,7 @@ Mercenary
 # @@237403@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3537,7 +3544,7 @@ Zagam
 # @@237411@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3546,7 +3553,7 @@ Dark Mage
 # @@237413@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3555,7 +3562,7 @@ Dark Mage
 # @@237415@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3564,7 +3571,7 @@ Dark Mage
 # @@237417@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3573,7 +3580,7 @@ Dark Mage
 # @@237419@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3582,7 +3589,7 @@ Dark Mage
 # @@237421@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3591,7 +3598,7 @@ Mercenary
 # @@237423@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3600,7 +3607,7 @@ Mercenary
 # @@237425@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3609,7 +3616,7 @@ Mercenary
 # @@237427@@
 
 #?????E?X
-Yurius
+Julius
 
 #*# [exit]
 
@@ -3636,7 +3643,7 @@ Alvis
 # @@237433@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3645,7 +3652,7 @@ Roten Ritter
 # @@237435@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3654,7 +3661,7 @@ Roten Ritter
 # @@237437@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3663,7 +3670,7 @@ Roten Ritter
 # @@237439@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3699,7 +3706,7 @@ Child
 # @@237447@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3708,7 +3715,7 @@ Commander
 # @@237449@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3717,7 +3724,7 @@ Roten Ritter
 # @@237451@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3726,7 +3733,7 @@ Roten Ritter
 # @@237453@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3735,7 +3742,7 @@ Commander
 # @@237455@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3744,7 +3751,7 @@ Roten Ritter
 # @@237457@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3753,7 +3760,7 @@ Roten Ritter
 # @@237459@@
 
 #??????????
-Commander
+Captain
 
 #*# [exit]
 
@@ -3762,7 +3769,7 @@ Commander
 # @@237461@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3771,7 +3778,7 @@ Roten Ritter
 # @@237463@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3780,7 +3787,7 @@ Roten Ritter
 # @@237465@@
 
 #???[?g???b?^?[
-Roten Ritter
+RotRit
 
 #*# [exit]
 
@@ -3789,7 +3796,7 @@ Roten Ritter
 # @@237467@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3798,7 +3805,7 @@ Dark Mage
 # @@237469@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3816,7 +3823,7 @@ Robert
 # @@237473@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3825,7 +3832,7 @@ Mercenary
 # @@237475@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3834,7 +3841,7 @@ Mercenary
 # @@237477@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3843,7 +3850,7 @@ Mercenary
 # @@237479@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3852,7 +3859,7 @@ Mercenary
 # @@237481@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3870,7 +3877,7 @@ Boyce
 # @@237485@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3879,7 +3886,7 @@ Mercenary
 # @@237487@@
 
 #????????
-Mercenary
+Merc
 
 #*# [exit]
 
@@ -3897,7 +3904,7 @@ Rodan
 # @@237491@@
 
 #?G?b?_??
-Edda army
+Edda
 
 #*# [exit]
 
@@ -3906,7 +3913,7 @@ Edda army
 # @@237493@@
 
 #?G?b?_??
-Edda army
+Edda
 
 #*# [exit]
 
@@ -3915,7 +3922,7 @@ Edda army
 # @@237495@@
 
 #?G?b?_??
-Edda army
+Edda
 
 #*# [exit]
 
@@ -3924,7 +3931,7 @@ Edda army
 # @@237497@@
 
 #?G?b?_??
-Edda army
+Edda
 
 #*# [exit]
 
@@ -3933,7 +3940,7 @@ Edda army
 # @@237499@@
 
 #???t?B?[??
-Yufiel
+Yupheel
 
 #*# [exit]
 
@@ -3942,7 +3949,7 @@ Yufiel
 # @@237501@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3951,7 +3958,7 @@ Dark Mage
 # @@237503@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -3960,7 +3967,7 @@ Dark Mage
 # @@237505@@
 
 #?t?C?b?V???[
-Fischer
+Fisher
 
 #*# [exit]
 
@@ -3969,7 +3976,7 @@ Fischer
 # @@237507@@
 
 #?h?Y????
-Dozel army
+Dozel
 
 #*# [exit]
 
@@ -3978,7 +3985,7 @@ Dozel army
 # @@237509@@
 
 #?h?Y????
-Dozel army
+Dozel
 
 #*# [exit]
 
@@ -3987,7 +3994,7 @@ Dozel army
 # @@237511@@
 
 #?u???A??
-Burian
+Brian
 
 #*# [exit]
 
@@ -3996,7 +4003,7 @@ Burian
 # @@237513@@
 
 #?O???I???b?^?[
-Grauen Ritter
+GrauRit
 
 #*# [exit]
 
@@ -4005,7 +4012,7 @@ Grauen Ritter
 # @@237515@@
 
 #?O???I???b?^?[
-Grauen Ritter
+GrauRit
 
 #*# [exit]
 
@@ -4014,7 +4021,7 @@ Grauen Ritter
 # @@237517@@
 
 #?_?S??
-Dakkon
+Dagon
 
 #*# [exit]
 
@@ -4032,7 +4039,7 @@ Scorpio
 # @@237521@@
 
 #?o?C?Q???b?^?[
-Beigen Ritter
+BeigeRit
 
 #*# [exit]
 
@@ -4041,7 +4048,7 @@ Beigen Ritter
 # @@237523@@
 
 #?o?C?Q???b?^?[
-Beigen Ritter
+BeigeRit
 
 #*# [exit]
 
@@ -4059,7 +4066,7 @@ Hilda
 # @@237527@@
 
 #?Q???v???b?^?[
-Gelben Ritter
+GelbRit
 
 #*# [exit]
 
@@ -4068,7 +4075,7 @@ Gelben Ritter
 # @@237529@@
 
 #?Q???v???b?^?[
-Gelben Ritter
+GelbRit
 
 #*# [exit]
 
@@ -4086,7 +4093,7 @@ Dark Priest
 # @@237533@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -4095,7 +4102,7 @@ Dark Mage
 # @@237535@@
 
 #?}???t???C
-Manfroy
+Manfloy
 
 #*# [exit]
 
@@ -4104,7 +4111,7 @@ Manfroy
 # @@237537@@
 
 #?_?[?N?}?[?W
-Dark Mage
+Dark
 
 #*# [exit]
 
@@ -4113,7 +4120,7 @@ Dark Mage
 # @@237539@@
 
 #?????E?X
-Yurius
+Julius
 
 #*# [exit]
 
@@ -4230,7 +4237,7 @@ Zwolf
 # @@237565@@
 
 #?A???I?[??
-Areone
+Arion
 
 #*# [exit]
 
@@ -4239,7 +4246,7 @@ Areone
 # @@237567@@
 
 #?h???S???i?C?c
-Dragon Knights
+Dragon
 
 #*# [exit]
 
@@ -4266,7 +4273,7 @@ Meng
 # @@237573@@
 
 #???C?x??
-Meibel
+Maybell
 
 #*# [exit]
 
@@ -4275,7 +4282,7 @@ Meibel
 # @@237575@@
 
 #?u???O
-Bregg
+Bleg
 
 #*# [exit]
 
@@ -4284,7 +4291,7 @@ Bregg
 # @@237577@@
 
 #?o?[?n????
-Barhara army
+Barhara
 
 #*# [exit]
 
@@ -4293,7 +4300,7 @@ Barhara army
 # @@237579@@
 
 #?o?[?n????
-Barhara army
+Barhara
 
 #*# [exit]
 
@@ -4302,7 +4309,7 @@ Barhara army
 # @@237581@@
 
 #?o?[?n????
-Barhara army
+Barhara
 
 #*# [exit]
 
@@ -4311,7 +4318,7 @@ Barhara army
 # @@237583@@
 
 #?o?[?n????
-Barhara army
+Barhara
 
 #*# [exit]
 
@@ -4329,7 +4336,7 @@ Baran
 # @@237587@@
 
 #?N?g?D?[?]?t
-Cutouzov
+Cutozov
 
 #*# [exit]
 
@@ -4356,7 +4363,7 @@ Gazak
 # @@237593@@
 
 #?N???g?[
-Crotle
+Clotho
 
 #*# [exit]
 
@@ -4383,7 +4390,7 @@ Shark
 # @@237599@@
 
 #?t?b?h
-Hud
+Hood
 
 #*# [exit]
 
@@ -4401,7 +4408,7 @@ Bacchus
 # @@237603@@
 
 #?G?~?[??
-Emile
+Emmile
 
 #*# [exit]
 
@@ -4410,7 +4417,7 @@ Emile
 # @@237605@@
 
 #?_???X
-Dales
+Darez
 
 #*# [exit]
 
@@ -4419,7 +4426,7 @@ Dales
 # @@237607@@
 
 #?W???[
-Jiro
+Jirou
 
 #*# [exit]
 
@@ -4437,7 +4444,7 @@ Mahatma
 # @@237611@@
 
 #?????B??
-Rovien
+Lovin
 
 #*# [exit]
 
@@ -4446,7 +4453,7 @@ Rovien
 # @@237613@@
 
 #?o?[?N?j??
-Bachnien
+Bachnun
 
 #*# [exit]
 
@@ -4455,7 +4462,7 @@ Bachnien
 # @@237615@@
 
 #?~???[
-Millet
+Milley
 
 #*# [exit]
 
@@ -4464,7 +4471,7 @@ Millet
 # @@237617@@
 
 #?w???c?H?O
-Helzug
+Hertzog
 
 #*# [exit]
 
@@ -4473,7 +4480,7 @@ Helzug
 # @@237619@@
 
 #?`???R?t
-Chaikof
+Chekov
 
 #*# [exit]
 
@@ -4491,7 +4498,7 @@ Keimos
 # @@237623@@
 
 #?}??????
-Maririn
+Marilyn
 
 #*# [exit]
 
@@ -4500,7 +4507,7 @@ Maririn
 # @@237625@@
 
 #?^?C???[
-Tyler
+Taylor
 
 #*# [exit]
 
@@ -4509,7 +4516,7 @@ Tyler
 # @@237627@@
 
 #???b?v
-Rip
+Ripp
 
 #*# [exit]
 
@@ -4518,7 +4525,7 @@ Rip
 # @@237629@@
 
 #?y???I
-Pelio
+Perio
 
 #*# [exit]
 
@@ -4527,7 +4534,7 @@ Pelio
 # @@237631@@
 
 #?g?????B?N
-Trevik
+Trevic
 
 #*# [exit]
 
@@ -4554,7 +4561,7 @@ Bazan
 # @@237637@@
 
 #?f???}
-Dumas
+Duma
 
 #*# [exit]
 
@@ -4563,7 +4570,7 @@ Dumas
 # @@237639@@
 
 #?P?[??
-Kayla
+Keller
 
 #*# [exit]
 
@@ -4572,7 +4579,7 @@ Kayla
 # @@237641@@
 
 #?g?[???g??
-Tolton
+Torton
 
 #*# [exit]
 
@@ -4590,7 +4597,7 @@ Mario
 # @@237645@@
 
 #?P?}??
-Kemal
+Kemall
 
 #*# [exit]
 
@@ -4599,7 +4606,7 @@ Kemal
 # @@237647@@
 
 #?J???f?B??
-Caladein
+Karedin
 
 #*# [exit]
 
@@ -4608,7 +4615,7 @@ Caladein
 # @@237649@@
 
 #?L?[?X
-Keese
+Keith
 
 #*# [exit]
 
@@ -4617,7 +4624,7 @@ Keese
 # @@237651@@
 
 #?T???S?[??
-Senghor
+Sangor
 
 #*# [exit]
 
@@ -4644,7 +4651,7 @@ Nene
 # @@237657@@
 
 #?N???t
-Clauf
+Kraff
 
 #*# [exit]
 
@@ -4680,7 +4687,7 @@ Jackal
 # @@237665@@
 
 #???b?v
-Rip
+Ripp
 
 #*# [exit]
 
@@ -4689,7 +4696,7 @@ Rip
 # @@237667@@
 
 #?O???C?A?X
-Gleius
+Greias
 
 #*# [exit]
 
@@ -4716,7 +4723,7 @@ Lee
 # @@237673@@
 
 #?V?b?V?F??
-Cheshle
+Shisel
 
 #*# [exit]
 
@@ -4734,7 +4741,7 @@ Hawks
 # @@237677@@
 
 #?i?U?[??
-Nazal
+Nazar
 
 #*# [exit]
 
@@ -4752,7 +4759,7 @@ Thief
 # @@237681@@
 
 #?g???X?g?C
-Tristoy
+Tolstoy
 
 #*# [exit]
 
@@ -4761,7 +4768,7 @@ Tristoy
 # @@237683@@
 
 #?{?c?}??
-Botsman
+Botman
 
 #*# [exit]
 
@@ -4770,7 +4777,7 @@ Botsman
 # @@237685@@
 
 #?N?????[?Q
-Kluge
+Kulyuge
 
 #*# [exit]
 
@@ -4779,7 +4786,7 @@ Kluge
 # @@237687@@
 
 #?}???X?^?C??
-Manstein
+Mansten
 
 #*# [exit]
 
@@ -4788,7 +4795,7 @@ Manstein
 # @@237689@@
 
 #?J?V??
-Kasim
+Kashim
 
 #*# [exit]
 
@@ -4806,8 +4813,8 @@ Hepner
 # @@237693@@
 
 #?????h?b?N
-# (a wine name... ha!)
-Langdoc
+# 
+Randoc
 
 #*# [exit]
 
@@ -4816,7 +4823,7 @@ Langdoc
 # @@237695@@
 
 #?E?H???t
-Wolf
+Volf
 
 #*# [exit]
 
@@ -4825,7 +4832,7 @@ Wolf
 # @@237697@@
 
 #?f???[?C
-Dewey
+Duey
 
 #*# [exit]
 
@@ -4834,7 +4841,7 @@ Dewey
 # @@237699@@
 
 #?t?F?[?g
-Fete
+Fet
 
 #*# [exit]
 
@@ -4843,7 +4850,7 @@ Fete
 # @@237701@@
 
 #?}???V???[?N
-Malashock
+Marshack
 
 #*# [exit]
 
@@ -4852,7 +4859,7 @@ Malashock
 # @@237703@@
 
 #???C?X
-Louis
+Luis
 
 #*# [exit]
 
@@ -4870,7 +4877,7 @@ Heste
 # @@237707@@
 
 #?}?[?_
-Maud
+Madah
 
 #*# [exit]
 
@@ -4897,7 +4904,7 @@ Zenon
 # @@237713@@
 
 #?W???N?\??
-Jackson
+Jakson
 
 #*# [exit]
 
@@ -4915,7 +4922,7 @@ Indra
 # @@237717@@
 
 #?j?[?`?F
-Nietzsche
+Niezche
 
 #*# [exit]
 
@@ -4933,7 +4940,7 @@ Apostle
 # @@237721@@
 
 #?~???A
-Milia
+Millia
 
 #*# [exit]
 
@@ -4942,7 +4949,7 @@ Milia
 # @@237723@@
 
 #?V????
-Syron
+Siron
 
 #*# [exit]
 
@@ -4951,7 +4958,7 @@ Syron
 # @@237725@@
 
 #?N???C??
-Clain
+Grein
 
 #*# [exit]
 
@@ -4960,7 +4967,7 @@ Clain
 # @@237727@@
 
 #?X???C?g??
-Sleighton
+Slayton
 
 #*# [exit]
 
@@ -4969,7 +4976,7 @@ Sleighton
 # @@237729@@
 
 #?g???G?X?^
-Treyster
+Torstar
 
 #*# [exit]
 
@@ -4978,7 +4985,7 @@ Treyster
 # @@237731@@
 
 #?J?i??
-Canan
+Kanan
 
 #*# [exit]
 
@@ -4987,7 +4994,7 @@ Canan
 # @@237733@@
 
 #?n?X?}?[?? - 10
-Hausman
+Hasman
 
 #*# [exit]
 
@@ -5005,7 +5012,7 @@ Grantz
 # @@237737@@
 
 #?N???X???C - 10
-Crosroy
+Krosloy
 
 #*# [exit]
 
@@ -5014,7 +5021,7 @@ Crosroy
 # @@237739@@
 
 #???[???? - 10
-Roland
+Rolan
 
 #*# [exit]
 
@@ -5023,7 +5030,7 @@ Roland
 # @@237741@@
 
 #?}?V?O?? - 10
-Masgulie
+Mashgli
 
 #*# [exit]
 
@@ -5050,7 +5057,7 @@ Gloria
 # @@237747@@
 
 #?m?[?e - 10
-Noite
+Nothe
 
 #*# [exit]
 
@@ -5068,7 +5075,7 @@ Indra
 # @@237751@@
 
 #?_???X
-Dulles
+Dares
 
 #*# [exit]
 
@@ -5086,7 +5093,7 @@ Keimos
 # @@237755@@
 
 #?}??????
-Maririn
+Marilyn
 
 #*# [exit]
 
@@ -5104,7 +5111,7 @@ Zenon
 # @@237759@@
 
 #?W???N?\??
-Jackson
+Jakson
 
 #*# [exit]
 
@@ -5113,7 +5120,7 @@ Jackson
 # @@237761@@
 
 #?g?[???g??
-Tolton
+Torton
 
 #*# [exit]
 
@@ -5131,7 +5138,7 @@ Mario
 # @@237765@@
 
 #?J?i??
-Canan
+Kanan
 
 #*# [exit]
 
@@ -5140,7 +5147,7 @@ Canan
 # @@237767@@
 
 #?A?g???X
-Atraus
+Atlas
 
 #*# [exit]
 

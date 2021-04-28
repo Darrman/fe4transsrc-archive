@@ -1,0 +1,8 @@
+.rat
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This RAT lists space available for text in the game's main menu.
+SECTION mainmenu
+        0D9D7B-0D9DF5
+END

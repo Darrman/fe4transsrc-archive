@@ -1,0 +1,270 @@
+# 4 3 enm1
+
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is used for altering the names of the various type of terrain.
+
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+#*#[section enm1]
+#*#[map 3]
+#*#[bits16]
+#*#[mode-sjis]
+# Table: 0x03857B
+
+# 0x0385AF:
+# P: 0034
+# @@230779@@
+
+#??????????
+Peak
+
+#*# [exit]
+
+# 0x0385BB:
+# P: 0040
+# @@230781@@
+
+#??????????
+Frst
+
+#*# [exit]
+
+# 0x0385C7:
+# P: 004C
+# @@230783@@
+
+#????
+Clif
+
+#*# [exit]
+
+# 0x0385CD:
+# P: 0052
+# @@230785@@
+
+#??????
+Mdow
+
+#*# [exit]
+
+# 0x0385D5:
+# P: 005A
+# @@230787@@
+
+#????
+Wood
+
+#*# [exit]
+
+# 0x0385DB:
+# P: 0060
+# @@230789@@
+
+#????
+Sea
+
+#*# [exit]
+
+# 0x0385E1:
+# P: 0066
+# @@230791@@
+
+#????
+Rivr
+
+#*# [exit]
+
+# 0x0385E7:
+# P: 006C
+# @@230793@@
+
+#????
+Mntn
+
+#*# [exit]
+
+# 0x0385ED:
+# P: 0072
+# @@230795@@
+
+#??????
+Dsrt
+
+#*# [exit]
+
+# 0x0385F5:
+# P: 007A
+# @@230797@@
+
+#????
+Cstl
+
+#*# [exit]
+
+# 0x0385FB:
+# P: 0080
+# @@230799@@
+
+#??????
+
+
+#*# [exit]
+
+# 0x038603:
+# P: 0088
+# @@230801@@
+
+#????
+Town
+
+#*# [exit]
+
+# 0x038609:
+# P: 008E
+# @@230803@@
+
+#??????????
+Gate
+
+#*# [exit]
+
+# 0x038615:
+# P: 009A
+# @@230805@@
+
+#??????????
+Wall
+
+#*# [exit]
+
+# 0x038621:
+# P: 00A6
+# @@230807@@
+
+#??????
+Sand
+
+#*# [exit]
+
+# 0x038629:
+# P: 00AE
+# @@230809@@
+
+#????
+Brdg
+
+#*# [exit]
+
+# 0x03862F:
+# P: 00B4
+# @@230811@@
+
+#????
+Swmp
+
+#*# [exit]
+
+# 0x038635:
+# P: 00BA
+# @@230813@@
+
+#??????????
+Gate
+
+#*# [exit]
+
+# 0x038641:
+# P: 00C6
+# @@230815@@
+
+#????
+Town
+
+#*# [exit]
+
+# 0x038647:
+# P: 00CC
+# @@230817@@
+
+#????????
+Ruin
+
+#*# [exit]
+
+# 0x038651:
+# P: 00D6
+# @@230819@@
+
+#??????
+
+
+#*# [exit]
+
+# 0x038659:
+# P: 00DE
+# @@230821@@
+
+#????????
+Ruin
+
+#*# [exit]
+
+# 0x038663:
+# P: 00E8
+# @@230823@@
+
+#??????????
+Chur
+
+#*# [exit]
+
+# 0x03866F:
+# P: 00F4
+# @@230825@@
+
+#????????
+Shrine
+
+#*# [exit]
+
+# 0x038679:
+# P: 00FE
+# @@230827@@
+
+#?u???M??????
+B Tower
+
+#*# [exit]
+
+# 0x038687:
+# P: 010C
+# @@230829@@
+
+#????
+Road
+
+#*# [exit]
+

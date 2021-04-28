@@ -1,0 +1,34 @@
+# Last Modified: 26/05/04
+# This file was added by Dark Twilkitri
+
+[ASMPTR3]
+
+# This file contains the scripts which play when something
+# notable happens at the end of a 'real' battle.
+
+# (weapon, ring, etc) Obtained
+# 0x190187
+# @@1436422@@
+[$00$27][sp]obtained![n]
+
+[exit]
+
+# (gold) Obtained
+# 0x190198
+# @@1436471@@
+[$00$25][sp]gold obtained![n]
+
+[exit]
+
+# (gold) Stolen (from you)
+# 0x1901ab
+# @@1436520@@
+[$00$25][sp]gold stolen...[n]
+
+[exit]
+
+# (weapon) Broke
+# 0x1901bb
+# @@1436569@@
+[$00$27][sp]broke...
+[exit]

@@ -1,0 +1,34 @@
+
+
+# 0xda0d5
+# @@1108818@@
+
+[TWinTop][DlgOpn]['Young Shanan' 0281]
+[TWinBtm][DlgOpn]['Ira' 0013]
+[TWinTop][TextSpd 02][Wait 0F]アイラ、ぼくは大丈夫だ、だから
+こんな奴等のいいなりになっちゃだめだ！
+[TWinBtm][Wait 10]シャナン・・・
+[Wait 32]
+[exit]
+
+
+# 0xda125
+# @@1108961@@
+
+[TWinTop][DlgOpn]['Eltosian' 005A]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
+[TWinTop][TextSpd 02][Wait 0F]ラケシス、俺はアグスティへむかう
+おろかな挙兵などやめるよう
+陛下におねがいする[Wait 10]
+[TWinBtm]おまちください、兄上！
+[Wait 32]
+[exit]
+
+
+# 0xda182
+# @@1109337@@
+
+[TWinBtm][DlgOpn]['Arvis' 0104][TextSpd 02]これが最後だ！
+[Wait 08]全軍、総攻撃をかけよ！！
+[Wait 80]
+[exit]

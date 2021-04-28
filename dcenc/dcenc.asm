@@ -3,7 +3,7 @@
 ; Modifed for 65816 assembler
 
 curptr equ $186A
-savptr equ $186D
+savptr equ $187C
 
 table1 equ $8294F0
 table2 equ $8296F0

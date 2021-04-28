@@ -1,0 +1,58 @@
+# Last modified: 08/05/04
+# This file was added by Dark Twilkitri
+
+# This file edits the shop choices in town.
+
+[ASMPTR]
+[nospaces]
+[mode-sjis]
+
+# Fortune Teller - Lover
+# @@700333@@
+Love
+[exit]
+
+# Fortune Teller - Battle Record
+# @@700344@@
+Record
+[exit]
+
+# Fortune Teller - Parents
+# @@700355@@
+Parents
+[exit]
+
+# Buy/Belongings
+# @@705520@@
+Buy[spx][spx]Own
+[exit]
+
+# Sell/Buy
+# @@705849@@
+Sel[spx][spx]Buy
+[exit]
+
+# Yes/No
+# @@709266@@
+[spx]Yes[spx][spx]No[spx][spx][spx][spx][spx][spx][spx][spx][spx][spx][spx]
+[exit]
+
+# Arena - Fight/Leave
+# @@714912@@
+Fight[spx][spx]Leave[spx][spx][spx][spx][spx][spx][spx][spx][spx]
+[exit]
+
+# Arena - Quit/Return/Change Weapon
+# @@715582@@
+Cede[spx][spx]Fight[spx][spx]Weapon
+[exit]
+
+# Arena - Start/Leave/Change Weapon
+# @@715921@@
+Bgin[spx][spx]Leave[spx][spx]Weapon
+[exit]
+
+# Store/Retrieve
+# @@718196@@
+Give[spx][spx]Take[spx][spx][spx][spx][spx][spx][spx][spx][spx][spx][spx]
+[exit]

@@ -1,0 +1,14 @@
+# Last modified: 08/05/04
+# This file was added by Dark Twilkitri
+
+# This file edits the shop choices in town
+# which don't use ASMPTRs.
+
+[noptr]
+[nospaces]
+[mode-sjis]
+
+# B Button to quit
+# @@700654@@
+B[spx]Btn[spx]to[spx]quit
+[exit]

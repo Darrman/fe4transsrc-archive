@@ -1,0 +1,393 @@
+# 0 10 dynanames
+
+# Last modified: 08/06/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the names of characters whereever they are used in a dialogue sense.
+# Eg: Fortune Teller, Second Generation conversations which could have substitutes.
+# Not: Character Status Screen, Unit Menu, etc.
+
+[section dynanames]
+[map 10]
+[bits16]
+[nocompress]
+[nospaces]
+
+
+# 0xd948b
+# @@889869@@
+Sigurd
+[exit]
+
+
+# 0xd9491
+# @@889871@@
+Noish
+[exit]
+
+
+# 0xd9498
+# @@889873@@
+Alec
+[exit]
+
+
+# 0xd949d
+# @@889875@@
+Arden
+[exit]
+
+
+# 0xd94a3
+# @@889877@@
+Fin
+[exit]
+
+
+# 0xd94a8
+# @@889879@@
+Cuan
+[exit]
+
+
+# 0xd94ae
+# @@889881@@
+Mideel
+[exit]
+
+
+# 0xd94b5
+# @@889883@@
+Levin
+[exit]
+
+
+# 0xd94bb
+# @@889885@@
+Holyn
+[exit]
+
+
+# 0xd94c0
+# @@889887@@
+Azel
+[exit]
+
+
+# 0xd94c5
+# @@889889@@
+Jamuka
+[exit]
+
+
+# 0xd94cb
+# @@889891@@
+Claude
+[exit]
+
+
+# 0xd94d1
+# @@889893@@
+Beowulf
+[exit]
+
+
+# 0xd94db
+# @@889895@@
+Lex
+[exit]
+
+
+# 0xd94e1
+# @@889897@@
+Dew
+[exit]
+
+
+# 0xd94e6
+# @@889899@@
+Dierdre
+[exit]
+
+
+# 0xd94ed
+# @@889901@@
+Ethlin
+[exit]
+
+
+# 0xd94f3
+# @@889903@@
+Lachesis
+[exit]
+
+
+# 0xd94f9
+# @@889905@@
+Ayra
+[exit]
+
+
+# 0xd94fe
+# @@889907@@
+Fury
+[exit]
+
+
+# 0xd9504
+# @@889909@@
+Tiltyu
+[exit]
+
+
+# 0xd950b
+# @@889911@@
+Sylvia
+[exit]
+
+
+# 0xd9512
+# @@889913@@
+Edin
+[exit]
+
+
+# 0xd9519
+# @@889915@@
+Bridget
+[exit]
+
+
+# 0xd9520
+# @@889917@@
+Celice
+[exit]
+
+
+# 0xd9525
+# @@889919@@
+Shanan
+[exit]
+
+
+# 0xd952b
+# @@889921@@
+Rodolban
+[exit]
+
+
+# 0xd9532
+# @@889923@@
+Asaello
+[exit]
+
+
+# 0xd9538
+# @@889925@@
+Leaf
+[exit]
+
+
+# 0xd953d
+# @@889927@@
+Johan
+[exit]
+
+
+# 0xd9542
+# @@889929@@
+Sharlow
+[exit]
+
+
+# 0xd9549
+# @@889931@@
+Hawk
+[exit]
+
+
+# 0xd954e
+# @@889933@@
+Tristan
+[exit]
+
+
+# 0xd9555
+# @@889935@@
+Fin
+[exit]
+
+
+# 0xd955a
+# @@889937@@
+Dimna
+[exit]
+
+
+# 0xd9560
+# @@889939@@
+Hannival
+[exit]
+
+
+# 0xd9567
+# @@889941@@
+Aless
+[exit]
+
+
+# 0xd956c
+# @@889943@@
+Amid
+[exit]
+
+
+# 0xd9575
+# @@889945@@
+Oifaye
+[exit]
+
+
+# 0xd957b
+# @@889947@@
+Daisy
+[exit]
+
+
+# 0xd9581
+# @@889949@@
+Radney
+[exit]
+
+
+# 0xd9587
+# @@889951@@
+Mana
+[exit]
+
+
+# 0xd958b
+# @@889953@@
+Julia
+[exit]
+
+
+# 0xd9590
+# @@889955@@
+Altenna
+[exit]
+
+
+# 0xd9596
+# @@889957@@
+Femina
+[exit]
+
+
+# 0xd959c
+# @@889959@@
+Linda
+[exit]
+
+
+# 0xd95a1
+# @@889961@@
+Laylea
+[exit]
+
+
+# 0xd95a7
+# @@889963@@
+Janne
+[exit]
+
+
+# 0xd95ad
+# @@889965@@
+Johalva
+[exit]
+
+
+# 0xd95b4
+# @@889967@@
+Skasaher
+[exit]
+
+
+# 0xd95ba
+# @@889969@@
+Faval
+[exit]
+
+
+# 0xd95c0
+# @@889971@@
+Coupl
+[exit]
+
+
+# 0xd95c6
+# @@889973@@
+Sety
+[exit]
+
+
+# 0xd95cb
+# @@889975@@
+Delmud
+[exit]
+
+
+# 0xd95d2
+# @@889977@@
+Lester
+[exit]
+
+
+# 0xd95d8
+# @@889979@@
+Arthur
+[exit]
+
+
+# 0xd95de
+# @@889981@@
+Patty
+[exit]
+
+
+# 0xd95e3
+# @@889983@@
+Lakche
+[exit]
+
+
+# 0xd95e9
+# @@889985@@
+Rana
+[exit]
+
+
+# 0xd95ed
+# @@889987@@
+Fee
+[exit]
+
+
+# 0xd95f2
+# @@889989@@
+Tinny
+[exit]
+
+
+# 0xd95f8
+# @@889991@@
+Lynn
+[exit]
+
+
+# 0xd95fd
+# @@889993@@
+Nanna
+[exit]
+

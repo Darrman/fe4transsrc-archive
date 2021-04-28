@@ -1,0 +1,92 @@
+# Last modified: 20/06/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering the text describing the configuration settings.
+
+[mode-sjis]
+
+# Animation Setting
+# @@652600@@
+Animation
+1-Real[spx][spx][spx]
+2-Map[spx][spx][spx][spx]
+3-Ind
+[exit]
+
+
+# Terrain Window
+# @@652603@@
+Terra[spx]Wnd
+Terrain[spx][spx]
+Window[spx][spx][spx]
+display
+[exit]
+
+
+# Unit Window
+# @@652606@@
+Unit[spx]Wnd[spx]
+Unit[spx][spx][spx][spx][spx]
+Window[spx][spx][spx]
+display
+[exit]
+
+
+# Message Speed
+# @@652609@@
+Msg[spx]Speed
+Speed[spx]at[spx]
+which[spx][spx][spx][spx]
+text[spx]is[spx][spx]
+displayed
+[exit]
+
+
+# Enemy Movement Speed
+# @@652612@@
+Enemy[spx]Spd
+Speed[spx]at[spx]
+which[spx][spx][spx][spx]
+enemies[spx][spx]
+move
+[exit]
+
+
+# Sound Setting
+# @@652615@@
+Sound[spx][spx][spx][spx]
+BG[spx]Music[spx]
+1-Stereo[spx]
+2-Mono[spx][spx][spx]
+3-Off
+[exit]
+
+
+# Auto Save
+# @@652618@@
+AutoSave[spx]
+Automatic
+save[spx]to[spx][spx]
+selected[spx]
+file
+[exit]
+
+
+# Enemy Intelligence
+# @@652624@@
+Enemy[spx]AI[spx]
+How[spx]smart
+enemy[spx][spx][spx][spx]
+units[spx]are
+[exit]
+
+
+# Auto Cursor
+# @@652621@@
+AutoCur[spx][spx]
+Cursor[spx][spx][spx]
+moves[spx]to[spx]
+main[spx]unit
+each[spx]turn
+[exit]
+

@@ -1,0 +1,3 @@
+scanz.o: scanz.c
+ips2sif.o: ips2sif.c ../section.h ../sif.h ../ips.h
+libsif.o: libsif.c ../sif.h ../section.h

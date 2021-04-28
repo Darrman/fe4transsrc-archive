@@ -1,0 +1,15 @@
+[noptr]
+[mode-notext]
+
+# Move 'revive' to start of line
+# @@634865@@
+
+0xA2 0x03 0x02 0x80 0x05
+[exit]
+
+# Move character name to end of line
+# Shouldn't need to be truncated
+# @@634837@@
+
+0x0A
+[exit]

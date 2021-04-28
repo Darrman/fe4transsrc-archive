@@ -1,0 +1,74 @@
+
+[blocked]
+# 0x1dcd04
+# @@3330753@@
+[block b000]
+[resolve b001]
+[resolve b002]
+
+[exit]
+
+
+# 0x1dcd0f
+# @@3330756@@
+[block b003]
+[resolve b001]
+[resolve b002]
+[$00$2D$40$BC$91]
+[exit]
+
+
+# 0x1dcd1f
+# @@3330759@@
+[block b004]
+[resolve b001]
+[resolve b005]
+[cs]
+[DlgCls][xChr][Wait 20]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1dcd39
+# @@3330762@@
+[block b006]
+[resolve b001]
+[resolve b005]
+[$00$2D$46$BC$91]
+[exit]
+
+
+# 0x1dcd49
+# @@3330765@@
+[block b001]
+
+[TWinTop][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Levin' 0280]Hi.
+
+[TWinTop]Hi?
+[TWinBtm]Hi.[Wait 60][cs]
+
+[TWinTop]...
+
+[exit]
+
+
+# 0x1dcef4
+# @@3330768@@
+[block b002]
+
+[TWinBtm][Wait 20]DEWD.[Wait 60][dcs]
+DEEEWD.
+[Wait 60][cs]
+
+[TWinTop]DEEEEEEWWWD!!
+
+[exit]
+
+
+# 0x1dd122
+# @@3330771@@
+[block b005]
+
+[TWinBtm]Well, that was stupid.
+[exit]

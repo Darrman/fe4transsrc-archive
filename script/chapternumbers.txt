@@ -1,0 +1,31 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering the chapter numbers in the main menu and
+# the data screen.
+
+[ASMPTR]
+
+
+# 0xd9e88
+# @@1158821@@
+Pro
+[exit]
+
+
+# 0xd9e8f
+# @@1158833@@
+C[$09$B1]
+[exit]
+
+
+# 0xd9e96
+# @@1158845@@
+C10
+[exit]
+
+
+# 0xd9ea5
+# @@1158857@@
+Epi
+[exit]

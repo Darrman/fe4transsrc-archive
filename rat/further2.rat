@@ -1,0 +1,15 @@
+.rat
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This RAT lists various sections in the ROM which I have implemented personally
+SECTION PUBLIC
+        00DEA6-00DEC5
+	00DF1C-00DF27
+	09A981-09A9C8
+	0BD477-0BD494
+        0BD4AF-0BD4D6
+	0BD64E-0BD667
+	0BD684-0BD6BB
+	05A6E6-05A707
+END

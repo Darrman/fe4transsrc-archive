@@ -1,0 +1,1667 @@
+# 0 10 BANK8E
+
+[section BANK8E]
+[map 10]
+[bits16]
+[winlimit 160]
+
+
+# 0xed9de
+# @@979932@@
+
+[TWinBtm][DlgOpn]['Sigurd' 0001]・・・くっ・・・
+すまない・・・みんな・・・
+[k]
+
+[exit]
+
+
+# 0xed9ff
+# @@979936@@
+
+[TWinBtm][DlgOpn]['Noish' 0002]シグルド様・・・・
+・・・申し訳ありません・・・
+どうか、お元気で・・・[k]
+
+[exit]
+
+
+# 0xeda35
+# @@979940@@
+
+[TWinBtm][DlgOpn]['Alec' 0003]ちっ・・・ついてねぇな・・・
+シグルド様、
+どうかご武運を・・・[k]
+
+[exit]
+
+
+# 0xeda63
+# @@979944@@
+
+[TWinBtm][DlgOpn]['Arden' 0004]シグルド様・・・・・・
+あなたにお仕えできて
+悔いのない一生でしたよ[k]
+
+[exit]
+
+
+# 0xeda97
+# @@979948@@
+
+[TWinBtm][DlgOpn]['Young Fin' 0005]・・・・・申し訳ありません
+この傷では足手まとい、
+一度レンスタ・に戻ります[k]
+
+[exit]
+
+
+# 0xedad4
+# @@979952@@
+
+[TWinBtm][DlgOpn]['Cuan' 0006]くっ・・・私としたことが・・・
+[k]
+
+[exit]
+
+
+# 0xedb77
+# @@979956@@
+
+[TWinBtm][DlgOpn]['Mideel' 0007]ああ・・・シグルド様、
+申し訳ありません
+[k]
+
+[exit]
+
+
+# 0xedb9c
+# @@979960@@
+
+[TWinBtm][DlgOpn]['Levin' 0008]くっ・・・俺には・・・
+・・・やることが残っている・・・・
+倒れるわけにはいかない・・・[k]
+
+[exit]
+
+
+# 0xedbd8
+# @@979964@@
+
+[TWinBtm][DlgOpn]['Holin' 0009]ふっ・・・
+俺も・・・バカな男よ・・・・
+[k]
+
+[exit]
+
+
+# 0xedc2c
+# @@979968@@
+
+[TWinBtm][DlgOpn]['Azel' 000A]シグルド公子・・・・
+・・・後は頼みます
+[k]
+
+[exit]
+
+
+# 0xedc76
+# @@979972@@
+
+[TWinBtm][DlgOpn]['Jamuka' 000B]くっ、もはやこれまでか・・・
+[k]
+
+[exit]
+
+
+# 0xedc8f
+# @@979976@@
+
+[TWinBtm][DlgOpn]['Claude' 000C]神よ・・・わが命と引きかえに
+彼らを見守りたまえ・・・
+[k]
+
+[exit]
+
+
+# 0xedcbe
+# @@979980@@
+
+[TWinBtm][DlgOpn]['Beowulf' 000D]ちっ・・・なんてこった
+俺の運もここまでか・・・・
+[k]
+
+[exit]
+
+
+# 0xedce6
+# @@979984@@
+
+[TWinBtm][DlgOpn]['Lex' 000E]俺もとん  だお人好  しだな
+・・・シグルド公子、
+悪いが先に逝かせてもらう・・・[k]
+
+[exit]
+
+
+# 0xedd25
+# @@979988@@
+
+[TWinBtm][DlgOpn]['Deu' 000F]ついてないや、
+・・・ドジふんじまったなぁ・・・
+[k]
+
+[exit]
+
+
+# 0xedd48
+# @@979992@@
+
+[TWinBtm][DlgOpn]['Diadora' 0010]やめて！
+わたしをどこへ
+連れて行くのです！？[k]
+
+[exit]
+
+
+# 0xeddd1
+# @@979996@@
+
+[TWinBtm][DlgOpn]['Ethrin' 0011]ああ・・・キュアン・・・・
+・・・たすけて・・・・
+[k]
+
+[exit]
+
+
+# 0xede48
+# @@980000@@
+
+[TWinBtm][DlgOpn]['Lachesis' 0012]ああ・・・エルトにいさま・・・・
+[k]
+
+[exit]
+
+
+# 0xede92
+# @@980004@@
+
+[TWinBtm][DlgOpn]['Ira' 0013]シャナン、元気でね・・・
+[k]
+
+[exit]
+
+
+# 0xedeab
+# @@980008@@
+
+[TWinBtm][DlgOpn]['Fury' 0014]レヴィン王子、
+お許しください・・・
+[k]
+
+[exit]
+
+
+# 0xedeec
+# @@980012@@
+
+[TWinBtm][DlgOpn]['Tiltyu' 0015]もう！  やんなっちゃう
+[k]
+
+[exit]
+
+
+# 0xedf2d
+# @@980016@@
+
+[TWinBtm][DlgOpn]['Sylvia' 0016]なんで・・・あたしが・・・・
+[k]
+
+[exit]
+
+
+# 0xedf78
+# @@980020@@
+
+[TWinBtm][DlgOpn]['Edin' 0017]・・・・神よ、
+どうか皆をお守り下さい
+[k]
+
+[exit]
+
+
+# 0xedf9e
+# @@980024@@
+
+[TWinBtm][DlgOpn]['Brigid' 0018]・・・・これまでか・・・っ！
+[k]
+
+[exit]
+
+
+# 0xedfb7
+# @@980028@@
+
+[TWinBtm][DlgOpn]['Celice' 0019]ああ・・・父上・・・
+[k]
+
+[exit]
+
+
+# 0xedfb7
+# @@980032@@
+
+[TWinBtm][DlgOpn]['Celice' 0019]ああ・・・父上・・・
+[k]
+
+[exit]
+
+
+# 0xedfb7
+# @@980036@@
+
+[TWinBtm][DlgOpn]['Celice' 0019]ああ・・・父上・・・
+[k]
+
+[exit]
+
+
+# 0xedfb7
+# @@980042@@
+
+[TWinBtm][DlgOpn]['Celice' 0019]ああ・・・父上・・・
+[k]
+
+[exit]
+
+
+# 0xedfdf
+# @@980046@@
+
+[TWinBtm][DlgOpn]['Shanan' 001A]くっ・・・セリスよ、許せ！
+[k]
+
+[exit]
+
+
+# 0xedff9
+# @@980050@@
+
+[TWinBtm][DlgOpn]['Rodolban' 001B]なんてことだ・・・
+[k]
+
+[exit]
+
+
+# 0xee00d
+# @@980054@@
+
+[TWinBtm][DlgOpn]['Asaello' 001C]ちっ、ぬかったぜ！
+[k]
+
+[exit]
+
+
+# 0xee021
+# @@980058@@
+
+[TWinBtm][DlgOpn]['Leif' 001D]父上、母上・・・
+[k]
+
+[exit]
+
+
+# 0xee037
+# @@980062@@
+
+[TWinBtm][DlgOpn]['Johan' 001E]ヨハン死すとも、
+愛は死なず・・・ぐふっ
+[k]
+
+[exit]
+
+
+# 0xee05c
+# @@980066@@
+
+[TWinBtm][DlgOpn]['Sharlow' 001F]・・・とうさん！
+[k]
+
+[exit]
+
+
+# 0xee06f
+# @@980070@@
+
+[TWinBtm][DlgOpn]['Hawk' 0020]私の力もこんなものか・・・
+・・・・・・無念だ・・・！
+[k]
+
+[exit]
+
+
+# 0xee09b
+# @@980074@@
+
+[TWinBtm][DlgOpn]['Tristan' 0021]セリス様、どうかご武運を・・・
+[k]
+
+[exit]
+
+
+# 0xee0b9
+# @@980078@@
+
+[TWinBtm][DlgOpn]['Adult Fin' 0022]キュアン様・・・
+・・・・・・エスリン様・・・
+お許しください・・・[k]
+
+[exit]
+
+
+# 0xee0eb
+# @@980082@@
+
+[TWinBtm][DlgOpn]['Dimna' 0023]セリス様、
+あとは頼みます・・・
+[k]
+
+[exit]
+
+
+# 0xee10a
+# @@980086@@
+
+[TWinBtm][DlgOpn]['Hannival' 0024]これも運命か・・・・・息子よ・・・
+[k]
+
+[exit]
+
+
+# 0xee12c
+# @@980090@@
+
+[TWinBtm][DlgOpn]['Aless' 0025]ま、まさか・・・この俺が・・・
+[k]
+
+[exit]
+
+
+# 0xee148
+# @@980094@@
+
+[TWinBtm][DlgOpn]['Amid' 0026]フッ・・・バカな話だな・・・
+[k]
+
+[exit]
+
+
+# 0xee163
+# @@980098@@
+
+[TWinBtm][DlgOpn]['Oifaye' 0027]シグルド様、
+申し訳ありません・・・
+・・・・・私はもう・・・[k]
+
+[exit]
+
+
+# 0xee194
+# @@980102@@
+
+[TWinBtm][DlgOpn]['Daisy' 0028]もぉっ、やんなっちゃう！
+[k]
+
+[exit]
+
+
+# 0xee1ab
+# @@980106@@
+
+[TWinBtm][DlgOpn]['Radney' 0029]くっ・・・これまでか・・・
+[k]
+
+[exit]
+
+
+# 0xee1d8
+# @@980110@@
+
+[TWinBtm][DlgOpn]['Mana' 002A]ああ、セリスさま・・・
+[k]
+
+[exit]
+
+
+# 0xee204
+# @@980114@@
+
+[TWinBtm][DlgOpn]['Yuria' 002B]やめて下さい！
+わたしをどこへ
+連れて行くのです！！[k]
+
+[exit]
+
+
+# 0xee2c8
+# @@980118@@
+
+[TWinBtm][DlgOpn]['Althena' 002C]兄上・・・
+[k]
+
+[exit]
+
+
+# 0xee2ed
+# @@980122@@
+
+[TWinBtm][DlgOpn]['Femina' 002D]ああ、お兄ちゃん・・・
+[k]
+
+[exit]
+
+
+# 0xee305
+# @@980126@@
+
+[TWinBtm][DlgOpn]['Linda' 002E]おかあさま・・・
+[k]
+
+[exit]
+
+
+# 0xee32c
+# @@980130@@
+
+[TWinBtm][DlgOpn]['Laylea' 002F]アレス・・・ごめんね
+[k]
+
+[exit]
+
+
+# 0xee341
+# @@980134@@
+
+[TWinBtm][DlgOpn]['Janne' 0030]リ・フ王子、
+あとは頼みます・・・
+[k]
+
+[exit]
+
+
+# 0xee377
+# @@980138@@
+
+[TWinBtm][DlgOpn]['Skasaher' 0032]なんてことだ・・・
+ラクチェ・・・
+あとはたのむ・・・[k]
+
+[exit]
+
+
+# 0xee39c
+# @@980142@@
+
+[TWinBtm][DlgOpn]['Faval' 0033]パティ・・・すまない・・・
+[k]
+
+[exit]
+
+
+# 0xee361
+# @@980146@@
+
+[TWinBtm][DlgOpn]['Johalva' 0031]けっ、なんてこったい！
+[k]
+
+[exit]
+
+
+# 0xee3b4
+# @@980150@@
+
+[TWinBtm][DlgOpn]['Coupl' 0034]・・・とうさん・・・
+今まで育ててくれて
+・・・・ありがとう[k]
+
+[exit]
+
+
+# 0xee3e0
+# @@980154@@
+
+[TWinBtm][DlgOpn]['Sety' 0035]私の力もこんなものか・・・
+・・・無念だ・・・！
+[k]
+
+[exit]
+
+
+# 0xee409
+# @@980158@@
+
+[TWinBtm][DlgOpn]['Delmud' 0036]セリス様、どうかご武運を・・・
+[k]
+
+[exit]
+
+
+# 0xee427
+# @@980162@@
+
+[TWinBtm][DlgOpn]['Lester' 0037]セリス様、あとは頼みます・・・
+[k]
+
+[exit]
+
+
+# 0xee445
+# @@980166@@
+
+[TWinBtm][DlgOpn]['Arthur' 0038]フッ・・・バカな話だ・・・
+[k]
+
+[exit]
+
+
+# 0xee45f
+# @@980170@@
+
+[TWinBtm][DlgOpn]['Patty' 0039]たすけて、ファバル兄さん！
+[k]
+
+[exit]
+
+
+# 0xee495
+# @@980174@@
+
+[TWinBtm][DlgOpn]['Lakche' 003A]くっ、これまでか・・・
+[k]
+
+[exit]
+
+
+# 0xee4ce
+# @@980178@@
+
+[TWinBtm][DlgOpn]['Rana' 003B]ああ、エ・ディン母様・・・
+[k]
+
+[exit]
+
+
+# 0xee504
+# @@980182@@
+
+[TWinBtm][DlgOpn]['Fee' 003C]ああ、兄さん・・・
+[k]
+
+[exit]
+
+
+# 0xee537
+# @@980186@@
+
+[TWinBtm][DlgOpn]['Tinny' 003D]ティルテュ母様・・・
+[k]
+
+[exit]
+
+
+# 0xee562
+# @@980190@@
+
+[TWinBtm][DlgOpn]['Lynn' 003E]アレス・・・ごめんね
+[k]
+
+[exit]
+
+
+# 0xee577
+# @@980194@@
+
+[TWinBtm][DlgOpn]['Nanna' 003F]リ・フ王子、
+あとは頼みます・・・
+[k]
+
+[exit]
+
+
+# 0xedb77
+# @@980200@@
+
+[TWinBtm][DlgOpn]['Mideel' 0007]ああ・・・シグルド様、
+申し訳ありません
+[k]
+
+[exit]
+
+
+# 0xedbfb
+# @@980204@@
+
+[TWinBtm][DlgOpn]['Azel' 000A]シグルド公子・・・・
+・・・後は頼みます、
+・・・・・・[$00$22]・・・[k]
+
+[exit]
+
+
+# 0xedc51
+# @@980208@@
+
+[TWinBtm][DlgOpn]['Jamuka' 000B]くっ、もはやこれまでか・・・
+・・・・・・[$00$22]・・・
+[k]
+
+[exit]
+
+
+# 0xede63
+# @@980212@@
+
+[TWinBtm][DlgOpn]['Ira' 0013]シャナン、元気でね・・・
+・・・・[$00$22]、
+また会いたいな・・・・・[k]
+
+[exit]
+
+
+# 0xedecc
+# @@980216@@
+
+[TWinBtm][DlgOpn]['Tiltyu' 0015]もう！  やんなっちゃう
+・・・[$00$22]のバカ！
+[k]
+
+[exit]
+
+
+# 0xedf02
+# @@980220@@
+
+[TWinBtm][DlgOpn]['Sylvia' 0016]なんで・・・あたしが・・・・
+・・・・[$00$22]、
+どうしてくれるのよ！[k]
+
+[exit]
+
+
+# 0xedf46
+# @@980224@@
+
+[TWinBtm][DlgOpn]['Edin' 0017]・・・・神よ、
+どうか皆をお守り下さい
+[$00$22]、ごめんなさい・・・[k]
+
+[exit]
+
+
+# 0xee1c3
+# @@980228@@
+
+[TWinBtm][DlgOpn]['Mana' 002A]ああ、[$00$22]さま・・・
+[k]
+
+[exit]
+
+
+# 0xee1ee
+# @@980232@@
+
+[TWinBtm][DlgOpn]['Yuria' 002B]ああ、セリスさま・・・
+[k]
+
+[exit]
+
+
+# 0xee2da
+# @@980236@@
+
+[TWinBtm][DlgOpn]['Femina' 002D]ああ、[$00$22]・・・
+[k]
+
+[exit]
+
+
+# 0xee318
+# @@980240@@
+
+[TWinBtm][DlgOpn]['Laylea' 002F][$00$22]・・・ごめんね
+[k]
+
+[exit]
+
+
+# 0xee479
+# @@980244@@
+
+[TWinBtm][DlgOpn]['Lakche' 003A]くっ、これまでか・・・
+[$00$22]・・・
+[k]
+
+[exit]
+
+
+# 0xee4ab
+# @@980248@@
+
+[TWinBtm][DlgOpn]['Rana' 003B]ああ、エ・ディン母様・・・
+[$00$22]様・・・
+[k]
+
+[exit]
+
+
+# 0xee4e8
+# @@980252@@
+
+[TWinBtm][DlgOpn]['Fee' 003C]ああ、兄さん・・・
+[$00$22]・・・
+[k]
+
+[exit]
+
+
+# 0xee51a
+# @@980256@@
+
+[TWinBtm][DlgOpn]['Tinny' 003D]ティルテュ母様・・・
+[$00$22]・・・
+[k]
+
+[exit]
+
+
+# 0xee54e
+# @@980260@@
+
+[TWinBtm][DlgOpn]['Lynn' 003E][$00$22]・・・ごめんね
+[k]
+
+[exit]
+
+
+# 0xee597
+# @@980266@@
+
+[TWinBtm][DlgOpn]['DiMaggio' 0041]こんなはずじゃあ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee5af
+# @@980270@@
+
+[TWinBtm][DlgOpn]['Gerrard' 0040]残念だったな・・・
+あの女はここにはいねえよ
+今頃は、ガンドルフ王子に・・・[Wait C8]
+[exit]
+
+
+# 0xee5ea
+# @@980274@@
+
+[TWinBtm][DlgOpn]['Kinbois' 0048]ううっ、いてえよぉ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee603
+# @@980278@@
+
+[TWinBtm][DlgOpn]['Gandolf' 004D]・・・な・・・なんてことだ
+・・・・・グフッ
+[Wait C8]
+[exit]
+
+
+# 0xee626
+# @@980282@@
+
+[TWinBtm][DlgOpn]['Sandima' 0052]マンフロイ大司教・・・どうか
+・・・お許しあれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee653
+# @@980286@@
+
+[TWinBtm][DlgOpn]['Ira' 0013]シャナン・・・ごめんね
+[Wait C8]
+[exit]
+
+
+# 0xee66b
+# @@980290@@
+
+[TWinBtm][DlgOpn]['Elliot' 0058]ちっ・・・・・・退却だ！
+今日の所は、
+この位にしておいてやる！[Wait C8]
+[exit]
+
+
+# 0xedfce
+# @@980294@@
+
+[TWinBtm][DlgOpn]['Jamuka' 000B]父上・・・
+[k]
+
+[exit]
+
+
+# 0xee6a0
+# @@980298@@
+
+[TWinBtm][DlgOpn]['Elliot' 0066]ちくしょう・・・なぜいつも
+エルトシャンばか  りが・・・
+[Wait C8]
+[exit]
+
+
+# 0xee6cb
+# @@980302@@
+
+[TWinBtm][DlgOpn]['Phillip' 005F]ボルド・様・・・
+・・・お許しください・・・
+[Wait C8]
+[exit]
+
+
+# 0xee6f2
+# @@980306@@
+
+[TWinBtm][DlgOpn]['Boldor' 005D]うう・・・ワシの城が・・・・・・
+[k]
+
+[exit]
+
+
+# 0xee70f
+# @@980310@@
+
+[TWinBtm][DlgOpn]['Macbeth' 006F]ぐふっ・・・なんで私が・・・
+[Wait C8]
+[exit]
+
+
+# 0xee72c
+# @@980314@@
+
+[TWinBtm][DlgOpn]['Voltz' 0073]ま、まさか・・・
+俺を倒せる奴がいるとは・・・
+[Wait C8]
+[exit]
+
+
+# 0xee772
+# @@980318@@
+
+[TWinBtm][DlgOpn]['Clement' 0075]くっ・・・おぼえておれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee78d
+# @@980322@@
+
+[TWinBtm][DlgOpn]['Fury' 0014]ああ・・・ラ・ナ様・・・
+お許し下さい・・・
+[Wait C8]
+[exit]
+
+
+# 0xee7b6
+# @@980326@@
+
+[TWinBtm][DlgOpn]['Zain' 0083]くっ・・・
+これでアグストリアも
+おわりか・・・・・[Wait C8]
+[exit]
+
+
+# 0xee756
+# @@980330@@
+
+[TWinBtm][DlgOpn]['Beowulf' 000D]うっ・・・ついてねえな・・・！
+[Wait C8]
+[exit]
+
+
+# 0xee7dc
+# @@980334@@
+
+[TWinBtm][DlgOpn]['Shagaar' 00A1]ううっ・・・ま、まってくれ
+・・・いのちだけは・・・
+[Wait C8]
+[exit]
+
+
+# 0xee803
+# @@980338@@
+
+[TWinBtm][DlgOpn]['Shacoban' 008A]む、無念・・・
+[Wait C8]
+[exit]
+
+
+# 0xee81a
+# @@980342@@
+
+[TWinBtm][DlgOpn]['Eltosian' 005A]ゆるせ、
+アグストリアの民よ・・・・・・
+[Wait C8]
+[exit]
+
+
+# 0xee83d
+# @@980346@@
+
+[TWinBtm][DlgOpn]['Papilion' 00A4]ううっ・・・・
+・・・トラキアに栄光あれ・・・！
+[Wait C8]
+[exit]
+
+
+# 0xee864
+# @@980350@@
+
+[TWinBtm][DlgOpn]['Shagaar' 00A1]わ・・・私の・・・
+アグストリアが・・・・
+[Wait C8]
+[exit]
+
+
+# 0xee888
+# @@980354@@
+
+[TWinBtm][DlgOpn]['Pizarl' 00AC]くそ・・・
+オ・ガヒルの海賊が
+負けるはずが・・・[Wait C8]
+[exit]
+
+
+# 0xee8b1
+# @@980358@@
+
+[TWinBtm][DlgOpn]['Dobarl' 00AA]ちくしょう・・・
+[Wait C8]
+[exit]
+
+
+# 0xee8c6
+# @@980362@@
+
+[TWinBtm][DlgOpn]['Cuvuli' 00BD]ディ・トバ、
+あとは頼ん  だぞ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee8e9
+# @@980366@@
+
+[TWinBtm][DlgOpn]['Deetva' 0242]くっ・・・私としたことが・・・
+[Wait C8]
+[exit]
+
+
+# 0xee907
+# @@980370@@
+
+[TWinBtm][DlgOpn]['Maios' 023F]くっ・・・そんなバカな・・・
+[Wait C8]
+[exit]
+
+
+# 0xee922
+# @@980374@@
+
+[TWinBtm][DlgOpn]['Mahnya' 00B6]ああ、フュリ・・・・
+・・・・・レヴィンさま・・・
+[Wait C8]
+[exit]
+
+
+# 0xee948
+# @@980378@@
+
+[TWinBtm][DlgOpn]['Pamela' 0241]ば、ばかな・・・
+[Wait C8]
+[exit]
+
+
+# 0xee95d
+# @@980382@@
+
+[TWinBtm][DlgOpn]['Donovan' 0243]げっ・・・てめえら、
+強すぎるぜ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee97f
+# @@980386@@
+
+[TWinBtm][DlgOpn]['Dakar' 0240]うう・・・我が野望も、
+これまでか・・・
+[Wait C8]
+[exit]
+
+
+# 0xee9a4
+# @@980390@@
+
+[TWinBtm][DlgOpn]['Lamia' 00D5]ば、ばかな・・・
+[Wait C8]
+[exit]
+
+
+# 0xee9b9
+# @@980394@@
+
+[TWinBtm][DlgOpn]['Vylon' 027E]シグルド・・・すまぬ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee9d3
+# @@980398@@
+
+[TWinBtm][DlgOpn]['Slayder' 029A]くそっ、ぬかったわ・・・
+[Wait C8]
+[exit]
+
+
+# 0xee9ec
+# @@980402@@
+
+[TWinBtm][DlgOpn]['Andre' 00E9]ば、ばかな・・・スコピオ・・・
+父のかたきを討ってくれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeea1b
+# @@980406@@
+
+[TWinBtm][DlgOpn]['Langobalt' 00DB]ま、まさか・・・
+このわしが敗れるとは・・・
+ダナン・・・あとはたのん  だぞ[Wait C8]
+[exit]
+
+
+# 0xeea51
+# @@980410@@
+
+[TWinBtm][DlgOpn]['Vaha' 00EB]ううっ・・・アルヴィス様、
+お許しを・・・
+[Wait C8]
+[exit]
+
+
+# 0xeea77
+# @@980414@@
+
+[TWinBtm][DlgOpn]['Magorn' 00F0]ぐっ・・・トラキアに栄光あれ！
+[Wait C8]
+[exit]
+
+
+# 0xeea95
+# @@980418@@
+
+[TWinBtm][DlgOpn]['Leptor' 00F5]くっ・・・アルヴィスめ
+・・・ヤツはいったい・・・ぐふっ
+[Wait C8]
+[exit]
+
+
+# 0xeeadb
+# @@980422@@
+
+[TWinBtm][DlgOpn]['Ethrin' 0011]ああ、アルテナ・・・許して・・・
+キュアン、ごめんなさい・・・
+[Wait C8]
+[exit]
+
+
+# 0xeeb09
+# @@980426@@
+
+[TWinBtm][DlgOpn]['Cuan' 0006]エスリン・・・すまない・・・
+フィン、リ・フを頼むぞ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeeb35
+# @@980432@@
+
+[TWinBtm][DlgOpn]['Harold' 024E]ぐわ・・・なぜだ・・・・・・
+こんな寄せ集めの兵に
+敗れるのか・・・！？[Wait C8]
+[exit]
+
+
+# 0xeeb6d
+# @@980436@@
+
+[TWinBtm][DlgOpn]['Johalva' 0031]うう・・・[$00$2C$3A$00]・・・
+すまねぇ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeeb8e
+# @@980440@@
+
+[TWinBtm][DlgOpn]['Johan' 001E]ああ、反乱軍ごときに
+敗れるとは・・・[$00$2C$3A$00]、
+わが愛は、永遠なり・・・[Wait C8]
+[exit]
+
+
+# 0xeebc8
+# @@980444@@
+
+[TWinBtm][DlgOpn]['Shumit' 0245]ダナン様・・・お許しを！
+[Wait C8]
+[exit]
+
+
+# 0xeebe5
+# @@980448@@
+
+[TWinBtm][DlgOpn]['Danan' 024D]ぐふ・・・
+アルヴィス陛下・・・
+[Wait C8]
+[exit]
+
+
+# 0xeec05
+# @@980452@@
+
+[TWinBtm][DlgOpn]['Coutozov' 0250]ロプト帝国に・・・
+栄光あれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeec05
+# @@980456@@
+
+[TWinBtm][DlgOpn]['Coutozov' 0250]ロプト帝国に・・・
+栄光あれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeec27
+# @@980460@@
+
+[TWinBtm][DlgOpn]['Liza' 0253]ああ、イシュト・様・・・
+[k]
+
+[exit]
+
+
+# 0xeec40
+# @@980464@@
+
+[TWinBtm][DlgOpn]['Ishtor' 0252]ライザ・・・俺は・・・
+[Wait C8]
+[exit]
+
+
+# 0xeec7c
+# @@980468@@
+
+[TWinBtm][DlgOpn]['Jabarro' 0251]くそっ・・・アレスめ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeec96
+# @@980472@@
+
+[TWinBtm][DlgOpn]['Bramsel' 024F]うう・・・
+ダ・ナはワシのものだ
+・・・ワシのものだ・・・[Wait C8]
+[exit]
+
+
+# 0xeecbf
+# @@980476@@
+
+[TWinBtm][DlgOpn]['Vampa' 0255]ち、ここはひとまず退却だな
+[Wait C8]
+[exit]
+
+
+# 0xeecdc
+# @@980480@@
+
+[TWinBtm][DlgOpn]['Fetora' 0256]ち、ここはひとまず退却だな
+[Wait C8]
+[exit]
+
+
+# 0xeecf9
+# @@980484@@
+
+[TWinBtm][DlgOpn]['Eliu' 0257]ち、ここはひとまず退却だな
+[Wait C8]
+[exit]
+
+
+# 0xeed16
+# @@980488@@
+
+[TWinBtm][DlgOpn]['Tinny' 003D]ああ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeed28
+# @@980492@@
+
+[TWinBtm][DlgOpn]['Blume' 0254]くっ、なんということだ・・・
+やむをえん・・・ひとまず
+コノ・トに退却だ・・・[Wait C8]
+[exit]
+
+
+# 0xeed5e
+# @@980496@@
+
+[TWinBtm][DlgOpn]['Ishtar' 0271]ああ・・・ユリウス様・・・
+[Wait C8]
+[exit]
+
+
+# 0xeed7a
+# @@980500@@
+
+[TWinBtm][DlgOpn]['Faval' 0033][$00$2C$39$00]・・・
+にいちゃんを許せ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeed9c
+# @@980504@@
+
+[TWinBtm][DlgOpn]['Muhammed' 025E]われらがこうも
+たやすく敗れるとは・・・
+ブル・ム王よ、お許しあれ・・・[Wait C8]
+[exit]
+
+
+# 0xeedd2
+# @@980508@@
+
+[TWinBtm][DlgOpn]['Ovo' 025D]ば、ばかな・・・
+[Wait C8]
+[exit]
+
+
+# 0xeede7
+# @@980512@@
+
+[TWinBtm][DlgOpn]['Vampa' 0255]ああ、無念だ・・・
+フェトラ、エリウ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeee0c
+# @@980516@@
+
+[TWinBtm][DlgOpn]['Fetora' 0256]くっ・・・反乱軍め・・・
+[Wait C8]
+[exit]
+
+
+# 0xeee28
+# @@980520@@
+
+[TWinBtm][DlgOpn]['Eliu' 0257]ヴァンパ、フェトラ・・・
+これまでだな・・・
+[Wait C8]
+[exit]
+
+
+# 0xeee4b
+# @@980524@@
+
+[TWinBtm][DlgOpn]['Blume' 0254]ぐぐっ・・・無念だ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeee67
+# @@980528@@
+
+[TWinBtm][DlgOpn]['Coruta' 014B]トラキアに栄光あれ！
+・・・ぐふっ
+[Wait C8]
+[exit]
+
+
+# 0xeee87
+# @@980532@@
+
+[TWinBtm][DlgOpn]['Maikov' 025C]トラキアばんざい！
+・・・ぐふっ
+[Wait C8]
+[exit]
+
+
+# 0xeeea4
+# @@980536@@
+
+[TWinBtm][DlgOpn]['Althena' 002C]兄上・・・アリオ・ン兄様・・・
+[Wait C8]
+[exit]
+
+
+# 0xeeec5
+# @@980540@@
+
+[TWinBtm][DlgOpn]['Hannival' 0024]息子よ・・・生きのびてくれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeeee6
+# @@980544@@
+
+[TWinBtm][DlgOpn]['Kanatz' 0263]ハンニバル様・・・お許し下さい
+[Wait C8]
+[exit]
+
+
+# 0xeef08
+# @@980548@@
+
+[TWinBtm][DlgOpn]['Disler' 0262]トラバント様・・・・
+・・・・おゆるしを・・・
+[Wait C8]
+[exit]
+
+
+# 0xeef2e
+# @@980552@@
+
+[TWinBtm][DlgOpn]['Musar' 0261]グランベル帝国・・・ばんざい！
+[Wait C8]
+[exit]
+
+
+# 0xeef4c
+# @@980556@@
+
+[TWinBtm][DlgOpn]['Judah' 0267]ふはは・・・
+ロプトウス様が復活なされば
+・・・お前らなど・・・[Wait C8]
+[exit]
+
+
+# 0xeef7e
+# @@980560@@
+
+[TWinBtm][DlgOpn]['Arion' 025B]な、なに・・・そんなことが・・・
+くっ、無念だ・・・アルテナ・・・
+[Wait C8]
+[exit]
+
+
+# 0xeefaf
+# @@980564@@
+
+[TWinBtm][DlgOpn]['Trabant' 0260]トラキアよ・・・
+わが愛しき大地よ・・・ぐふっ
+[Wait C8]
+[exit]
+
+
+# 0xeefd7
+# @@980568@@
+
+[TWinBtm][DlgOpn]['Lideel' 026D]ふっ・・・これも天命か・・・
+[Wait C8]
+[exit]
+
+
+# 0xeeff4
+# @@980572@@
+
+[TWinBtm][DlgOpn]['Hilda' 0268]くうっ・・・なんてことだい・・・
+ここはひとまず退却するか・・・
+[Wait C8]
+[exit]
+
+
+# 0xef024
+# @@980576@@
+
+[TWinBtm][DlgOpn]['Morrigan' 025F]マンフロイ大司教・・・
+お許しを・・・
+[Wait C8]
+[exit]
+
+
+# 0xef04a
+# @@980580@@
+
+[TWinBtm][DlgOpn]['Julius' 026F]遊びは終わりだ、帰るぞ
+[Wait C8]
+[exit]
+
+
+# 0xef067
+# @@980584@@
+
+[TWinBtm][DlgOpn]['Ishtar' 0271]え？  なぜ・・・
+[Wait C8]
+[exit]
+
+
+# 0xef07c
+# @@980588@@
+
+[TWinBtm][DlgOpn]['Zagam' 0185]マンフロイ大司教、
+お許しあれ・・・
+[Wait C8]
+[exit]
+
+
+# 0xef0a1
+# @@980592@@
+
+[TWinBtm][DlgOpn]['Alvis' 026E]・・・ディアドラ・・・ユリア・・・
+[Wait C8]
+[exit]
+
+
+# 0xef0e9
+# @@980596@@
+
+[TWinBtm][DlgOpn]['Roberto' 01A4]ぐふっ・・・そんなバカな・・・
+[Wait C8]
+[exit]
+
+
+# 0xef105
+# @@980600@@
+
+[TWinBtm][DlgOpn]['Boyce' 01AA]お・・・おそろしい奴だ・・・
+[Wait C8]
+[exit]
+
+
+# 0xef122
+# @@980604@@
+
+[TWinBtm][DlgOpn]['Rodan' 01AD]く・・・これも天罰か・・・
+[Wait C8]
+[exit]
+
+
+# 0xef13f
+# @@980608@@
+
+[TWinBtm][DlgOpn]['Yupheel' 01B2]ぐぐぐ・・・ユリウス様・・・
+お許しを・・・
+[Wait C8]
+[exit]
+
+
+# 0xef166
+# @@980612@@
+
+[TWinBtm][DlgOpn]['Fisher' 01B5]な、なんてことだ・・・
+[Wait C8]
+[exit]
+
+
+# 0xef17e
+# @@980616@@
+
+[TWinBtm][DlgOpn]['Brian' 01B8]スワンチカの斧が
+こうもたやすく敗れるとは・・・
+本当にこれで良かったのか・・・[Wait C8]
+[exit]
+
+
+# 0xef1ba
+# @@980620@@
+
+[TWinBtm][DlgOpn]['(null)' 0277]ぐぐぐ・・・ユリウス様・・・
+お許しを・・・
+[Wait C8]
+[exit]
+
+
+# 0xef1e1
+# @@980624@@
+
+[TWinBtm][DlgOpn]['Hilda' 0268]くう・、くやしい・・・
+イシュタル・・・このうらみ
+晴らしてくれ・・・[Wait C8]
+[exit]
+
+
+# 0xef212
+# @@980628@@
+
+[TWinBtm][DlgOpn]['(null)' 0272]ちっ・・・なんてことだ・・・
+[Wait C8]
+[exit]
+
+
+# 0xef22d
+# @@980632@@
+
+[TWinBtm][DlgOpn]['(null)' 0275]ぐぐぐ・・・ユリウス様・・・
+お許しを・・・
+[Wait C8]
+[exit]
+
+
+# 0xef254
+# @@980636@@
+
+[TWinBtm][DlgOpn]['Meng' 0269]イシュタル様、ご武運を・・・
+[Wait C8]
+[exit]
+
+
+# 0xef273
+# @@980640@@
+
+[TWinBtm][DlgOpn]['(null)' 026A]イシュタル様、
+お許しください・・・
+[Wait C8]
+[exit]
+
+
+# 0xef296
+# @@980644@@
+
+[TWinBtm][DlgOpn]['(null)' 0270]イシュタル様・・・妹上・・・
+[Wait C8]
+[exit]
+
+
+# 0xef2b5
+# @@980648@@
+
+[TWinBtm][DlgOpn]['Arion' 025B]く・・・アルテナ・・・
+[Wait C8]
+[exit]
+
+
+# 0xef2cd
+# @@980652@@
+
+[TWinBtm][DlgOpn]['Ishtar' 0271]ユリウス様・・・わたしは・・・
+[Wait C8]
+[exit]
+
+
+# 0xef2eb
+# @@980656@@
+
+[TWinBtm][DlgOpn]['Manfloy' 026C]ユリウス様・・・
+ロプト帝国をどうか・・・
+[Wait C8]
+[exit]
+
+
+# 0xef311
+# @@980660@@
+
+[TWinBtm][DlgOpn]['Julius' 026F][BGM 30][TextSpd 0C][Wait 0F]グワォォォォォォォォォォ・
+[Wait C8]
+[exit]
+
+
+# 0xef334
+# @@980664@@
+
+[TWinBtm][DlgOpn]['Julius' 026F][TextSpd 0C]グググ・・・ナ・ガヨ、
+マタシテモ
+ワシノジャマヲ  スルカ・・・[Wait C8]
+[exit]
+
+
+# 0xef365
+# @@980668@@
+
+[TWinBtm][DlgOpn]['Julius' 026F][TextSpd 0C]グググ・・・セリスヨ・・・
+・・・・オボエテオケ・・・
+[Wait 60][cs]
+人問ニ、
+ソノ卑シイ心アル限リ・・・
+ワシハ再ビヨミガエル[Wait 60][cs]
+・・・心セヨ・・・
+人問ドモ・・・グフッ
+[Wait C8]
+[exit]
+
+
+# 0xee291
+# @@980672@@
+
+[TWinBtm][DlgOpn]['(null)' 02B4]ウウッ・・・・・・・・・・
+[Wait 40][cs]
+
+[TWinBtm][DlgOpn]['Yuria' 002B]ああ・・・・・・セリス・・・さま・・・
+[k]
+
+[exit]
+

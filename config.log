@@ -1,0 +1,37 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:680: checking host system type
+configure:701: checking target system type
+configure:719: checking build system type
+configure:742: checking for Cygwin environment
+configure:793: checking for gcc
+configure:906: checking whether the C compiler (gcc  ) works
+configure:922: gcc -o conftest    conftest.c  1>&5
+configure:948: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:953: checking whether we are using GNU C
+configure:981: checking whether gcc accepts -g
+configure:1022: checking for make
+configure:1061: checking for cp
+configure:1095: checking for rm
+configure:1134: checking for tar
+configure:1168: checking for bzip2
+configure:1202: checking for wget
+configure:1235: checking how to run the C preprocessor
+configure:1315: checking for ANSI C header files
+configure:1422: checking for fcntl.h
+configure:1422: checking for unistd.h
+configure:1460: checking for working const
+configure:1535: checking for inline
+configure:1578: checking for strtol
+configure:1632: checking for mingw32 environment
+configure:1663: checking for executable suffix
+configure:1694: checking for object suffix
+configure:1731: checking for sif
+configure:1771: checking for ips2sif
+configure:1811: checking for scanz
+configure:1859: checking for 65816
+configure:1903: checking for main in -ltbl
+configure:1989: checking for sdl-config
+configure:2024: checking for SDL - version >= 1.2.0
+configure:2109: gcc -o conftest -g -O2 -I/usr/include/SDL -D_REENTRANT  -Llib conftest.c  -L/usr/lib -Wl,-rpath,/usr/lib -lSDL -lpthread 1>&5

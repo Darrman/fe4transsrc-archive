@@ -1,0 +1,20 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used to alter a couple of the happenings
+# which appear on the map screen.
+
+[ASMPTR]
+[mode-sjis]
+
+# Item Received
+# @@376375@@
+
+[spx]received!
+[exit]
+
+# Castle defeated
+# @@375959@@
+
+[spx]captured!
+[exit]

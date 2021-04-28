@@ -1,0 +1,34 @@
+#!/bin/sh
+echo -e "-h -p -r \"318200-318971\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_00.spec
+echo -e "-h -p -r \"1084AE-108F0A\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_01.spec
+echo -e "-h -p -r \"E8200-E8CC1\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_02.spec
+echo -e "-h -p -r \"1D8903-1D9581\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_03.spec
+echo -e "-h -p -r \"E9220-E9D5F\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_04.spec
+echo -e "-h -p -r \"1DC0BB-1DCD04\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_05.spec
+echo -e "-h -p -r \"11D02B-11D816\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_06.spec
+echo -e "-h -p -r \"3289DC-3293EF\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_07.spec
+echo -e "-h -p -r \"FBA1D-FC315\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_08.spec
+echo -e "-h -p -r \"31D5D6-31DF63\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_09.spec
+echo -e "-h -p -r \"D883F-D8FC4\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_0A.spec
+echo -e "-h -p -r \"31DF63-31EAD9\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_0B.spec
+echo -e "-h -p -r \"32F9CE-32FC8D\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_0C.spec
+echo -e "-h -p -r \"30CD5A-30D1DE\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_0D.spec
+echo -e "-h -p -r \"FF1C6-100012\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_0E.spec
+echo -e "-h -p -r \"FF15E-FF1C6\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_0F.spec
+echo -e "-h -p -r \"0DFE80-0E01FF\" -e \"FD58@lmh\"" > ppt/femain.spec
+echo -e "-h -p -r \"0-D883E\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing00.spec
+echo -e "-h -p -r \"D8FC5-DFE7F\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing01.spec
+echo -e "-h -p -r \"E0200-E81FF\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing02.spec
+echo -e "-h -p -r \"E8CC2-E921F\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing03.spec
+echo -e "-h -p -r \"E9D60-FBA1C\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing04.spec
+echo -e "-h -p -r \"FC316-FF15D\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing05.spec
+echo -e "-h -p -r \"100013-1084AD\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing06.spec
+echo -e "-h -p -r \"108F0B-11D02A\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing07.spec
+echo -e "-h -p -r \"11D817-1D8902\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing08.spec
+echo -e "-h -p -r \"1D9582-1DC0BA\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing09.spec
+echo -e "-h -p -r \"1DCD05-30CD59\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing0A.spec
+echo -e "-h -p -r \"30D1DF-3181FF\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing0B.spec
+echo -e "-h -p -r \"318972-31D5D5\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing0C.spec
+echo -e "-h -p -r \"31EADA-3289DB\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing0D.spec
+echo -e "-h -p -r \"3293F0-32F9CD\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing0E.spec
+echo -e "-h -p -r \"32FC8E-4001FF\" -e \"@lmh\" -m \"(06|07)003D\"" > ppt/fe4_missing0F.spec

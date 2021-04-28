@@ -1,0 +1,8 @@
+.rat
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# RAT for the dynamic weapon names
+SECTION dynaweapons
+        0D9714-0D9A91
+END

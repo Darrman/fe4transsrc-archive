@@ -46,7 +46,7 @@ options *parserCommandLine(int argc,char **argv)
 	options *opts=(options *)malloc(sizeof(options));
 	if(!opts) memory_error();
 
-	printf("65816 Cross Assembler v2.0 (c)1994 Jeremy Gordon\n");
+	printf("65816 Cross Assembler v2.0-2 (c)1994 Jeremy Gordon\n");
 	printf("please send bugfixes to jgordon@animator.slip.umd.edu\n");
 #ifdef AMIGA
 	printf("Amiga compilation by JackRipper/SBT <vic@escape.com>\n");

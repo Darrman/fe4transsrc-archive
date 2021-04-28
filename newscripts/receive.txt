@@ -1,0 +1,14 @@
+[ASMPTR]
+[mode-sjis]
+
+# Item Received
+# @@376375@@
+
+[spx]received!
+[exit]
+
+# Castle defeated
+# @@375959@@
+
+[spx]captured!
+[exit]

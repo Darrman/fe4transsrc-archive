@@ -1,0 +1,837 @@
+# 0 10 dynaweapons
+
+# Last modified: 08/06/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the names of weapons whereever they are used in
+# a dialogue sense.
+# Such as in the reports after a 'real' type battle (Silver broke... etc)
+
+[section dynaweapons]
+[map 10]
+[bits16]
+[nocompress]
+[nospaces]
+
+
+# 0xd9714
+# @@890370@@
+IronSwd
+[exit]
+
+
+# 0xd971b
+# @@890372@@
+SteelSwd
+[exit]
+
+
+# 0xd9723
+# @@890374@@
+SilverSwd
+[exit]
+
+
+# 0xd972a
+# @@890376@@
+IronXLSwd
+[exit]
+
+
+# 0xd9732
+# @@890378@@
+SteelXLSwd
+[exit]
+
+
+# 0xd973b
+# @@890380@@
+SilverXLSwd
+[exit]
+
+
+# 0xd9743
+# @@890382@@
+PrayerSwd
+[exit]
+
+
+# 0xd974b
+# @@890384@@
+ThiefSwd
+[exit]
+
+
+# 0xd9754
+# @@890386@@
+BarrierSwd
+[exit]
+
+
+# 0xd975c
+# @@890388@@
+BerserkSwd
+[exit]
+
+
+# 0xd9765
+# @@890390@@
+Hero'sSwd
+[exit]
+
+
+# 0xd976e
+# @@890392@@
+SilenceSwd
+[exit]
+
+
+# 0xd977a
+# @@890394@@
+SleepSwd
+[exit]
+
+
+# 0xd9783
+# @@890396@@
+SlimSwd
+[exit]
+
+
+# 0xd978b
+# @@890398@@
+DefenceSwd
+[exit]
+
+
+# 0xd9793
+# @@890400@@
+FlameSwd
+[exit]
+
+
+# 0xd979b
+# @@890402@@
+EarthSwd
+[exit]
+
+
+# 0xd97a3
+# @@890404@@
+ThunderSwd
+[exit]
+
+
+# 0xd97ac
+# @@890406@@
+WindSwd
+[exit]
+
+
+# 0xd97b3
+# @@890408@@
+LightSwd
+[exit]
+
+
+# 0xd97be
+# @@890410@@
+Mistoltin
+[exit]
+
+
+# 0xd97c7
+# @@890412@@
+Tyrfing
+[exit]
+
+
+# 0xd97d0
+# @@890414@@
+Balmunk
+[exit]
+
+
+# 0xd97d7
+# @@890416@@
+IronCutter
+[exit]
+
+
+# 0xd97e0
+# @@890418@@
+WingClipper
+[exit]
+
+
+# 0xd97e8
+# @@890420@@
+
+[exit]
+
+
+# 0xd97e8
+# @@890422@@
+
+[exit]
+
+
+# 0xd97e8
+# @@890424@@
+
+[exit]
+
+
+# 0xd97f0
+# @@890426@@
+IronLnc
+[exit]
+
+
+# 0xd97f7
+# @@890428@@
+SteelLnc
+[exit]
+
+
+# 0xd97ff
+# @@890430@@
+SilverLnc
+[exit]
+
+
+# 0xd9806
+# @@890432@@
+Javelin
+[exit]
+
+
+# 0xd980b
+# @@890434@@
+KnightKiller
+[exit]
+
+
+# 0xd9813
+# @@890436@@
+Hero' sLnc
+[exit]
+
+
+# 0xd981c
+# @@890438@@
+SlimLnc
+[exit]
+
+
+# 0xd9824
+# @@890440@@
+Gungnir
+[exit]
+
+
+# 0xd982b
+# @@890442@@
+GaeBolg
+[exit]
+
+
+# 0xd9832
+# @@890444@@
+
+[exit]
+
+
+# 0xd9832
+# @@890446@@
+
+[exit]
+
+
+# 0xd9832
+# @@890448@@
+
+[exit]
+
+
+# 0xd983a
+# @@890450@@
+IronAxe
+[exit]
+
+
+# 0xd9841
+# @@890452@@
+SteelAxe
+[exit]
+
+
+# 0xd9849
+# @@890454@@
+SilverAxe
+[exit]
+
+
+# 0xd9850
+# @@890456@@
+Hero'sAxe
+[exit]
+
+
+# 0xd9859
+# @@890458@@
+Swanchika
+[exit]
+
+
+# 0xd9860
+# @@890460@@
+HandAxe
+[exit]
+
+
+# 0xd9865
+# @@890462@@
+
+[exit]
+
+
+# 0xd9865
+# @@890464@@
+
+[exit]
+
+
+# 0xd9865
+# @@890466@@
+
+[exit]
+
+
+# 0xd986d
+# @@890468@@
+IronBow
+[exit]
+
+
+# 0xd9874
+# @@890470@@
+SteelBow
+[exit]
+
+
+# 0xd987c
+# @@890472@@
+SilverBow
+[exit]
+
+
+# 0xd9883
+# @@890474@@
+Hero'sBow
+[exit]
+
+
+# 0xd988c
+# @@890476@@
+KillerBow
+[exit]
+
+
+# 0xd9893
+# @@890478@@
+Ichieval
+[exit]
+
+
+# 0xd989a
+# @@890480@@
+
+[exit]
+
+
+# 0xd989a
+# @@890482@@
+
+[exit]
+
+
+# 0xd989a
+# @@890484@@
+
+[exit]
+
+
+# 0xd98a2
+# @@890486@@
+LongArch
+[exit]
+
+
+# 0xd98aa
+# @@890488@@
+IronArch
+[exit]
+
+
+# 0xd98b3
+# @@890490@@
+KillerArch
+[exit]
+
+
+# 0xd98bb
+# @@890492@@
+GreatArch
+[exit]
+
+
+# 0xd98c4
+# @@890494@@
+Fire
+[exit]
+
+
+# 0xd98cb
+# @@890496@@
+Elfire
+[exit]
+
+
+# 0xd98d4
+# @@890498@@
+Volcanon
+[exit]
+
+
+# 0xd98db
+# @@890500@@
+FalaFlame
+[exit]
+
+
+# 0xd98e4
+# @@890502@@
+Meteo
+[exit]
+
+
+# 0xd98ea
+# @@890504@@
+Thunder
+[exit]
+
+
+# 0xd98f3
+# @@890506@@
+Elthunder
+[exit]
+
+
+# 0xd98fe
+# @@890508@@
+Tron
+[exit]
+
+
+# 0xd9904
+# @@890510@@
+TorHammer
+[exit]
+
+
+# 0xd990d
+# @@890512@@
+Thunderstorm
+[exit]
+
+
+# 0xd9916
+# @@890514@@
+Wind
+[exit]
+
+
+# 0xd991c
+# @@890516@@
+Elwind
+[exit]
+
+
+# 0xd9924
+# @@890518@@
+Tornado
+[exit]
+
+
+# 0xd992b
+# @@890520@@
+Holsety
+[exit]
+
+
+# 0xd9933
+# @@890522@@
+Blizzard
+[exit]
+
+
+# 0xd993a
+# @@890524@@
+Lightning
+[exit]
+
+
+# 0xd9942
+# @@890526@@
+Rizziah
+[exit]
+
+
+# 0xd9948
+# @@890528@@
+Aura
+[exit]
+
+
+# 0xd994d
+# @@890530@@
+Narga
+[exit]
+
+
+# 0xd9952
+# @@890532@@
+Yotsmungand
+[exit]
+
+
+# 0xd995b
+# @@890534@@
+Fenrir
+[exit]
+
+
+# 0xd9962
+# @@890536@@
+Hell
+[exit]
+
+
+# 0xd9966
+# @@890538@@
+Loptous
+[exit]
+
+
+# 0xd996d
+# @@890540@@
+
+[exit]
+
+
+# 0xd996d
+# @@890542@@
+
+[exit]
+
+
+# 0xd996d
+# @@890544@@
+
+[exit]
+
+
+# 0xd9977
+# @@890546@@
+Live
+[exit]
+
+
+# 0xd997f
+# @@890548@@
+Relive
+[exit]
+
+
+# 0xd9988
+# @@890550@@
+Recover
+[exit]
+
+
+# 0xd9991
+# @@890552@@
+Libro
+[exit]
+
+
+# 0xd999a
+# @@890554@@
+Reserve
+[exit]
+
+
+# 0xd99a3
+# @@890556@@
+Return
+[exit]
+
+
+# 0xd99ac
+# @@890558@@
+Warp
+[exit]
+
+
+# 0xd99b4
+# @@890560@@
+Rescue
+[exit]
+
+
+# 0xd99be
+# @@890562@@
+Charm
+[exit]
+
+
+# 0xd99c7
+# @@890564@@
+Rest
+[exit]
+
+
+# 0xd99cf
+# @@890566@@
+Valkyre
+[exit]
+
+
+# 0xd99d9
+# @@890568@@
+Silence
+[exit]
+
+
+# 0xd99e5
+# @@890570@@
+Sleep
+[exit]
+
+
+# 0xd99ee
+# @@890572@@
+Berserk
+[exit]
+
+
+# 0xd99f7
+# @@890574@@
+Thief
+[exit]
+
+
+# 0xd99ff
+# @@890576@@
+
+[exit]
+
+
+# 0xd99ff
+# @@890578@@
+
+[exit]
+
+
+# 0xd99ff
+# @@890580@@
+
+[exit]
+
+
+# 0xd9a07
+# @@890582@@
+Live
+[exit]
+
+
+# 0xd9a10
+# @@890584@@
+Elite
+[exit]
+
+
+# 0xd9a19
+# @@890586@@
+Thief
+[exit]
+
+
+# 0xd9a22
+# @@890588@@
+Prayer
+[exit]
+
+
+# 0xd9a2b
+# @@890590@@
+Pursuit
+[exit]
+
+
+# 0xd9a34
+# @@890592@@
+Recover
+[exit]
+
+
+# 0xd9a3d
+# @@890594@@
+Bargain
+[exit]
+
+
+# 0xd9a46
+# @@890596@@
+Knight
+[exit]
+
+
+# 0xd9a4e
+# @@890598@@
+Return
+[exit]
+
+
+# 0xd9a57
+# @@890600@@
+Speed
+[exit]
+
+
+# 0xd9a60
+# @@890602@@
+Magic
+[exit]
+
+
+# 0xd9a69
+# @@890604@@
+Power
+[exit]
+
+
+# 0xd9a71
+# @@890606@@
+Shield
+[exit]
+
+
+# 0xd9a7a
+# @@890608@@
+Barrier
+[exit]
+
+
+# 0xd9a82
+# @@890610@@
+Leg
+[exit]
+
+
+# 0xd9a8a
+# @@890612@@
+Skill
+[exit]
+
+
+# 0xd97e8
+# @@890614@@
+
+[exit]
+
+
+# 0xd9832
+# @@890616@@
+
+[exit]
+
+
+# 0xd989a
+# @@890618@@
+
+[exit]
+
+
+# 0xd996d
+# @@890620@@
+
+[exit]
+
+
+# 0xd996d
+# @@890622@@
+
+[exit]
+
+
+# 0xd996d
+# @@890624@@
+
+[exit]
+
+
+# 0xd996d
+# @@890626@@
+
+[exit]
+
+
+# 0xd996d
+# @@890628@@
+
+[exit]
+
+
+# 0xd996d
+# @@890630@@
+
+[exit]
+
+
+# 0xd996d
+# @@890632@@
+
+[exit]
+
+
+# 0xd996d
+# @@890634@@
+
+[exit]
+
+
+# 0xd996d
+# @@890636@@
+
+[exit]
+
+
+# 0xd996d
+# @@890638@@
+
+[exit]
+
+
+# 0xd996d
+# @@890640@@
+
+[exit]
+
+
+# 0xd99ff
+# @@890642@@
+
+[exit]
+

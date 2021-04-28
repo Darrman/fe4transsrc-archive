@@ -1,0 +1,73 @@
+# Last Modified: 06/07/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the green (selected)
+# choices on the config screen in the column next to the options.
+
+[nocompress]
+[mode-sjis]
+
+# Fast
+# @@652184@@
+Fast
+[exit]
+
+# Real
+# @@652181@@
+Norm
+[exit]
+
+# Stereo
+# @@652187@@
+Ster
+[exit]
+
+# Mono
+# @@652190@@
+Mono
+[exit]
+
+# Real
+# @@652211@@
+Real
+[exit]
+
+# Map@
+# @@652214@@
+Map[spx]
+[exit]
+
+# Individual
+# @@652217@@
+Ind[spx]
+[exit]
+
+# Save file 1
+# @@652199@@
+Sav1
+[exit]
+
+# Save file 2
+# @@652202@@
+Sav2
+[exit]
+
+# Save file 3
+# @@652205@@
+Sav3
+[exit]
+
+# Save file 4
+# @@652208@@
+Sav4
+[exit]
+
+# Smart
+# @@652223@@
+Hard
+[exit]
+
+# Normal
+# @@652220@@
+Norm
+[exit]

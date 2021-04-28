@@ -1,0 +1,8 @@
+
+[ASMPTR]
+[mode-sjis]
+
+# Gold obtained
+# @@375704@@
+G[spx]obtained!
+[exit]

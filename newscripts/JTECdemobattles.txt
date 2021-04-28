@@ -1,0 +1,319 @@
+[winlimit 160]
+
+# 0x16ff6f
+# @@885544@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Noish' 0002]�!쥯
+[exit]
+
+
+# 0x16ff84
+# @@885547@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Alec' 0003]ʤʤ��$ޤ$ޤ!
+[exit]
+
+
+# 0x16ffa0
+# @@885776@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sylvia' 0016]ʤˤ
+ʤ뤫��ΤȤ
+[exit]
+
+
+# 0x16ffcc
+# @@885779@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Fury' 0014]�ʡ
+[exit]
+
+
+# 0x16ffe2
+# @@885814@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sylvia' 0016]�ΤФ
+ʤˤ衢ʽ
+[exit]
+
+
+# 0x170002
+# @@885817@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Levin' 0008]���失�
+�դ�路�֤ʤ$���
+[exit]
+
+
+# 0x170035
+# @@885932@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Skasaher' 0032]Ԥ�̤Ƥ�
+饯e��餱ʤ
+[exit]
+
+
+# 0x170068
+# @@885935@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Lakche' 003A]ϤϤáϤä�ԤƤ褱��ʤޤä�Ρ
+[exit]
+
+
+# 0x17009c
+# @@885990@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Lakche' 003A]��
+�äƤߤޤ
+[exit]
+
+
+# 0x1700c1
+# @@885993@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Shanan' 001A]դ
+ΤƤɤ�ӤǤϡޤ$ޤ���ϲä�ʤ�[exit]
+
+
+# 0x1700f4
+# @@886151@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Rana' 003B]顢ޤ�Ǥ
+�äơߤ�
+ʤΤˡ
+[exit]
+
+
+# 0x170129
+# @@886154@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Johan' 001E]
+[exit]
+
+
+# 0x17013e
+# @@885638@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sandima' 0052]á
+ʸȤʤ�
+[exit]
+
+
+# 0x17015d
+# @@885673@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Edin' 0017]롢̵�ƤϤ$�
+[exit]
+
+
+# 0x17017a
+# @@885708@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sigurd' 0001]������
+�襤˲ΰ�롪
+[exit]
+
+
+# 0x1701a6
+# @@885745@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Lachesis' 0012]�ХǤ
+⤷ɤƤ�臘ȸ$ʤ�ηǻ�ˤơ
+[exit]
+
+
+# 0x1701e0
+# @@885854@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Cuan' 0006]á̵ǰ!
+[exit]
+
+
+# 0x1901c9
+# @@885586@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Arden' 0004]ζߤĤƤ�
+顪
+[exit]
+
+
+# 0x1901ee
+# @@885589@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Ira' 0013]դá
+[exit]
+
+
+# 0xd8668
+# @@885893@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Leif' 001D]�塢ƤƤ�
+[exit]
+
+
+# 0xd8687
+# @@886078@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sety' 0035]ƥˣ���
+[exit]
+
+
+# 0xd86a0
+# @@1769668@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sylvia' 0016]����͡
+�äƤ�[exit]
+
+
+# 0xd87b7
+# @@1769671@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Sylvia' 0016]ͤáǤǤ硪
+[exit]
+
+
+# 0xd86c1
+# @@1769704@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Lynn' 003E]쥹ƤƤ�錄κǸ���顦
+[exit]
+
+
+# 0xd86ec
+# @@1769739@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Ethrin' 0011]ʤ̵�Ϥʤ��[exit]
+
+
+# 0xd8708
+# @@1769813@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Faval' 0033]ѥƥ���ʡ
+[exit]
+
+
+# 0xd8724
+# @@1769850@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Patty' 0039]Ϥϡޤ⤦äd�
+[exit]
+
+
+# 0xd873e
+# @@1769887@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Levin' 0008]áϤޤ!
+[exit]
+
+
+# 0xd8756
+# @@886261@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Diadora' 0010]�
+ʤ$�ơ
+[exit]
+
+
+# 0xd8775
+# @@886294@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Julius' 01C6]
+ޤˤ⤦�Ϥʤ
+[exit]
+
+
+# 0xd8797
+# @@886329@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Yuria' 002B]ꥹ�ϡ
+錄�ޤ
+[exit]
+
+
+# 0xd87d1
+# @@1769774@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Arion' 0166]⤦⤤ʡ
+Ԥ�ʡ
+[exit]
+
+
+# 0xd87f4
+# @@886187@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Arvis' 0104]��䤳�Ǥ�[exit]
+
+
+# 0xd880d
+# @@886226@@
+
+[TWinBtm]
+[Targetwin 01]
+[DlgOpn]['Diadora' 0010]������ͤ$äΤǤ
+[exit]

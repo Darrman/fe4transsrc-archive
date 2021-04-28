@@ -1,16 +1,21 @@
 .rat
+# Last modified: 04/08/04
+# This file was modified by Dark Twilkitri
+
 # This lists address ranges for the currently existing
 # japanese text. We may safely overwrite these ranges
 # since the game's gonna be in english anyways.
 
-SECTION PUBLIC
+SECTION menus
+	0ECC63-0ECC71
 	0EDAF0-0EDB45		# 86 bytes
 	0EDDF5-0EDE47		# 83 bytes
+SECTION PUBLIC
 	318971-319490		# 2848 bytes
 	3194C5-3197F9		# 821 bytes
 	319816-319C5B		# 1094 bytes
 	319D2A-31A577		# 2126 bytes
-	0EDD6D-0EDDD0		# 100 bytes
+	#0EDD6D-0EDDD0		# 100 bytes - stolen for death scripts
 	108F0A-10987D		# 2420 bytes
 	1098E0-10A27C		# 2461 bytes
 	10A2C1-10A312		# 82 bytes
@@ -36,7 +41,8 @@ SECTION PUBLIC
 	32D4AA-32D4FA		# 81 bytes
 	32D926-32DA61		# 316 bytes
 	32DAF5-32DB2E		# 58 bytes
-	0E9D61-0EA427		# 1735 bytes
+	#0E9D61-0EA427		# 1735 bytes - stolen 200 bytes for death scripts
+	0E9F61-0EA427		# 1635 bytes
 	0EA826-0EACDB		# 1206 bytes
 	0EAD32-0EAF15		# 484 bytes
 	0EAF46-0EB3AD		# 1128 bytes
@@ -44,12 +50,12 @@ SECTION PUBLIC
 	0EB993-0EBD1F		# 909 bytes
 	0EBDB1-0EC232		# 1154 bytes
 	0EC286-0ECA1D		# 1944 bytes
-	0ECA4D-0ECC71		# 549 bytes
+	0ECA4D-0ECC62		# 549 bytes
 	32D4FB-32D696		# 412 bytes
 	32E387-32E558		# 466 bytes
 	3086C7-30B96D		# 12967 bytes
 	32DDC9-32DE77		# 175 bytes
-	0EE22E-0EE290		# 99 bytes
+	#0EE22E-0EE290		# 99 bytes - stolen for death scripts
 	10C2E8-10E9E1		# 9978 bytes
 	32D697-32D6D2		# 60 bytes
 	32D778-32D925		# 430 bytes
@@ -87,8 +93,9 @@ SECTION PUBLIC
 	32BD7D-32C012		# 662 bytes
 	2E8200-2E8C13		# 2580 bytes
 	2E8CAB-2EA7C1		# 6935 bytes
-	2EA7C2-2EE27C		# 15035 bytes
-	0DF52D-0DFE55		# 2345 bytes
+	2EA7C2-2EBBAD           #
+	#2EBBAE-2EBCD7          # unusable space allocated for 6restrict SJIS printer
+	2EBCD8-2EE27C		# 
 	2EE27D-2EFC82		# 6662 bytes
 	2F8200-2FC32C		# 16685 bytes
 	33D221-33E9B9		# 6041 bytes

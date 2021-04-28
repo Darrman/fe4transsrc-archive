@@ -1,0 +1,70 @@
+.rat
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This RAT contains the areas of text in the game which has yet to be implemented.
+# For safety reasons, it is currently disabled.
+# It is recommended that it is only enabled after the areas have have been implemented.
+
+SECTION PUBLIC
+        08EE34-08F03B
+        0D8668-0D883E
+        0D9E88-0D9E9C
+        0D9EA5-0D9EAB
+        0DA0D5-0DA1B0
+        0DDEB3-0DE9BB
+        0DE9EE-0DF52C
+        0EACDC-0EAD31
+        0EAF16-0EAF45
+        0EB3AE-0EB41F
+        0EB97E-0EB992
+        0EC233-0EC285
+        0F8F5E-0F9011
+        0F9912-0F9959
+        0FA061-0FA0B1
+        0FA42A-0FA460
+        0FA922-0FA95C
+        0FAA51-0FAA77
+        0FB018-0FB063
+        0FE009-0FE1B5
+        0FE1D0-0FE1F9
+        10987E-1098DF
+        10A27D-10A2C0
+        10A313-10A350
+        10B5CE-10B5F9
+        10C0FF-10C12C
+        10E9E2-10EACD
+        16FF6F-1701F7
+        1901C9-1901FE
+        1DA1E0-1DA1FB
+        1DAB8B-1DAC6F
+        1DB654-1DB68C
+        1DB6ED-1DB713
+        1DF1B6-1E0161
+        30B96E-30BC76
+        30BCC4-30BD35
+        30D1E7-30D239
+        30D29B-30D379
+        30D3B5-30D5AF
+        30D5D2-30D771
+        30D79A-30E47C
+        30E4A8-30E562
+        30E5EC-3100BE
+        319491-3194C4
+        3197FA-319815
+        31CF7C-31CFA5
+        31CFA8-31CFF8
+        31D416-31D4A9
+        31D4EB-31D5D5
+        31FA2E-31FF95
+        32BA4B-32BAB5
+        32BAE5-32BD7C
+        32FC8D-3300D5
+        33A979-33AA02
+        33AD56-33AF09
+        33CC04-33CD48
+        33CE23-33CE75
+        33E9BA-33EFD8
+SECTION BANK8E
+        0ED9DE-0ED9FF
+END 

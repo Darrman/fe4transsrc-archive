@@ -182,8 +182,8 @@ int address_absolute(line *theLine,FILE *fp,FILE *fp2,int flag)
 	}
         else if(loc!=35){
           if(theLine->addrend>value) {
-            if((value-theLine->addrend)<(-128)) {
-                printf("\nerror: attempt to branch less that 128 away");        
+            if((theLine->addrend-value)<128) {
+                printf("\nerror: attempt to branch less that 128 away");
                 return(1);
             }
 	    branch=theLine->addrend-value;
@@ -208,7 +208,7 @@ int address_absolute(line *theLine,FILE *fp,FILE *fp2,int flag)
         }
 	else {
           if(theLine->addrend>value) {
-            if((value-theLine->addrend)<(-32768)) {
+            if((theLine->addrend-value)<32768) {
                 printf("\nerror: attempt to branch less that 32768 away");
                 return(1);
             }

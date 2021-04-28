@@ -1,0 +1,62 @@
+# Last Modified: 21/06/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the possible choices in the
+# Config menu.
+
+[noptr]
+[mode-sjis]
+
+# Enemy Movement
+# Real/Fast
+# @@651201@@
+Norm[spx]Fast
+[exit]
+
+# Enemy Intelligence
+# Normal/Hard
+# @@651241@@
+Norm[spx]Hard
+[exit]
+
+# Animation
+# Real/Individual
+# @@653244@@
+Real[spx][spx]Ind
+[exit]
+
+# Message Speed
+# Slow/Fast
+# @@653264@@
+Slow[spx]Fast
+[exit]
+
+# Sound
+# Stereo/Off
+# @@653284@@
+Ster[spx][spx]Off
+[exit]
+
+# AutoSave
+# Off/File
+# @@653304@@
+Off[spx][spx]File
+[exit]
+
+# Enemy Intelligence
+# Intelligence
+# @@653324@@
+[spx][spx][spx]AI[spx][spx][spx][spx]
+[exit]
+
+# Various
+# On/Off
+# @@653224@@
+On[spx][spx][spx][spx]Off
+[exit]
+
+# Enemy Movement
+# Movement Speed
+# @@653204@@
+[spx][spx]Speed[spx][spx]
+[exit]

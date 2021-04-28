@@ -1,0 +1,686 @@
+# 5 4 knight
+
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the class names whereever they appear in a status sense.
+# Eg: Character Status Screen
+# Not: Class Change screen
+
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+#*#[section knight]
+#*#[map 4]
+#*#[bits16]
+#*#[mode-sjis]
+# Table: 0x038CB3
+
+# 0x038D43:
+# P: 0090
+# @@232627@@
+
+#?\?V?A???i?C?g
+SoclKnt
+
+#*# [exit]
+
+# 0x038D53:
+# P: 00A0
+# @@232629@@
+
+#?????X?i?C?g
+LanceKnt
+
+#*# [exit]
+
+# 0x038D61:
+# P: 00AE
+# @@232631@@
+
+#?A?[?`?i?C?g
+ArchKnt
+
+#*# [exit]
+
+# 0x038D6F:
+# P: 00BC
+# @@232633@@
+
+#?A?N?X?i?C?g
+AxeKnt
+
+#*# [exit]
+
+# 0x038D7D:
+# P: 00CA
+# @@232635@@
+
+#?t???[?i?C?g
+FreeKnt
+
+#*# [exit]
+
+# 0x038D8B:
+# P: 00D8
+# @@232637@@
+
+#?g???o?h?[??
+Troubdor
+
+#*# [exit]
+
+# 0x038D99:
+# P: 00E6
+# @@232639@@
+
+#???[?h?i?C?g
+LordKnt
+
+#*# [exit]
+
+# 0x038DA7:
+# P: 00F4
+# @@232641@@
+
+#?f???[?N?i?C?g
+DukeKnt
+
+#*# [exit]
+
+# 0x038DB7:
+# P: 0104
+# @@232643@@
+
+#?}?X?^?[?i?C?g
+MstrKnt
+
+#*# [exit]
+
+# 0x038DC7:
+# P: 0114
+# @@232645@@
+
+#?p???f?B??
+Paladin
+
+#*# [exit]
+
+# 0x038DC7:
+# P: 0114
+# @@232647@@
+
+#?p???f?B??
+Paladin
+
+#*# [exit]
+
+# 0x038DD3:
+# P: 0120
+# @@232649@@
+
+#?{?E?i?C?g
+BowKnt
+
+#*# [exit]
+
+# 0x038DDF:
+# P: 012C
+# @@232651@@
+
+#?t?H???X?g?i?C?g
+FrstKnt
+
+#*# [exit]
+
+# 0x038DF1:
+# P: 013E
+# @@232653@@
+
+#?}?[?W?i?C?g
+MageKnt
+
+#*# [exit]
+
+# 0x038DFF:
+# P: 014C
+# @@232655@@
+
+#?O???[?g?i?C?g
+GreatKnt
+
+#*# [exit]
+
+# 0x038E0F:
+# P: 015C
+# @@232657@@
+
+#?y?K?T?X???C?_?[
+PegRider
+
+#*# [exit]
+
+# 0x038E21:
+# P: 016E
+# @@232659@@
+
+#?y?K?T?X?i?C?g
+PegKnt
+
+#*# [exit]
+
+# 0x038E31:
+# P: 017E
+# @@232661@@
+
+#?t?@???R???i?C?g
+FalcoKnt
+
+#*# [exit]
+
+# 0x038E43:
+# P: 0190
+# @@232663@@
+
+#?h???S?????C?_?[
+DrgRider
+
+#*# [exit]
+
+# 0x038E55:
+# P: 01A2
+# @@232665@@
+
+#?h???S???i?C?g
+DrgKnt
+
+#*# [exit]
+
+# 0x038E65:
+# P: 01B2
+# @@232667@@
+
+#?h???S???}?X?^?[
+DrgMstr
+
+#*# [exit]
+
+# 0x038E77:
+# P: 01C4
+# @@232669@@
+
+#?{?E?t?@?C?^?[
+BowFghtr
+
+#*# [exit]
+
+# 0x038E87:
+# P: 01D4
+# @@232671@@
+
+#?\?[?h?t?@?C?^?[
+SwdFghtr
+
+#*# [exit]
+
+# 0x038E99:
+# P: 01E6
+# @@232673@@
+
+#?\?[?h?}?X?^?[
+SwdMstr
+
+#*# [exit]
+
+# 0x038EA9:
+# P: 01F6
+# @@232675@@
+
+#?X?i?C?p?[
+Sniper
+
+#*# [exit]
+
+# 0x038EB5:
+# P: 0202
+# @@232677@@
+
+#?t?H?[???X?g
+Forest
+
+#*# [exit]
+
+# 0x038EC3:
+# P: 0210
+# @@232679@@
+
+#?W?F?l????
+General
+
+#*# [exit]
+
+# 0x038ECF:
+# P: 021C
+# @@232681@@
+
+#?G???y???[
+Emperor
+
+#*# [exit]
+
+# 0x038EDB:
+# P: 0228
+# @@232683@@
+
+#?o????
+Baron
+
+#*# [exit]
+
+# 0x038EE3:
+# P: 0230
+# @@232685@@
+
+#?\???W???[
+
+
+#*# [exit]
+
+# 0x038EEF:
+# P: 023C
+# @@232687@@
+
+#?X?s?A?\???W???[
+
+
+#*# [exit]
+
+# 0x038F01:
+# P: 024E
+# @@232689@@
+
+#?A?N?X?\???W???[
+
+
+#*# [exit]
+
+# 0x038F13:
+# P: 0260
+# @@232691@@
+
+#?A?[?`???[
+
+
+#*# [exit]
+
+# 0x038F1F:
+# P: 026C
+# @@232693@@
+
+#?\?[?h?\???W???[
+
+
+#*# [exit]
+
+# 0x038F31:
+# P: 027E
+# @@232695@@
+
+#?A?[?}?[
+Armour
+
+#*# [exit]
+
+# 0x038F3B:
+# P: 0288
+# @@232697@@
+
+#?A?N?X?A?[?}?[
+AxArmour
+
+#*# [exit]
+
+# 0x038F4B:
+# P: 0298
+# @@232699@@
+
+#?{?E?A?[?}?[
+BwArmour
+
+#*# [exit]
+
+# 0x038F59:
+# P: 02A6
+# @@232701@@
+
+#?\?[?h?A?[?}?[
+SdArmour
+
+#*# [exit]
+
+# 0x038F69:
+# P: 02B6
+# @@232703@@
+
+#?o?[?o???A??
+Brigand
+
+#*# [exit]
+
+# 0x038F77:
+# P: 02C4
+# @@232705@@
+
+#?A?N?X?t?@?C?^?[
+AxeFghtr
+
+#*# [exit]
+
+# 0x038F89:
+# P: 02D6
+# @@232707@@
+
+#?}?E???e???V?[?t
+MThief
+
+#*# [exit]
+
+# 0x038F9B:
+# P: 02E8
+# @@232709@@
+
+#?E?H?[???A
+Warrior
+
+#*# [exit]
+
+# 0x038FA7:
+# P: 02F4
+# @@232711@@
+
+#?n???^?[
+Hunter
+
+#*# [exit]
+
+# 0x038FB1:
+# P: 02FE
+# @@232713@@
+
+#?p?C???[?c
+Pirate
+
+#*# [exit]
+
+# 0x038FBD:
+# P: 030A
+# @@232715@@
+
+#?W???j?A???[?h
+JrLord
+
+#*# [exit]
+
+# 0x038FCD:
+# P: 031A
+# @@232717@@
+
+#?}?[?W?t?@?C?^?[
+MagFghtr
+
+#*# [exit]
+
+# 0x038FDF:
+# P: 032C
+# @@232719@@
+
+#?v?????X
+Prince
+
+#*# [exit]
+
+# 0x038FE9:
+# P: 0336
+# @@232721@@
+
+#?v?????Z?X
+Princess
+
+#*# [exit]
+
+# 0x038FF5:
+# P: 0342
+# @@232723@@
+
+#?}?[?W?t?@?C?^?[
+MagFghtr
+
+#*# [exit]
+
+# 0x039007:
+# P: 0354
+# @@232725@@
+
+#?N?C?[??
+Queen
+
+#*# [exit]
+
+# 0x039011:
+# P: 035E
+# @@232727@@
+
+#?_???T?[
+Dancer
+
+#*# [exit]
+
+# 0x03901B:
+# P: 0368
+# @@232729@@
+
+#?v???[?X?g
+Priest
+
+#*# [exit]
+
+# 0x039027:
+# P: 0374
+# @@232731@@
+
+#?}?[?W
+Mage
+
+#*# [exit]
+
+# 0x03902F:
+# P: 037C
+# @@232733@@
+
+#?t?@?C?A?}?[?W
+FireMage
+
+#*# [exit]
+
+# 0x03903F:
+# P: 038C
+# @@232735@@
+
+#?T???_?[?}?[?W
+TndrMage
+
+#*# [exit]
+
+# 0x03904F:
+# P: 039C
+# @@232737@@
+
+#?E?C???h?}?[?W
+WindMage
+
+#*# [exit]
+
+# 0x03905F:
+# P: 03AC
+# @@232739@@
+
+#?n?C?v???[?X?g
+HiPriest
+
+#*# [exit]
+
+# 0x03906F:
+# P: 03BC
+# @@232741@@
+
+#?r?V???b?v
+Bishop
+
+#*# [exit]
+
+# 0x03907B:
+# P: 03C8
+# @@232743@@
+
+#?Z?C?W
+Sage
+
+#*# [exit]
+
+# 0x039083:
+# P: 03D0
+# @@232745@@
+
+#?o?[?h
+Bard
+
+#*# [exit]
+
+# 0x03908B:
+# P: 03D8
+# @@232747@@
+
+#?V???[?}??
+Shaman
+
+#*# [exit]
+
+# 0x039097:
+# P: 03E4
+# @@232749@@
+
+#?_?[?N?}?[?W
+DkMage
+
+#*# [exit]
+
+# 0x0390A5:
+# P: 03F2
+# @@232751@@
+
+#?_?[?N?r?V???b?v
+DkBishop
+
+#*# [exit]
+
+# 0x0390B7:
+# P: 0404
+# @@232753@@
+
+#?V?[?t
+Thief
+
+#*# [exit]
+
+# 0x0390BF:
+# P: 040C
+# @@232755@@
+
+#?V?[?t?t?@?C?^?[
+ThfFghtr
+
+#*# [exit]
+
+# 0x0390D1:
+# P: 041E
+# @@232757@@
+
+#?V?r???A??
+Civilian
+
+#*# [exit]
+
+# 0x0390DD:
+# P: 042A
+# @@232759@@
+
+#?V?r???A??
+Civilian
+
+#*# [exit]
+
+# 0x0390E9:
+# P: 0436
+# @@232761@@
+
+#?????O?A?[?`
+LongArc
+
+#*# [exit]
+
+# 0x0390F7:
+# P: 0444
+# @@232763@@
+
+#?A?C?A???A?[?`
+IronArc 
+
+#*# [exit]
+
+# 0x039107:
+# P: 0454
+# @@232765@@
+
+#?L???[?A?[?`
+KillArc
+
+#*# [exit]
+
+# 0x039115:
+# P: 0462
+# @@232767@@
+
+#?O???[?g?A?[?`
+GoldArc
+
+#*# [exit]
+
+# 0x039125:
+# P: 0472
+# @@232769@@
+
+#?_?[?N?v?????X
+DkPrince
+
+#*# [exit]
+

@@ -1,0 +1,210 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering headings in the Character Status Screen
+# and several in the Item Screen.
+
+[ASMPTR]
+[mode-sjis]
+
+# The following are weapon stats for the Character
+# Status Screen
+# @@625175@@
+
+Acc
+[exit]
+
+# @@625192@@
+
+Mgt
+[exit]
+
+# @@625209@@
+
+Rng
+[exit]
+
+# @@625226@@
+
+Wgt
+[exit]
+
+
+# The following are character stats for the
+# Character Status Screen
+# @@630446@@
+
+Str
+[exit]
+
+# @@630463@@
+
+Mgc
+[exit]
+
+# @@630480@@
+
+Skl
+[exit]
+
+# @@630497@@
+
+Spd
+[exit]
+
+# @@630514@@
+
+Lck
+[exit]
+
+# @@630531@@
+
+Def
+[exit]
+
+# @@630548@@
+
+MDf
+[exit]
+
+
+# The following are the determined stats
+# for the Character Status Screen (top-right)
+# @@630271@@
+
+Atk
+[exit]
+
+# @@630288@@
+
+Acc
+[exit]
+
+# @@630305@@
+
+Rng
+[exit]
+
+# @@630322@@
+
+Evd
+[exit]
+
+
+# The following are the 'information' headings for
+# the Character Status Screen
+# @@630736@@
+
+Lead
+[exit]
+
+# @@630759@@
+
+Army
+[exit]
+
+# @@630778@@
+
+Lover
+[exit]
+
+# @@630795@@
+
+Talk
+[exit]
+
+# @@630812@@
+
+Move
+[exit]
+
+# @@630829@@
+
+Gold
+[exit]
+
+# @@630846@@
+
+Arena
+[exit]
+
+# @@630863@@
+
+State
+[exit]
+
+
+# The following are the weapon type headings
+# for the weapon ranks on the Character Status Screen
+# @@630880@@
+
+Sw
+[exit]
+
+# @@630897@@
+
+La
+[exit]
+
+# @@630914@@
+
+Ax
+[exit]
+
+# @@630931@@
+
+Bo
+[exit]
+
+# @@630948@@
+
+St
+[exit]
+
+# @@630965@@
+
+Fi
+[exit]
+
+# @@630982@@
+
+Thn
+[exit]
+
+# @@630999@@
+
+Wnd
+[exit]
+
+# @@631016@@
+
+Lgt
+[exit]
+
+# @@631033@@
+
+Drk
+[exit]
+
+
+# The following are weapon stats for the 'Item' menu
+# @@637868@@
+
+Acc
+[exit]
+
+# @@637885@@
+
+Mgt
+[exit]
+
+# @@637902@@
+
+Rng
+[exit]
+
+# @@637919@@
+
+Wgt
+[exit]
+

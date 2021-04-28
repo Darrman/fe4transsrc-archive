@@ -1,0 +1,14 @@
+[noptr]
+[mode-sjis]
+
+# Indoors
+# @@388008@@
+In
+
+[exit]
+
+# Outdoors
+# @@388027@@
+Out
+
+[exit]

@@ -1,0 +1,256 @@
+# Last modified: 20/06/04
+# This file was added by Dark Twilkitri
+
+# This file is used for filling in the descriptions of the skills.
+
+[mode-sjis]
+
+
+# Big Shield
+# @@634367@@
+Will[spx]block
+some[spx]enemy
+attacks
+[exit]
+
+
+# Wrath
+# @@634370@@
+Critical[spx][spx]
+when[spx]low[spx][spx]
+on[spx]health
+[exit]
+
+
+# Pursuit
+# @@634373@@
+Attack[spx][spx][spx][spx]
+again[spx]if[spx][spx]
+more[spx]agile
+[exit]
+
+
+# Continue
+# @@634376@@
+May[spx]attack
+again[spx]if[spx][spx]
+very[spx]agile
+[exit]
+
+
+# Steal
+# @@634379@@
+Steal[spx]gold
+if[spx]attack[spx]
+hits
+[exit]
+
+
+# Dance
+# @@634385@@
+Refresh[spx][spx][spx]
+adjacent[spx][spx]
+units
+[exit]
+
+
+# Charisma
+# @@634397@@
+Near[spx]units
+get[spx]10%[spx][spx][spx]
+support
+[exit]
+
+
+# Awareness
+# @@634403@@
+Nullifies[spx]
+special[spx][spx][spx]
+attacks
+[exit]
+
+
+# Prayer
+# @@634406@@
+High[spx]evade
+when[spx]low[spx][spx]
+on[spx]health
+[exit]
+
+
+# Critical
+# @@634409@@
+May[spx]double
+attack[spx]if[spx]
+high[spx]skill
+[exit]
+
+
+# Ambush
+# @@634412@@
+Attack[spx][spx][spx][spx]
+first[spx]when
+on[spx]low[spx]HP
+[exit]
+
+
+# Duel
+# @@634415@@
+Can[spx]keep[spx][spx]
+fighting[spx][spx]
+if[spx]agile
+[exit]
+
+
+# Meteor Hit
+# @@634418@@
+May[spx]attack
+5[spx]times[spx]in
+a[spx]row
+[exit]
+
+
+# Moonlight Hit
+# @@634421@@
+May[spx]negate
+defence
+[exit]
+
+
+# Solar Hit
+# @@634424@@
+May[spx]leech[spx]
+health[spx][spx][spx][spx]
+from[spx]enemy
+[exit]
+
+
+# Live
+# @@634433@@
+Restore[spx]5[spx]
+to[spx]10[spx]HP[spx][spx]
+every[spx]turn
+[exit]
+
+
+# Elite
+# @@634436@@
+Receive[spx][spx][spx]
+double[spx]EXP
+[exit]
+
+
+# Bargain
+# @@634445@@
+This[spx]unit[spx]
+gets[spx]a[spx]50%
+discount
+[exit]
+
+
+# Big Shield
+# @@634460@@
+BigShield
+[exit]
+
+
+# Wrath
+# @@634463@@
+Wrath
+[exit]
+
+
+# Pursuit
+# @@634466@@
+Pursuit
+[exit]
+
+
+# Continue
+# @@634469@@
+Continue
+[exit]
+
+
+# Steal
+# @@634472@@
+Steal
+[exit]
+
+
+# Dance
+# @@634478@@
+Dance
+[exit]
+
+
+# Charisma
+# @@634490@@
+Charisma
+[exit]
+
+
+# Awareness
+# @@634496@@
+Awareness
+[exit]
+
+
+# Prayer
+# @@634499@@
+Prayer
+[exit]
+
+
+# Critical
+# @@634502@@
+Critical
+[exit]
+
+
+# Ambush
+# @@634505@@
+Ambush
+[exit]
+
+
+# Duel
+# @@634508@@
+Duel
+[exit]
+
+
+# Meteor Sword
+# @@634511@@
+Meteor
+[exit]
+
+
+# Moonlight Sword
+# @@634514@@
+Moonlight
+[exit]
+
+
+# Solar Sword
+# @@634517@@
+Solar
+[exit]
+
+
+# Live
+# @@634526@@
+Live
+[exit]
+
+
+# Elite
+# @@634529@@
+Elite
+[exit]
+
+
+# Bargain
+# @@634538@@
+Bargain
+[exit]

@@ -18,6 +18,8 @@
 */
 /* $Id: sif.c,v 1.6 2003/04/25 08:26:40 j10 Exp $ */
 
+/* Last modified: 06/07/04
+   This file was modified by Dark Twilkitri */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -40,9 +42,17 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
    char *stringtable = NULL;
    int i, ret = -1;
    unsigned char *scnmap;
-   unsigned long address, snesaddr;
+   unsigned long address, snesaddr, asmaddr;
    Map *map = NULL;
-
+   
+   /* Stuff for Block Insertion */
+   char name[256];
+   FILE *bim = NULL, *bls = NULL, *bpr = NULL;
+   int blocked = 0;
+   unsigned int callbloc, targbloc, calloffs, addrbloc;
+   unsigned long addresss[1000], calladdr, targaddr, tempaddr;
+   
+   
    /* open SIF file */
    fp = fopen(filename,"rb");
    if(!fp) {
@@ -163,6 +173,17 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
       /* read block header */
       fread(&h,SIF_BLOCK_HEADER_SIZE,1,fp);
       if(h.flag.eof) break;
+      
+      /* Open block intemediary */
+      if(h.flag.blocked && !bim)
+      {
+        blocked = 1;
+        strcpy(name, filename);
+	name[strlen(name)-3] = 0;
+	strcat(name, "bim");
+	bim = fopen(name, "wb");
+	if(!bim) goto error_3;
+      }
 
       /* process extensions */
       if(h.flag.extend) {
@@ -184,14 +205,50 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
       }
 
       /* do merge */
-      if(mergedb && !h.flag.nomerge) {
+      /* All merging with Block Format is taken care of already.
+         Don't send Block Format sifs through here because the dummy values may confuse it.
+	 And that would be a Bad Thing (TM) */
+	 
+	 /*  && !h.flag.blocked */
+      if(mergedb && !h.flag.nomerge && !h.flag.noptr) {
          if(FindMerge(mergedb,buffer,h.size,h.flag.use16 ? scnmap[h.flag.section] : -1,&address) == 0) {
 #ifdef __DEBUG__
             if(opts.debug)
                printf("debug: %s: Block of size %d merged to 0x%.8lX.\n",filename,h.size,address);
 #endif
-            ips_write(&address,h.address,h.flag.use16 ? 2 : 3,ips);
-            continue;
+            if(h.flag.asmptrs)
+            {
+               asmaddr = address & 0xFF0000;
+	       asmaddr = asmaddr >> 16;
+               ips_write(&asmaddr, h.address + 2, 1, ips);
+	       asmaddr = address & 0x00FF00;
+	       asmaddr = asmaddr >> 8;
+	       ips_write(&asmaddr, h.address + 7, 1, ips);
+	       asmaddr = address & 0x0000FF;
+	       ips_write(&asmaddr, h.address + 6, 1, ips);
+            }
+            else if(h.flag.asmptrs3)
+            {
+               asmaddr = address & 0xFF0000;
+	       asmaddr = asmaddr >> 16;
+               ips_write(&asmaddr, h.address + 2, 1, ips);
+	       asmaddr = address & 0x00FF00;
+	       asmaddr = asmaddr >> 8;
+	       ips_write(&asmaddr, h.address + 9, 1, ips);
+	       asmaddr = address & 0x0000FF;
+	       ips_write(&asmaddr, h.address + 8, 1, ips);
+            }
+            else
+            {
+               ips_write(&address,h.address,h.flag.use16 ? 2 : 3,ips);
+            }
+	    
+	    /* Write address to BIM */
+	    if(h.flag.blocked)
+	    {
+	      fprintf(bim, "%6lu\n", address);
+	    }
+	    continue;
          }
       }
 
@@ -207,11 +264,48 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
       if(h.flag.map == 0 || !map) snesaddr = pc2snes(address - opts.headersize);
       else snesaddr = map->mapfunc(address - opts.headersize,h.flag.map);
 
-      ips_write(&snesaddr,h.address,h.flag.use16 ? 2 : 3,ips);
+      if(h.flag.asmptrs)
+      {
+         asmaddr = snesaddr & 0xFF0000;
+	 asmaddr = asmaddr >> 16;
+         ips_write(&asmaddr, h.address + 2, 1, ips);
+	 asmaddr = snesaddr & 0x00FF00;
+	 asmaddr = asmaddr >> 8;
+	 ips_write(&asmaddr, h.address + 7, 1, ips);
+	 asmaddr = snesaddr & 0x0000FF;
+	 ips_write(&asmaddr, h.address + 6, 1, ips);
+      }
+      else if(h.flag.asmptrs3)
+      {
+         asmaddr = snesaddr & 0xFF0000;
+	 asmaddr = asmaddr >> 16;
+         ips_write(&asmaddr, h.address + 2, 1, ips);
+	 asmaddr = snesaddr & 0x00FF00;
+	 asmaddr = asmaddr >> 8;
+	 ips_write(&asmaddr, h.address + 9, 1, ips);
+	 asmaddr = snesaddr & 0x0000FF;
+	 ips_write(&asmaddr, h.address + 8, 1, ips);
+      }
+      else if(!h.flag.noptr && h.address)
+      {
+         ips_write(&snesaddr,h.address,h.flag.use16 ? 2 : 3,ips);
+      }
+      /* Write address to BIM */
+      if(h.flag.blocked)
+      {
+        fprintf(bim, "%6lu\n", snesaddr);
+      }
       /* write block */
-      ips_write(buffer,address,h.size,ips);
+      if(!h.flag.noptr)
+      {
+         ips_write(buffer,address,h.size,ips);
+      }
+      else
+      {
+         ips_write(buffer, h.address, h.size, ips);
+      }
       /* add buffer to mergeDB */
-      if(mergedb) AddMergeDB(mergedb,buffer,h.size,snesaddr,scnmap[h.flag.section]);
+      if(mergedb && !h.flag.noptr && !h.flag.blocked) AddMergeDB(mergedb,buffer,h.size,snesaddr,scnmap[h.flag.section]);
 #ifdef __DEBUG__
          if(opts.debug) {
             printf("debug: %s: Block of size %d relocated to 0x%.8lX(%.6lX).\n",filename,h.size,address,snesaddr);
@@ -221,6 +315,52 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
 #endif
    }
 
+   /* Block Insertion Hack */
+   if(blocked)
+   {
+     printf("2A Variation Status Report for %s\n", filename);
+     /* Reset Block Intemediary File Stream */
+     fclose(bim);
+     bim = fopen(name, "rb");
+     
+     /* open Block Listing & Block Preliminary */
+     strcpy(name, filename);
+     name[strlen(name)-3] = 0;
+     bls = fopen(strcat(name, "bls"), "rb");
+     strcpy(name, filename);
+     name[strlen(name)-3] = 0;
+     bpr = fopen(strcat(name, "bpr"), "rb");
+     
+     /* Fill in addresses */
+     do
+     {
+       /* Get next address's block number */
+       fscanf(bls, "%u\n", &addrbloc);
+       /* Get next address */
+       fscanf(bim, "%lu\n", &tempaddr);
+       if(tempaddr >= 0xC00000) tempaddr -= 0x400000;
+       addresss[addrbloc] = tempaddr;
+     } while(!feof(bls));
+     /* Iterate through Block Preliminary Entries */
+     while(!feof(bpr))
+     {
+       fscanf(bpr, "%4u|%4u|%6u\n", &callbloc, &targbloc, &calloffs);
+       if(callbloc == targbloc) continue; /* Don't really want an infinite loop */
+       calladdr = addresss[callbloc];
+       calladdr -= 0x800000;
+       calladdr += 0x000200;
+       calladdr += calloffs;
+       targaddr = addresss[targbloc];
+       /* tempaddr = ((targaddr & 0xFF0000) >> 16);
+       tempaddr += (targaddr & 0x00FF00);
+       tempaddr += ((targaddr & 0x0000FF) << 16);
+       targaddr = tempaddr; */
+       printf("Resolving call to block %d in block %d at address %06lX (overwriting with %06lX)\n", targbloc, callbloc, calladdr, targaddr);
+       ips_write(&targaddr, calladdr, 3, ips);
+     }
+     
+   }
+   
    ret = 0;
 
 error_4:
@@ -232,6 +372,9 @@ error_3:
 error_1:
    fclose(fp);
 error_0:
+   if(bim) fclose(bim);
+   if(bls) fclose(bls);
+   if(bpr) fclose(bpr);
    return ret;
 }
 

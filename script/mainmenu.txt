@@ -1,0 +1,78 @@
+# 0 10 mainmenu
+
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the text in the main menu.
+# There were several unused options (copying, et al) and Linux has corrupted them.
+# It doesn't really matter since they're not used, but they're in the file for completeness.
+# It's probably best to leave them commented out.
+
+[section mainmenu]
+[map 10]
+[bits16]
+
+
+# 0xd9d7b
+# 892261
+#�ۤ�� 
+#[exit]
+
+
+# 0xd9d7b
+# 892263
+#�ۤ�� 
+#[exit]
+
+
+# 0xd9d89
+# 892265
+#  Ͽ�  
+#[exit]
+
+
+# 0xd9d95
+# @@892267@@
+Continue[sp][sp][sp][sp]
+[exit]
+
+
+# 0xd9da2
+# @@892269@@
+New Record[sp]
+[exit]
+
+
+# 0xd9db0
+# 892271
+#Ͽ̤      
+#[exit]
+
+
+# 0xd9dbd
+# @@892273@@
+Erase Data[sp]
+[exit]
+
+
+# 0xd9dca
+# @@892275@@
+Save 
+[exit]
+
+
+# 0xd9dd1
+# @@892277@@
+Del
+[exit]
+
+
+# 0xd9dd8
+# @@892279@@
+No[sp][sp]
+[exit]
+
+
+# 0xd9dde
+# @@892281@@
+[sp][sp][sp][sp][sp][sp][sp][sp][sp]-No Record-[sp][sp][sp][sp][sp][sp][sp][exit]

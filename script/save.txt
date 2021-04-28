@@ -1,0 +1,21 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used to alter the text which appears in the save dialog
+# which appears after defeating a chapter.
+
+[ASMPTR]
+[nospaces]
+[mode-sjis]
+
+# Save Game (End of Chapter)
+# @@370338@@
+Save[spx]Game[exit]
+
+# Yes
+# @@370355@@
+Yes[exit]
+
+# No
+# @@370372@@
+No[exit]

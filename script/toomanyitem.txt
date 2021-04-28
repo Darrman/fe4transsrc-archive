@@ -1,0 +1,32 @@
+[ASMPTR]
+[mode-sjis]
+
+# Store item?
+# @@374649@@
+[spx][spx]Store[spx]item[spx][spx]
+[exit]
+
+# Yes
+# @@374666@@
+OK
+[exit]
+
+# No
+# @@374683@@
+No
+[exit]
+
+# Store desc 1
+# @@374887@@
+Select[spx]item
+[exit]
+
+# Store desc 2
+# @@374904@@
+to[spx]send[spx]to
+[exit]
+
+# Store desc 3
+# @@374921@@
+storage
+[exit]

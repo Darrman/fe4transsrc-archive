@@ -1,0 +1,29 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering text in the Data Screen Sub Window.
+
+[ASMPTR]
+[nospaces]
+[mode-sjis]
+
+# Home Castle
+# @@775424@@
+Home
+[exit]
+
+# No leader in army
+# @@775523@@
+No[spx]Leader
+[exit]
+
+# No army
+# @@775544@@
+No[spx]Army
+[exit]
+
+# Leader Unit
+# @@775565@@
+Leader
+[exit]
+

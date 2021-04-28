@@ -20,6 +20,9 @@
    $Id: libsif.c,v 1.5 2003/04/25 08:26:54 j10 Exp $
    SIF file handling library
 */
+
+/* Last modified: 05/07/04
+   This file was modified by Dark Twilkitri */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -188,6 +191,10 @@ int WriteSifBlock(SifWriter *w,void *block,unsigned int size,unsigned long addr,
    if(flags & SIF_LOCAL) h.flag.local = 1;
    if(flags & SIF_USE16) h.flag.use16 = 1;
    if(flags & SIF_NOMERGE) h.flag.nomerge = 1;
+   if(flags & SIF_ASM) h.flag.asmptrs = 1;
+   if(flags & SIF_ASM3) h.flag.asmptrs3 = 1;
+   if(flags & SIF_NOPTR) h.flag.noptr = 1;
+   if(flags & SIF_BLOCK) h.flag.blocked = 1;
    h.address = addr;
    h.size = size;
    fwrite(&h,SIF_BLOCK_HEADER_SIZE,1,w->fp);

@@ -1,0 +1,117 @@
+.rat
+
+SECTION BANK8E
+SECTION table1
+SECTION table2
+SECTION table3
+SECTION table4
+COMMON tables table1 table2 table3 table4 
+SECTION dynaclasses
+SECTION chapternames
+SECTION dynaweapons
+SECTION dynanames
+SECTION menus
+SECTION BANK80
+SECTION BANK85
+SECTION enm1
+SECTION knight
+SECTION chrnam
+SECTION army
+SECTION weap
+SECTION city
+COMMON itemex enm1 knight chrnam army weap city 
+SECTION mainmenu
+
+SECTION PUBLIC
+	32BC3F-32BC40		# 2 bytes
+SECTION BANK8E
+	0E9F5F-0E9F60		# 2 bytes
+	0EDAE5-0EDAEF		# 11 bytes
+	0EE358-0EE360		# 9 bytes
+	0EE3AF-0EE3B3		# 5 bytes
+	0EEFD9-0EF0BE		# 230 bytes
+	0EF3D0-0EF3D9		# 10 bytes
+SECTION tables
+	02BB2E-02C1FF		# 1746 bytes
+SECTION dynaclasses
+	0D9D43-0D9D64		# 34 bytes
+SECTION chapternames
+	0D9E7A-0D9E87		# 14 bytes
+SECTION dynaweapons
+	0D9A66-0D9A91		# 44 bytes
+SECTION dynanames
+	0DF542-0DFE55		# 2324 bytes
+SECTION menus
+	0EDB3C-0EDB45		# 10 bytes
+	0EDE3B-0EDE47		# 13 bytes
+SECTION PUBLIC
+	3197F8-3197F9		# 2 bytes
+	10A27B-10A27C		# 2 bytes
+	10C2E6-10C2E7		# 2 bytes
+	0FA060-0FA060		# 1 bytes
+	0FA921-0FA921		# 1 bytes
+	32F9BC-32F9BD		# 2 bytes
+	1DAB88-1DAB8A		# 3 bytes
+	1DC0B7-1DC0BA		# 4 bytes
+	0EACD9-0EACDB		# 3 bytes
+	0EAF14-0EAF15		# 2 bytes
+	0EB97D-0EB97D		# 1 bytes
+	0EBD1B-0EBD1F		# 5 bytes
+	0ECA19-0ECA1D		# 5 bytes
+	32E557-32E558		# 2 bytes
+	30B279-30B96D		# 1781 bytes
+	10E9E0-10E9E1		# 2 bytes
+	31D414-31D415		# 2 bytes
+	32DD83-32DD85		# 3 bytes
+	32F61B-32F61D		# 3 bytes
+	32E9D7-32E9D9		# 3 bytes
+	32EE7E-32EE7E		# 1 bytes
+	338C1B-338C1D		# 3 bytes
+	33A6E6-33A6E7		# 2 bytes
+	33CBFF-33CC03		# 5 bytes
+	33CE21-33CE22		# 2 bytes
+	2EBBAC-2EBBAD		# 2 bytes
+	2EFC7F-2EFC82		# 4 bytes
+	2F8200-2FC32C		# 16685 bytes
+	003E10-0081FF		# 17392 bytes
+SECTION BANK80
+	00D9B4-00DA17		# 100 bytes
+	00DEA2-00DEA5		# 4 bytes
+SECTION PUBLIC
+	01C1FC-01C1FF		# 4 bytes
+	0201F9-0201FF		# 7 bytes
+SECTION BANK85
+	05F0BA-0601FF		# 4422 bytes
+SECTION PUBLIC
+	0701FC-0701FF		# 4 bytes
+	0801FE-0801FF		# 2 bytes
+	0901FC-0901FF		# 4 bytes
+	0B01FD-0B01FF		# 3 bytes
+	14C1FD-14C1FF		# 3 bytes
+	1761FE-1761FF		# 2 bytes
+	1881FC-1881FF		# 4 bytes
+	1A61FD-1A61FF		# 3 bytes
+	2F01FD-2F01FF		# 3 bytes
+	3001FC-3001FF		# 4 bytes
+	3401FD-3401FF		# 3 bytes
+SECTION enm1
+	038689-03868C		# 4 bytes
+SECTION knight
+	039127-039134		# 14 bytes
+SECTION chrnam
+	03A7C7-03AFF4		# 2094 bytes
+SECTION army
+	03DE0E-03DE11		# 4 bytes
+SECTION weap
+	03E38A-03E4E7		# 350 bytes
+SECTION city
+	03F957-03F9C0		# 106 bytes
+SECTION itemex
+SECTION PUBLIC
+	09A9C7-09A9C8		# 2 bytes
+	0BD493-0BD494		# 2 bytes
+	0BD666-0BD667		# 2 bytes
+SECTION mainmenu
+	0D9DD0-0D9DF5		# 38 bytes
+END
+# 47567 bytes remaining.

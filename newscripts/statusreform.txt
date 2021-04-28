@@ -1,0 +1,187 @@
+[noptr]
+[mode-notext]
+
+# Char Status Wep Accuracy
+# @@625186@@
+0x05
+[exit]
+
+# Char Status Wep Might
+# @@625203@@
+0x05
+[exit]
+
+# Char Status Wep Range
+# @@625220@@
+0x05
+[exit]
+
+# Char Status Wep Weight
+# @@625237@@
+0x05
+[exit]
+
+# Char Status Chr Attack
+# @@630282@@
+0x15
+[exit]
+
+# Char Status Chr Accuracy
+# @@630299@@
+0x15
+[exit]
+
+# Char Status Chr Range
+# @@630316@@
+0x15
+[exit]
+
+# Char Status Chr Evade
+# @@630333@@
+0x15
+[exit]
+
+# Char Status Stat Power 
+# @@630457@@
+0x05
+[exit]
+
+# Char Status Stat Magic
+# @@630474@@
+0x05
+[exit]
+
+# Char Status Stat Skill
+# @@630491@@
+0x05
+[exit]
+
+# Char Status Stat Speed
+# @@620508@@
+0x05
+[exit]
+
+# Char Status Stat Luck
+# @@630525@@
+0x05
+[exit]
+
+# Char Status Stat Defence
+# @@630542@@
+0x05
+[exit]
+
+# Char Status Stat Magic Defence
+# @@630559@@
+0x05
+[exit]
+
+# Char Status Info Leader
+# @@630747@@
+0x03
+[exit]
+
+# Char Status Info Army
+# @@630770@@
+0x03
+[exit]
+
+# Char Status Info Lover
+# @@630789@@
+0x02
+[exit]
+
+# Char Status Info Talk
+# @@630806@@
+0x03
+[exit]
+
+# Char Status Info Move
+# @@630823@@
+0x03
+[exit]
+
+# Char Status Info Gold
+# @@630840@@
+0x03
+[exit]
+
+# Char Status Info Arena Level
+# @@630857@@
+0x02
+[exit]
+
+# Char Status Info Status
+# @@630874@@
+0x02
+[exit]
+
+# Char Status Rank Sword
+# @@630891@@
+0x12
+[exit]
+
+# Char Status Rank Lance
+# @@630908@@
+0x12
+[exit]
+
+# Char Status Rank Axe
+# @@630925@@
+0x12
+[exit]
+
+# Char Status Rank Bow
+# @@630942@@
+0x12
+[exit]
+
+# Char Status Rank Staff
+# @@630959@@
+0x12
+[exit]
+
+# Char Status Rank Fire
+# @@630976@@
+0x19
+[exit]
+
+# Char Status Rank Thunder
+# @@630993@@
+0x19
+[exit]
+
+# Char Status Rank Wind
+# @@631010@@
+0x19
+[exit]
+
+# Char Status Rank Light
+# @@631027@@
+0x19
+[exit]
+
+# Char Status Rank Dark
+# @@631044@@
+0x19
+[exit]
+
+# Item Screen Wep Accuracy
+# @@637879@@
+0x16
+[exit]
+
+# Item Screen Wep Might
+# @@637896@@
+0x16
+[exit]
+
+# Item Screen Wep Range
+# @@637913@@
+0x16
+[exit]
+
+# Item Screen Wep Weight
+# @@637930@@
+0x16
+[exit]

@@ -1,5 +1,10 @@
 # 0 0 BANK85
 
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is for altering the options in the Anime command.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English
@@ -31,7 +36,7 @@
 # P: 5A82C
 # @@370732@@
 
-Animation Settings
+Anime
 
 [exit]
 
@@ -55,7 +60,7 @@ Map
 # P: 5A85F
 # @@370783@@
 
-All Units
+All
 
 [exit]
 

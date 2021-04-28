@@ -1,4 +1,7 @@
 .rat
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
 # This lists most of the blank spaces in the rom
 # which are usually the areas with FF FF FF FF ...
 # These are likely just fillers and can be overwritten

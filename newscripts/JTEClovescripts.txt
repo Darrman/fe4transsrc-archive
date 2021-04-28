@@ -1,0 +1,3287 @@
+
+
+# 0x1df1b6
+# @@3403758@@
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢»ä¤â¤ªÌò¤ËÎ©¤Æ¤ë¤Ê¤é
+¤É¤ó¤Ê¤³¤È¤À¤Ã¤Æ¤·¤Þ¤¹
+[Wait 60][cs]
+¥æ¥ê¥¢ÍÍ¤ÎÂå¤ï¤ê¤Ï¤Ç¤­¤Ê¤¤¤±¤É
+¥»¥ê¥¹ÍÍ¤Î¤ªÎÏ¤Ë¤Ê¤ê¤¿¤¤¤Î
+[Wait 60][cs]
+
+[TWinTop]¤¢¤ê¤¬¤È¤¦[$00$22]
+º£¤Ï¡¢¤­¤ß¤À¤±¤¬¿´¤Î»Ù¤¨¤À
+[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df2d0
+# @@3403761@@
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]ÍÍ¡¢
+¥»¥ê¥¹·»ÍÍ¤ò¤¿¤¹¤±¤Æ¤¢¤²¤Æ¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢´î¤ó¤Ç¡ª
+¤Ç¤â¡¢¥æ¥ê¥¢ÍÍ¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤¿¤·¤Ï¡¦¡¦¡¦¡¢
+¥·¥°¥ë¥ÉÍÍ¤Ø¤Î¤Ä¤°¤Ê¤¤¤ò¤·¤Þ¤¹
+[Wait 60][cs]
+¤½¤ì¤¬¡¢¥Ç¥£¥¢¥É¥éÊìÍÍ¤Î¡¢
+´ê¤¤¤À¤Ã¤¿¤«¤é¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df373
+# @@3403764@@
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]¥·¥ã¥Ê¥óÍÍ¤Ã¤¿¤é¡¢
+¤Þ¤ë¤ÇÄï¤Ë¤Ç¤âÏÃ¤·¤Æ¤ë¤ß¤¿¤¤
+¥»¥ê¥¹ÍÍ¤Ï¥°¥é¥ó¥Ù¥ë²¦¤Ê¤Î¤Ë¤Í
+[TWinBtm][Wait 20][$00$22]¤«¡¦¡¦¡¦¡¢¤½¤¦¤À¤Ê
+¤³¤ì¤«¤é¤Ï¥»¥ê¥¹²¦¤È¸Æ¤Ð¤Ê¤±¤ì¤Ð¤Ê
+[Wait 60][dcs]
+¤½¤ì¤È¤â
+¹ñ²¦ÊÅ²¼¤È¤Ç¤â¸À¤Ã¤¿Êý¤¬¤è¤¤¤«
+[Wait 60][cs]
+
+[TWinTop]¤¢¡¢¥·¥ã¥Ê¥óÍÍ¤Ã¤¿¤é¡¢ÅÜ¤Ã¤Æ¤ë
+¤½¤¦¤«¡¢Î¥¤ì¤Ð¤Ê¤ì¤Ë¤Ê¤ë¤Î¤¬¿É¤¤¤ó¤À
+[Wait 60][cs]
+¤´¤á¤ó¤Ê¤µ¤¤¡¢
+¤ä¤Ê¤³¤È¤¤¤Ã¤Á¤ã¤Ã¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¥Õ¥Ã¡¢¤¤¤¤¤µ
+¤ª¤Þ¤¨¤Ë¤Ï¤¦¤½¤Ï¤Ä¤±¤Ê¤¤
+[Wait 60]
+[TWinTop][dcs]
+¥·¥ã¥Ê¥óÍÍ¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df58d
+# @@3403767@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢Èá¤·¤½¤¦¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Î¤³¤È¤ò
+¤Þ¤ÀËº¤ì¤é¤ì¤Ê¤¤¤Î
+[TWinBtm][Wait 20]¤½¤ì¤ÏÌµÍý¤À¤è
+¤¢¤ÎÊý¤Ï²¶Ã£·»Ëå¤Ë¤È¤Ã¤Æ¤ÏÉã¿Æ¤âÆ±¤¸¡¢
+Ëº¤ì¤é¤ì¤ë¤â¤Î¤«[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤¬Â¦¤Ë¤¤¤Æ¤â¤À¤á¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦[$00$22]¡¢
+¤¤¤Ã¤·¤ç¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¢[$00$23]¤¬¤¤¤¤¤Î¤Ê¤é¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x1df7b7
+# @@3403770@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤¦¤ì¤·¤½¤¦¤Í¡¢
+¹ñ¤ËÌá¤ì¤ë¤Î¤¬¤½¤ó¤Ê¤Ë¤¤¤¤¤Î
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤¿¤ê¤Þ¤¨¤µ
+¼«Ê¬¤Î°é¤Ã¤¿¹ñ¤À¤â¤Î
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤è¤ê¤â¡©
+
+[TWinBtm][Wait 20]¤¨¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Í¡¢[$00$23]¡¢
+»ä¤â¡¢¤¤¤Ã¤·¤ç¤Ë¹Ô¤Ã¤Æ¤¤¤¤¡©
+
+[TWinBtm][Wait 20]¥¤¥¶£­¥¯¤Ë¡©  ¤­¤ß¤¬¡©
+°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤È¸À¤¦¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤ê¤¬¤È¤¦
+[Wait 60]
+[exit]
+
+
+# 0x1df937
+# @@3403773@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤â¤·¤«  ¤·¤Æ¡¢[$00$30]¤ÎÂå¤ï¤ê¡©
+
+[TWinBtm][Wait 20]¤Á¤¬¤¦¡ª  ¤Ü¤¯¤Ï¤­¤ß¤¬¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤´¤á¤ó¡¢¤ï¤«¤Ã¤Æ¤ë¤Î
+»ä¤â¹Ô¤¯¤ï¡¢¥¤¥¶£­¥¯¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x1dfb66
+# @@3403776@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤Ã¡¢¤¤¤¤¤Î¡ª¡©
+»ä¤âÏ¢¤ì¤Æ¤¤¤Ã¤Æ¤¯¤ì¤ë¤Î
+
+[TWinBtm][Wait 20]¤¦¤ó¡ª  ¤­¤ß¤µ¤¨¤è¤±¤ì¤Ð
+[Wait 60]
+[exit]
+
+
+# 0x1dfd4e
+# @@3403779@@
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥ÕÍÍ¡¢¹Ô¤Ã¤Á¤ã¤¦¤Î
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤Ã¡©  ¤¢¤¿¤·¤â¹Ô¤Ã¤Æ¤¤¤¤¤Î¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤Ã¡¢¥ê£­¥ÕÍÍ¤Ã¡¢¤¦¤ì¤·¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1dfd4e
+# @@3403782@@
+[Merge 33f003]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥ÕÍÍ¡¢¹Ô¤Ã¤Á¤ã¤¦¤Î
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤Ã¡©  ¤¢¤¿¤·¤â¹Ô¤Ã¤Æ¤¤¤¤¤Î¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤Ã¡¢¥ê£­¥ÕÍÍ¤Ã¡¢¤¦¤ì¤·¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1dffa4
+# @@3403785@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¸µµ¤¤ò¤À¤·¤Æ
+[Wait 60][cs]
+Âç¾æÉ×¤è¡¢
+¤³¤ì¤«¤é¤Ï»ä¤¬Â¦¤Ë¤¤¤Æ¤¢¤²¤ë
+¤¢¤Ê¤¿¤Î¤ªËå¤µ¤ó¤Ë¤Ê¤Ã¤Æ¤¢¤²¤ë¤«¤é¤Í
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤â¤¦¡¢¤ä¤Ã¤Ñ¤ê»Ò¶¡¤Ê¤ó¤À¤«¤é¡ª
+¤Ç¤â¡¢¤½¤³¤¬²Ä°¦¤¤¤ó¤À¤±¤É¤Í
+¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«¤ë¤«¤é¤Í¤Ã[Wait 60]
+[exit]
+
+
+# 0x32fc8d
+# @@3403788@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ã¤Æ²Ä°¦¤¤¤Í
+¤³¤ì¤«¤é¤Ï¡¢»ä¤¬¤ªËå¤µ¤ó¤Ë¤Ê¤Ã¤Æ
+¤¢¤²¤ë¤«¤é¤Í
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤Õ¤Ã¡¢¤ä¤Ã¤Ñ¤ê»Ò¶¡¤Ê¤ó¤À
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«¤ë¤«¤é¤Í¤Ã
+[Wait 60]
+[exit]
+
+
+# 0x32fee0
+# @@3403791@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ã¤Æ¤Ð¡¢
+¤Ê¤Ë°ì¿Í¤Ç¥«¥Ã¥³¤Ä¤±¤Æ¤ë¤Î
+¸µµ¤¤ò½Ð¤·¤Ê¤µ¤¤¤è¡¢»ä¤¬¤¤¤ë¤¸¤ã¤Ê¤¤
+[TWinBtm][Wait 20][$00$22]¡¢¤ª¤Þ¤¨¤Ê¤¡¡¦¡¦¡¦
+¤Þ¤Ã¡¢¤¤¤¤¤«
+¤ª¤Þ¤¨¤Ç¤â¤¤¤Ê¤¤¤è¤«¥Þ¥·¤À¤·¤Ê[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢
+¤½¤ÎÊý¤¬[$00$23]¤é¤·¤¯¤Æ¤¤¤¤¤è
+¤¬¤ó¤Ð¤í¤¦¤è¡¢[$00$30]¤Î¤¿¤á¤Ë¤â¤Í
+[TWinBtm][Wait 20]¤¢¤¢¡¢¤½¤¦¤À¤Ê
+[$00$22]¡¢¤¢¤ê¤¬¤È¤Ê
+[Wait 60]
+[exit]
+
+
+# 0x33e9ba
+# @@3403794@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ã¤Æ¤Ð¡¢
+¤Û¤ó¤È¤Ï¥»¥ê¥¹ÍÍ¤È¤Ï¤Ê¤ì¤ë¤Î¤¬
+¤µ¤ß¤·¤¤¤Î¤è¤Í[Wait 60][cs]
+Âç¾æÉ×¤è¡¢»ä¤¬¤Ä¤¤¤Æ¤¤¤Æ¤¢¤²¤ë¤«¤é
+
+[TWinBtm][Wait 20][$00$22]¡¢¤ª¤Þ¤¨¤Ê¤¡¡¦¡¦¡¦
+¤Þ¤Ã¡¢¤¤¤¤¤«
+¤ª¤Þ¤¨¤Ç¤â¤¤¤Ê¤¤¤è¤«¥Þ¥·¤À¤·¤Ê[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢¤Æ¤ì¤«¤¯¤·¤·¤Æ¡¢
+¤«¤ï¤¤¤¤¥ä¥Ä
+¤Þ¡¢¤À¤«¤é¹¥¤­¤Ê¤ó¤À¤±¤É¤Í
+[TWinBtm][Wait 20]¤ª¤¤¤ª¤¤¡¢¤â¤¦¤«¤ó¤Ù¤ó¤·¤Æ¤¯¤ì¤è
+[Wait 60]
+[exit]
+
+
+# 0x33edd1
+# @@3403797@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinBtm]¤½¤Î¤¿¤á¤Ë¤Ï¡¢
+[$00$22]¡¢¤ª¤Þ¤¨¤ÎÎÏ¤¬É¬Í×¤À
+²¶¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤[Wait 60][cs]
+
+[TWinTop]¤¦¤ó¡¢¤Þ¤«  ¤·¤È¤¤¤Æ
+¤¢¤¿¤·¤â¥¢¥°¥¹¥È¥ê¥¢¤ÎºÆ·ú¤ò
+¼êÅÁ¤¦¤«¤é¤Í[cs]
+¤ß¤ó¤Ê¤Ç×ðÎÏ¤·¤Æ
+¤À¤ì¤â¤¬½»¤ß¤ä¤¹¤¤¹ñ¤òºî¤ê¤Þ¤·¤ç
+
+[TWinBtm][Wait 20]¤Õ¤Õ¤Ã¡¦¡¦¡¦¤½¤¦¤À¤Ê
+¤ª¤Þ¤¨¤È¤Ê¤é¤¬¤ó¤Ð¤ì¤½¤¦¤À
+[Wait 60]
+[exit]
+
+
+# 0x30efb3
+# @@3403800@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È°ì½ï¤Ë¹Ô¤­¤Þ¤¹¡ª
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤¢¤Ï¤Ï¡¢¤Á¤ç¤Ã¤È¥Æ¥ì¤Á¤ã¤¦¤Í
+¤Ç¤â¡¦¡¦¡¦¤¦¤ì¤·¤¤¤Ç¤¹¡ª
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30efb3
+# @@3403803@@
+[Merge 33f018]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È°ì½ï¤Ë¹Ô¤­¤Þ¤¹¡ª
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤¢¤Ï¤Ï¡¢¤Á¤ç¤Ã¤È¥Æ¥ì¤Á¤ã¤¦¤Í
+¤Ç¤â¡¦¡¦¡¦¤¦¤ì¤·¤¤¤Ç¤¹¡ª
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f104
+# @@3403806@@
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¤¨£­¤Ã  ¥»¥ê¥¹ÍÍ¡¢ÃÎ¤Ã¤Æ¤¤¤¿¤Î¡ª
+¥­¥ã£­¥Ã¡¢¤Ï¤º¤«  ¤·¤¤¤Ã
+[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤è
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f104
+# @@3403809@@
+[Merge 33f01e]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¤¨£­¤Ã  ¥»¥ê¥¹ÍÍ¡¢ÃÎ¤Ã¤Æ¤¤¤¿¤Î¡ª
+¥­¥ã£­¥Ã¡¢¤Ï¤º¤«  ¤·¤¤¤Ã
+[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤è
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f249
+# @@3403812@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¹Ô¤¯
+
+[TWinBtm][Wait 20]¤À¤á¤À¤è[$00$22]
+Àï¤¤¤Ï¤Þ¤À¤Þ¤ÀÂ³¤¯¡¢´í¸±¤Ê¤ó¤À
+[Wait 60][dcs]
+¤­¤Ã¤È·Þ¤¨¤ËÍè¤ë¤«¤é¡¢
+¤½¤ì¤Þ¤ÇÂÔ¤Ã¤Æ¤¤¤Æ¤Û¤·¤¤
+[Wait 60][cs]
+
+[TWinTop]¤¤¤ä¤è¡¢¤ª¤¤¤Æ¤­¤Ü¤ê¤Ê¤ó¤Æ¡¢
+¤¼¤Ã¤¿¤¤°ì½ï¤Ë¹Ô¤¯¤«¤é¤Í¡ª
+
+[TWinBtm][Wait 20]¤´¤á¤ó¡¢¤ï¤«¤Ã¤¿¤è[$00$22]
+°ì½ï¤Ë¹Ô¤³¤¦¡¢¥ô¥§¥ë¥À¥ó¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x30f4e5
+# @@3403815@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥Õ¥¡¥Ð¥ë¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦¤Ê¤ó¤À¤Ã¤±¡©
+[Wait 60]
+[TWinTop][dcs]
+¤Þ¤µ¤«¡¦¡¦¡¦Ëº¤ì¤¿¤ó¤¸¤ã¤Ê¤¤¤è¤Í
+
+[TWinBtm][Wait 20]¤¢¡¢¤¸¤ç¡¢¾éÃÌ¤µ
+¤½¤ó¤Ê¶²¤¤´é¤ò¤¹¤ë¤Ê¤è¡¢¤´¤á¤ó
+[Wait 60]
+[TWinTop][dcs]
+¤â¤¦¤Ã¡¢ÃÎ¤é¤Ê¤¤¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f713
+# @@3403818@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ì¥¹¥¿£­¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¡¢¤ª¤Ü¤¨¤Æ¤ë¤è
+[Wait 60]
+[TWinTop][dcs]
+¤è¤í¤·¤¤¡¢¤½¤ì¤Ç¤³¤½¥ì¥¹¥¿£­¤Í
+
+[TWinBtm][Wait 20][$00$22]¤Ï¶²¤¤¤«¤é¤Í
+[Wait 60]
+[TWinTop][dcs]
+¤¢¤Ã¡¢¤Ò¤É¤¤¡ª
+¤½¤ó¤Ê¤³¤È¸À¤¦¤Î¤Ê¤é
+¤â¤¦ÃÎ¤é¤Ê¤¤¡¢¤Õ¤ó¤Ã¡ª[Wait 60]
+[exit]
+
+
+# 0x30f80d
+# @@3403821@@
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¤â¡¦¡¦¡¦
+¥ì¥¹¥¿£­¤ÈÃçÎÉ¤¯¤Í
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¥»¥ê¥¹ÍÍ
+¤Þ¤¿¤¢¤½¤Ó¤ËÍè¤ë¤«¤é¤Í¤Ã
+[Wait 60]
+[exit]
+
+
+# 0x30f894
+# @@3403824@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤â¤¦¹Ô¤³¤¦¤è
+Âà¶þ¤·¤Á¤ã¤Ã¤¿
+
+[TWinBtm][Wait 20][$00$22]¤ÏÁêÊÑ¤ï¤é¤º¤À¤Ê
+¤ï¤«¤Ã¤¿¡¢¹Ô¤³¤¦¤«
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]¤¸¤ã¤¢¤Í¡¢¥»¥ê¥¹ÍÍ¡¢
+¤Ð¤¤¤Ð¤¤¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f9f4
+# @@3403827@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤Þ¤À¤¡¡©
+Áá¤¯¤¤¤³¤Ã
+
+[TWinBtm][Wait 20][$00$22]¡©
+¤Ê¤ó¤Ç¤­¤ß¤¬¡©
+[Wait 60]
+[TWinTop][dcs]
+°ì¿Í¤Ë¤¹¤ë¤Î¡¢¤«¤ï¤¤¤½¤¦¤À¤«¤é
+°ì½ï¤Ë¹Ô¤Ã¤Æ¤¢¤²¤ë¤Î
+¤¢¤ê¤¬¤¿¤¤¤È»×¤¤¤Ê¤µ¤¤
+[TWinBtm][Wait 20]¤Á¤§¡¢¤³¤ì¤À¤«¤é¤Ê¤¡¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30fb6a
+# @@3403830@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥è¥Ï¥ó¤Ã¡¢¤Þ¤¿´¶·ã¤·¤Á¤ã¤Ã¤Æ¤ë¡¢
+¤Þ¤¢¡¢¤½¤ì¤¬¤¢¤Ê¤¿¤Î
+¤¤¤¤¤È¤³¤í¤Ê¤ó¤À¤±¤É¤Í
+[TWinBtm][Wait 20][$00$22]¡¢»ä¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤ï¤è
+»ä¡¢¥è¥Ï¥ó¡¢¹¥¤­¤è
+
+[TWinBtm][Wait 20]¤¢¤¢¡ª  ¡¦¡¦¡¦[$00$22]¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30fcdf
+# @@3403833@@
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢
+¥è¥Ï¥ë¥ô¥¡¤Ï¤Æ¤ì¤Æ¤¤¤ë¤Î
+¤³¤Î¿Í¤Ï¥·¥ã¥¤¤À¤«¤é¡¦¡¦¡¦[Wait 60][cs]
+
+[TWinTop]¤Ï¤Ï¤Ï¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤µ
+[$00$22]¤â¡¢¸µµ¤¤Ç¤Í
+¥è¥Ï¥ë¥ô¥¡¤òÍê¤à¤è
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤³¤ó¤Ê¤Ò¤È¡¢
+¤Û¤¦¤Ã¤Æ¤Ï¤ª¤±¤Ê¤¤¤â¤Î
+»ä¤¬¤·¤Ã¤«  ¤ê¸«¼é¤Ã¤Æ¤¢¤²¤ë[Wait 60][dcs]
+¤Ç¤Ï¡¢¥»¥ê¥¹ÍÍ¤â¸µµ¤¤Ç¤Í¤Ã
+[Wait 60]
+[exit]
+
+
+# 0x30fe20
+# @@3403836@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¤¢¤¿¤·¤Ï¸É»ùÃ£¤ò¤¿¤¹¤±¤ë¤ï
+¤¢¤Î»Ò¤¿¤Á¤ÎÊìÂå¤ï¤ê¤È¤Ê¤Ã¤Æ
+Î©ÇÉ¤Ë°é¤Æ¤Æ¤ß¤»¤ë¤«¤é
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦Âç¾æÉ×¡©
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]¡¢¿´ÇÛ¤·¤Ê¤¤¤Ç¤è
+¤¢¤¿¤·¤À¤Ã¤Æ¡¢¤ä¤ë¤È¤­¤Ë¤Ï
+¤ä¤ë¤ó¤À¤«¤é¤Í¤Ã[Wait 60]
+[exit]
+
+
+# 0x31fa2e
+# @@3403839@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¥ô¥§¥ë¥È¥Þ£­¤Ë¹Ô¤¯
+
+[TWinBtm][Wait 20][$00$22]¤¬¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¢¤¢¤Ê¤¿°ì¿Í¤ò¹Ô¤«¤»¤Ê¤¤¡ª
+»ä¤¿¤ÁÆó¿Í¤Ê¤é¡¢¤É¤ó¤Ê¤Ë¿É¤¤¤³¤È¤Ç¤â
+¤¬¤Þ¤ó¤Ç¤­¤ë¤Ç¤·¤ç¡ª[Wait 60]
+[exit]
+
+
+# 0x31fc5e
+# @@3403842@@
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢¥ª¥¤¥Õ¥§ÍÍ¤Î¤³¤È¤Ï
+¤¢¤¿¤·¤Ë¤Þ¤«¤»¤Æ²¼¤µ¤¤¡ª
+[Wait 60][cs]
+
+[TWinTop]¤½¤¦¤«¡¦¡¦¡¦[$00$22]¤â
+¥·¥¢¥ë¥Õ¥£¤Ë¹Ô¤Ã¤Æ¤¯¤ì¤ë¤Î¤«
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¥ª¥¤¥Õ¥§ÍÍ¤Ë¤ÏµÙÂ©¤¬É¬Í×¤À¤«¤é¡¢
+¤·¤Ð¤é¤¯¤Ï¡¢
+¤·¤º¤«¤ËµÙ¤Þ¤»¤Æ¤¢¤²¤¿¤¤¤Î[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤À¤Í¡¢¤­¤ß¤Î¸À¤¦¤È¤ª¤ê¤À
+[$00$22]¡¢¥ª¥¤¥Õ¥§¤òÍê¤ó¤À¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x31fde0
+# @@3403845@@
+
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop]¤¢¤ì¡©
+[$00$22]¡¢¤­¤ß¤â¹Ô¤¯¤Î¤«¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢[$00$23]ÍÍ¤È¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤«¡¦¡¦¡¦¤ª¤á¤Ç¤È¤¦
+Æó¿Í¤Î¹¬¤»¤ò¤¤¤Î¤Ã¤Æ¤ë¤è
+
+[TWinBtm][Wait 20]¤¢¤ê¤¬¤È¤¦¡¢¥»¥ê¥¹ÍÍ
+[Wait 60]
+[exit]
+
+
+# 0x31feb9
+# @@3403848@@
+¥»¥ê¥¹ÍÍ¡¢
+¤ï¤¿¤·¤â[$00$23]¤È°ì½ï¤Ë
+¥·¥ì¥¸¥¢¤Ë¹Ô¤­¤Þ¤¹[Wait 60][cs]
+
+[TWinTop][$00$22]¤â¡©¡¦¡¦¡¦
+¤½¤¦¤«¡¢¤½¤ì¤Ï¤è¤«¤Ã¤¿
+[Wait 60][cs]
+[$00$23]¤ÈÎÏ¤ò¤¢¤ï¤»
+¥·¥ì¥¸¥¢¤Î¿Í¡¹¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤¢¤¿¤·¡¢¤¬¤ó¤Ð¤ê¤Þ¤¹¤Ã
+[Wait 60]
+[exit]
+
+
+# 0x1df242
+# @@3403851@@
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢»ä¤â¤ªÌò¤ËÎ©¤Æ¤ë¤Ê¤é
+¤É¤ó¤Ê¤³¤È¤À¤Ã¤Æ¤·¤Þ¤¹
+[Wait 60][cs]
+¥æ¥ê¥¢ÍÍ¤ÎÂå¤ï¤ê¤Ï¤Ç¤­¤Ê¤¤¤±¤É
+¥»¥ê¥¹ÍÍ¤Î¤ªÎÏ¤Ë¤Ê¤ê¤¿¤¤¤Î¤Ç¤¹
+[Wait 60][cs]
+
+[TWinTop]¤¢¤ê¤¬¤È¤¦[$00$22]
+º£¤Ï¡¢¤­¤ß¤À¤±¤¬¿´¤Î»Ù¤¨¤À
+[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df2d0
+# @@3403854@@
+[Merge 33eff1]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]ÍÍ¡¢
+¥»¥ê¥¹·»ÍÍ¤ò¤¿¤¹¤±¤Æ¤¢¤²¤Æ¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢´î¤ó¤Ç¡ª
+¤Ç¤â¡¢¥æ¥ê¥¢ÍÍ¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤¿¤·¤Ï¡¦¡¦¡¦¡¢
+¥·¥°¥ë¥ÉÍÍ¤Ø¤Î¤Ä¤°¤Ê¤¤¤ò¤·¤Þ¤¹
+[Wait 60][cs]
+¤½¤ì¤¬¡¢¥Ç¥£¥¢¥É¥éÊìÍÍ¤Î¡¢
+´ê¤¤¤À¤Ã¤¿¤«¤é¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df47e
+# @@3403857@@
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]¥·¥ã¥Ê¥óÍÍ¤Ï¡¢
+¤Þ¤ë¤ÇÄï¤Ë¤Ç¤âÏÃ¤·¤Æ¤ë¤ß¤¿¤¤
+¥»¥ê¥¹ÍÍ¤Ï¥°¥é¥ó¥Ù¥ë²¦¤Ê¤Î¤Ç¤¹¤è
+[TWinBtm][Wait 20][$00$22]¤«¡¦¡¦¡¦¡¢¤½¤¦¤À¤Ê
+¤³¤ì¤«¤é¤Ï¥»¥ê¥¹²¦¤È¸Æ¤Ð¤Ê¤±¤ì¤Ð¤Ê
+[Wait 60][dcs]
+¤½¤ì¤È¤â
+¹ñ²¦ÊÅ²¼¤È¤Ç¤â¸À¤Ã¤¿Êý¤¬¤è¤¤¤«
+[Wait 60][cs]
+
+[TWinTop]¤´¤á¤ó¤Ê¤µ¤¤¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Ï¥»¥ê¥¹ÍÍ¤È
+Î¥¤ì¤Ð¤Ê¤ì¤Ë¤Ê¤ë¤Î¤¬¿É¤¤¤Î¤Ç¤¹¤Í[Wait 60][cs]
+¤¹¤ß¤Þ¤»¤ó¡¢
+¤¤¤ä¤Ê¤³¤È¤ò¤¤¤Ã¤Æ¤·¤Þ¤Ã¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¥Õ¥Ã¡¢¤¤¤¤¤µ
+¤ª¤Þ¤¨¤Ë¤Ï¤¦¤½¤Ï¤Ä¤±¤Ê¤¤
+[Wait 60]
+[TWinTop][dcs]
+¥·¥ã¥Ê¥óÍÍ¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df58d
+# @@3403860@@
+[Merge 33eff7]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢Èá¤·¤½¤¦¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Î¤³¤È¤ò
+¤Þ¤ÀËº¤ì¤é¤ì¤Ê¤¤¤Î
+[TWinBtm][Wait 20]¤½¤ì¤ÏÌµÍý¤À¤è
+¤¢¤ÎÊý¤Ï²¶Ã£·»Ëå¤Ë¤È¤Ã¤Æ¤ÏÉã¿Æ¤âÆ±¤¸¡¢
+Ëº¤ì¤é¤ì¤ë¤â¤Î¤«[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤¬Â¦¤Ë¤¤¤Æ¤â¤À¤á¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦[$00$22]¡¢
+¤¤¤Ã¤·¤ç¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¢[$00$23]¤¬¤¤¤¤¤Î¤Ê¤é¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x1df7b7
+# @@3403863@@
+[Merge 33effa]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤¦¤ì¤·¤½¤¦¤Í¡¢
+¹ñ¤ËÌá¤ì¤ë¤Î¤¬¤½¤ó¤Ê¤Ë¤¤¤¤¤Î
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤¿¤ê¤Þ¤¨¤µ
+¼«Ê¬¤Î°é¤Ã¤¿¹ñ¤À¤â¤Î
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤è¤ê¤â¡©
+
+[TWinBtm][Wait 20]¤¨¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Í¡¢[$00$23]¡¢
+»ä¤â¡¢¤¤¤Ã¤·¤ç¤Ë¹Ô¤Ã¤Æ¤¤¤¤¡©
+
+[TWinBtm][Wait 20]¥¤¥¶£­¥¯¤Ë¡©  ¤­¤ß¤¬¡©
+°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤È¸À¤¦¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤ê¤¬¤È¤¦
+[Wait 60]
+[exit]
+
+
+# 0x1dfa9f
+# @@3403866@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¤±¤É[$00$22]¤Ï¡©
+[Wait 60]
+[TWinTop][dcs]
+»ä¤Ï¡¦¡¦¡¦¤É¤¦¤¹¤ë¤«¤Ê¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¡¦¡¦¡¦¤Ü¤¯¤Ï[$00$22]¤È°ì½ï¤Ëµ¢¤ê¤¿¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤â¤·¤«  ¤·¤Æ¡¢[$00$30]¤ÎÂå¤ï¤ê¡©
+
+[TWinBtm][Wait 20]¤Á¤¬¤¦¡ª  ¤­¤ß¤¬¹¥¤­¤À¤«¤é¡ª¡ª
+[Wait 60]
+[TWinTop][dcs]
+¤Ê¤Ë¡¢¤Ð¤«¤Ê»ö¤ò¸À¤Ã¤Æ¤ë¤Î¤è¡ª
+¤Ç¤â¡¢¤Þ¤¢¤¤¤¤¤ï
+°ì½ï¤Ëµ¢¤Ã¤Æ¤¢¤²¤ë[Wait 60]
+[exit]
+
+
+# 0x1dfc95
+# @@3403869@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¤±¤É[$00$22]¤Ï¡©
+[Wait 60]
+[TWinTop][dcs]
+»ä¤Ï¡¦¡¦¡¦¤É¤¦¤¹¤ë¤«¤Ê¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¡¦¡¦¡¦¤Ü¤¯¤Ï[$00$22]¤È°ì½ï¤Ëµ¢¤ê¤¿¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤É¤¦¤·¤Æ¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¡¢¤­¤ß¤¬¹¥¤­¤À¤«¤é¡ª¡ª
+[Wait 60]
+[TWinTop][dcs]
+¤Ê¤Ë¡¢¤Ð¤«¤Ê»ö¤ò¸À¤Ã¤Æ¤ë¤Î¤è¡ª
+¤Ç¤â¡¢¤Þ¤¢¤¤¤¤¤ï
+°ì½ï¤Ë¤«¤¨¤Ã¤Æ¤¢¤²¤ë[Wait 60]
+[exit]
+
+
+# 0x1dfde3
+# @@3403872@@
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤¦¤Î¤Ç¤¹¤«¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  »ä¤¬¹Ô¤Ã¤Æ¤â¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]Ë´¤¯¤Ê¤Ã¤¿Ëå¾å¤ËÂå¤ï¤Ã¤Æ
+»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x1dfe84
+# @@3403875@@
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤¦¤Î¤Ç¤¹¤«¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  »ä¤¬¹Ô¤Ã¤Æ¤â¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x1e004a
+# @@3403878@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¸µµ¤¤ò¤À¤·¤Æ
+¤¢¤Ê¤¿¤ÏÃË¤Ç¤·¤ç¤¦
+[Wait 60][cs]
+Âç¾æÉ×¤è¡¢
+¤³¤ì¤«¤é¤Ï»ä¤¬ÌÌÅÝ¤ò¤ß¤Æ¤¢¤²¤ë
+
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«¤ë¤«¤é
+[Wait 60]
+[exit]
+
+
+# 0x32fd06
+# @@3403881@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï²Ä°¦¤¤¤Í
+¤³¤ì¤«¤é¤Ï
+»ä¤¬¤¢¤Ê¤¿¤Î¤Í¤¨¤µ¤ó¤Ë¤Ê¤Ã¤Æ¤¢¤²¤ë
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«¤ë¤«¤é
+[Wait 60]
+[exit]
+
+
+# 0x32ff85
+# @@3403884@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¸µµ¤¤ò¤À¤·¤Æ¡¢
+¤¢¤Ê¤¿¤Ë¤Ï¤½¤ó¤Ê´é¤Ï¤Ë¤¢¤ï¤Ê¤¤¤ï
+
+[TWinBtm][Wait 20][$00$22]¡¢
+¤½¤ì¤Ï¤ï¤«¤Ã¤Æ¤ë¤±¤É¤µ
+²¶¤À¤Ã¤Æµã¤­¤¿¤¤¤È¤­¤Ï¤¢¤ë¤ó¤À[Wait 60]
+[TWinTop][dcs]
+¤¸¤ã¤¢µã¤­¤Ê¤µ¤¤¤è
+¤Ç¤â¡¢¤½¤ó¤Ê¤³¤È¤Ç
+[$00$30]¤Ï´î¤ó¤Ç¤¯¤ì¤ë¤Î[Wait 60][cs]
+¤¤¤Ä¤Þ¤Ç¤âÍî¤Á¹þ¤ó¤Ç¤¤¤ë¤Ê¤ó¤Æ
+ÃË¤é¤·¤¯¤Ê¤¤¤ï¤è¡ª
+
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦
+¤ª¤Þ¤¨¤Ï¶¯¤¤¤Ê¡¢
+¤ä¤Ã¤Ñ¤ê²¶¤¬¤Û¤ì¤¿¤À¤±¤Î¤³¤È¤Ï¤¢¤ë¤¼[Wait 60]
+[exit]
+
+
+# 0x33ea6b
+# @@3403887@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï
+¥»¥ê¥¹ÍÍ¤ÈÊÌ¤ì¤ë¤Î¤¬¿É¤¤¤ó¤Ç¤·¤ç¤¦
+¤Ç¤â¤¬¤Þ¤ó¤·¤Ê¤µ¤¤¤Í
+[TWinBtm][Wait 20][$00$22]¡¢¤½¤ó¤Ê»ö¤Ï
+¤ª¤Þ¤¨¤Ë¸À¤ï¤ì¤Ê¤¯¤Æ¤â¤ï¤«¤Ã¤Æ¤¤¤ë¤è
+[Wait 60]
+[TWinTop][dcs]
+¤Ê¤Ë¤è¡¢¤½¤Î¸À¤¤Êý
+¿Í¤¬¤»¤Ã¤«¤¯¿´ÇÛ¤·¤Æ¤¢¤²¤Æ¤¤¤ë¤Î¤Ë¡ª
+
+[TWinBtm][Wait 20]¤À¤«¤é
+Âç¤­¤Ê¤ªÀ¤ÏÃ¤À¤È¸À¤Ã¤Æ¤¤¤ë¤ó¤À¤è
+[Wait 60][dcs]
+¤ª¤Þ¤¨¤ËÃË¤Î¤­¤â¤Á¤Ê¤ó¤Æ
+¤ï¤«¤ë¤â¤Î¤«¡ª
+[Wait 60][cs]
+
+[TWinTop]¤½¤¦¤Ê¤Î¡¢¤¤¤¤¤ï
+»ä¤Ï°ì½ï¤Ë¹Ô¤«¤Ê¤¤
+[$00$23]¤Ï°ì¿Í¤Çµ¢¤Ã¤Æ¡ª¡ª
+[TWinBtm][Wait 20]¤ª¤¤¤ª¤¤¡¢ËÜµ¤¤Ê¤Î¤«¡©¡¦¡¦¡¦
+¤´¤á¤ó¤Ã¡¢²¶¤¬°­¤«¤Ã¤¿
+¼Õ¤ë¤«¤éµö¤·¤Æ¤¯¤ì¡ª[Wait 60]
+[TWinTop][dcs]
+¤Õ¤ó¤Ã¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦¤­¤²¤ó¤ò¤Ê¤ª¤·¤Æ¤¯¤ì¤è
+[Wait 60]
+[TWinTop][dcs]
+¤¸¤ã¤¢¡¢
+»ä¤ËÆóÅÙ¤È¸ýÅú¤¨¤·¤Ê¤¤¤Ã¤ÆÀÀ¤¨¤ë¡©
+
+[TWinBtm][Wait 20]¤¢¡¢¤¢¤¢¡¦¡¦¡¦ÀÀ¤¦¤«¤é¤µ¤¡¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤¸¤ã¤¢¡¢¤¤¤¤¤ï¡¢µö¤·¤Æ¤¢¤²¤ë
+
+[TWinBtm][Wait 20]¤Õ¤¥~ ¡¢¤¿¤¹¤«¤Ã¤¿¤¼¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x33ee75
+# @@3403890@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinBtm]¤½¤Î¤¿¤á¤Ë¤Ï¡¢
+[$00$22]¡¢¤ª¤Þ¤¨¤ÎÎÏ¤¬É¬Í×¤À
+²¶¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤[Wait 60][cs]
+
+[TWinTop]¤¨¤¨¡¢¤â¤Á¤í¤ó
+»ä¤â¥¢¥°¥¹¥È¥ê¥¢¤ÎºÆ·ú¤ò¼êÅÁ¤¤¤Þ¤¹
+[Wait 60][cs]
+Àï²Ð¤Ëßù¤±½Ð¤µ¤ì¤¿
+»Ò¶¡¤äÏ·¿ÍÃ£¤ò¤¿¤¹¤±¡¢
+¤À¤ì¤â¤¬½»¤ß¤ä¤¹¤¤¹ñ¤òºî¤ê¤Þ¤·¤ç¤¦
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê
+¤ª¤Þ¤¨¤È¤Ê¤é¡¢¤¬¤ó¤Ð¤ì¤½¤¦¤À
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3403893@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3403896@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3403899@@
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3403902@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f2f5
+# @@3403905@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¹Ô¤¯
+
+[TWinBtm][Wait 20]¤À¤á¤À¤è[$00$22]
+Àï¤¤¤Ï¤Þ¤À¤Þ¤ÀÂ³¤¯¡¢´í¸±¤Ê¤ó¤À
+[Wait 60][dcs]
+¤­¤Ã¤È·Þ¤¨¤ËÍè¤ë¤«¤é¡¢
+¤½¤ì¤Þ¤ÇÂÔ¤Ã¤Æ¤¤¤Æ¤Û¤·¤¤
+[Wait 60][cs]
+
+[TWinTop]¥Ð¥«¤ò¸À¤ï¤Ê¤¤¤Ç¡ª
+»ä¤â¥¤¥¶£­¥¯¤Î[$00$22]¤È¤Þ¤Ç
+¸À¤ï¤ì¤¿Àï»Î[Wait 60][cs]
+¤¢¤Ê¤¿°ì¿Í¤ò¹Ô¤«¤»¤ë¤ï¤±¤Ë¤Ï
+¤¤¤­¤Þ¤»¤ó¡ª
+
+[TWinBtm][Wait 20]¤Ï¤Ï¤Ï¡¢¤½¤¦¤À¤Ã¤¿¤Ê
+[$00$22]¤¬
+»³Â±¤Ê¤ó¤«¤ò¶²¤ì¤ë¤Ï¤º¤¬¤Ê¤¤[Wait 60][dcs]
+°­¤«¤Ã¤¿¡¢°ì½ï¤Ë¹Ô¤³¤¦
+¤­¤ß¤¬¤¤¤Æ¤¯¤ì¤ì¤Ð»ä¤â¿´¶¯¤¤¤è
+[Wait 60]
+[exit]
+
+
+# 0x30f56d
+# @@3403908@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥Õ¥¡¥Ð¥ë¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦¤Ê¤ó¤À¤Ã¤±¡©
+[Wait 60]
+[TWinTop][dcs]
+¤Þ¤µ¤«¡¦¡¦¡¦Ëº¤ì¤¿¤ó¤¸¤ã¤Ê¤¤¤Ç¤·¤ç¤¦¤Í
+
+[TWinBtm][Wait 20]¤¢¡¢¤¸¤ç¡¢¾éÃÌ¤µ
+¤½¤ó¤Ê¶²¤¤´é¤ò¤¹¤ë¤Ê¤è¡¢¤´¤á¤ó
+[Wait 60]
+[TWinTop][dcs]
+¤â¤¦¤Ã¡¢µö¤µ¤Ê¤¤¤ï¤è¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f798
+# @@3403911@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ì¥¹¥¿£­¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¡¢¤ª¤Ü¤¨¤Æ¤ë¤è
+[Wait 60]
+[TWinTop][dcs]
+¤è¤í¤·¤¤¡¢¤½¤ì¤Ç¤³¤½¥ì¥¹¥¿£­¤Í
+
+[TWinBtm][Wait 20][$00$22]¤Ï¶²¤¤¤«¤é¤Í
+[Wait 60]
+[TWinTop][dcs]
+¤¢¤Ã¡¢¸À¤Ã¤¿¤ï¤Í¡¢¤Õ¤Õ¤Ã¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f84e
+# @@3403914@@
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¤â¡¦¡¦¡¦
+¥ì¥¹¥¿£­¤ÈÃçÎÉ¤¯¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ
+¤³¤ì¤«  ¤é¤â¤è¤í¤·¤¯¤ª¤Í¤¬¤¤¤·¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f8ff
+# @@3403917@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤â¤¦¤¤¤¤¤Ç¤·¤ç¤¦
+¥»¥ê¥¹ÍÍ¤â¤ª¤Ä¤«¤ì¤Î¤è¤¦¤À¤«¤é
+
+[TWinBtm][Wait 20][$00$22]¡¢¤½¤¦¤À¤Ê
+¤ï¤«¤Ã¤¿¡¢¹Ô¤³¤¦¤«
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]¤Ç¤Ï¥»¥ê¥¹ÍÍ¡¢»ä¤¿¤Á¤Ï¤Þ¤¤¤ê¤Þ¤¹
+¤É¤¦¤«¡¢¤ª¸µµ¤¤Ç¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30fa6d
+# @@3403920@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤Þ¤À¤Ê¤Î¡¢
+¤Ï¤ä¤¯¹Ô¤­¤Þ¤·¤ç¤¦¡ª
+
+[TWinBtm][Wait 20][$00$22]¡©
+¤Ê¤ó¤Ç¤­¤ß¤¬¡©
+[Wait 60]
+[TWinTop][dcs]
+°ì¿Í¤Ç¹Ô¤«¤»¤ë¤Î¤Ï²Ä°¥ÁÛ¤À¤«¤é
+°ì½ï¤Ë¹Ô¤Ã¤Æ¤¢¤²¤ë
+¤¢¤ê¤¬¤¿¤¤¤È»×¤¤¤Ê¤µ¤¤
+[TWinBtm][Wait 20]¤Á¤§¡¢¤³¤ì¤À¤«¤é¤Ê¤¡¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30fbe5
+# @@3403923@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥è¥Ï¥ó¤Ã¡¢¤Þ¤¿´¶·ã¤·¤Á¤ã¤Ã¤Æ¤ë¡¢
+¤Þ¤¢¡¢¤½¤ì¤¬¤¢¤Ê¤¿¤Î
+¤¤¤¤¤È¤³¤í¤Ê¤ó¤À¤±¤É¤Í
+[TWinBtm][Wait 20][$00$22]¡¢»ä¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤ï¤è
+»ä¡¢¥è¥Ï¥ó¡¢¹¥¤­¤è
+
+[TWinBtm][Wait 20]¤¢¤¢¡ª  [$00$22]»ä¤Ï¤Ê¤ó¤Æ¹¬¤»¤Ê¤ó¤À¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30fd80
+# @@3403926@@
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢
+¥è¥Ï¥ë¥ô¥¡¤Ï¤Æ¤ì¤Æ¤¤¤ë¤Î
+¤³¤Î¿Í¤ÏÉÔ´ïÍÑ¤À¤«¤é¡¦¡¦¡¦[Wait 60][cs]
+
+[TWinTop]¤Ï¤Ï¤Ï¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤µ
+[$00$22]¤â¡¢¸µµ¤¤Ç¤Í
+¥è¥Ï¥ë¥ô¥¡¤òÍê¤à¤è
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤³¤ó¤Ê¤Ò¤È¡¢
+¤Û¤¦¤Ã¤Æ¤Ï¤ª¤±¤Þ¤»¤ó
+»ä¤¬¤·¤Ã¤«  ¤ê¸«¼é¤ê¤Þ¤¹[Wait 60][dcs]
+¤Ç¤Ï¡¢¥»¥ê¥¹ÍÍ¤â¤ª¸µµ¤¤Ç
+[Wait 60]
+[exit]
+
+
+# 0x30fea1
+# @@3403929@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»Ò¶¡Ã£¤Ï»ä¤Ë¤Þ¤«¤»¤Æ
+¤¢¤Î»Ò¤¿¤Á¤ÎÊìÂå¤ï¤ê¤È¤Ê¤Ã¤Æ
+Î©ÇÉ¤Ë°é¤Æ¤Æ¤ß¤»¤ë¤ï
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢¿´ÇÛ¤·¤Ê¤¤¤Ç
+»ä¤Ï¸É»ùÃ£¤ò
+¼«Ê¬¤Î»Ò¶¡¤À¤È»×¤Ã¤Æ¤¤¤Þ¤¹¡ª[Wait 60]
+[exit]
+
+
+# 0x31fa9b
+# @@3403932@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¥ô¥§¥ë¥È¥Þ£­¤Ë¹Ô¤¯
+
+[TWinBtm][Wait 20][$00$22]¤¬¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤¨¡¢¤¢¤Ê¤¿¤ò°ì¿Í¤Ç¤Ï¹Ô¤«¤»¤Ê¤¤
+[Wait 60][cs]
+»ä¤¿¤ÁÆó¿Í¤Ê¤é¡¢
+¤É¤ó¤Ê¤Ë¿É¤¤¤³¤È¤¬¤¢¤Ã¤Æ¤â¡¢
+¾è¤ê¤³¤¨¤Æ¹Ô¤±¤ë¤ï[Wait 60]
+[exit]
+
+
+# 0x31fd1f
+# @@3403935@@
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢¥ª¥¤¥Õ¥§ÍÍ¤Î¤³¤È¤Ï
+»ä¤Ë¤ª¤Þ¤«¤»²¼¤µ¤¤¡ª
+[Wait 60][cs]
+
+[TWinTop]¤½¤¦¤«¡¦¡¦¡¦[$00$22]¤â
+¥·¥¢¥ë¥Õ¥£¤Ë¹Ô¤Ã¤Æ¤¯¤ì¤ë¤Î¤«
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥ª¥¤¥Õ¥§ÍÍ¤Ë¤ÏµÙÂ©¤¬É¬Í×¤Ç¤¹
+¤·¤Ð¤é¤¯¤Ï¡¢
+¤·¤º¤«¤ËµÙ¤Þ¤»¤Æ¤¢¤²¤¿¤¤¤Î¤Ç¤¹[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤À¤Í¡¢¤­¤ß¤Î¸À¤¦¤È¤ª¤ê¤À
+[$00$22]¡¢¥ª¥¤¥Õ¥§¤òÍê¤ó¤À¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x31fe4b
+# @@3403938@@
+
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop]¤¢¤ì¡©  [$00$22]¡¢
+¤­¤ß¤â¹Ô¤¯¤Î¤«¡©
+
+[TWinBtm][Wait 20]¤¨¤¨¡¢[$00$23]ÍÍ¤È¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤«¡¦¡¦¡¦¤ª¤á¤Ç¤È¤¦
+Æó¿Í¤Î¹¬¤»¤ò¤¤¤Î¤Ã¤Æ¤ë¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x31ff2b
+# @@3403941@@
+¥»¥ê¥¹ÍÍ¡¢
+¤ï¤¿¤·¤â[$00$23]¤È¤È¤â¤Ë
+¥·¥ì¥¸¥¢¤Ë¤Þ¤¤¤ê¤Þ¤¹[Wait 60][cs]
+
+[TWinTop][$00$22]¤â¡©¡¦¡¦¡¦
+¤½¤¦¤«¡¢¤½¤ì¤Ï¤è¤«¤Ã¤¿
+[Wait 60][cs]
+[$00$23]¤ÈÎÏ¤ò¤¢¤ï¤»
+¥·¥ì¥¸¥¢¤Î¿Í¡¹¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1df242
+# @@3403944@@
+[Merge 33f04b]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢»ä¤â¤ªÌò¤ËÎ©¤Æ¤ë¤Ê¤é
+¤É¤ó¤Ê¤³¤È¤À¤Ã¤Æ¤·¤Þ¤¹
+[Wait 60][cs]
+¥æ¥ê¥¢ÍÍ¤ÎÂå¤ï¤ê¤Ï¤Ç¤­¤Ê¤¤¤±¤É
+¥»¥ê¥¹ÍÍ¤Î¤ªÎÏ¤Ë¤Ê¤ê¤¿¤¤¤Î¤Ç¤¹
+[Wait 60][cs]
+
+[TWinTop]¤¢¤ê¤¬¤È¤¦[$00$22]
+º£¤Ï¡¢¤­¤ß¤À¤±¤¬¿´¤Î»Ù¤¨¤À
+[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df2d0
+# @@3403947@@
+[Merge 33eff1]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]ÍÍ¡¢
+¥»¥ê¥¹·»ÍÍ¤ò¤¿¤¹¤±¤Æ¤¢¤²¤Æ¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢´î¤ó¤Ç¡ª
+¤Ç¤â¡¢¥æ¥ê¥¢ÍÍ¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤¿¤·¤Ï¡¦¡¦¡¦¡¢
+¥·¥°¥ë¥ÉÍÍ¤Ø¤Î¤Ä¤°¤Ê¤¤¤ò¤·¤Þ¤¹
+[Wait 60][cs]
+¤½¤ì¤¬¡¢¥Ç¥£¥¢¥É¥éÊìÍÍ¤Î¡¢
+´ê¤¤¤À¤Ã¤¿¤«¤é¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df47e
+# @@3403950@@
+[Merge 33f051]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]¥·¥ã¥Ê¥óÍÍ¤Ï¡¢
+¤Þ¤ë¤ÇÄï¤Ë¤Ç¤âÏÃ¤·¤Æ¤ë¤ß¤¿¤¤
+¥»¥ê¥¹ÍÍ¤Ï¥°¥é¥ó¥Ù¥ë²¦¤Ê¤Î¤Ç¤¹¤è
+[TWinBtm][Wait 20][$00$22]¤«¡¦¡¦¡¦¡¢¤½¤¦¤À¤Ê
+¤³¤ì¤«¤é¤Ï¥»¥ê¥¹²¦¤È¸Æ¤Ð¤Ê¤±¤ì¤Ð¤Ê
+[Wait 60][dcs]
+¤½¤ì¤È¤â
+¹ñ²¦ÊÅ²¼¤È¤Ç¤â¸À¤Ã¤¿Êý¤¬¤è¤¤¤«
+[Wait 60][cs]
+
+[TWinTop]¤´¤á¤ó¤Ê¤µ¤¤¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Ï¥»¥ê¥¹ÍÍ¤È
+Î¥¤ì¤Ð¤Ê¤ì¤Ë¤Ê¤ë¤Î¤¬¿É¤¤¤Î¤Ç¤¹¤Í[Wait 60][cs]
+¤¹¤ß¤Þ¤»¤ó¡¢
+¤¤¤ä¤Ê¤³¤È¤ò¤¤¤Ã¤Æ¤·¤Þ¤Ã¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¥Õ¥Ã¡¢¤¤¤¤¤µ
+¤ª¤Þ¤¨¤Ë¤Ï¤¦¤½¤Ï¤Ä¤±¤Ê¤¤
+[Wait 60]
+[TWinTop][dcs]
+¥·¥ã¥Ê¥óÍÍ¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df648
+# @@3403953@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢Èá¤·¤½¤¦¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Î¤³¤È¤ò
+¤Þ¤ÀËº¤ì¤é¤ì¤Ê¤¤¤Î¤Í
+[TWinBtm][Wait 20]¤½¤ì¤ÏÌµÍý¤À¤è
+¤¢¤ÎÊý¤Ï²¶Ã£·»Ëå¤Ë¤È¤Ã¤Æ¤ÏÉã¿Æ¤âÆ±¤¸¡¢
+Ëº¤ì¤é¤ì¤ë¤â¤Î¤«[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤¬Â¦¤Ë¤¤¤Æ¤â¤À¤á¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦[$00$22]¡¢
+ËÜµ¤¤Ê¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤¨¡¢[$00$23]¤¬¤¤¤¤¤Î¤Ê¤é¡¦¡¦¡¦
+
+[TWinBtm][Wait 60]
+[exit]
+
+
+# 0x1df885
+# @@3403956@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤¦¤ì¤·¤½¤¦¡¢
+¤Ç¤â¤­¤â¤Á¤Ï¤ï¤«¤ë¤ï
+¤ä¤Ã¤È¹ñ¤Ëµ¢¤ì¤ë¤ó¤À¤â¤Î¤Í
+[TWinBtm][Wait 20]¤¢¤¢¡¢[$00$22]¤À¤Ã¤Æ¤½¤¦¤À¤í
+¥¤¥¶£­¥¯¤Ï²¶Ã£¤¬°é¤Ã¤¿¹ñ¤À¤«¤é¤Ê
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤¨¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¤Ï°ì½ï¤Ëµ¢¤Ã¤Æ¤¯¤ì¤ë¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¦¡¦¡¦¤½¤Î¤Ä¤â¤ê¤À¤±¤É
+
+[TWinBtm][Wait 20]¤è¤«¤Ã¤¿¡¢¤½¤ì¤ò¤­¤¤¤Æ°Â¿´¤·¤¿¤è
+[Wait 60]
+[exit]
+
+
+# 0x1df937
+# @@3403959@@
+[Merge 33effd]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤â¤·¤«  ¤·¤Æ¡¢[$00$30]¤ÎÂå¤ï¤ê¡©
+
+[TWinBtm][Wait 20]¤Á¤¬¤¦¡ª  ¤Ü¤¯¤Ï¤­¤ß¤¬¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤´¤á¤ó¡¢¤ï¤«¤Ã¤Æ¤ë¤Î
+»ä¤â¹Ô¤¯¤ï¡¢¥¤¥¶£­¥¯¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x1dfb66
+# @@3403962@@
+[Merge 33f000]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤Ã¡¢¤¤¤¤¤Î¡ª¡©
+»ä¤âÏ¢¤ì¤Æ¤¤¤Ã¤Æ¤¯¤ì¤ë¤Î
+
+[TWinBtm][Wait 20]¤¦¤ó¡ª  ¤­¤ß¤µ¤¨¤è¤±¤ì¤Ð
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@3403965@@
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤ï¤ì¤ë¤Î¤Ç¤¹¤«
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  ¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@3403968@@
+[Merge 33f0bd]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤ï¤ì¤ë¤Î¤Ç¤¹¤«
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  ¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1e00d4
+# @@3403971@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¸µµ¤¤ò¤À¤·¤Æ
+¤¢¤Ê¤¿¤ÏÃË¤Ç¤·¤ç¤¦
+[Wait 60][cs]
+Âç¾æÉ×¤è¡¢
+¤³¤ì¤«¤é¤Ï»ä¤¬ÌÌÅÝ¤ò¤ß¤Æ¤¢¤²¤Þ¤¹
+
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«  ¤ê¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x32fd7a
+# @@3403974@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï²Ä°¦¤¤¤Í
+¤³¤ì¤«¤é¤Ï¡¢»ä¤¬¤¢¤Ê¤¿¤Î
+¤Í¤¨¤µ¤ó¤Ë¤Ê¤Ã¤Æ¤¢¤²¤Þ¤¹
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«  ¤ê¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x330052
+# @@3403977@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¦¡¦¡¦
+¸µµ¤¤ò¤À¤·¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê¡¦¡¦¡¦
+¤¤¤Ä¤Þ¤Ç¤â²ù¤ä¤ó¤Ç¤Ð¤«  ¤ê¤¸¤ã
+¤·¤«¤¿¤Ê¤¤¤·¤Ê[Wait 60]
+[TWinTop][dcs]
+»ä¤Ç¤Ï
+[$00$30]¤ÎÂå¤ï¤ê¤Ë¤Ï¤Ê¤ì¤Ê¤¤¡©
+
+[TWinBtm][Wait 20]¥Ð¥«¤ò¸À¤¦¤Ê¤è
+[$00$22]¤Ï²¶¤ÎÊõÊª¤Ê¤ó¤À¤¼¡ª
+[Wait 60]
+[exit]
+
+
+# 0x33ec1b
+# @@3403980@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï
+¥»¥ê¥¹ÍÍ¤ÈÊÌ¤ì¤ë¤Î¤¬¿É¤¤¤Î¤Í
+
+[TWinBtm][Wait 20]¤½¡¢¤½¤ó¤ÊÌõ¤¸¤ã¤Ê¤¤¤µ¡ª
+[Wait 60]
+[TWinTop][dcs]
+»ä¤¬°ì½ï¤Ë¤¤¤Æ¤â¤À¤á¤Ê¤Î¡©
+¤ä¤Ã¤Ñ¤ê¡¢¤µ¤ß¤·¤¤¤Ç¤¹¤«¡©
+
+[TWinBtm][Wait 20]¤À¤«¤é¤Á¤¬¤¦¤Ã¤Æ¡ª
+²¶¤Ï[$00$22]¤µ¤¨¤¤¤Æ¤¯¤ì¤ì¤Ð
+¤½¤ì¤Ç¤¸¤å¤¦¤Ö¤ó¤µ¡ª[Wait 60]
+[exit]
+
+
+# 0x33ef26
+# @@3403983@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinBtm]¤½¤Î¤¿¤á¤Ë¤Ï¡¢
+[$00$22]¡¢¤ª¤Þ¤¨¤ÎÎÏ¤¬É¬Í×¤À
+²¶¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤[Wait 60][cs]
+
+[TWinTop]¤Ï¤¤¡¢¤â¤Á¤í¤ó¤Ç¤¹
+»ä¤â¥¢¥°¥¹¥È¥ê¥¢¤ÎºÆ·ú¤ò¼êÅÁ¤¤¤Þ¤¹
+[Wait 60][cs]
+Àï²Ð¤Ëßù¤±½Ð¤µ¤ì¤¿
+»Ò¶¡¤äÏ·¿ÍÃ£¤ò¤¿¤¹¤±¡¢
+¤À¤ì¤â¤¬½»¤ß¤ä¤¹¤¤¹ñ¤òºî¤ê¤Þ¤·¤ç¤¦
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê
+¤ª¤Þ¤¨¤È¤Ê¤é¡¢¤¬¤ó¤Ð¤ì¤½¤¦¤À
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3403986@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3403989@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3403992@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3403995@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f3f1
+# @@3403998@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¹Ô¤¯
+
+[TWinBtm][Wait 20]¤À¤á¤À¤è[$00$22]
+Àï¤¤¤Ï¤Þ¤À¤Þ¤ÀÂ³¤¯¡¢´í¸±¤Ê¤ó¤À
+[Wait 60][dcs]
+¤­¤Ã¤È·Þ¤¨¤ËÍè¤ë¤«¤é¡¢
+¤½¤ì¤Þ¤ÇÂÔ¤Ã¤Æ¤¤¤Æ¤Û¤·¤¤
+[Wait 60][cs]
+
+[TWinTop]ÂÔ¤Ã¤Æ¤¤¤ë¤À¤±¤Ê¤ó¤Æ¤¤¤ä¤Ç¤¹
+[Wait 60][cs]
+»ä¤¿¤Á¡¢°ìÅÙ¤Ç¤âÊÌ¤ì¤¿¤é
+¤â¤¦ÆóÅÙ¤È²ñ¤¨¤Ê¤¯¤Ê¤ë¤«¤â
+¤·¤ì¤Ê¤¤¤Ç¤·¤ç¤¦[Wait 60][cs]
+»ä¡¢¥·¥°¥ë¥ÉÍÍ¤È¥Ç¥£¥¢¥É¥éÍÍ¤Î
+¤è¤¦¤Ë¤Ê¤ë¤Î¤Ï¤¤¤ä¤Ç¤¹¡ª
+
+[TWinBtm][Wait 20]¤´¤á¤ó¡¢¤ï¤«¤Ã¤¿¤è¡¢[$00$22]
+°ì½ï¤Ë¹Ô¤³¤¦¡¢¥ô¥§¥ë¥À¥ó¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x30f5fa
+# @@3404001@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥Õ¥¡¥Ð¥ë¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦¤Ê¤ó¤À¤Ã¤±¡©
+[Wait 60]
+[TWinTop][dcs]
+¤Þ¤µ¤«¡¦¡¦¡¦Ëº¤ì¤¿¤ó¤¸¤ã¤Ê¤¤¤Ç¤·¤ç¤¦¤Í
+
+[TWinBtm][Wait 20]¤¢¡¢¤¸¤ç¡¢¾éÃÌ¤µ
+¤½¤ó¤Ê¶²¤¤´é¤ò¤¹¤ë¤Ê¤è¡¢¤´¤á¤ó
+[Wait 60]
+[TWinTop][dcs]
+¤â¤¦¤Ã¡¢ÃÎ¤ê¤Þ¤»¤ó¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f798
+# @@3404004@@
+[Merge 33f087]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ì¥¹¥¿£­¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¡¢¤ª¤Ü¤¨¤Æ¤ë¤è
+[Wait 60]
+[TWinTop][dcs]
+¤è¤í¤·¤¤¡¢¤½¤ì¤Ç¤³¤½¥ì¥¹¥¿£­¤Í
+
+[TWinBtm][Wait 20][$00$22]¤Ï¶²¤¤¤«¤é¤Í
+[Wait 60]
+[TWinTop][dcs]
+¤¢¤Ã¡¢¸À¤Ã¤¿¤ï¤Í¡¢¤Õ¤Õ¤Ã¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f84e
+# @@3404007@@
+[Merge 33f08a]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¤â¡¦¡¦¡¦
+¥ì¥¹¥¿£­¤ÈÃçÎÉ¤¯¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ
+¤³¤ì¤«  ¤é¤â¤è¤í¤·¤¯¤ª¤Í¤¬¤¤¤·¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f8ff
+# @@3404010@@
+[Merge 33f08d]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤â¤¦¤¤¤¤¤Ç¤·¤ç¤¦
+¥»¥ê¥¹ÍÍ¤â¤ª¤Ä¤«¤ì¤Î¤è¤¦¤À¤«¤é
+
+[TWinBtm][Wait 20][$00$22]¡¢¤½¤¦¤À¤Ê
+¤ï¤«¤Ã¤¿¡¢¹Ô¤³¤¦¤«
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]¤Ç¤Ï¥»¥ê¥¹ÍÍ¡¢»ä¤¿¤Á¤Ï¤Þ¤¤¤ê¤Þ¤¹
+¤É¤¦¤«¡¢¤ª¸µµ¤¤Ç¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30faf1
+# @@3404013@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤Þ¤À¤Ç¤¹¤«¡¢
+¤â¤¦¤½¤í¤½¤í¹Ô¤«¤Ê¤¤¤È¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡©
+¤Ê¤ó¤Ç¤­¤ß¤¬¡©
+[Wait 60]
+[TWinTop][dcs]
+»ä¤â°ì½ï¤Ë¹Ô¤­¤Þ¤¹
+¤¢¤Ê¤¿¤Î»ö¤¬¿´ÇÛ¤À¤«¤é¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤½¤¦¤«¡¢¤¢¤ê¤¬¤È¤¦[$00$22]¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30fc6c
+# @@3404016@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥è¥Ï¥ó¤Ï´¶·ã¤·¤Æ¤¤¤ë¤Î¤Í
+¤Õ¤Õ¤Ã¡¢¤¢¤Ê¤¿¤é¤·¤¤¤ï
+
+[TWinBtm][Wait 20][$00$22]¡¢»ä¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤«¤Ã¤Æ¤¤¤Þ¤¹
+¤¢¤Ê¤¿¤Î¤­¤â¤Á¤Ï¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤¢¤¢¡ª  [$00$22]
+»ä¤Ï¤Ê¤ó¤Æ¹¬¤»¤Ê¤ó¤À¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30fd80
+# @@3404019@@
+[Merge 33f096]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢
+¥è¥Ï¥ë¥ô¥¡¤Ï¤Æ¤ì¤Æ¤¤¤ë¤Î
+¤³¤Î¿Í¤ÏÉÔ´ïÍÑ¤À¤«¤é¡¦¡¦¡¦[Wait 60][cs]
+
+[TWinTop]¤Ï¤Ï¤Ï¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤µ
+[$00$22]¤â¡¢¸µµ¤¤Ç¤Í
+¥è¥Ï¥ë¥ô¥¡¤òÍê¤à¤è
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤³¤ó¤Ê¤Ò¤È¡¢
+¤Û¤¦¤Ã¤Æ¤Ï¤ª¤±¤Þ¤»¤ó
+»ä¤¬¤·¤Ã¤«  ¤ê¸«¼é¤ê¤Þ¤¹[Wait 60][dcs]
+¤Ç¤Ï¡¢¥»¥ê¥¹ÍÍ¤â¤ª¸µµ¤¤Ç
+[Wait 60]
+[exit]
+
+
+# 0x30ff27
+# @@3404022@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ÍÍ¡¢»ä¤Ï¸É»ùÃ£¤òµß¤¤¤Þ¤¹
+¤¢¤Î»Ò¤¿¤Á¤ÎÊìÂå¤ï¤ê¤È¤Ê¤Ã¤Æ
+Î©ÇÉ¤Ë°é¤Æ¤Æ¤ß¤»¤Þ¤¹¤«¤é
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¿´ÇÛ¤·¤Ê¤¤¤Ç¡¦¡¦¡¦
+»ä¤Ï¤¢¤Î»Ò¤¿¤Á¤ò
+¼«Ê¬¤Î»Ò¶¡¤À¤È»×¤Ã¤Æ¤¤¤Þ¤¹[Wait 60]
+[exit]
+
+
+# 0x31fb15
+# @@3404025@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¥ô¥§¥ë¥È¥Þ£­¤Ë¹Ô¤¯
+
+[TWinBtm][Wait 20][$00$22]¤¬¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤¨¡¢¤¢¤Ê¤¿¤ò°ì¿Í¤Ç¤Ï¹Ô¤«¤»¤Þ¤»¤ó
+»ä¤¿¤ÁÆó¿Í¤Ê¤é¡¢¤É¤ó¤Ê¤Ë¿É¤¤¤³¤È¤Ç¤â
+¤¬¤Þ¤ó¤Ç¤­¤ë¤Ï¤º¤Ç¤¹¡ª[Wait 60]
+[exit]
+
+
+# 0x31fd1f
+# @@3404028@@
+[Merge 33f09f]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢¥ª¥¤¥Õ¥§ÍÍ¤Î¤³¤È¤Ï
+»ä¤Ë¤ª¤Þ¤«¤»²¼¤µ¤¤¡ª
+[Wait 60][cs]
+
+[TWinTop]¤½¤¦¤«¡¦¡¦¡¦[$00$22]¤â
+¥·¥¢¥ë¥Õ¥£¤Ë¹Ô¤Ã¤Æ¤¯¤ì¤ë¤Î¤«
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥ª¥¤¥Õ¥§ÍÍ¤Ë¤ÏµÙÂ©¤¬É¬Í×¤Ç¤¹
+¤·¤Ð¤é¤¯¤Ï¡¢
+¤·¤º¤«¤ËµÙ¤Þ¤»¤Æ¤¢¤²¤¿¤¤¤Î¤Ç¤¹[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤À¤Í¡¢¤­¤ß¤Î¸À¤¦¤È¤ª¤ê¤À
+[$00$22]¡¢¥ª¥¤¥Õ¥§¤òÍê¤ó¤À¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x31fe4b
+# @@3404031@@
+[Merge 33f0a2]
+
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop]¤¢¤ì¡©  [$00$22]¡¢
+¤­¤ß¤â¹Ô¤¯¤Î¤«¡©
+
+[TWinBtm][Wait 20]¤¨¤¨¡¢[$00$23]ÍÍ¤È¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤«¡¦¡¦¡¦¤ª¤á¤Ç¤È¤¦
+Æó¿Í¤Î¹¬¤»¤ò¤¤¤Î¤Ã¤Æ¤ë¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x31ff2b
+# @@3404034@@
+[Merge 33f0a5]
+¥»¥ê¥¹ÍÍ¡¢
+¤ï¤¿¤·¤â[$00$23]¤È¤È¤â¤Ë
+¥·¥ì¥¸¥¢¤Ë¤Þ¤¤¤ê¤Þ¤¹[Wait 60][cs]
+
+[TWinTop][$00$22]¤â¡©¡¦¡¦¡¦
+¤½¤¦¤«¡¢¤½¤ì¤Ï¤è¤«¤Ã¤¿
+[Wait 60][cs]
+[$00$23]¤ÈÎÏ¤ò¤¢¤ï¤»
+¥·¥ì¥¸¥¢¤Î¿Í¡¹¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1df242
+# @@3404037@@
+[Merge 33f04b]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢»ä¤â¤ªÌò¤ËÎ©¤Æ¤ë¤Ê¤é
+¤É¤ó¤Ê¤³¤È¤À¤Ã¤Æ¤·¤Þ¤¹
+[Wait 60][cs]
+¥æ¥ê¥¢ÍÍ¤ÎÂå¤ï¤ê¤Ï¤Ç¤­¤Ê¤¤¤±¤É
+¥»¥ê¥¹ÍÍ¤Î¤ªÎÏ¤Ë¤Ê¤ê¤¿¤¤¤Î¤Ç¤¹
+[Wait 60][cs]
+
+[TWinTop]¤¢¤ê¤¬¤È¤¦[$00$22]
+º£¤Ï¡¢¤­¤ß¤À¤±¤¬¿´¤Î»Ù¤¨¤À
+[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df2d0
+# @@3404040@@
+[Merge 33eff1]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]ÍÍ¡¢
+¥»¥ê¥¹·»ÍÍ¤ò¤¿¤¹¤±¤Æ¤¢¤²¤Æ¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢´î¤ó¤Ç¡ª
+¤Ç¤â¡¢¥æ¥ê¥¢ÍÍ¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤¿¤·¤Ï¡¦¡¦¡¦¡¢
+¥·¥°¥ë¥ÉÍÍ¤Ø¤Î¤Ä¤°¤Ê¤¤¤ò¤·¤Þ¤¹
+[Wait 60][cs]
+¤½¤ì¤¬¡¢¥Ç¥£¥¢¥É¥éÊìÍÍ¤Î¡¢
+´ê¤¤¤À¤Ã¤¿¤«¤é¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df47e
+# @@3404043@@
+[Merge 33f051]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]¥·¥ã¥Ê¥óÍÍ¤Ï¡¢
+¤Þ¤ë¤ÇÄï¤Ë¤Ç¤âÏÃ¤·¤Æ¤ë¤ß¤¿¤¤
+¥»¥ê¥¹ÍÍ¤Ï¥°¥é¥ó¥Ù¥ë²¦¤Ê¤Î¤Ç¤¹¤è
+[TWinBtm][Wait 20][$00$22]¤«¡¦¡¦¡¦¡¢¤½¤¦¤À¤Ê
+¤³¤ì¤«¤é¤Ï¥»¥ê¥¹²¦¤È¸Æ¤Ð¤Ê¤±¤ì¤Ð¤Ê
+[Wait 60][dcs]
+¤½¤ì¤È¤â
+¹ñ²¦ÊÅ²¼¤È¤Ç¤â¸À¤Ã¤¿Êý¤¬¤è¤¤¤«
+[Wait 60][cs]
+
+[TWinTop]¤´¤á¤ó¤Ê¤µ¤¤¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Ï¥»¥ê¥¹ÍÍ¤È
+Î¥¤ì¤Ð¤Ê¤ì¤Ë¤Ê¤ë¤Î¤¬¿É¤¤¤Î¤Ç¤¹¤Í[Wait 60][cs]
+¤¹¤ß¤Þ¤»¤ó¡¢
+¤¤¤ä¤Ê¤³¤È¤ò¤¤¤Ã¤Æ¤·¤Þ¤Ã¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¥Õ¥Ã¡¢¤¤¤¤¤µ
+¤ª¤Þ¤¨¤Ë¤Ï¤¦¤½¤Ï¤Ä¤±¤Ê¤¤
+[Wait 60]
+[TWinTop][dcs]
+¥·¥ã¥Ê¥óÍÍ¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df648
+# @@3404046@@
+[Merge 33f0b1]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢Èá¤·¤½¤¦¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Î¤³¤È¤ò
+¤Þ¤ÀËº¤ì¤é¤ì¤Ê¤¤¤Î¤Í
+[TWinBtm][Wait 20]¤½¤ì¤ÏÌµÍý¤À¤è
+¤¢¤ÎÊý¤Ï²¶Ã£·»Ëå¤Ë¤È¤Ã¤Æ¤ÏÉã¿Æ¤âÆ±¤¸¡¢
+Ëº¤ì¤é¤ì¤ë¤â¤Î¤«[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤¬Â¦¤Ë¤¤¤Æ¤â¤À¤á¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦[$00$22]¡¢
+ËÜµ¤¤Ê¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤¨¡¢[$00$23]¤¬¤¤¤¤¤Î¤Ê¤é¡¦¡¦¡¦
+
+[TWinBtm][Wait 60]
+[exit]
+
+
+# 0x1df7b7
+# @@3404049@@
+[Merge 33effa]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤¦¤ì¤·¤½¤¦¤Í¡¢
+¹ñ¤ËÌá¤ì¤ë¤Î¤¬¤½¤ó¤Ê¤Ë¤¤¤¤¤Î
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤¿¤ê¤Þ¤¨¤µ
+¼«Ê¬¤Î°é¤Ã¤¿¹ñ¤À¤â¤Î
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤è¤ê¤â¡©
+
+[TWinBtm][Wait 20]¤¨¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Í¡¢[$00$23]¡¢
+»ä¤â¡¢¤¤¤Ã¤·¤ç¤Ë¹Ô¤Ã¤Æ¤¤¤¤¡©
+
+[TWinBtm][Wait 20]¥¤¥¶£­¥¯¤Ë¡©  ¤­¤ß¤¬¡©
+°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤È¸À¤¦¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤ê¤¬¤È¤¦
+[Wait 60]
+[exit]
+
+
+# 0x1df9ea
+# @@3404052@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤â¤·¤«  ¤·¤Æ¡¢[$00$30]¤ÎÂå¤ï¤ê¡©
+
+[TWinBtm][Wait 20]¤Á¤¬¤¦¡ª  ¤Ü¤¯¤Ï¤­¤ß¤¬¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤´¤á¤ó¤Ê¤µ¤¤¡¢¤ï¤«¤Ã¤Æ¤ë
+»ä¤â¹Ô¤¯¤ï¡¢¥¤¥¶£­¥¯¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x1dfbfc
+# @@3404055@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤Ã¡¢¤¤¤¤¤Î¡ª¡©
+»ä¤âÏ¢¤ì¤Æ¤¤¤Ã¤Æ¤¯¤ì¤ë¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤¦¤ó¡ª  ¤­¤ß¤µ¤¨¤è¤±¤ì¤Ð
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@3404058@@
+[Merge 33f0bd]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤ï¤ì¤ë¤Î¤Ç¤¹¤«
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  ¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@3404061@@
+[Merge 33f0bd]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤ï¤ì¤ë¤Î¤Ç¤¹¤«
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  ¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1e00d4
+# @@3404064@@
+[Merge 33f0c3]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¸µµ¤¤ò¤À¤·¤Æ
+¤¢¤Ê¤¿¤ÏÃË¤Ç¤·¤ç¤¦
+[Wait 60][cs]
+Âç¾æÉ×¤è¡¢
+¤³¤ì¤«¤é¤Ï»ä¤¬ÌÌÅÝ¤ò¤ß¤Æ¤¢¤²¤Þ¤¹
+
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«  ¤ê¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x32fdf3
+# @@3404067@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï²Ä°¦¤¤¤Í
+¤³¤ì¤«¤é¤Ï
+»ä¤¬¤¢¤Ê¤¿¤ÎËå¤µ¤ó¤Ë¤Ê¤Ã¤Æ¤¢¤²¤ë¤ï
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«¤ë¤«¤é
+[Wait 60]
+[exit]
+
+
+# 0x330052
+# @@3404070@@
+[Merge 33f0c9]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¦¡¦¡¦
+¸µµ¤¤ò¤À¤·¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê¡¦¡¦¡¦
+¤¤¤Ä¤Þ¤Ç¤â²ù¤ä¤ó¤Ç¤Ð¤«  ¤ê¤¸¤ã
+¤·¤«¤¿¤Ê¤¤¤·¤Ê[Wait 60]
+[TWinTop][dcs]
+»ä¤Ç¤Ï
+[$00$30]¤ÎÂå¤ï¤ê¤Ë¤Ï¤Ê¤ì¤Ê¤¤¡©
+
+[TWinBtm][Wait 20]¥Ð¥«¤ò¸À¤¦¤Ê¤è
+[$00$22]¤Ï²¶¤ÎÊõÊª¤Ê¤ó¤À¤¼¡ª
+[Wait 60]
+[exit]
+
+
+# 0x33eca4
+# @@3404073@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï
+¥»¥ê¥¹ÍÍ¤ÈÊÌ¤ì¤ë¤Î¤¬¿É¤¤¤Î¤Í
+
+[TWinBtm][Wait 20]¤½¡¢¤½¤ó¤ÊÌõ¤¸¤ã¤Ê¤¤¤µ¡ª
+[Wait 60]
+[TWinTop][dcs]
+»ä¤¬°ì½ï¤Ë¤¤¤Æ¤â¤À¤á¤Ê¤Î¡©
+¤ä¤Ã¤Ñ¤ê¡¢¤µ¤ß¤·¤¤¡©
+
+[TWinBtm][Wait 20]¤À¤«¤é¤Á¤¬¤¦¤Ã¤Æ¡ª
+²¶¤Ï[$00$22]¤µ¤¨¤¤¤Æ¤¯¤ì¤ì¤Ð
+¤½¤ì¤Ç¤¸¤å¤¦¤Ö¤ó¤µ¡ª[Wait 60]
+[TWinTop][dcs]
+[$00$23]¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x33ef26
+# @@3404076@@
+[Merge 33f0cf]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinBtm]¤½¤Î¤¿¤á¤Ë¤Ï¡¢
+[$00$22]¡¢¤ª¤Þ¤¨¤ÎÎÏ¤¬É¬Í×¤À
+²¶¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤[Wait 60][cs]
+
+[TWinTop]¤Ï¤¤¡¢¤â¤Á¤í¤ó¤Ç¤¹
+»ä¤â¥¢¥°¥¹¥È¥ê¥¢¤ÎºÆ·ú¤ò¼êÅÁ¤¤¤Þ¤¹
+[Wait 60][cs]
+Àï²Ð¤Ëßù¤±½Ð¤µ¤ì¤¿
+»Ò¶¡¤äÏ·¿ÍÃ£¤ò¤¿¤¹¤±¡¢
+¤À¤ì¤â¤¬½»¤ß¤ä¤¹¤¤¹ñ¤òºî¤ê¤Þ¤·¤ç¤¦
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê
+¤ª¤Þ¤¨¤È¤Ê¤é¡¢¤¬¤ó¤Ð¤ì¤½¤¦¤À
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3404079@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3404082@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3404085@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3404088@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f3f1
+# @@3404091@@
+[Merge 33f0de]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¹Ô¤¯
+
+[TWinBtm][Wait 20]¤À¤á¤À¤è[$00$22]
+Àï¤¤¤Ï¤Þ¤À¤Þ¤ÀÂ³¤¯¡¢´í¸±¤Ê¤ó¤À
+[Wait 60][dcs]
+¤­¤Ã¤È·Þ¤¨¤ËÍè¤ë¤«¤é¡¢
+¤½¤ì¤Þ¤ÇÂÔ¤Ã¤Æ¤¤¤Æ¤Û¤·¤¤
+[Wait 60][cs]
+
+[TWinTop]ÂÔ¤Ã¤Æ¤¤¤ë¤À¤±¤Ê¤ó¤Æ¤¤¤ä¤Ç¤¹
+[Wait 60][cs]
+»ä¤¿¤Á¡¢°ìÅÙ¤Ç¤âÊÌ¤ì¤¿¤é
+¤â¤¦ÆóÅÙ¤È²ñ¤¨¤Ê¤¯¤Ê¤ë¤«¤â
+¤·¤ì¤Ê¤¤¤Ç¤·¤ç¤¦[Wait 60][cs]
+»ä¡¢¥·¥°¥ë¥ÉÍÍ¤È¥Ç¥£¥¢¥É¥éÍÍ¤Î
+¤è¤¦¤Ë¤Ê¤ë¤Î¤Ï¤¤¤ä¤Ç¤¹¡ª
+
+[TWinBtm][Wait 20]¤´¤á¤ó¡¢¤ï¤«¤Ã¤¿¤è¡¢[$00$22]
+°ì½ï¤Ë¹Ô¤³¤¦¡¢¥ô¥§¥ë¥À¥ó¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x30f686
+# @@3404094@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥Õ¥¡¥Ð¥ë¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦¤Ê¤ó¤À¤Ã¤±¡©
+[Wait 60]
+[TWinTop][dcs]
+¤Þ¤µ¤«¡¦¡¦¡¦Ëº¤ì¤¿¤ó¤¸¤ã¤Ê¤¤¤Ç¤·¤ç¤¦¤Í
+
+[TWinBtm][Wait 20]¤¢¡¢¤¸¤ç¡¢¾éÃÌ¤µ
+¤½¤ó¤Ê¶²¤¤´é¤ò¤¹¤ë¤Ê¤è¡¢¤´¤á¤ó
+[Wait 60]
+[TWinTop][dcs]
+¤â¤¦¤Ã¡¢ÃÎ¤é¤Ê¤¤¤«¤é¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f798
+# @@3404097@@
+[Merge 33f087]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ì¥¹¥¿£­¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¡¢¤ª¤Ü¤¨¤Æ¤ë¤è
+[Wait 60]
+[TWinTop][dcs]
+¤è¤í¤·¤¤¡¢¤½¤ì¤Ç¤³¤½¥ì¥¹¥¿£­¤Í
+
+[TWinBtm][Wait 20][$00$22]¤Ï¶²¤¤¤«¤é¤Í
+[Wait 60]
+[TWinTop][dcs]
+¤¢¤Ã¡¢¸À¤Ã¤¿¤ï¤Í¡¢¤Õ¤Õ¤Ã¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f84e
+# @@3404100@@
+[Merge 33f08a]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¤â¡¦¡¦¡¦
+¥ì¥¹¥¿£­¤ÈÃçÎÉ¤¯¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ
+¤³¤ì¤«  ¤é¤â¤è¤í¤·¤¯¤ª¤Í¤¬¤¤¤·¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f979
+# @@3404103@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤â¤¦¤¤¤¤¤Ç¤·¤ç¤¦
+¥»¥ê¥¹ÍÍ¤â¤ª¤Ä¤«¤ì¤Î¤è¤¦¤À¤«¤é
+
+[TWinBtm][Wait 20][$00$22]¡¢¤½¤¦¤À¤Ê
+¤ï¤«¤Ã¤¿¡¢¹Ô¤³¤¦¤«
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]¤Ç¤Ï¥»¥ê¥¹ÍÍ¡¢»ä¤¿¤Á¤Ï¹Ô¤­¤Þ¤¹
+¤É¤¦¤«¡¢¤ª¸µµ¤¤Ç¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30faf1
+# @@3404106@@
+[Merge 33f0ed]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤Þ¤À¤Ç¤¹¤«¡¢
+¤â¤¦¤½¤í¤½¤í¹Ô¤«¤Ê¤¤¤È¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡©
+¤Ê¤ó¤Ç¤­¤ß¤¬¡©
+[Wait 60]
+[TWinTop][dcs]
+»ä¤â°ì½ï¤Ë¹Ô¤­¤Þ¤¹
+¤¢¤Ê¤¿¤Î»ö¤¬¿´ÇÛ¤À¤«¤é¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤½¤¦¤«¡¢¤¢¤ê¤¬¤È¤¦[$00$22]¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30fc6c
+# @@3404109@@
+[Merge 33f0f0]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥è¥Ï¥ó¤Ï´¶·ã¤·¤Æ¤¤¤ë¤Î¤Í
+¤Õ¤Õ¤Ã¡¢¤¢¤Ê¤¿¤é¤·¤¤¤ï
+
+[TWinBtm][Wait 20][$00$22]¡¢»ä¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤«¤Ã¤Æ¤¤¤Þ¤¹
+¤¢¤Ê¤¿¤Î¤­¤â¤Á¤Ï¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤¢¤¢¡ª  [$00$22]
+»ä¤Ï¤Ê¤ó¤Æ¹¬¤»¤Ê¤ó¤À¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30fd80
+# @@3404112@@
+[Merge 33f096]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢
+¥è¥Ï¥ë¥ô¥¡¤Ï¤Æ¤ì¤Æ¤¤¤ë¤Î
+¤³¤Î¿Í¤ÏÉÔ´ïÍÑ¤À¤«¤é¡¦¡¦¡¦[Wait 60][cs]
+
+[TWinTop]¤Ï¤Ï¤Ï¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤µ
+[$00$22]¤â¡¢¸µµ¤¤Ç¤Í
+¥è¥Ï¥ë¥ô¥¡¤òÍê¤à¤è
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤³¤ó¤Ê¤Ò¤È¡¢
+¤Û¤¦¤Ã¤Æ¤Ï¤ª¤±¤Þ¤»¤ó
+»ä¤¬¤·¤Ã¤«  ¤ê¸«¼é¤ê¤Þ¤¹[Wait 60][dcs]
+¤Ç¤Ï¡¢¥»¥ê¥¹ÍÍ¤â¤ª¸µµ¤¤Ç
+[Wait 60]
+[exit]
+
+
+# 0x30ffb0
+# @@3404115@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]»ä¤Ï¸É»ùÃ£¤òµß¤¤¤Þ¤¹
+¤¢¤Î»Ò¤¿¤Á¤ÎÊìÂå¤ï¤ê¤È¤Ê¤Ã¤Æ
+Î©ÇÉ¤Ë°é¤Æ¤Æ¤ß¤»¤Þ¤¹
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]¡¢¿´ÇÛ¤·¤Ê¤¤¤Ç
+»ä¤Ï¤¢¤Î»Ò¤¿¤Á¤ò
+¼«Ê¬¤Î»Ò¶¡¤À¤È»×¤Ã¤Æ¤¤¤Þ¤¹[Wait 60]
+[exit]
+
+
+# 0x31fb85
+# @@3404118@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¥ô¥§¥ë¥È¥Þ£­¤Ë¹Ô¤¯
+
+[TWinBtm][Wait 20][$00$22]¤¬¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¢¤¢¤Ê¤¿°ì¿Í¤ò¹Ô¤«¤»¤Ê¤¤¡ª
+»ä¤¿¤ÁÆó¿Í¤Ê¤é¡¢¤É¤ó¤Ê¤Ë¿É¤¤¤³¤È¤Ç¤â
+¤¬¤Þ¤ó¤Ç¤­¤ë¤Ç¤·¤ç[Wait 60]
+[exit]
+
+
+# 0x31fd1f
+# @@3404121@@
+[Merge 33f09f]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢¥ª¥¤¥Õ¥§ÍÍ¤Î¤³¤È¤Ï
+»ä¤Ë¤ª¤Þ¤«¤»²¼¤µ¤¤¡ª
+[Wait 60][cs]
+
+[TWinTop]¤½¤¦¤«¡¦¡¦¡¦[$00$22]¤â
+¥·¥¢¥ë¥Õ¥£¤Ë¹Ô¤Ã¤Æ¤¯¤ì¤ë¤Î¤«
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥ª¥¤¥Õ¥§ÍÍ¤Ë¤ÏµÙÂ©¤¬É¬Í×¤Ç¤¹
+¤·¤Ð¤é¤¯¤Ï¡¢
+¤·¤º¤«¤ËµÙ¤Þ¤»¤Æ¤¢¤²¤¿¤¤¤Î¤Ç¤¹[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤À¤Í¡¢¤­¤ß¤Î¸À¤¦¤È¤ª¤ê¤À
+[$00$22]¡¢¥ª¥¤¥Õ¥§¤òÍê¤ó¤À¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x31fe4b
+# @@3404124@@
+[Merge 33f0a2]
+
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop]¤¢¤ì¡©  [$00$22]¡¢
+¤­¤ß¤â¹Ô¤¯¤Î¤«¡©
+
+[TWinBtm][Wait 20]¤¨¤¨¡¢[$00$23]ÍÍ¤È¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤«¡¦¡¦¡¦¤ª¤á¤Ç¤È¤¦
+Æó¿Í¤Î¹¬¤»¤ò¤¤¤Î¤Ã¤Æ¤ë¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x31ff2b
+# @@3404127@@
+[Merge 33f0a5]
+¥»¥ê¥¹ÍÍ¡¢
+¤ï¤¿¤·¤â[$00$23]¤È¤È¤â¤Ë
+¥·¥ì¥¸¥¢¤Ë¤Þ¤¤¤ê¤Þ¤¹[Wait 60][cs]
+
+[TWinTop][$00$22]¤â¡©¡¦¡¦¡¦
+¤½¤¦¤«¡¢¤½¤ì¤Ï¤è¤«¤Ã¤¿
+[Wait 60][cs]
+[$00$23]¤ÈÎÏ¤ò¤¢¤ï¤»
+¥·¥ì¥¸¥¢¤Î¿Í¡¹¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1df242
+# @@3404130@@
+[Merge 33f04b]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢»ä¤â¤ªÌò¤ËÎ©¤Æ¤ë¤Ê¤é
+¤É¤ó¤Ê¤³¤È¤À¤Ã¤Æ¤·¤Þ¤¹
+[Wait 60][cs]
+¥æ¥ê¥¢ÍÍ¤ÎÂå¤ï¤ê¤Ï¤Ç¤­¤Ê¤¤¤±¤É
+¥»¥ê¥¹ÍÍ¤Î¤ªÎÏ¤Ë¤Ê¤ê¤¿¤¤¤Î¤Ç¤¹
+[Wait 60][cs]
+
+[TWinTop]¤¢¤ê¤¬¤È¤¦[$00$22]
+º£¤Ï¡¢¤­¤ß¤À¤±¤¬¿´¤Î»Ù¤¨¤À
+[Wait 60][cs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[exit]
+
+
+# 0x1df2d0
+# @@3404133@@
+[Merge 33eff1]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]ÍÍ¡¢
+¥»¥ê¥¹·»ÍÍ¤ò¤¿¤¹¤±¤Æ¤¢¤²¤Æ¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢´î¤ó¤Ç¡ª
+¤Ç¤â¡¢¥æ¥ê¥¢ÍÍ¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤¿¤·¤Ï¡¦¡¦¡¦¡¢
+¥·¥°¥ë¥ÉÍÍ¤Ø¤Î¤Ä¤°¤Ê¤¤¤ò¤·¤Þ¤¹
+[Wait 60][cs]
+¤½¤ì¤¬¡¢¥Ç¥£¥¢¥É¥éÊìÍÍ¤Î¡¢
+´ê¤¤¤À¤Ã¤¿¤«¤é¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinBtm][DlgCls][xChr][Wait 20]
+[TWinBtm][DlgOpn]['Levin' 0280]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df47e
+# @@3404136@@
+[Merge 33f051]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]¥·¥ã¥Ê¥óÍÍ¤Ï¡¢
+¤Þ¤ë¤ÇÄï¤Ë¤Ç¤âÏÃ¤·¤Æ¤ë¤ß¤¿¤¤
+¥»¥ê¥¹ÍÍ¤Ï¥°¥é¥ó¥Ù¥ë²¦¤Ê¤Î¤Ç¤¹¤è
+[TWinBtm][Wait 20][$00$22]¤«¡¦¡¦¡¦¡¢¤½¤¦¤À¤Ê
+¤³¤ì¤«¤é¤Ï¥»¥ê¥¹²¦¤È¸Æ¤Ð¤Ê¤±¤ì¤Ð¤Ê
+[Wait 60][dcs]
+¤½¤ì¤È¤â
+¹ñ²¦ÊÅ²¼¤È¤Ç¤â¸À¤Ã¤¿Êý¤¬¤è¤¤¤«
+[Wait 60][cs]
+
+[TWinTop]¤´¤á¤ó¤Ê¤µ¤¤¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Ï¥»¥ê¥¹ÍÍ¤È
+Î¥¤ì¤Ð¤Ê¤ì¤Ë¤Ê¤ë¤Î¤¬¿É¤¤¤Î¤Ç¤¹¤Í[Wait 60][cs]
+¤¹¤ß¤Þ¤»¤ó¡¢
+¤¤¤ä¤Ê¤³¤È¤ò¤¤¤Ã¤Æ¤·¤Þ¤Ã¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¥Õ¥Ã¡¢¤¤¤¤¤µ
+¤ª¤Þ¤¨¤Ë¤Ï¤¦¤½¤Ï¤Ä¤±¤Ê¤¤
+[Wait 60]
+[TWinTop][dcs]
+¥·¥ã¥Ê¥óÍÍ¡¦¡¦¡¦
+[Wait 60][cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['Celice' 0019]
+[exit]
+
+
+# 0x1df6ff
+# @@3404139@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤ÏÈá¤·¤½¤¦¤Í¡¦¡¦¡¦
+¥·¥ã¥Ê¥óÍÍ¤Î¤³¤È¤ò
+¤Þ¤ÀËº¤ì¤é¤ì¤Ê¤¤¤Î¤Í
+[TWinBtm][Wait 20]¤½¤ì¤ÏÌµÍý¤À¤è
+¤¢¤ÎÊý¤Ï²¶Ã£·»Ëå¤Ë¤È¤Ã¤Æ¤ÏÉã¿Æ¤âÆ±¤¸¡¢
+Ëº¤ì¤é¤ì¤ë¤â¤Î¤«[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤¬Â¦¤Ë¤¤¤Æ¤â¤À¤á¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦[$00$22]¡¢
+ËÜµ¤¤Ê¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤¨¡¢[$00$23]¤¬¤¤¤¤¤Î¤Ê¤é¡¦¡¦¡¦
+
+[TWinBtm][Wait 60]
+[exit]
+
+
+# 0x1df7b7
+# @@3404142@@
+[Merge 33effa]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤¦¤ì¤·¤½¤¦¤Í¡¢
+¹ñ¤ËÌá¤ì¤ë¤Î¤¬¤½¤ó¤Ê¤Ë¤¤¤¤¤Î
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤¿¤ê¤Þ¤¨¤µ
+¼«Ê¬¤Î°é¤Ã¤¿¹ñ¤À¤â¤Î
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¡¦¡¦¡¦»ä¤è¤ê¤â¡©
+
+[TWinBtm][Wait 20]¤¨¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Í¡¢[$00$23]¡¢
+»ä¤â¡¢¤¤¤Ã¤·¤ç¤Ë¹Ô¤Ã¤Æ¤¤¤¤¡©
+
+[TWinBtm][Wait 20]¥¤¥¶£­¥¯¤Ë¡©  ¤­¤ß¤¬¡©
+°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤È¸À¤¦¤Î¤«¡©
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¢¤ê¤¬¤È¤¦
+[Wait 60]
+[exit]
+
+
+# 0x1df9ea
+# @@3404145@@
+[Merge 33f114]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤â¤·¤«  ¤·¤Æ¡¢[$00$30]¤ÎÂå¤ï¤ê¡©
+
+[TWinBtm][Wait 20]¤Á¤¬¤¦¡ª  ¤Ü¤¯¤Ï¤­¤ß¤¬¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤´¤á¤ó¤Ê¤µ¤¤¡¢¤ï¤«¤Ã¤Æ¤ë
+»ä¤â¹Ô¤¯¤ï¡¢¥¤¥¶£­¥¯¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x1dfb66
+# @@3404148@@
+[Merge 33f000]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¥¤¥¶£­¥¯¤Øµ¢¤ë¤Î¡©
+
+[TWinBtm][Wait 20]¤¦¤ó¡¢¤½¤Î¤Ä¤â¤ê¤À¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤Õ£­¤ó¡¢¤½¤¦¤Ê¤Î¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡¢¤¿¤Î¤ß¤¬¤¢¤ë
+¤Ü¤¯¤È°ì½ï¤ËÍè¤Æ¤Û¤·¤¤
+[Wait 60]
+[TWinTop][dcs]
+¤¨¤Ã¡¢¤¤¤¤¤Î¡ª¡©
+»ä¤âÏ¢¤ì¤Æ¤¤¤Ã¤Æ¤¯¤ì¤ë¤Î
+
+[TWinBtm][Wait 20]¤¦¤ó¡ª  ¤­¤ß¤µ¤¨¤è¤±¤ì¤Ð
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@3404151@@
+[Merge 33f0bd]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤ï¤ì¤ë¤Î¤Ç¤¹¤«
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  ¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1dff1a
+# @@3404154@@
+[Merge 33f0bd]
+[Wait 60]
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ê£­¥Õ²¦»Ò¡¢¹Ô¤Ã¤Æ¤·¤Þ¤ï¤ì¤ë¤Î¤Ç¤¹¤«
+
+[TWinBtm][Wait 20][$00$22]¡¢°ì½ï¤ËÍè¤Æ¤¯¤ì¤ë¤Î¤À¤í¤¦
+[Wait 60]
+[TWinTop][dcs]
+¤¨¡©  ¤è¤¤¤Î¤Ç¤¹¤«¡ª¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¤µ¡¢»ä¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+¤­¤ß¤ÎÎÏ¤¬É¬Í×¤Ê¤ó¤À
+[Wait 60]
+[TWinTop][dcs]
+¤Ï¡¢¤Ï¤¤¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x1e00d4
+# @@3404157@@
+[Merge 33f0c3]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¸µµ¤¤ò¤À¤·¤Æ
+¤¢¤Ê¤¿¤ÏÃË¤Ç¤·¤ç¤¦
+[Wait 60][cs]
+Âç¾æÉ×¤è¡¢
+¤³¤ì¤«¤é¤Ï»ä¤¬ÌÌÅÝ¤ò¤ß¤Æ¤¢¤²¤Þ¤¹
+
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«  ¤ê¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x32fe69
+# @@3404160@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï²Ä°¦¤¤¤Í
+¤³¤ì¤«¤é¤Ï
+»ä¤¬¤¢¤Ê¤¿¤Î¤ªËå¤µ¤ó¤Ë¤Ê¤Ã¤Æ¤¢¤²¤ë¤ï
+[TWinBtm][Wait 20]¤¨¡¢[$00$22]¤µ¤ó¤¬¡©
+¤Ç¤â¡¢¤É¤¦¤·¤Æ¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ä¤Ã¤Ñ¤ê[$00$23]¤Ï»Ò¶¡¤Í
+¤Ç¤â¤¤¤¤¤Î¤è¡¢º£¤Ë¤ï¤«¤ë¤«¤é
+[Wait 60]
+[exit]
+
+
+# 0x330052
+# @@3404163@@
+[Merge 33f0c9]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¦¡¦¡¦
+¸µµ¤¤ò¤À¤·¤Æ¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê¡¦¡¦¡¦
+¤¤¤Ä¤Þ¤Ç¤â²ù¤ä¤ó¤Ç¤Ð¤«  ¤ê¤¸¤ã
+¤·¤«¤¿¤Ê¤¤¤·¤Ê[Wait 60]
+[TWinTop][dcs]
+»ä¤Ç¤Ï
+[$00$30]¤ÎÂå¤ï¤ê¤Ë¤Ï¤Ê¤ì¤Ê¤¤¡©
+
+[TWinBtm][Wait 20]¥Ð¥«¤ò¸À¤¦¤Ê¤è
+[$00$22]¤Ï²¶¤ÎÊõÊª¤Ê¤ó¤À¤¼¡ª
+[Wait 60]
+[exit]
+
+
+# 0x33ed37
+# @@3404166@@
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¤Ï
+¥»¥ê¥¹ÍÍ¤ÈÊÌ¤ì¤ë¤Î¤¬¿É¤¤¤Î¤Í
+
+[TWinBtm][Wait 20]¤½¡¢¤½¤ó¤ÊÌõ¤¸¤ã¤Ê¤¤¤µ¡ª
+[Wait 60]
+[TWinTop][dcs]
+»ä¤¬°ì½ï¤Ë¤¤¤Æ¤â¤À¤á¤Ê¤Î¡©
+¤ä¤Ã¤Ñ¤ê¡¢¤µ¤ß¤·¤¤¡©
+
+[TWinBtm][Wait 20]¤À¤«¤é¤Á¤¬¤¦¤Ã¤Æ¡ª
+²¶¤Ï[$00$22]¤µ¤¨¤¤¤Æ¤¯¤ì¤ì¤Ð
+¤½¤ì¤Ç¤¸¤å¤¦¤Ö¤ó¤µ¡ª[Wait 60]
+[TWinTop][dcs]
+¤Õ¤Õ¤Ã¡¢[$00$23]¤Ã¤¿¤é¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x33ef26
+# @@3404169@@
+[Merge 33f0cf]
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinBtm]¤½¤Î¤¿¤á¤Ë¤Ï¡¢
+[$00$22]¡¢¤ª¤Þ¤¨¤ÎÎÏ¤¬É¬Í×¤À
+²¶¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤[Wait 60][cs]
+
+[TWinTop]¤Ï¤¤¡¢¤â¤Á¤í¤ó¤Ç¤¹
+»ä¤â¥¢¥°¥¹¥È¥ê¥¢¤ÎºÆ·ú¤ò¼êÅÁ¤¤¤Þ¤¹
+[Wait 60][cs]
+Àï²Ð¤Ëßù¤±½Ð¤µ¤ì¤¿
+»Ò¶¡¤äÏ·¿ÍÃ£¤ò¤¿¤¹¤±¡¢
+¤À¤ì¤â¤¬½»¤ß¤ä¤¹¤¤¹ñ¤òºî¤ê¤Þ¤·¤ç¤¦
+[TWinBtm][Wait 20]¤½¤¦¤À¤Ê
+¤ª¤Þ¤¨¤È¤Ê¤é¡¢¤¬¤ó¤Ð¤ì¤½¤¦¤À
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3404172@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f05a
+# @@3404175@@
+[Merge 33f075]
+[cs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ
+»ä¤â¥Ç¥ë¥à¥Ã¥É¤È¤È¤â¤Ë¤Þ¤¤¤ê¤Þ¤¹
+[Wait 60][cs]
+
+[TWinTop][$00$22]¤¬¡©
+¤¢¡¢¤½¤¦¤À¤Ã¤¿¤Î¤«
+ÃÎ¤é¤Ê¤«¤Ã¤¿¤è¡¢¤ª¤á¤Ç¤È¤¦
+[TWinBtm][Wait 20]¤Ï¤¤¡¦¡¦¡¦¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+¤Ç¤â¡¢¾¯¤·ÃÑ¤º¤«  ¤·¤¤¤Ç¤¹
+[Wait 60][dcs]
+
+[TWinTop]¥Ç¥ë¥à¥Ã¥É¤È[$00$22]¤Ê¤é¤ª¤Ë¤¢¤¤¤À¤è
+¤É¤¦¤«¡¢¹¬¤»¤Ë¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¤â¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3404178@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f1b1
+# @@3404181@@
+[Merge 33f07b]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¡¢
+¤­¤ß¤â¥È¥ê¥¹¥¿¥ó¤È°ì½ï¤Ë¹Ô¤±¤Ð¤¤¤¤
+Æó¿Í¤ò°ú¤­Î¥¤¹¤Ê¤ó¤Æ»ä¤Ë¤Ï¤Ç¤­¤Ê¤¤¤è
+[TWinBtm][Wait 20]¤¨¡©  ¥»¥ê¥¹ÍÍ¡¢
+¤´¤¾¤ó¤¸¤À¤Ã¤¿¤Î¤Ç¤¹¤«
+[Wait 60]
+[TWinTop][dcs]
+¤½¤ì¤ÏÆó¿Í¤ò¸«¤Æ¤¤¤ì¤Ð¤ï¤«¤ë¤µ
+¹¬¤»¤Ë¤Í¡¢[$00$22]
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f3f1
+# @@3404184@@
+[Merge 33f0de]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¹Ô¤¯
+
+[TWinBtm][Wait 20]¤À¤á¤À¤è[$00$22]
+Àï¤¤¤Ï¤Þ¤À¤Þ¤ÀÂ³¤¯¡¢´í¸±¤Ê¤ó¤À
+[Wait 60][dcs]
+¤­¤Ã¤È·Þ¤¨¤ËÍè¤ë¤«¤é¡¢
+¤½¤ì¤Þ¤ÇÂÔ¤Ã¤Æ¤¤¤Æ¤Û¤·¤¤
+[Wait 60][cs]
+
+[TWinTop]ÂÔ¤Ã¤Æ¤¤¤ë¤À¤±¤Ê¤ó¤Æ¤¤¤ä¤Ç¤¹
+[Wait 60][cs]
+»ä¤¿¤Á¡¢°ìÅÙ¤Ç¤âÊÌ¤ì¤¿¤é
+¤â¤¦ÆóÅÙ¤È²ñ¤¨¤Ê¤¯¤Ê¤ë¤«¤â
+¤·¤ì¤Ê¤¤¤Ç¤·¤ç¤¦[Wait 60][cs]
+»ä¡¢¥·¥°¥ë¥ÉÍÍ¤È¥Ç¥£¥¢¥É¥éÍÍ¤Î
+¤è¤¦¤Ë¤Ê¤ë¤Î¤Ï¤¤¤ä¤Ç¤¹¡ª
+
+[TWinBtm][Wait 20]¤´¤á¤ó¡¢¤ï¤«¤Ã¤¿¤è¡¢[$00$22]
+°ì½ï¤Ë¹Ô¤³¤¦¡¢¥ô¥§¥ë¥À¥ó¤Ø
+[Wait 60]
+[exit]
+
+
+# 0x30f686
+# @@3404187@@
+[Merge 33f13e]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥Õ¥¡¥Ð¥ë¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤¨¡©  ¡¦¡¦¡¦¤Ê¤ó¤À¤Ã¤±¡©
+[Wait 60]
+[TWinTop][dcs]
+¤Þ¤µ¤«¡¦¡¦¡¦Ëº¤ì¤¿¤ó¤¸¤ã¤Ê¤¤¤Ç¤·¤ç¤¦¤Í
+
+[TWinBtm][Wait 20]¤¢¡¢¤¸¤ç¡¢¾éÃÌ¤µ
+¤½¤ó¤Ê¶²¤¤´é¤ò¤¹¤ë¤Ê¤è¡¢¤´¤á¤ó
+[Wait 60]
+[TWinTop][dcs]
+¤â¤¦¤Ã¡¢ÃÎ¤é¤Ê¤¤¤«¤é¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30f798
+# @@3404190@@
+[Merge 33f087]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥ì¥¹¥¿£­¡¢¤¸¤ã¡¢»ä¤Ø¤ÎÀÀ¤¤¤Ï¡©
+
+[TWinBtm][Wait 20]¤â¤Á¤í¤ó¡¢¤ª¤Ü¤¨¤Æ¤ë¤è
+[Wait 60]
+[TWinTop][dcs]
+¤è¤í¤·¤¤¡¢¤½¤ì¤Ç¤³¤½¥ì¥¹¥¿£­¤Í
+
+[TWinBtm][Wait 20][$00$22]¤Ï¶²¤¤¤«¤é¤Í
+[Wait 60]
+[TWinTop][dcs]
+¤¢¤Ã¡¢¸À¤Ã¤¿¤ï¤Í¡¢¤Õ¤Õ¤Ã¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30f84e
+# @@3404193@@
+[Merge 33f08a]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop][$00$22]¤â¡¦¡¦¡¦
+¥ì¥¹¥¿£­¤ÈÃçÎÉ¤¯¤Í
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ
+¤³¤ì¤«  ¤é¤â¤è¤í¤·¤¯¤ª¤Í¤¬¤¤¤·¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x30f979
+# @@3404196@@
+[Merge 33f147]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤â¤¦¤¤¤¤¤Ç¤·¤ç¤¦
+¥»¥ê¥¹ÍÍ¤â¤ª¤Ä¤«¤ì¤Î¤è¤¦¤À¤«¤é
+
+[TWinBtm][Wait 20][$00$22]¡¢¤½¤¦¤À¤Ê
+¤ï¤«¤Ã¤¿¡¢¹Ô¤³¤¦¤«
+[Wait 60]
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr]
+[TWinTop][Wait 20]¤Ç¤Ï¥»¥ê¥¹ÍÍ¡¢»ä¤¿¤Á¤Ï¹Ô¤­¤Þ¤¹
+¤É¤¦¤«¡¢¤ª¸µµ¤¤Ç¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30faf1
+# @@3404199@@
+[Merge 33f0ed]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢¤Þ¤À¤Ç¤¹¤«¡¢
+¤â¤¦¤½¤í¤½¤í¹Ô¤«¤Ê¤¤¤È¡¦¡¦¡¦
+
+[TWinBtm][Wait 20][$00$22]¡©
+¤Ê¤ó¤Ç¤­¤ß¤¬¡©
+[Wait 60]
+[TWinTop][dcs]
+»ä¤â°ì½ï¤Ë¹Ô¤­¤Þ¤¹
+¤¢¤Ê¤¿¤Î»ö¤¬¿´ÇÛ¤À¤«¤é¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤½¤¦¤«¡¢¤¢¤ê¤¬¤È¤¦[$00$22]¡¦¡¦¡¦
+[Wait 60]
+[exit]
+
+
+# 0x30fc6c
+# @@3404202@@
+[Merge 33f0f0]
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥è¥Ï¥ó¤Ï´¶·ã¤·¤Æ¤¤¤ë¤Î¤Í
+¤Õ¤Õ¤Ã¡¢¤¢¤Ê¤¿¤é¤·¤¤¤ï
+
+[TWinBtm][Wait 20][$00$22]¡¢»ä¤Ï¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤ï¤«¤Ã¤Æ¤¤¤Þ¤¹
+¤¢¤Ê¤¿¤Î¤­¤â¤Á¤Ï¡¦¡¦¡¦
+
+[TWinBtm][Wait 20]¤¢¤¢¡ª  [$00$22]
+»ä¤Ï¤Ê¤ó¤Æ¹¬¤»¤Ê¤ó¤À¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x30fd80
+# @@3404205@@
+[Merge 33f096]
+[dcs]
+[DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢
+¥è¥Ï¥ë¥ô¥¡¤Ï¤Æ¤ì¤Æ¤¤¤ë¤Î
+¤³¤Î¿Í¤ÏÉÔ´ïÍÑ¤À¤«¤é¡¦¡¦¡¦[Wait 60][cs]
+
+[TWinTop]¤Ï¤Ï¤Ï¡¢¤ï¤«¤Ã¤Æ¤¤¤ë¤µ
+[$00$22]¤â¡¢¸µµ¤¤Ç¤Í
+¥è¥Ï¥ë¥ô¥¡¤òÍê¤à¤è
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤³¤ó¤Ê¤Ò¤È¡¢
+¤Û¤¦¤Ã¤Æ¤Ï¤ª¤±¤Þ¤»¤ó
+»ä¤¬¤·¤Ã¤«  ¤ê¸«¼é¤ê¤Þ¤¹[Wait 60][dcs]
+¤Ç¤Ï¡¢¥»¥ê¥¹ÍÍ¤â¤ª¸µµ¤¤Ç
+[Wait 60]
+[exit]
+
+
+# 0x310032
+# @@3404208@@
+
+[TWinTop][dcs]
+[DlgCls][xChr][DlgOpn][$00$2E][$00$23]ÍÍ¡¢»ä¤Ï¸É»ùÃ£¤òµß¤¤¤Þ¤¹
+¤¢¤Î»Ò¤¿¤Á¤ÎÊìÂå¤ï¤ê¤È¤Ê¤Ã¤Æ
+Î©ÇÉ¤Ë°é¤Æ¤Æ¤ß¤»¤Þ¤¹¤«¤é
+[TWinBtm][Wait 20][$00$22]¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+[$00$23]¡¢¿´ÇÛ¤·¤Ê¤¤¤Ç
+»ä¤Ï¤¢¤Î»Ò¤¿¤Á¤ò
+¼«Ê¬¤Î»Ò¶¡¤À¤È»×¤Ã¤Æ¤¤¤Þ¤¹[Wait 60]
+[exit]
+
+
+# 0x31fbf1
+# @@3404211@@
+[cs]
+
+[TWinTop][DlgCls][xChr][DlgOpn][$00$2E][$00$23]¡¢»ä¤â¥ô¥§¥ë¥È¥Þ£­¤Ë¹Ô¤¯
+
+[TWinBtm][Wait 20][$00$22]¤¬¡©¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤¦¤ó¡¢¤¢¤Ê¤¿°ì¿Í¤ò¹Ô¤«¤»¤Ê¤¤¡ª
+»ä¤¿¤ÁÆó¿Í¤Ê¤é¡¢¤É¤ó¤Ê¤Ë¿É¤¤¤³¤È¤Ç¤â
+¤¬¤Þ¤ó¤Ç¤­¤ë¤Ç¤·¤ç¤¦[Wait 60]
+[exit]
+
+
+# 0x31fd1f
+# @@3404214@@
+[Merge 33f09f]
+[cs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]¥»¥ê¥¹ÍÍ¡¢¥ª¥¤¥Õ¥§ÍÍ¤Î¤³¤È¤Ï
+»ä¤Ë¤ª¤Þ¤«¤»²¼¤µ¤¤¡ª
+[Wait 60][cs]
+
+[TWinTop]¤½¤¦¤«¡¦¡¦¡¦[$00$22]¤â
+¥·¥¢¥ë¥Õ¥£¤Ë¹Ô¤Ã¤Æ¤¯¤ì¤ë¤Î¤«
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥ª¥¤¥Õ¥§ÍÍ¤Ë¤ÏµÙÂ©¤¬É¬Í×¤Ç¤¹
+¤·¤Ð¤é¤¯¤Ï¡¢
+¤·¤º¤«¤ËµÙ¤Þ¤»¤Æ¤¢¤²¤¿¤¤¤Î¤Ç¤¹[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤À¤Í¡¢¤­¤ß¤Î¸À¤¦¤È¤ª¤ê¤À
+[$00$22]¡¢¥ª¥¤¥Õ¥§¤òÍê¤ó¤À¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡ª  ¥»¥ê¥¹ÍÍ¡ª¡ª
+[Wait 60]
+[exit]
+
+
+# 0x31fe4b
+# @@3404217@@
+[Merge 33f0a2]
+
+[TWinTop][dcs]
+
+[TWinBtm][DlgCls][xChr][DlgOpn][$00$2E]
+[TWinTop]¤¢¤ì¡©  [$00$22]¡¢
+¤­¤ß¤â¹Ô¤¯¤Î¤«¡©
+
+[TWinBtm][Wait 20]¤¨¤¨¡¢[$00$23]ÍÍ¤È¡¦¡¦¡¦
+[Wait 60]
+[TWinTop][dcs]
+¤½¤¦¤«¡¦¡¦¡¦¤ª¤á¤Ç¤È¤¦
+Æó¿Í¤Î¹¬¤»¤ò¤¤¤Î¤Ã¤Æ¤ë¤è
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤¹
+[Wait 60]
+[exit]
+
+
+# 0x31ff2b
+# @@3404220@@
+[Merge 33f0a5]
+¥»¥ê¥¹ÍÍ¡¢
+¤ï¤¿¤·¤â[$00$23]¤È¤È¤â¤Ë
+¥·¥ì¥¸¥¢¤Ë¤Þ¤¤¤ê¤Þ¤¹[Wait 60][cs]
+
+[TWinTop][$00$22]¤â¡©¡¦¡¦¡¦
+¤½¤¦¤«¡¢¤½¤ì¤Ï¤è¤«¤Ã¤¿
+[Wait 60][cs]
+[$00$23]¤ÈÎÏ¤ò¤¢¤ï¤»
+¥·¥ì¥¸¥¢¤Î¿Í¡¹¤ò¤¿¤¹¤±¤Æ¤Û¤·¤¤
+
+[TWinBtm][Wait 20]¤Ï¤¤¡¢¥»¥ê¥¹ÍÍ¡ª
+[Wait 60]
+[exit]

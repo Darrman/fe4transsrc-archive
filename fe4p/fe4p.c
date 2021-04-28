@@ -3,6 +3,8 @@
    Fe4 Script Parser
 */
 
+/* Last modified: 22/08/04
+   This file was modified by Dark Twilkitri */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -33,7 +35,8 @@ byte *block;
 dword blockcnt;
 int linecount = 1;
 TBLINFO tbl = NULL;
-
+char ofname[256];
+ 
 int exitcode = 0;
 
 /*
@@ -62,8 +65,8 @@ unsigned short sjistbl[256] =
 {
 	0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
 	0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
-	0x82D3, 0x0000, 0x0000, 0x0000, 0x0000, 0x82D0, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
-	0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
+	0x82D3, 0x0000, 0x0000, 0x0000, 0x0000, 0x82D0, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x815B, 0x0000, 0x0000,
+	0x824F, 0x8250, 0x8251, 0x8252, 0x8253, 0x8254, 0x8255, 0x8256, 0x8257, 0x8258, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
 	0x0000, 0x82A0, 0x82A2, 0x82A4, 0x82A6, 0x82A8, 0x82A9, 0x82AB, 0x82AD, 0x82AF, 0x82B1, 0x82B3, 0x82B5, 0x82B7, 0x82B9, 0x82BB,
 	0x82BD, 0x82BF, 0x82C2, 0x82C4, 0x82C6, 0x82C8, 0x82C9, 0x82CA, 0x82CB, 0x82CC, 0x82CD, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
 	0x0000, 0x8341, 0x8343, 0x8345, 0x8347, 0x8349, 0x834A, 0x834C, 0x834E, 0x8350, 0x8352, 0x8354, 0x8356, 0x8358, 0x835A, 0x835C,
@@ -82,12 +85,12 @@ void SkipWS();
 int getNext(char *buf);
 void parse();
 void parseSJIS();
+void parsenotext();
 int pixellength(unsigned char *string);
 
 int main(int argc,char *argv[])
 {
-	char ofname[256];
-   const char *sectn[2];
+  const char *sectn[2];
    char scname[256];
    int c, sn, mn;
    char pound;
@@ -108,7 +111,7 @@ int main(int argc,char *argv[])
    strcpy(ofname,argv[optind]);
 	ofname[strlen(argv[optind])-3] = 0;
 	strcat(ofname,"sif");
-
+   
    while((c = getopt(argc,argv,"o:i:")) > 0) {
       switch(c) {
          case 'o':
@@ -231,12 +234,15 @@ int getNext(char *buf)
 
 void parse()
 {
+   int spaces = 1, blocked = 0, curblock, tarblock;
+   int forcewipe = 0;
    byte buffer[64];
    char code[64];
    int colt, rowt, rowb, colb, twin;
    int i, j, param;
    unsigned long val;
    long ppt = 0;
+   FILE *bpr, *bls;
 
 #define SWITCH(x) if(false) {
 #define CASE(str) } else if(!strcmp(code,str)) {
@@ -337,11 +343,76 @@ looptop:
                CASE("map")
                   sscanf((char *)(buffer + strlen(code)),"%d",&MAP);
                CASE("bits16")
-                  FLAGS = SIF_USE16;
+                  FLAGS = FLAGS | SIF_USE16;
+	       CASE("ASMPTR")
+	          FLAGS = FLAGS | SIF_ASM;
+	       CASE("ASMPTR3")
+	          FLAGS = FLAGS | SIF_ASM3;
+	       CASE("nocompress")
+	          /* some scripts don't like compression, and we don't want
+		  to decompress the entire lot of them */
+	          if(tbl)
+		  {
+	             TBL_CloseTable(tbl);
+		     tbl = NULL;
+		  }
+	       CASE("noptr")
+	          /* for scripts with no pointers */
+		  FLAGS = FLAGS | SIF_NOPTR;
+	       CASE("blocked")
+	          /* for scripts in Block Format */
+		  FLAGS = FLAGS | SIF_BLOCK;
+		  blocked = 1;
+		  //create Block Preliminary file
+		  ofname[strlen(ofname)-3] = 0;
+		  strcat(ofname,"bpr");
+		  bpr = fopen(ofname, "wb");
+		  //create Block Listing file
+		  ofname[strlen(ofname)-3] = 0;
+		  strcat(ofname,"bls");
+		  bls = fopen(ofname, "wb");
+		  //assume they were created properly
+	       CASE("block")
+	          /* This is the block number, store it in the block listing */
+		  sscanf((char*)(buffer + strlen(code)), " b%u", &curblock);
+		  fprintf(bls, "%04u\n", curblock);
+	       CASE("resolve")
+	          /* Store this in the Block Preliminary */
+		  //caller
+		  fprintf(bpr, "%04u|", curblock);
+		  //target
+		  sscanf((char*)(buffer + strlen(code)), " b%u", &tarblock);
+		  fprintf(bpr, "%04u|", tarblock);
+		  //emit 2A code
+		  emit(0x00);
+		  emit(0x2A);
+		  //offset
+		  fprintf(bpr, "%02u%02u%02u\n", (blockcnt & 0xFF0000) >> 16, (blockcnt & 0x00FF00) >> 8, blockcnt & 0x0000FF);
+		  //dummy address
+		  emit(0xFF);
+		  emit(0xFF);
+		  emit(0xFF);
+	       CASE("nospaces")
+	          /* for things we don't want spaces after */
+		  spaces = 0;
+	       CASE("respaces")
+	          /* to turn them back on in the same script */
+		  spaces = 1;
+	       CASE("nomerge")
+	          /* turn off merging */
+		  FLAGS = FLAGS | SIF_NOMERGE;
                CASE("mode-sjis")
                   /* cheap hack to invoke a second parser in the same program */
                   parseSJIS();
                   return;
+	       CASE("mode-notext")
+	          /* for if we're not altering text
+		     technically, a script inserter shouldn't have to worry
+		     about this, but where else am I going to put it? */
+		  parsenotext();
+		  return;
+	       CASE("forcewipe")
+	          forcewipe = 1;
                CASE("Merge")
                   ;
             } else if(code[0] == '\'') {
@@ -351,6 +422,34 @@ looptop:
                emitw(param);
                if(col || row) printf("Warning %d: No clear screen code used prior to character change.\n",linecount);
             } else if(code[0] == '$') {
+	       if(buffer[3] == '$') /* check for 2+ bytes */
+	       {
+	          if((buffer[4] == '2') && ((buffer[5] == '2') || (buffer[5] == '3') || (buffer[5] == '8') || (buffer[5] == 'C'))) /* let's format the dynamic names a bit better, shall we? */
+		  {
+		     col += 80;  /* totally arbitrary; I have no idea how long they are (should be) */
+		     if(col >= WINDOWLIMIT)
+		     {
+		        row++;
+			if(row >= ROWLIMIT)
+			{
+			   emit(0x08);
+            	           if(forcewipe)
+	                   {
+	                      emit(0x04);
+		              col = 0;
+	                   }
+	                   else
+                              emit(0x02);
+			   row = 0;
+			}
+			else
+			{
+			   emit(0x02);
+			}
+			col = 80;
+		     }
+		  }
+	       }
                for(j = 0; buffer[j] && buffer[j] == '$'; j += 3) {
                   sscanf(&buffer[j + 1],"%2X",&param);
                   emit(param);
@@ -376,7 +475,13 @@ emittext:
             row++;
             if(row >= ROWLIMIT) {
                emit(0x08);
-               emit(0x02);
+	       if(forcewipe)
+	       {
+	          emit(0x04);
+		  col = 0;
+	       }
+	       else
+                  emit(0x02);
                row = 0;
             } else {
                emit(0x02);
@@ -430,12 +535,22 @@ emittext:
 
          memmove(block + blockcnt,buffer,strlen((char *)buffer));
          blockcnt += strlen((char *)buffer);
-         emit(0xBF);
+	 if(spaces)
+	 {
+            emit(0xBF);
+	 }
       } // end of while
 
       if(isdigit(*SECTION)) WriteSifBlock(sif,block,blockcnt,ppt,(const char *)strtol(SECTION,NULL,10),MAP,FLAGS);
       else WriteSifBlock(sif,block,blockcnt,ppt,SECTION,MAP,FLAGS);
    } // end of for
+   
+   //clean up
+   if(blocked)
+   {
+     fclose(bls);
+     fclose(bpr);
+   }
 }
 
 void parseSJIS()
@@ -460,6 +575,8 @@ looptop:
                CASE("sp")
                   emitw(swap(sjistbl[' ']));
                   break;
+               CASE("spx")
+	          emitw(swap(sjistbl[' ']));
                } else if(code[0] == '$') {
                   for(j = 0; buffer[j] && buffer[j] == '$'; j += 3) {
                      sscanf(&buffer[j + 1],"%2X",&param);
@@ -476,7 +593,7 @@ looptop:
             }
 
             for(i = 0; i < 64 && buffer[i]; i++) {
-               if(!isascii(buffer[i])) {
+               if(!(isascii(buffer[i]) | isdigit(buffer[i]))) {
                   while(!feof(script)) {
                      if(getNext((char *)buffer) && !strcmp((char *)buffer,"exit")) {
                         goto looptop;
@@ -486,6 +603,42 @@ looptop:
                }
                emitw(swap(sjistbl[buffer[i]]));
             }
+         }
+      }
+      if(isdigit(*SECTION)) WriteSifBlock(sif,block,blockcnt,addr,(const char *)strtol(SECTION,NULL,10),MAP,FLAGS);
+      else WriteSifBlock(sif,block,blockcnt,addr,SECTION,MAP,FLAGS);
+   }
+}
+
+void parsenotext()
+{
+   byte buffer[64];
+   char code[64];
+   long addr = 0;
+   byte toinsert;
+
+   while(!feof(script)) {
+      blockcnt = 0;
+      while(!feof(script)) {
+         if(getNext((char *)buffer)) {
+            if(feof(script)) return;
+
+            sscanf((char *)buffer,"%s",code);
+            SWITCH(buffer)
+               CASE("exit")
+                  break;
+            ENDSWITCH
+            continue;
+         } else {
+            if(feof(script)) return;
+
+            if(buffer[0] == '@' && buffer[1] == '@') {
+               addr = strtol(buffer+2,NULL,10);
+               continue;
+            }
+
+	    toinsert = (byte)strtol(buffer, NULL, 16);
+	    emit(toinsert);
          }
       }
       if(isdigit(*SECTION)) WriteSifBlock(sif,block,blockcnt,addr,(const char *)strtol(SECTION,NULL,10),MAP,FLAGS);

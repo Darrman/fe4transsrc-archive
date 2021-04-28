@@ -1,0 +1,19 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the relationships of teams in
+# the Data Screen.
+
+[mode-sjis]
+
+# @@775331@@
+Us[exit]
+
+# @@775334@@
+Them[exit]
+
+# @@775337@@
+Ally[exit]
+
+# @@775340@@
+Neut[exit]

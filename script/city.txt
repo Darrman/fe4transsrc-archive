@@ -1,5 +1,12 @@
 # 9 8 city
 
+# Last modified: 02/05/04
+# This file was modified by Dark Twiilkitri
+
+# This file is for altering the castle names whereever they are used in a status sense.
+# Eg: On the map; in the data screen; etc.
+# Not in cutscenes or dialogue.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English
@@ -34,7 +41,7 @@
 # @@259863@@
 
 #?}?f?B?m?
-Madino Castle
+Mad
 
 #*# [exit]
 
@@ -43,7 +50,7 @@ Madino Castle
 # @@259865@@
 
 #?V???x?[???
-Silvail Castle
+Sil
 
 #*# [exit]
 
@@ -52,7 +59,7 @@ Silvail Castle
 # @@259867@@
 
 #?A???t?H?j?[?
-Anphony Castle
+Anph
 
 #*# [exit]
 
@@ -61,7 +68,7 @@ Anphony Castle
 # @@259869@@
 
 #?A?O?X?e?B?
-Agusty Castle
+Agusty
 
 #*# [exit]
 
@@ -70,7 +77,7 @@ Agusty Castle
 # @@259871@@
 
 #?n?C???C???
-Heirhein Castle
+Her
 
 #*# [exit]
 
@@ -79,7 +86,7 @@ Heirhein Castle
 # @@259873@@
 
 #?}?b?L???[?
-Mackily Castle
+McKil
 
 #*# [exit]
 
@@ -88,7 +95,7 @@ Mackily Castle
 # @@259875@@
 
 #?m?f?B?I???
-Nodion Castle
+Nod
 
 #*# [exit]
 
@@ -97,7 +104,7 @@ Nodion Castle
 # @@259877@@
 
 #???F???g?}?[?
-Velthomer Castle
+Veltho
 
 #*# [exit]
 
@@ -106,7 +113,7 @@ Velthomer Castle
 # @@259879@@
 
 #?t???[?W?
-Freege Castle
+Free
 
 #*# [exit]
 
@@ -115,7 +122,7 @@ Freege Castle
 # @@259881@@
 
 #?o?[?n???
-Barhara Castle
+Barhara
 
 #*# [exit]
 
@@ -124,7 +131,7 @@ Barhara Castle
 # @@259883@@
 
 #?h?Y???
-Dozel Castle
+Doze
 
 #*# [exit]
 
@@ -133,7 +140,7 @@ Dozel Castle
 # @@259885@@
 
 #?G?b?_?
-Edda Castle
+Edda
 
 #*# [exit]
 
@@ -142,7 +149,7 @@ Edda Castle
 # @@259887@@
 
 #?V?A???t?B?
-Chalphy Castle
+Chal
 
 #*# [exit]
 
@@ -151,7 +158,7 @@ Chalphy Castle
 # @@259889@@
 
 #?????O???B?
-Jungby Castle
+Jung
 
 #*# [exit]
 
@@ -160,7 +167,7 @@ Jungby Castle
 # @@259891@@
 
 #?????X?^?[?
-Lenster Castle
+Lens
 
 #*# [exit]
 
@@ -169,7 +176,7 @@ Lenster Castle
 # @@259893@@
 
 #?R?m?[?g?
-Conote Castle
+Con
 
 #*# [exit]
 
@@ -178,7 +185,7 @@ Conote Castle
 # @@259895@@
 
 #?}???X?^?[?
-Manster Castle
+Mans
 
 #*# [exit]
 
@@ -187,7 +194,7 @@ Manster Castle
 # @@259897@@
 
 #?????Q???
-Melgen Castle
+Mel
 
 #*# [exit]
 
@@ -196,7 +203,7 @@ Melgen Castle
 # @@259899@@
 
 #?A???X?^?[?
-Alster Castle
+Als
 
 #*# [exit]
 
@@ -205,7 +212,7 @@ Alster Castle
 # @@259901@@
 
 #?I?[?K?q???
-Orgahil Castle
+Orgahil
 
 #*# [exit]
 
@@ -214,7 +221,7 @@ Orgahil Castle
 # @@259903@@
 
 #?g?[???F?
-Thove Castle
+Thove
 
 #*# [exit]
 
@@ -223,7 +230,7 @@ Thove Castle
 # @@259905@@
 
 #?Z?C???[???
-Sailane Castle
+Sai
 
 #*# [exit]
 
@@ -232,7 +239,7 @@ Sailane Castle
 # @@259907@@
 
 #?U?N?\???
-Zaxon Castle
+Zax
 
 #*# [exit]
 
@@ -241,7 +248,7 @@ Zaxon Castle
 # @@259909@@
 
 #?V???W?A?
-Silesia Castle
+Silesia
 
 #*# [exit]
 
@@ -250,7 +257,7 @@ Silesia Castle
 # @@259911@@
 
 #?????[?x?b?N?
-Lubeck Castle
+Lube
 
 #*# [exit]
 
@@ -259,7 +266,7 @@ Lubeck Castle
 # @@259913@@
 
 #?e?B???i?m?O?
-Tilnanogue Castle
+Til
 
 #*# [exit]
 
@@ -268,7 +275,7 @@ Tilnanogue Castle
 # @@259915@@
 
 #?K?l?[?V???
-Ganeishire Castle
+Gan
 
 #*# [exit]
 
@@ -277,7 +284,7 @@ Ganeishire Castle
 # @@259917@@
 
 #?\?t?@???
-Sophara Castle
+Soph
 
 #*# [exit]
 
@@ -286,7 +293,7 @@ Sophara Castle
 # @@259919@@
 
 #?C?U?[?N?
-Isaac Castle
+Isaac
 
 #*# [exit]
 
@@ -295,7 +302,7 @@ Isaac Castle
 # @@259921@@
 
 #???{?[?
-Rivough Castle
+Rivo
 
 #*# [exit]
 
@@ -304,7 +311,7 @@ Rivough Castle
 # @@259923@@
 
 #?t?B?m?[???
-Phinora Castle
+Phin
 
 #*# [exit]
 
@@ -313,7 +320,7 @@ Phinora Castle
 # @@259925@@
 
 #?C?[?h?
-Yied Castle
+Yied
 
 #*# [exit]
 
@@ -322,7 +329,7 @@ Yied Castle
 # @@259927@@
 
 #?_?[?i?
-Darna Castle
+Darn
 
 #*# [exit]
 
@@ -331,7 +338,7 @@ Darna Castle
 # @@259929@@
 
 #???F???_???
-Verdane Castle
+Verdane
 
 #*# [exit]
 
@@ -340,7 +347,7 @@ Verdane Castle
 # @@259931@@
 
 #?G?o???X?
-Evans Castle
+Evans
 
 #*# [exit]
 
@@ -349,7 +356,7 @@ Evans Castle
 # @@259933@@
 
 #?W?F?m?A?
-Genoa Castle
+Gen
 
 #*# [exit]
 
@@ -358,7 +365,7 @@ Genoa Castle
 # @@259935@@
 
 #?}?[?t?@?
-Marpha Castle
+Mar
 
 #*# [exit]
 
@@ -367,7 +374,7 @@ Marpha Castle
 # @@259937@@
 
 #?~???g?X?
-Miletos Castle
+Miletos
 
 #*# [exit]
 
@@ -376,7 +383,7 @@ Miletos Castle
 # @@259939@@
 
 #?y?????[?N?
-Peruluke Castle
+Peru
 
 #*# [exit]
 
@@ -385,7 +392,7 @@ Peruluke Castle
 # @@259941@@
 
 #?N???m?X?
-Chronos Castle
+Cro
 
 #*# [exit]
 
@@ -394,7 +401,7 @@ Chronos Castle
 # @@259943@@
 
 #???h?X?
-Rados Castle
+Rad
 
 #*# [exit]
 
@@ -403,7 +410,7 @@ Rados Castle
 # @@259945@@
 
 #?~?[?Y?
-Mease Castle
+Mease
 
 #*# [exit]
 
@@ -412,7 +419,7 @@ Mease Castle
 # @@259947@@
 
 #?J?p?g?M?A?
-Kapathogia Castle
+Kapa
 
 #*# [exit]
 
@@ -421,7 +428,7 @@ Kapathogia Castle
 # @@259949@@
 
 #???e?L?A?
-Luthecia Castle
+Luthe
 
 #*# [exit]
 
@@ -430,7 +437,7 @@ Luthecia Castle
 # @@259951@@
 
 #?g???L?A?
-Thracia Castle
+Thracia
 
 #*# [exit]
 
@@ -439,7 +446,7 @@ Thracia Castle
 # @@259953@@
 
 #?O???e?B?A?
-Grutia Castle
+Gru
 
 #*# [exit]
 

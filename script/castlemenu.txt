@@ -1,0 +1,33 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering the option names in the castle menu.
+
+[noptr]
+[mode-sjis]
+
+
+# @@690912@@
+[spx][spx]Sortie[spx][exit]
+
+# @@690932@@
+[spx][spx]Guard[spx][spx][exit]
+
+# @@690952@@
+[spx][spx]Promote[exit]
+
+# @@690972@@
+[spx][spx]Town[spx][spx][spx][exit]
+
+# @@690992@@
+[spx][spx]Staff[spx][spx][exit]
+
+# It may not look it, but this is required.
+# @@691012@@
+[spx][spx][spx][spx][spx][spx][spx][spx][spx][exit]
+
+# @@691032@@
+[spx][spx]Dance[spx][spx][exit]
+
+# @@691052@@
+[spx][spx]Give[spx][spx][spx][exit]

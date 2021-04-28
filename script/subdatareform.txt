@@ -1,0 +1,12 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for reformatting the heading in the Data Screen Sub Window
+
+[noptr]
+[mode-notext]
+
+# Home Castle - Castle Name
+# @@775493@@
+0x13
+[exit]

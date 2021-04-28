@@ -1,0 +1,21 @@
+## 0 0 PUBLIC
+
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering status conditions which may effect characters.
+
+#[section PUBLIC]
+[mode-sjis]
+
+# @@633196@@
+Normal[exit]
+
+# @@633208@@
+Siln[exit]
+
+# @@633211@@
+Slep[exit]
+
+# @@633214@@
+Bsrk[exit]

@@ -1,0 +1,419 @@
+# Last modified: 08/05/04
+# This file was added by Dark Twilkitri
+
+# This file lists all the missing shop dialogue, which
+# was ASMPTRed instead of standard pointered.
+
+[ASMPTR]
+[winlimit 190]
+
+
+# 0xad5aa
+# @@705291@@
+[c]
+This is the repair shop.
+[k]
+[c]
+You don't have anything?[n]
+Well, come again.
+[k]
+
+[exit]
+
+
+# 0xad3b5
+# @@705335@@
+This is the pawn shop.[n]
+We'll buy anything you don't want.[n]
+
+[exit]
+
+
+# 0xad395
+# @@705347@@
+This is the pawn shop.[n]
+Take care of your buying and selling needs here.[n]
+
+[exit]
+
+
+# 0xad331
+# @@705762@@
+[c]
+Sorry...[n]
+We're sold out.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad457
+# @@705776@@
+[c]
+Bah, you don't have anything to sell.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad457
+# @@706091@@
+[Merge ac4f0]
+[c]
+Bah, you don't have anything to sell.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad433
+# @@706105@@
+[c]
+Sorry...[n]
+We're sold out.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad457
+# @@706303@@
+[Merge ac4f0]
+[c]
+Bah, you don't have anything to sell.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad73c
+# @@714606@@
+[c]
+There's no-one left for you to fight...
+[k]
+
+[exit]
+
+
+# 0xad774
+# @@714679@@
+[c]
+You won?[n]
+Here's your prize - [n][$00$25][sp]gold.
+[k]
+[c]
+Would you like to fight the next opponent?[n]
+
+[exit]
+
+
+# 0xad753
+# @@714738@@
+[c]
+What's that? You lost?[n]
+Those injuries look serious...[k]
+
+[exit]
+
+
+# 0xad7c5
+# @@714775@@
+[c]
+That's it...[n]
+There's no-one left to fight.[n]
+Here's your [$00$25][sp]gold.[k]
+
+[exit]
+
+
+# 0xad7a5
+# @@714823@@
+[c]
+What?[n]Are you giving up?[n]
+
+[exit]
+
+
+# 0xad6d7
+# @@715086@@
+[c]
+What do you want to use?
+
+[exit]
+
+
+# 0xad6e9
+# @@715131@@
+[c]
+You need a weapon to fight here.
+[k]
+[c]
+What do you want to do?[n]
+
+[exit]
+
+
+# 0xad6bc
+# @@715400@@
+[c]
+This opponent is level [$00$25].
+Give it your best.[n]
+
+[exit]
+
+
+# 0xad7b7
+# @@715443@@
+[c]
+You're quitting, then...
+[k]
+
+[exit]
+
+
+# 0xad6e9
+# @@715486@@
+[Merge ae97b]
+[c]
+You need a weapon to fight here.
+[k]
+[c]
+What do you want to do?[n]
+
+[exit]
+
+
+# 0xad6d7
+# @@715500@@
+[Merge ae94e]
+[c]
+What do you want to use?
+
+[exit]
+
+
+# 0xad6e9
+# @@715725@@
+[Merge ae97b]
+[c]
+You need a weapon to fight here.
+[k]
+[c]
+What do you want to do?[n]
+
+[exit]
+
+
+# 0xad7b7
+# @@715739@@
+[Merge aeab3]
+[c]
+You're quitting, then...
+[k]
+
+[exit]
+
+
+# 0xad6d7
+# @@715793@@
+[Merge ae94e]
+[c]
+What do you want to use?
+
+[exit]
+
+
+# 0xad6d7
+# @@716075@@
+[Merge ae94e]
+[c]
+What do you want to use?
+
+[exit]
+
+
+# 0xad6bc
+# @@716340@@
+[Merge aea88]
+[c]
+This opponent is level [$00$25].
+Give it your best.[n]
+
+[exit]
+
+
+# 0xad80d
+# @@716400@@
+[c]
+What do you want to do?[n]
+
+[exit]
+
+
+# 0xad9a4
+# @@717233@@
+[c]
+Good work. You're ready to be promoted to [$00$28].[k][c]
+Do you want to be promoted?[n]
+
+[exit]
+
+
+# 0xad956
+# @@717277@@
+[c]
+You can only class change at level 20.[n]
+Please return after you've gotten more experience.[k]
+
+[exit]
+
+
+# 0xad9d0
+# @@717289@@
+[c]
+You can only class change at level 20.[n]
+Come back when you're more experienced.[k]
+
+[exit]
+
+
+# 0xad985
+# @@717333@@
+[c]
+You cannot change class.[n]
+Please leave.[k]
+
+[exit]
+
+
+# 0xad9fc
+# @@717345@@
+[c]
+You cannot change class.
+Leave.[k]
+
+[exit]
+
+
+# 0xad618
+# @@718425@@
+[c]
+You don't have anything to give me.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad66f
+# @@718439@@
+[c]
+I don't have anything of yours.
+[k]
+[c]
+Was there anything else?[n]
+
+[exit]
+
+
+# 0xad816
+# @@719999@@
+[c]
+Greetings.
+You'd like for me to tell your fortune?[k]
+[c]
+What in particular?
+
+[exit]
+
+
+# 0xad8da
+# @@720185@@
+[c]
+Come back any time.
+[k]
+
+[exit]
+
+
+# 0xad8e7
+# @@720316@@
+[c]
+Up to now, your record stands at[n]
+[$00$25][sp]Wins and [$00$26][sp]Losses.[k]
+
+[exit]
+
+
+# 0xad90d
+# @@720342@@
+[c]
+Your father was [$00$22], 
+and your mother was [$00$23].[k]
+
+[exit]
+
+
+# 0xad8be
+# @@720381@@
+[c]
+You currently don't have feelings for anybody.[k]
+
+[exit]
+
+
+# 0xad85e
+# @@720418@@
+[c]
+[$00$22][sp]is on your mind.
+[k]
+
+[exit]
+
+
+# 0xad878
+# @@720430@@
+[c]
+You're fond of[n]
+[$00$22].
+[k]
+
+[exit]
+
+
+# 0xad88e
+# @@720442@@
+[c]
+You're in love with [$00$22]. 
+[k]
+
+[exit]
+
+
+# 0xad8a8
+# @@720454@@
+[c]
+You and [$00$22][sp]are bound to each other.
+[k]
+
+[exit]
+
+
+# 0xad848
+# @@720604@@
+[c]
+Is there anything else you'd like me to scry?
+
+[exit]
+

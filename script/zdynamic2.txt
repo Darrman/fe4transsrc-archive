@@ -1,0 +1,72 @@
+# 0 10 chapternames
+
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the names of the chapters.
+
+[section chapternames]
+[map 10]
+[bits16]
+[nospaces]
+
+
+# 0xd9e0e
+# @@892406@@
+[$09]HolyKnight[exit]
+
+
+# 0xd9e17
+# @@892408@@
+[$09]SpiritForest[exit]
+
+
+# 0xd9e26
+# @@892410@@
+[$09]Agustria[exit]
+
+
+# 0xd9e32
+# @@892412@@
+[$09]Eltosian[exit]
+
+
+# 0xd9e3f
+# @@892414@@
+[$09]Dancing[exit]
+
+
+# 0xd9e48
+# @@892416@@
+[$09]Destiny[exit]
+
+
+# 0xd9e51
+# @@892418@@
+[$09]Light[exit]
+
+
+# 0xd9e5a
+# @@892420@@
+[$09]Desert[exit]
+
+
+# 0xd9e63
+# @@892422@@
+[$09]Thracia[exit]
+
+
+# 0xd9e6e
+# @@892424@@
+[$09]ForWhom?[exit]
+
+
+# 0xd9e76
+# @@892426@@
+[$09]LightVsDark[exit]
+
+
+# 0xd9e7f
+# @@892428@@
+[$09]EndOfHolyWar[exit]
+

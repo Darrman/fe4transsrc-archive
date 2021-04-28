@@ -1,0 +1,30 @@
+# Last Modified: 06/07/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the green (selected)
+# choices on the config screen in the option box.
+# Different pointer type, therefore the new file is needed.
+
+[ASMPTR]
+[nocompress]
+[mode-sjis]
+
+# Norm (Speed)
+# @@651539@@
+Norm
+[exit]
+
+# Fast
+# @@651554@@
+Fast
+[exit]
+
+# Norm (AI)
+# @@651821@@
+Norm
+[exit]
+
+# Hard
+# @@651839@@
+Hard
+[exit]

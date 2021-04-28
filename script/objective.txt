@@ -1,3 +1,10 @@
+# 0 0 BANK80
+
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is used to alter the objectives displayed in the data screen.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English
@@ -21,7 +28,7 @@
 #
 #Please refer to the 'LICENSE' file for the entire license and copying rights.
 
-# 0 0 BANK80
+
 [section BANK80]
 [bits16]
 [mode-sjis]
@@ -30,8 +37,8 @@
 # P: DD74
 # @@56692@@
 
-#ƒGƒoƒ“ƒXé‚Ì‚¹‚¢‚ ‚Â
-Subdue Evans Castle
+#GoXï¿½ï¿½
+Subdue[spx]Evans
 
 [exit]
 
@@ -39,8 +46,8 @@ Subdue Evans Castle
 # P: DD77
 # @@56695@@
 
-#ƒ”ƒFƒ‹ƒ_ƒ“é‚Ì‚¹‚¢‚ ‚Â
-Subdue Verdane Castle
+#F_ï¿½ï¿½
+Subdue[spx]Verdane
 
 [exit]
 
@@ -48,8 +55,8 @@ Subdue Verdane Castle
 # P: DD7A
 # @@56698@@
 
-#ƒAƒOƒXƒeƒBé‚Ì‚¹‚¢‚ ‚Â
-Subdue Agusty Castle
+#AOXeBï¿½ï¿½
+Subdue[spx]Agusty
 
 [exit]
 
@@ -57,8 +64,8 @@ Subdue Agusty Castle
 # P: DD7D
 # @@56701@@
 
-#ƒI[ƒKƒqƒ‹é‚Ì‚¹‚¢‚ ‚Â
-Subdue Orgahil Castle
+#I[Kqï¿½ï¿½
+Subdue[spx]Orgahil
 
 [exit]
 
@@ -66,8 +73,8 @@ Subdue Orgahil Castle
 # P: DD80
 # @@56704@@
 
-#ƒUƒNƒ\ƒ“é‚Ì‚¹‚¢‚ ‚Â
-Subdue Zaxon Castle
+#UN\ï¿½ï¿½
+Subdue[spx]Zaxon
 
 [exit]
 
@@ -75,8 +82,8 @@ Subdue Zaxon Castle
 # P: DD83
 # @@56707@@
 
-#ƒo[ƒnƒ‰é‚Ì‚¹‚¢‚ ‚Â
-Subdue Barhara Castle
+#o[nï¿½ï¿½
+Subdue[spx]Barhara
 
 [exit]
 
@@ -84,8 +91,8 @@ Subdue Barhara Castle
 # P: DD86
 # @@56710@@
 
-#ƒŠƒ{[é‚Ì‚¹‚¢‚ ‚Â
-Subdue Rivough Castle
+#{[ï¿½ï¿½
+Subdue[spx]Rivough
 
 [exit]
 
@@ -93,8 +100,8 @@ Subdue Rivough Castle
 # P: DD89
 # @@56713@@
 
-#ƒAƒ‹ƒXƒ^[é‚Ì‚¹‚¢‚ ‚Â
-Subdue Alster Castle
+#AX^[ï¿½ï¿½
+Subdue[spx]Alster
 
 [exit]
 
@@ -102,8 +109,8 @@ Subdue Alster Castle
 # P: DD8C
 # @@56716@@
 
-#ƒ~[ƒYé‚Ì‚¹‚¢‚ ‚Â
-Subdue Mease Castle
+#~[Yï¿½ï¿½
+Subdue[spx]Mease
 
 [exit]
 
@@ -111,8 +118,8 @@ Subdue Mease Castle
 # P: DD8F
 # @@56719@@
 
-#ƒgƒ‰ƒLƒAé‚Ì‚¹‚¢‚ ‚Â
-Subdue Thracia Castle
+#gLAï¿½ï¿½
+Subdue[spx]Thracia
 
 [exit]
 
@@ -120,8 +127,8 @@ Subdue Thracia Castle
 # P: DD92
 # @@56722@@
 
-#ƒVƒAƒ‹ƒtƒBé‚Ì‚¹‚¢‚ ‚Â
-Subdue Chalphy Castle
+#VAtBï¿½ï¿½
+Subdue[spx]Chalphy
 
 [exit]
 
@@ -129,8 +136,8 @@ Subdue Chalphy Castle
 # P: DD95
 # @@56725@@
 
-#ƒo[ƒnƒ‰é‚Ì‚¹‚¢‚ ‚Â
-Subdue Barhara Castle
+#o[nï¿½ï¿½
+Subdue[spx]Barhara
 
 [exit]
 

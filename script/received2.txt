@@ -1,0 +1,29 @@
+# Last Modified: 26/05/04
+# This file was added by Dark Twilkitri
+
+# This file repairs a few more of the little windows that pop
+# up. In this case, the ones for during map-style battles
+# after the fight.
+
+[ASMPTR]
+[mode-sjis]
+
+# (weapon, ring, etc) Obtained !
+# @@2005640@@
+[spx]obtained!
+[exit]
+
+# (weapon) Broke
+# @@2005736@@
+[spx]broke...
+[exit]
+
+# (gold) Obtained!
+# @@2005809@@
+[spx]gold[spx]obtained!
+[exit]
+
+# (gold) Stolen
+# @@2005872@@
+[spx]gold[spx]stolen...
+[exit]

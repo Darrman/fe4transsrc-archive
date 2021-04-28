@@ -1,5 +1,10 @@
 # 0 0 BANK85
 
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is for altering the options for the Anime/All command.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English

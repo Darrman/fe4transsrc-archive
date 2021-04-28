@@ -1,0 +1,71 @@
+Fire Emblem 4 Patch Block Insertion Description
+By Dark Twilkitri
+
+There are various text areas in Fire Emblem 4 which cannot be inserted via
+the normal Script Insertion Method. These are collectively known as the
+'2A scripts', due to the control code which causes the problem.
+
+The problem is due to the fact that the 2A control code redirects the
+dialogue temporarily to a different script in the ROM. The Script
+Inserter, SIF, has no facility for altering an address which depends on
+something it has placed previously (or has yet to place) instead of
+addresses it knows from the beginning, or addresses which it can attain
+via static maths.
+
+It would be better to design an entire new insertion format to take account
+of the situation behind this problem, as well removing various other
+shortcomings of SIF, but obviously that isn't going to happen. So, we need
+to hack around the problem.
+
+Since SIF can't handle the problem, we store the pieces we'll need later in
+a seperate file, then create routines in SIF to parse that file after the
+.sif file has been parsed.
+
+
+The FE4dump JTEC script dumper has already been modified to dump 2A scripts
+in the required format. Each script is given a unique 'Block Number', and
+instances of control code 2A are output to tell which 'Block' it is
+redirecting to.
+
+The fe4p script parsing program has to be altered so that it creates a .bpr
+file from the script, as well as add in a flag in the .sif header to inform
+SIF that this is a blocked case. It also needs to create a .bls file.
+
+.bls - The Block Listing
+Since SIF isn't going to have the information that fe4p does about which
+block is which number, fe4p will list the order of the blocks in this file.
+Nothing spectacular.
+
+.bpr - The Block Preliminary
+A Block Preliminary file consists of triplets of data: first, the block
+number in which a redirection has been attempted; second, the block which
+is being redirected to; and thirdly, the offset from the start of the block
+to the 2A control itself.
+
+As fe4p finds redirection controls, it will add to this file, which it will
+create after being notified of the eventuality by a tag at the start of the
+script file ([blocked]). This file will be given the same name as the .sif
+file created. fe4p will then fill in the 2A's call address with 0xFFFFFF.
+
+
+After parsing, the .sif file created will be passed to SIF.
+SIF will note down the flag in the header indicating what this script is, and
+will then parse the script file normally, except that at the start of every
+new block it will note the address it has chosen to place that block into a
+.bim file.
+
+
+.bim - The Block Intermediary
+A Block Intermediary file consists of the addresses of all blocks in a given
+.sif file, plus their block number (since blocks are not dumped in numeric
+order). It will have the same name as the corresponding SIF file.
+
+After SIF has finished inserting the text normally, control will then pass
+to the added routine. This will open the .bpr file created by fe4p and look
+at each triplet in turn. First, the calling block will be taken from the .bpr
+and the address for this block will be found in the .bim and stored in memory.
+Secondly, the target block will be taken from the .bpr and the address for
+this block will also be stored in memory. Finally, the offset will be taken
+from the .bpr and added to the address of the calling block to get the address
+of the control code. The address of the target block will be converted to SNES
+format and then be written over the dummy address 0xFFFFFF.

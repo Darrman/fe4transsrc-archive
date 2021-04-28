@@ -1,3 +1,8 @@
+# Last modified: 02/05/04
+# This file was modified by Dark Twilkitri
+
+# This file is for altering the text used in castle town buildings.
+
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used
 #      to replace all Japanese elements with English
@@ -30,26 +35,25 @@
 # @@708787@@
 [winlimit 190]
 [c]
-#OK.¤³¤³¤ÏÆ»¶ñ²°¤À¤¼
-This is the item shop.
+#OK.ï¿½$
+This is the item shop.[n]
 
 [exit]
 
 
 # 0xad395:
 # @@708790@@
-#¤³¤³¤ÏÃæ¸Å²°¤À¤¼
-#¤¤¤í¤¤¤íÇä¤êÇã¤¤¤·¤Æ¤¯¤ì¤è
+#ï¿½ï¿½$
+#í¤¤ï¿½ï¿½ï¿½Æ¤ï¿½
 #Pawn shop - 2nd generation greeting
-This is the pawn shop.[n]Take care of your buying and selling needs here.
+This is the pawn shop.[n]Take care of your buying and selling needs here.[n]
 
 [exit]
 
 
 # 0xad4d9:
 # @@708793@@
-#¤è¤ª¡¢¤³¤³¤Ï½¤Íý²°¤À
-#¤É¤ì¤ò½¤Íý¤¹¤ë¤ó¤À¤¤¡©
+#è¤ªÏ½ï¿½ï¿½#É¤ï¿½ï¿½ï¿½$
 #OK.
 This is the repair shop. What needs fixin'?
 
@@ -58,10 +62,9 @@ This is the repair shop. What needs fixin'?
 
 # 0xad5d3:
 # @@708796@@
-#¤³¤³¤ÏÍÂ¤«¤ê½ê¤è
-#¤´ÍÑ¤Ï²¿¤«¤·¤é¡©
+#ï¿½Â¤ï¿½ï¿½#ï¿½Ï²é¡©
 #OK.
-This is the storage room. What can I do for you? 
+This is the storage room. What can I do for you?[n]
 
 [exit]
 
@@ -74,8 +77,8 @@ This is the storage room. What can I do for you?
 
 # 0xad6b0:
 # @@708802@@
-#OK.¤³¤³¤Ïïçµ»¾ì¤À
-This is the Arena.
+#OK.ï¿½çµ»ï¿½
+This is the Arena.[n]
 
 [exit]
 
@@ -83,9 +86,9 @@ This is the Arena.
 # 0xad80d:
 # @@708805@@
 [c]
-#¤É¤¦¤¹¤ë¡©
+#É¤ë¡©
 #Arena - 1/6 - follows 'You need a weapon to fight here!'
-What'll it be?
+What'll it be?[n]
 
 [exit]
 
@@ -94,9 +97,9 @@ What'll it be?
 # @@708808@@
 [Merge ad0c5]
 [c]
-#¤É¤¦¤¹¤ë¡©
+#É¤ë¡©
 #Arena - 2/6 - follows 'You need a weapon to fight here!'
-What'll it be?
+What'll it be?[n]
 
 [exit]
 
@@ -105,9 +108,9 @@ What'll it be?
 # @@708811@@
 [Merge ad0c5]
 [c]
-#¤É¤¦¤¹¤ë¡©
+#É¤ë¡©
 #Arena - 3/6 - follows 'You need a weapon to fight here!'
-What'll it be?
+What'll it be?[n]
 
 [exit]
 
@@ -116,9 +119,9 @@ What'll it be?
 # @@708814@@
 [Merge ad0c5]
 [c]
-#¤É¤¦¤¹¤ë¡©
+#É¤ë¡©
 #Arena - 4/6 - follows 'You need a weapon to fight here!'
-What'll it be?
+What'll it be?[n]
 
 [exit]
 
@@ -127,9 +130,9 @@ What'll it be?
 # @@708817@@
 [Merge ad0c5]
 [c]
-#¤É¤¦¤¹¤ë¡©
+#É¤ë¡©
 #Arena - 5/6 - follows 'You need a weapon to fight here!'
-What'll it be?
+What'll it be?[n]
 
 [exit]
 
@@ -138,9 +141,9 @@ What'll it be?
 # @@708820@@
 [Merge ad0c5]
 [c]
-#¤É¤¦¤¹¤ë¡©
+#É¤ë¡©
 #Arena - 6/6 - follows 'You need a weapon to fight here!'
-What'll it be?
+What'll it be?[n]
 
 [exit]
 
@@ -148,9 +151,9 @@ What'll it be?
 # 0xad37b:
 # @@708823@@
 [c]
-#¤Û¤«¤ËÍÑ¤Ï¤¢¤ë¤«¤¤¡©
+#Û¤ï¿½Ñ¤Ï¤ë¤«
 #Item shop 1/2
-Anything else?
+Anything else?[n]
 
 [exit]
 
@@ -158,9 +161,9 @@ Anything else?
 # 0xad4b8:
 # @@708826@@
 [c]
-#¤Û¤«¤ËÍÑ¤¬¤¢¤ë¤Î¤«¡©
-#Pawn shop - »ö¤ÎÍÕ has ¡Ö¤Û¤«¤Ë¤â¡×
-You need anything else? 
+#Û¤ï¿½Ñ¤ï¿½
+#Pawn shop - ï¿½ï¿½has Ö¤Û¤Ë¤ï¿½
+You need anything else?[n]
 
 [exit]
 
@@ -168,9 +171,9 @@ You need anything else?
 # 0xad58f:
 # @@708829@@
 [c]
-#¤Û¤«¤ËÍÑ¤Ï¤¢¤ë¤«¤¤¡©
+#Û¤ï¿½Ñ¤Ï¤ë¤«
 #Item shop 2/2
-Anything else?
+Anything else?[n]
 
 [exit]
 
@@ -178,9 +181,9 @@ Anything else?
 # 0xad68f:
 # @@708832@@
 [c]
-#¤Û¤«¤ËÍÑ¤Ï¤¢¤ë¤«¤·¤é¡©
+#Û¤ï¿½Ñ¤Ï¤ë¤«é¡©
 #OK.Storage
-Anything else I can help you with?
+Anything else I can help you with?[n]
 
 [exit]
 
@@ -195,9 +198,9 @@ Anything else I can help you with?
 # @@708838@@
 [Merge ad0d7]
 [c]
-#¤Û¤«¤ËÍÑ¤Ï¤¢¤ë¤«¤¤¡©
+#Û¤ï¿½Ñ¤Ï¤ë¤«
 #Pawn shop
-You need anything else? 
+You need anything else?[n]
 
 [exit]
 
@@ -205,8 +208,7 @@ You need anything else?
 # 0xad38b:
 # @@708841@@
 [c]
-#¤¢¤ê¤¬¤È¤è
-#OK.Item shop
+#ê¤¬È¤ï¿½#OK.Item shop
 Come again.
 [k]
 
@@ -216,9 +218,7 @@ Come again.
 # 0xad4c8:
 # @@708844@@
 [c]
-#¤¢¤ê¤¬¤È¤è
-#¤Þ¤¿¤­¤Æ¤¯¤ì
-#OK.Pawn shop
+#ê¤¬È¤ï¿½#Þ¤Æ¤ï¿½#OK.Pawn shop
 Nice doing business with[n]ya.
 [k]
 
@@ -228,8 +228,7 @@ Nice doing business with[n]ya.
 # 0xad59f:
 # @@708847@@
 [c]
-#¤¸¤ã¡¢¤Þ¤¿¤Ê
-#OK.Repair shop
+#ã¡¢Þ¤ï¿½#OK.Repair shop
 You take care now.
 [k]
 
@@ -239,8 +238,7 @@ You take care now.
 # 0xad6a0:
 # @@708850@@
 [c]
-#¤¸¤ã¤¢¤Þ¤¿¤Í
-#¤Ð¤¤¤Ð¤¤
+#ã¤¢Þ¤ï¿½#Ð¤Ð¤
 #OK.Storage room
 Thanks for stopping by!
 [k]
@@ -258,9 +256,7 @@ Thanks for stopping by!
 # 0xad7f9:
 # @@708856@@
 [c]
-#¤¢¤Ð¤è
-#¤¤¤­¤Æ¤¤¤¿¤é¤Þ¤¿¤³¤¤¤è
-#OK.Arena
+#Ð¤ï¿½#Æ¤ï¿½ï¿½#OK.Arena
 So long![n]
 Come around again if you're still breathin'.
 [k]
@@ -271,7 +267,7 @@ Come around again if you're still breathin'.
 # 0xad2e3:
 # @@708859@@
 [c]
-#¤Ê¤Ë¤¬¤Û¤·¤¤¤ó¤À¤¤¡©
+#Ê¤Ë¤Û¤$
 #OK.Item shop
 Which one can I get for ya?
 
@@ -281,7 +277,7 @@ Which one can I get for ya?
 # 0xad3d2:
 # @@708862@@
 [c]
-#¤É¤ì¤¬¤Û¤·¤¤¤ó¤À¤¤¡©
+#É¤ì¤¬Û¤$
 #Pawn shop
 Which one you want?
 
@@ -292,9 +288,8 @@ Which one you want?
 # @@708865@@
 [Merge ad0fb]
 [c]
-#¤Ê¤Ë¤¬¤Û¤·¤¤¤ó¤À¤¤¡©
-##??? - Not listed in »ö¤ÎÍÕ
-Whaddya want?
+#Ê¤Ë¤Û¤$
+##??? - Not listed in ï¿½ï¿½Whaddya want?
 
 [exit]
 
@@ -302,7 +297,7 @@ Whaddya want?
 # 0xad64e:
 # @@708868@@
 [c]
-#¤É¤ì¤ò¤Ò¤­¼è¤ë¤Î¡©
+#É¤ï¿½Ò¤ï¿½Î¡
 #OK.Storage
 Which would you like to take out of storage?
 
@@ -319,9 +314,9 @@ Which would you like to take out of storage?
 # 0xad2f1:
 # @@708874@@
 [c]
-#¤½¤ÎÆ»¶ñ¤Ç¤¤¤¤¤«¡©
+#ï¿½Ç¤
 #Item shop
-Will this do ya?
+Will this do ya?[n]
 
 [exit]
 
@@ -329,9 +324,9 @@ Will this do ya?
 # 0xad3e0:
 # @@708877@@
 [c]
-#¤½¤ÎÉÊÊª¤Ç¤¤¤¤¤Î¤«¤¤¡©
+#ï¿½ï¿½Ç¤Î¤
 #Pawn shop
-You wanna go with that one?
+You wanna go with that one?[n]
 
 [exit]
 
@@ -340,9 +335,9 @@ You wanna go with that one?
 # @@708880@@
 [Merge ad10a]
 [c]
-#¤½¤ÎÆ»¶ñ¤Ç¤¤¤¤¤«¡©
+#ï¿½Ç¤
 #Item shop
-Will this do ya? 
+Will this do ya?[n]
 
 [exit]
 
@@ -350,9 +345,9 @@ Will this do ya?
 # 0xad601:
 # @@708883@@
 [c]
-#¤½¤ì¤Ç¤¤¤¤¡©
+#ï¿½
 #OK.Storage - For removing from storage
-This one?
+This one?[n]
 
 [exit]
 
@@ -367,7 +362,7 @@ This one?
 # 0xad301:
 # @@708889@@
 [c]
-#¤Û¤«¤Ë¤âÇã¤¦¤«¤¤¡©
+#Û¤Ë¤ï¿½ã¤¦
 #OK.Item shop
 How about another one for ya?
 
@@ -377,7 +372,7 @@ How about another one for ya?
 # 0xad3f2:
 # @@708892@@
 [c]
-#¤Û¤«¤Ë¤â¤Û¤·¤¤¤â¤Î¤Ï¤¢¤ë¤«¤¤¡©
+#Û¤Ë¤ï¿½ï¿½Ï¤ë¤«
 #Pawn shop
 You want anything else?
 
@@ -394,8 +389,8 @@ You want anything else?
 # 0xad65d:
 # @@708898@@
 [c]
-#¤Û¤«¤Ë¤â¤Ò¤­½Ð¤·¤Þ¤¹¤«¡©
-#OK.Storage - Not listed in »ö¤ÎÍÕ!
+#Û¤Ë¤ï¿½Ð¤Þ¤
+#OK.Storage - Not listed in ï¿½ï¿½
 Anything else you need out of storage?
 
 [exit]
@@ -411,7 +406,7 @@ Anything else you need out of storage?
 # 0xad310:
 # @@708904@@
 [c]
-#¤è¤ª¡¢¶â¤¬¤¿¤ê¤Í¤§¤¼
+#è¤ªâ¤¬ï¿½
 #Item shop (1/3)
 Hey, you don't have enough money.[n]Anything else?
 
@@ -423,7 +418,7 @@ Hey, you don't have enough money.[n]Anything else?
 # 0xad47b:
 # @@708907@@
 [c]
-#¤ª¶â¤¬¤¿¤ê¤Í¤¨¤¼
+#â¤¬ï¿½
 #Pawn shop
 You don't got enough money.
 
@@ -435,7 +430,7 @@ You don't got enough money.
 # 0xad563:
 # @@708910@@
 [c]
-#¤ª¶â¤¬¤¿¤ê¤Ê¤¤¤¼¡©
+#â¤¬ï¿½
 #Repair shop
 You're a tad short on money there.
 
@@ -448,7 +443,7 @@ You're a tad short on money there.
 # @@708913@@
 [Merge ad128]
 [c]
-#¤è¤ª¡¢¶â¤¬¤¿¤ê¤Í¤§¤¼
+#è¤ªâ¤¬ï¿½
 #Item shop - (2/3)
 Hey, you don't have enough money.[n]Anything else?
 [k]
@@ -460,7 +455,7 @@ Hey, you don't have enough money.[n]Anything else?
 # @@708916@@
 [Merge ad128]
 [c]
-#¤è¤ª¡¢¶â¤¬¤¿¤ê¤Í¤§¤¼
+#è¤ªâ¤¬ï¿½
 #Item shop - (3/3)
 Hey, you don't have enough money.[n]Anything else?
 [k]
@@ -471,7 +466,7 @@ Hey, you don't have enough money.[n]Anything else?
 # 0xad321:
 # @@708919@@
 [c]
-#¤â¤Á¤â¤Î¤¬¤¤¤Ã¤Ñ¤¤¤À¤¼
+#ï¿½ï¿½Ã¤Ñ¤$
 #Item shop (1/3)
 You've got too much stuff!
 [k]
@@ -482,8 +477,8 @@ You've got too much stuff!
 # 0xad48a:
 # @@708922@@
 [c]
-#¤ª¤¤¤ª¤¤
-#¤â¤Á¤â¤Î¤¬¤¤¤Ã¤Ñ¤¤¤À¤¼
+#
+#ï¿½ï¿½Ã¤Ñ¤$
 #Pawn shop
 Hey, you've got too much stuff!
 [k]
@@ -495,7 +490,7 @@ Hey, you've got too much stuff!
 # @@708925@@
 [Merge ad137]
 [c]
-#¤â¤Á¤â¤Î¤¬¤¤¤Ã¤Ñ¤¤¤À¤¼
+#ï¿½ï¿½Ã¤Ñ¤$
 #Item shop (2/3)
 You've got too much stuff!
 [k]
@@ -506,8 +501,7 @@ You've got too much stuff!
 # 0xad63e:
 # @@708928@@
 [c]
-#¤½¤ó¤Ê¤Ë¤â¤Æ¤Ê¤¤¤Ç¤·¤ç
-#Storage
+#Ê¤Ë¤ï¿½Ê¤Ç¤ï¿½#Storage
 You can't handle that much.
 [k]
 
@@ -518,7 +512,7 @@ You can't handle that much.
 # @@708931@@
 [Merge ad137]
 [c]
-#¤â¤Á¤â¤Î¤¬¤¤¤Ã¤Ñ¤¤¤À¤¼
+#ï¿½ï¿½Ã¤Ñ¤$
 #Item shop (2/3)
 You've got too much stuff!
 [k]
@@ -529,9 +523,7 @@ You've got too much stuff!
 # 0xad49f:
 # @@708934@@
 [c]
-#¤ï¤ë¤¤¤¬¤½¤ÎÉÊÊª¤Ï
-#¤¢¤Ä¤«¤¨¤Í¤§¤Ê
-#Pawn shop (1/4)
+#ï¿½ï¿½ï¿½ï¿½#Ä¤Í¤ï¿½#Pawn shop (1/4)
 Sorry, can't take that off ya.
 [k]
 
@@ -542,9 +534,7 @@ Sorry, can't take that off ya.
 # @@708937@@
 [Merge ad146]
 [c]
-#¤ï¤ë¤¤¤¬¤½¤ÎÉÊÊª¤Ï
-#¤¢¤Ä¤«¤¨¤Í¤§¤Ê
-#OK.Pawn shop (2/4)
+#ï¿½ï¿½ï¿½ï¿½#Ä¤Í¤ï¿½#OK.Pawn shop (2/4)
 Sorry, can't take that off ya.
 [k]
 
@@ -554,10 +544,8 @@ Sorry, can't take that off ya.
 # 0xad573:
 # @@708940@@
 [c]
-#¤ï¤ë¤¤¤¬¤½¤Î¥¢¥¤¥Æ¥à¤Ï
-#¤¦¤Á¤Ç¤Ï¤¢¤Ä¤«¤¨¤Ê¤¤¤è
-#??? (Item shop?) - Not listed in »ö¤ÎÍÕ
-Sorry, we don't handle those here.
+#ï¿½Î¥Æ¥ï¿½
+#dÇ¤Ï¤Ä¤Ê¤ï¿½#??? (Item shop?) - Not listed in ï¿½ï¿½Sorry, we don't handle those here.
 [k]
 
 [exit]
@@ -567,9 +555,7 @@ Sorry, we don't handle those here.
 # @@708943@@
 [Merge ad146]
 [c]
-#¤ï¤ë¤¤¤¬¤½¤ÎÉÊÊª¤Ï
-#¤¢¤Ä¤«¤¨¤Í¤§¤Ê
-#Pawn shop (3/4)
+#ï¿½ï¿½ï¿½ï¿½#Ä¤Í¤ï¿½#Pawn shop (3/4)
 Sorry, can't take that off ya.
 [k]
 
@@ -580,9 +566,7 @@ Sorry, can't take that off ya.
 # @@708946@@
 [Merge ad146]
 [c]
-#¤ï¤ë¤¤¤¬¤½¤ÎÉÊÊª¤Ï
-#¤¢¤Ä¤«¤¨¤Í¤§¤Ê
-#Pawn shop (4/4)
+#ï¿½ï¿½ï¿½ï¿½#Ä¤Í¤ï¿½#Pawn shop (4/4)
 Sorry, can't take that off ya.
 [k]
 
@@ -592,8 +576,7 @@ Sorry, can't take that off ya.
 # 0xad354:
 # @@708949@@
 [c]
-#¼«Ê¬¤Î»ý¤ÁÊª¤Ê¤ó¤«¤ß¤Æ¤Í¤§¤Ç
-#Å¹¤Î¾¦ÉÊ¤ò¤ß¤Æ¤¯¤ì¤è
+#Ê¬Î»ï¿½Ê¤ß¤Æ¤Í¤ï¿½#Å¹Î¾ï¿½ß¤Æ¤ï¿½
 #OK.Item shop
 You here to shop or what?
 
@@ -603,7 +586,7 @@ You here to shop or what?
 # 0xad405:
 # @@708952@@
 [c]
-#¤É¤Î¤â¤Á¤â¤Î¤òÇä¤ë¤ó¤À¡©
+#É¤Î¤ï¿½ï¿½ï¿½ï¿½!
 #OK.Pawn shop
 Which one you wanna sell?
 
@@ -620,7 +603,7 @@ Which one you wanna sell?
 # 0xad5ef:
 # @@708958@@
 [c]
-#¤É¤ì¤òÍÂ¤«¤Ã¤Æ¤Û¤·¤¤¤Î¡©
+#É¤ï¿½ï¿½Ã¤Æ¤Û¤Î¡
 #OK.Storage
 Which one can I store for you?
 
@@ -644,9 +627,9 @@ Which one can I store for you?
 # 0xad417:
 # @@708967@@
 [c]
-#¤½¤ì¤Ç¤¤¤¤¤Î¤«¤¤¡©
+#ï¿½Î¤
 #OK.Pawn shop
-You sure?
+You sure?[n]
 
 [exit]
 
@@ -662,9 +645,9 @@ You sure?
 # @@708973@@
 [Merge ad113]
 [c]
-#¤½¤ì¤Ç¤¤¤¤¡©
+#ï¿½
 #OK.Storage - For putting into storage
-This one? 
+This one?[n]
 
 [exit]
 
@@ -686,7 +669,7 @@ This one?
 # 0xad424:
 # @@708982@@
 [c]
-#¤Û¤«¤Ë¤âÇä¤ë¤Î¤«¡©
+#Û¤Ë¤ï¿½ï¿½Î¤
 #OK.Pawn shop
 Anything else you wanna sell?
 
@@ -703,7 +686,7 @@ Anything else you wanna sell?
 # 0xad60b:
 # @@708988@@
 [c]
-#¤Û¤«¤Ë¤â¤¢¤º¤±¤ë¡©
+#Û¤Ë¤â¤¢ë¡©
 #OK.Storage
 Anything else to store?
 
@@ -720,7 +703,7 @@ Anything else to store?
 # 0xad50a:
 # @@708994@@
 [c]
-#¤É¤ì¤ò½¤Íý¤¹¤ë¤ó¤À¤¤¡©
+#É¤ï¿½ï¿½ï¿½$
 #Repair shop 1/3
 What needs fixin'?
 
@@ -731,7 +714,7 @@ What needs fixin'?
 # @@708997@@
 [Merge ad182]
 [c]
-#¤É¤ì¤ò½¤Íý¤¹¤ë¤ó¤À¤¤¡©
+#É¤ï¿½ï¿½ï¿½$
 #Repair shop 2/3
 What needs fixin'?
 
@@ -741,9 +724,9 @@ What needs fixin'?
 # 0xad4f8:
 # @@709000@@
 [c]
-#¤Ê¤Ë¤ò½¤Íý¤¹¤ë¤ó¤À¤¤¡©
+#Ê¤Ë¤ï¿½ï¿½$
 #Repair shop 1/5
-Shall I fix 'er up for ya?
+Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -752,7 +735,7 @@ Shall I fix 'er up for ya?
 # @@709003@@
 [Merge ad182]
 [c]
-#¤É¤ì¤ò½¤Íý¤¹¤ë¤ó¤À¤¤¡©
+#É¤ï¿½ï¿½ï¿½$
 #Repair shop 3/3
 What needs fixin'?
 
@@ -769,9 +752,9 @@ What needs fixin'?
 # 0xad51c:
 # @@709009@@
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
+#ï¿½ï¿½ï¿½
 #Repair shop 2/5
-Shall I fix 'er up for ya?
+Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -780,9 +763,9 @@ Shall I fix 'er up for ya?
 # @@709012@@
 [Merge ad191]
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
+#ï¿½ï¿½ï¿½
 #Repair shop 3/5
-Shall I fix 'er up for ya?
+Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -791,9 +774,9 @@ Shall I fix 'er up for ya?
 # @@709015@@
 [Merge ad191]
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
+#ï¿½ï¿½ï¿½
 #OK.Repair shop 4/5
-Shall I fix 'er up for ya?
+Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -802,9 +785,9 @@ Shall I fix 'er up for ya?
 # @@709018@@
 [Merge ad191]
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
+#ï¿½ï¿½ï¿½
 #Repair shop 5/5
-Shall I fix 'er up for ya?
+Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -812,14 +795,12 @@ Shall I fix 'er up for ya?
 # 0xad928:
 # @@709021@@
 [c]
-#¤¬¤ó¤Ð¤ê¤Þ¤·¤¿¤Í
-#¤¢¤Ê¤¿¤Ï[$00$28]¤Ë
-#¥¯¥é¥¹¥Á¥§¥ó¥¸¤Ç¤­¤Þ¤¹[k]
+#Ð¤ï¿½ï¿½#Ê¤ï¿½$00$28]ï¿½#é¥¹eÇ¤Þ¤[k]
 #Class Change
 Good work. You're ready to be promoted to [$00$28].[k]
 [c]
-#¥¯¥é¥¹¥Á¥§¥ó¥¸¤·¤Þ¤¹¤«¡©
-Do you want to be promoted?
+#é¥¹eÞ¤
+Do you want to be promoted?[n]
 
 [exit]
 
@@ -827,7 +808,7 @@ Do you want to be promoted?
 # 0xad551:
 # @@709024@@
 [c]
-#¤Û¤«¤Ë¤â½¤Íý¤¹¤ë¤«¤¤¡©
+#Û¤Ë¤â½¤ï¿½ë¤«
 #Repair shop 1/5
 Anything else need fixin'?
 
@@ -838,7 +819,7 @@ Anything else need fixin'?
 # @@709027@@
 [Merge ad1a0]
 [c]
-#¤Û¤«¤Ë¤â½¤Íý¤¹¤ë¤«¤¤¡©
+#Û¤Ë¤â½¤ï¿½ë¤«
 #Repair shop 2/5
 Anything else need fixin'?
 
@@ -849,7 +830,7 @@ Anything else need fixin'?
 # @@709030@@
 [Merge ad1a0]
 [c]
-#¤Û¤«¤Ë¤â½¤Íý¤¹¤ë¤«¤¤¡©
+#Û¤Ë¤â½¤ï¿½ë¤«
 #OK.Repair shop 3/5
 Anything else need fixin'?
 
@@ -860,7 +841,7 @@ Anything else need fixin'?
 # @@709033@@
 [Merge ad1a0]
 [c]
-#¤Û¤«¤Ë¤â½¤Íý¤¹¤ë¤«¤¤¡©
+#Û¤Ë¤â½¤ï¿½ë¤«
 #Repair shop 4/5
 Anything else need fixin'?
 
@@ -871,7 +852,7 @@ Anything else need fixin'?
 # @@709036@@
 [Merge ad1a0]
 [c]
-#¤Û¤«¤Ë¤â½¤Íý¤¹¤ë¤«¤¤¡©
+#Û¤Ë¤â½¤ï¿½ë¤«
 #Repair shop 5/5
 Anything else need fixin'?
 
@@ -881,10 +862,10 @@ Anything else need fixin'?
 # 0xad52e:
 # @@709039@@
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
-#¤¤¤¤ÉÊ¤À¤Ê¡¢Âç»ö¤Ë¤·¤í¤è
+#ï¿½ï¿½ï¿½
+#ï¿½$Ê¡ï¿½Ë¤ï¿½
 #Repair shop 1/4
-Nice piece ya have there. Shall I fix 'er up for ya?
+Nice piece ya have there. Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -893,10 +874,10 @@ Nice piece ya have there. Shall I fix 'er up for ya?
 # @@709042@@
 [Merge ad1af]
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
-#¤¤¤¤ÉÊ¤À¤Ê¡¢Âç»ö¤Ë¤·¤í¤è
+#ï¿½ï¿½ï¿½
+#ï¿½$Ê¡ï¿½Ë¤ï¿½
 #Repair shop 2/4
-Nice piece ya have there. Shall I fix 'er up for ya?
+Nice piece ya have there. Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -905,10 +886,10 @@ Nice piece ya have there. Shall I fix 'er up for ya?
 # @@709045@@
 [Merge ad1af]
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
-#¤¤¤¤ÉÊ¤À¤Ê¡¢Âç»ö¤Ë¤·¤í¤è
+#ï¿½ï¿½ï¿½
+#ï¿½$Ê¡ï¿½Ë¤ï¿½
 #Repair shop 3/4
-Nice piece ya have there. Shall I fix 'er up for ya?
+Nice piece ya have there. Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -917,10 +898,10 @@ Nice piece ya have there. Shall I fix 'er up for ya?
 # @@709048@@
 [Merge ad1af]
 [c]
-#¤½¤ì¤ò½¤Íý¤¹¤ë¤Î¤«¤¤¡©
-#¤¤¤¤ÉÊ¤À¤Ê¡¢Âç»ö¤Ë¤·¤í¤è
+#ï¿½ï¿½ï¿½
+#ï¿½$Ê¡ï¿½Ë¤ï¿½
 #OK.Repair shop 4/4
-Nice piece ya have there. Shall I fix 'er up for ya?
+Nice piece ya have there. Shall I fix 'er up for ya?[n]
 
 [exit]
 
@@ -929,14 +910,12 @@ Nice piece ya have there. Shall I fix 'er up for ya?
 # @@709051@@
 [Merge ad19d]
 [c]
-#¤¬¤ó¤Ð¤ê¤Þ¤·¤¿¤Í
-#¤¢¤Ê¤¿¤Ï[$00$28]¤Ë
-#¥¯¥é¥¹¥Á¥§¥ó¥¸¤Ç¤­¤Þ¤¹[k]
+#Ð¤ï¿½ï¿½#Ê¤ï¿½$00$28]ï¿½#é¥¹eÇ¤Þ¤[k]
 #Class Change
 Good work. You're ready to be promoted to [$00$28].[k]
 [c]
-#¥¯¥é¥¹¥Á¥§¥ó¥¸¤·¤Þ¤¹¤«¡©
-Do you want to be promoted?
+#é¥¹eÞ¤
+Do you want to be promoted?[n]
 
 [exit]
 [winlimit 0]

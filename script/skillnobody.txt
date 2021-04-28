@@ -1,0 +1,12 @@
+# Last Modified: 21/06/04
+# This file was added by Dark Twilkitri
+
+# This file is used for altering the 'No-one has this skill'
+# entry on the skill screen.
+
+[ASMPTR3]
+[mode-sjis]
+
+# @@777350@@
+Nobody
+[exit]

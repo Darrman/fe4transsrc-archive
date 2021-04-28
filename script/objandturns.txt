@@ -1,0 +1,16 @@
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is used to alter the headings in the top half of the Data Screen.
+
+[ASMPTR]
+[mode-sjis]
+
+# @@56571@@
+Goal[exit]
+
+# @@56617@@
+Time[exit]
+
+# @@56656@@
+[spx]Turns[exit]

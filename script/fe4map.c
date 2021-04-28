@@ -1,5 +1,8 @@
 /* $Id: fe4map.c,v 1.2 2001/08/31 18:41:52 j10 Exp $ */
-
+/* Last modified: 02/05/04
+   This file was last modified by Dark Twilkitri
+   
+   This file is used for determining the addresses for relative pointers. */
 int id()
 {
    return 0x51F500;
@@ -25,6 +28,8 @@ unsigned long mapfunc(unsigned long addr,int mapno)
          return (addr - 0x3DE12 + 0x200) & 0xFFFF;
       case 8:
          return (addr - 0x3F717 + 0x200) & 0xFFFF;
+      case 10:
+         return addr & 0xFFFF;
    }
 
    return addr;

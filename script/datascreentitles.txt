@@ -1,0 +1,23 @@
+# 0 0 PUBLIC
+
+# Last modified: 02/05/04
+# This file was added by Dark Twilkitri
+
+# This file is for altering the column titles in the Data Screen.
+
+[ASMPTR]
+[section PUBLIC]
+[mode-sjis]
+
+
+# @@57036@@
+Army[exit]
+
+# @@774999@@
+Lead[exit]
+
+# @@775016@@
+Type[exit]
+
+# @@775033@@
+Unit[exit]

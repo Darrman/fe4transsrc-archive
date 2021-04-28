@@ -1,0 +1,12 @@
+# Last Modified: 21/06/04
+# This file was added by Dark Twilkitri
+
+# This file merely modifies a value to make the function which
+# wipes clean the names in the skill menu wipe further.
+
+[noptr]
+[mode-notext]
+
+# @@777071@@
+0x0D
+[exit]

@@ -1,0 +1,27 @@
+[ASMPTR]
+[mode-sjis]
+
+# Who? (Original)
+# @@58310@@
+Choose[spx]character[spx]to[spx]revive
+[exit]
+
+# Revive? (more than one person dead)
+# @@634855@@
+Revive[spx]
+[exit]
+
+# Revive? (only one person dead)
+# @@634881@@
+Revive[spx]character
+[exit]
+
+# Yes/No
+# @@634898@@
+Yes[spx][spx]No
+[exit]
+
+# Who? (Reprint)
+# @@635317@@
+Choose[spx]character[spx]to[spx]revive
+[exit]
