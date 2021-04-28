@@ -1,0 +1,32 @@
+Event handling in FE4:
+
+12 F7 7F 0C - ??????
+--------------------
+This sequence will appear before the text is loaded.
+Hm....
+
+FD23: PROCESS MAP EVENT (?)
+---------------------------
+??????
+
+FD34: WAIT
+----------
+
+FD34 NNNN
+
+NNNN = Wait for NNNN ticks (?)
+
+FD0C: TEXT DIALOG (NO BG)
+-------------------------
+
+FD0C 24BPTR
+
+FD14: TEXT DIALOG
+-----------------
+
+FD14 24BPTR BG ?? FD
+
+24BPTR = 24-bit pointer to text dialog
+BG = Background index
+?? = Unknown
+FD = Screen Fade Speed (1 = fastest ... 255, 0 = slowest)

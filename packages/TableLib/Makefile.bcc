@@ -1,0 +1,19 @@
+# Makefile for Borland C++
+# requires Borland make
+
+CC=bcc
+TLIB=tlib
+OBJS=hash.obj string.obj tbl.obj
+CFLAGS=-P- -O2 -R- -H- -ml
+tbllib.lib : $(OBJS)
+  $(TLIB) $@ -+string.obj -+tbl.obj -+hash.obj
+
+string.obj :  string.c
+	$(CC) $(CFLAGS) -c -o$@ string.c
+
+tbl.obj :  tbl.c
+	$(CC) $(CFLAGS) -c -o$@ tbl.c
+
+hash.obj :  hash.c
+	$(CC) $(CFLAGS) -c -o$@ hash.c
+

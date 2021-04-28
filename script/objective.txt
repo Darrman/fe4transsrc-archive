@@ -1,0 +1,136 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# 0 0 BANK80
+[section BANK80]
+[bits16]
+[mode-sjis]
+
+# 0x00DD98:
+# P: DD74
+# @@56692@@
+
+#エバンス城のせいあつ
+Subdue Evans Castle
+
+[exit]
+
+# 0x00DDAE:
+# P: DD77
+# @@56695@@
+
+#ヴェルダン城のせいあつ
+Subdue Verdane Castle
+
+[exit]
+
+# 0x00DDC6:
+# P: DD7A
+# @@56698@@
+
+#アグスティ城のせいあつ
+Subdue Agusty Castle
+
+[exit]
+
+# 0x00DDDE:
+# P: DD7D
+# @@56701@@
+
+#オーガヒル城のせいあつ
+Subdue Orgahil Castle
+
+[exit]
+
+# 0x00DDF6:
+# P: DD80
+# @@56704@@
+
+#ザクソン城のせいあつ
+Subdue Zaxon Castle
+
+[exit]
+
+# 0x00DE0C:
+# P: DD83
+# @@56707@@
+
+#バーハラ城のせいあつ
+Subdue Barhara Castle
+
+[exit]
+
+# 0x00DE22:
+# P: DD86
+# @@56710@@
+
+#リボー城のせいあつ
+Subdue Rivough Castle
+
+[exit]
+
+# 0x00DE36:
+# P: DD89
+# @@56713@@
+
+#アルスター城のせいあつ
+Subdue Alster Castle
+
+[exit]
+
+# 0x00DE4E:
+# P: DD8C
+# @@56716@@
+
+#ミーズ城のせいあつ
+Subdue Mease Castle
+
+[exit]
+
+# 0x00DE62:
+# P: DD8F
+# @@56719@@
+
+#トラキア城のせいあつ
+Subdue Thracia Castle
+
+[exit]
+
+# 0x00DE78:
+# P: DD92
+# @@56722@@
+
+#シアルフィ城のせいあつ
+Subdue Chalphy Castle
+
+[exit]
+
+# 0x00DE90:
+# P: DD95
+# @@56725@@
+
+#バーハラ城のせいあつ
+Subdue Barhara Castle
+
+[exit]
+

@@ -1,0 +1,943 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# Fire Emblem 4 Script Dump
+# ppt/shop.ppt
+
+# Filesize: 4194816 bytes
+
+# 0xad2d4:
+# @@708787@@
+[winlimit 190]
+[c]
+#OK.ここは道具屋だぜ
+This is the item shop.
+
+[exit]
+
+
+# 0xad395:
+# @@708790@@
+#ここは中古屋だぜ
+#いろいろ売り買いしてくれよ
+#Pawn shop - 2nd generation greeting
+This is the pawn shop.[n]Take care of your buying and selling needs here.
+
+[exit]
+
+
+# 0xad4d9:
+# @@708793@@
+#よお、ここは修理屋だ
+#どれを修理するんだい？
+#OK.
+This is the repair shop. What needs fixin'?
+
+[exit]
+
+
+# 0xad5d3:
+# @@708796@@
+#ここは預かり所よ
+#ご用は何かしら？
+#OK.
+This is the storage room. What can I do for you? 
+
+[exit]
+
+
+# 0xad927:
+# @@708799@@
+
+[exit]
+
+
+# 0xad6b0:
+# @@708802@@
+#OK.ここは閾技場だ
+This is the Arena.
+
+[exit]
+
+
+# 0xad80d:
+# @@708805@@
+[c]
+#どうする？
+#Arena - 1/6 - follows 'You need a weapon to fight here!'
+What'll it be?
+
+[exit]
+
+
+# 0xad80d:
+# @@708808@@
+[Merge ad0c5]
+[c]
+#どうする？
+#Arena - 2/6 - follows 'You need a weapon to fight here!'
+What'll it be?
+
+[exit]
+
+
+# 0xad80d:
+# @@708811@@
+[Merge ad0c5]
+[c]
+#どうする？
+#Arena - 3/6 - follows 'You need a weapon to fight here!'
+What'll it be?
+
+[exit]
+
+
+# 0xad80d:
+# @@708814@@
+[Merge ad0c5]
+[c]
+#どうする？
+#Arena - 4/6 - follows 'You need a weapon to fight here!'
+What'll it be?
+
+[exit]
+
+
+# 0xad80d:
+# @@708817@@
+[Merge ad0c5]
+[c]
+#どうする？
+#Arena - 5/6 - follows 'You need a weapon to fight here!'
+What'll it be?
+
+[exit]
+
+
+# 0xad80d:
+# @@708820@@
+[Merge ad0c5]
+[c]
+#どうする？
+#Arena - 6/6 - follows 'You need a weapon to fight here!'
+What'll it be?
+
+[exit]
+
+
+# 0xad37b:
+# @@708823@@
+[c]
+#ほかに用はあるかい？
+#Item shop 1/2
+Anything else?
+
+[exit]
+
+
+# 0xad4b8:
+# @@708826@@
+[c]
+#ほかに用があるのか？
+#Pawn shop - 事の葉 has 「ほかにも」
+You need anything else? 
+
+[exit]
+
+
+# 0xad58f:
+# @@708829@@
+[c]
+#ほかに用はあるかい？
+#Item shop 2/2
+Anything else?
+
+[exit]
+
+
+# 0xad68f:
+# @@708832@@
+[c]
+#ほかに用はあるかしら？
+#OK.Storage
+Anything else I can help you with?
+
+[exit]
+
+
+# 0xada1a:
+# @@708835@@
+
+[exit]
+
+
+# 0xad37b:
+# @@708838@@
+[Merge ad0d7]
+[c]
+#ほかに用はあるかい？
+#Pawn shop
+You need anything else? 
+
+[exit]
+
+
+# 0xad38b:
+# @@708841@@
+[c]
+#ありがとよ
+#OK.Item shop
+Come again.
+[k]
+
+[exit]
+
+
+# 0xad4c8:
+# @@708844@@
+[c]
+#ありがとよ
+#またきてくれ
+#OK.Pawn shop
+Nice doing business with[n]ya.
+[k]
+
+[exit]
+
+
+# 0xad59f:
+# @@708847@@
+[c]
+#じゃ、またな
+#OK.Repair shop
+You take care now.
+[k]
+
+[exit]
+
+
+# 0xad6a0:
+# @@708850@@
+[c]
+#じゃあまたね
+#ばいばい
+#OK.Storage room
+Thanks for stopping by!
+[k]
+
+[exit]
+
+
+# 0xada1a:
+# @@708853@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad7f9:
+# @@708856@@
+[c]
+#あばよ
+#いきていたらまたこいよ
+#OK.Arena
+So long![n]
+Come around again if you're still breathin'.
+[k]
+
+[exit]
+
+
+# 0xad2e3:
+# @@708859@@
+[c]
+#なにがほしいんだい？
+#OK.Item shop
+Which one can I get for ya?
+
+[exit]
+
+
+# 0xad3d2:
+# @@708862@@
+[c]
+#どれがほしいんだい？
+#Pawn shop
+Which one you want?
+
+[exit]
+
+
+# 0xad2e3:
+# @@708865@@
+[Merge ad0fb]
+[c]
+#なにがほしいんだい？
+##??? - Not listed in 事の葉
+Whaddya want?
+
+[exit]
+
+
+# 0xad64e:
+# @@708868@@
+[c]
+#どれをひき取るの？
+#OK.Storage
+Which would you like to take out of storage?
+
+[exit]
+
+
+# 0xada1a:
+# @@708871@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad2f1:
+# @@708874@@
+[c]
+#その道具でいいか？
+#Item shop
+Will this do ya?
+
+[exit]
+
+
+# 0xad3e0:
+# @@708877@@
+[c]
+#その品物でいいのかい？
+#Pawn shop
+You wanna go with that one?
+
+[exit]
+
+
+# 0xad2f1:
+# @@708880@@
+[Merge ad10a]
+[c]
+#その道具でいいか？
+#Item shop
+Will this do ya? 
+
+[exit]
+
+
+# 0xad601:
+# @@708883@@
+[c]
+#それでいい？
+#OK.Storage - For removing from storage
+This one?
+
+[exit]
+
+
+# 0xada1a:
+# @@708886@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad301:
+# @@708889@@
+[c]
+#ほかにも買うかい？
+#OK.Item shop
+How about another one for ya?
+
+[exit]
+
+
+# 0xad3f2:
+# @@708892@@
+[c]
+#ほかにもほしいものはあるかい？
+#Pawn shop
+You want anything else?
+
+[exit]
+
+
+# 0xada1a:
+# @@708895@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad65d:
+# @@708898@@
+[c]
+#ほかにもひき出しますか？
+#OK.Storage - Not listed in 事の葉!
+Anything else you need out of storage?
+
+[exit]
+
+
+# 0xada1a:
+# @@708901@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad310:
+# @@708904@@
+[c]
+#よお、金がたりねぇぜ
+#Item shop (1/3)
+Hey, you don't have enough money.[n]Anything else?
+
+[k]
+
+[exit]
+
+
+# 0xad47b:
+# @@708907@@
+[c]
+#お金がたりねえぜ
+#Pawn shop
+You don't got enough money.
+
+[k]
+
+[exit]
+
+
+# 0xad563:
+# @@708910@@
+[c]
+#お金がたりないぜ？
+#Repair shop
+You're a tad short on money there.
+
+[k]
+
+[exit]
+
+
+# 0xad310:
+# @@708913@@
+[Merge ad128]
+[c]
+#よお、金がたりねぇぜ
+#Item shop - (2/3)
+Hey, you don't have enough money.[n]Anything else?
+[k]
+
+[exit]
+
+
+# 0xad310:
+# @@708916@@
+[Merge ad128]
+[c]
+#よお、金がたりねぇぜ
+#Item shop - (3/3)
+Hey, you don't have enough money.[n]Anything else?
+[k]
+
+[exit]
+
+
+# 0xad321:
+# @@708919@@
+[c]
+#もちものがいっぱいだぜ
+#Item shop (1/3)
+You've got too much stuff!
+[k]
+
+[exit]
+
+
+# 0xad48a:
+# @@708922@@
+[c]
+#おいおい
+#もちものがいっぱいだぜ
+#Pawn shop
+Hey, you've got too much stuff!
+[k]
+
+[exit]
+
+
+# 0xad321:
+# @@708925@@
+[Merge ad137]
+[c]
+#もちものがいっぱいだぜ
+#Item shop (2/3)
+You've got too much stuff!
+[k]
+
+[exit]
+
+
+# 0xad63e:
+# @@708928@@
+[c]
+#そんなにもてないでしょ
+#Storage
+You can't handle that much.
+[k]
+
+[exit]
+
+
+# 0xad321:
+# @@708931@@
+[Merge ad137]
+[c]
+#もちものがいっぱいだぜ
+#Item shop (2/3)
+You've got too much stuff!
+[k]
+
+[exit]
+
+
+# 0xad49f:
+# @@708934@@
+[c]
+#わるいがその品物は
+#あつかえねぇな
+#Pawn shop (1/4)
+Sorry, can't take that off ya.
+[k]
+
+[exit]
+
+
+# 0xad49f:
+# @@708937@@
+[Merge ad146]
+[c]
+#わるいがその品物は
+#あつかえねぇな
+#OK.Pawn shop (2/4)
+Sorry, can't take that off ya.
+[k]
+
+[exit]
+
+
+# 0xad573:
+# @@708940@@
+[c]
+#わるいがそのアイテムは
+#うちではあつかえないよ
+#??? (Item shop?) - Not listed in 事の葉
+Sorry, we don't handle those here.
+[k]
+
+[exit]
+
+
+# 0xad49f:
+# @@708943@@
+[Merge ad146]
+[c]
+#わるいがその品物は
+#あつかえねぇな
+#Pawn shop (3/4)
+Sorry, can't take that off ya.
+[k]
+
+[exit]
+
+
+# 0xad49f:
+# @@708946@@
+[Merge ad146]
+[c]
+#わるいがその品物は
+#あつかえねぇな
+#Pawn shop (4/4)
+Sorry, can't take that off ya.
+[k]
+
+[exit]
+
+
+# 0xad354:
+# @@708949@@
+[c]
+#自分の持ち物なんかみてねぇで
+#店の商品をみてくれよ
+#OK.Item shop
+You here to shop or what?
+
+[exit]
+
+
+# 0xad405:
+# @@708952@@
+[c]
+#どのもちものを売るんだ？
+#OK.Pawn shop
+Which one you wanna sell?
+
+[exit]
+
+
+# 0xada1a:
+# @@708955@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad5ef:
+# @@708958@@
+[c]
+#どれを預かってほしいの？
+#OK.Storage
+Which one can I store for you?
+
+[exit]
+
+
+# 0xada1a:
+# @@708961@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xada1a:
+# @@708964@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad417:
+# @@708967@@
+[c]
+#それでいいのかい？
+#OK.Pawn shop
+You sure?
+
+[exit]
+
+
+# 0xada1a:
+# @@708970@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad601:
+# @@708973@@
+[Merge ad113]
+[c]
+#それでいい？
+#OK.Storage - For putting into storage
+This one? 
+
+[exit]
+
+
+# 0xada1a:
+# @@708976@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xada1a:
+# @@708979@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad424:
+# @@708982@@
+[c]
+#ほかにも売るのか？
+#OK.Pawn shop
+Anything else you wanna sell?
+
+[exit]
+
+
+# 0xada1a:
+# @@708985@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad60b:
+# @@708988@@
+[c]
+#ほかにもあずける？
+#OK.Storage
+Anything else to store?
+
+[exit]
+
+
+# 0xada1a:
+# @@708991@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad50a:
+# @@708994@@
+[c]
+#どれを修理するんだい？
+#Repair shop 1/3
+What needs fixin'?
+
+[exit]
+
+
+# 0xad50a:
+# @@708997@@
+[Merge ad182]
+[c]
+#どれを修理するんだい？
+#Repair shop 2/3
+What needs fixin'?
+
+[exit]
+
+
+# 0xad4f8:
+# @@709000@@
+[c]
+#なにを修理するんだい？
+#Repair shop 1/5
+Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad50a:
+# @@709003@@
+[Merge ad182]
+[c]
+#どれを修理するんだい？
+#Repair shop 3/3
+What needs fixin'?
+
+[exit]
+
+
+# 0xada1a:
+# @@709006@@
+[Merge ad0e3]
+
+[exit]
+
+
+# 0xad51c:
+# @@709009@@
+[c]
+#それを修理するのかい？
+#Repair shop 2/5
+Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad51c:
+# @@709012@@
+[Merge ad191]
+[c]
+#それを修理するのかい？
+#Repair shop 3/5
+Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad51c:
+# @@709015@@
+[Merge ad191]
+[c]
+#それを修理するのかい？
+#OK.Repair shop 4/5
+Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad51c:
+# @@709018@@
+[Merge ad191]
+[c]
+#それを修理するのかい？
+#Repair shop 5/5
+Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad928:
+# @@709021@@
+[c]
+#がんばりましたね
+#あなたは[$00$28]に
+#クラスチェンジできます[k]
+#Class Change
+Good work. You're ready to be promoted to [$00$28].[k]
+[c]
+#クラスチェンジしますか？
+Do you want to be promoted?
+
+[exit]
+
+
+# 0xad551:
+# @@709024@@
+[c]
+#ほかにも修理するかい？
+#Repair shop 1/5
+Anything else need fixin'?
+
+[exit]
+
+
+# 0xad551:
+# @@709027@@
+[Merge ad1a0]
+[c]
+#ほかにも修理するかい？
+#Repair shop 2/5
+Anything else need fixin'?
+
+[exit]
+
+
+# 0xad551:
+# @@709030@@
+[Merge ad1a0]
+[c]
+#ほかにも修理するかい？
+#OK.Repair shop 3/5
+Anything else need fixin'?
+
+[exit]
+
+
+# 0xad551:
+# @@709033@@
+[Merge ad1a0]
+[c]
+#ほかにも修理するかい？
+#Repair shop 4/5
+Anything else need fixin'?
+
+[exit]
+
+
+# 0xad551:
+# @@709036@@
+[Merge ad1a0]
+[c]
+#ほかにも修理するかい？
+#Repair shop 5/5
+Anything else need fixin'?
+
+[exit]
+
+
+# 0xad52e:
+# @@709039@@
+[c]
+#それを修理するのかい？
+#いい品だな、大事にしろよ
+#Repair shop 1/4
+Nice piece ya have there. Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad52e:
+# @@709042@@
+[Merge ad1af]
+[c]
+#それを修理するのかい？
+#いい品だな、大事にしろよ
+#Repair shop 2/4
+Nice piece ya have there. Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad52e:
+# @@709045@@
+[Merge ad1af]
+[c]
+#それを修理するのかい？
+#いい品だな、大事にしろよ
+#Repair shop 3/4
+Nice piece ya have there. Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad52e:
+# @@709048@@
+[Merge ad1af]
+[c]
+#それを修理するのかい？
+#いい品だな、大事にしろよ
+#OK.Repair shop 4/4
+Nice piece ya have there. Shall I fix 'er up for ya?
+
+[exit]
+
+
+# 0xad928:
+# @@709051@@
+[Merge ad19d]
+[c]
+#がんばりましたね
+#あなたは[$00$28]に
+#クラスチェンジできます[k]
+#Class Change
+Good work. You're ready to be promoted to [$00$28].[k]
+[c]
+#クラスチェンジしますか？
+Do you want to be promoted?
+
+[exit]
+[winlimit 0]
+

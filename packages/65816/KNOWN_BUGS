@@ -1,0 +1,13 @@
+KNOWN BUGS & CAVEATS
+--------------------
+
+* you must explicitly pad banks out to 32k bytes for a .b file to be padded
+	(.smc files are padded to 32k by definition)
+
+* if you pad to a value less than you current position it will screw up
+   (bug is in address_directive(); and has to do with hirom support)
+		$9000	lda $>ff
+		$9003	pad $1000   <---this will screw up, hirom bug 
+					affecting normal code generation
+
+* default word values, < forces byte addressing, > forces long

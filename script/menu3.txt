@@ -1,0 +1,269 @@
+# 0 0 BANK85
+
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+[section BANK85]
+[bits16]
+[mode-sjis]
+
+# 0x05E359:
+# P: 5E4AF
+# @@386223@@
+
+[$98$DF$85$01$01$81$40]
+#?????????
+Return to castle
+
+[exit]
+
+# 0x05E37B:
+# P: 5E4B1
+# @@386225@@
+
+[$04$E0$85$01$01$81$40]
+#?????????
+Return to castle
+
+[exit]
+
+# 0x05E3B9:
+# P: 5E4B3
+# @@386227@@
+
+[$FD$DF$85$01$01$81$40]
+#?A?j??
+Animation
+
+[exit]
+
+# 0x05E3AA:
+# P: 5E4B5
+# @@386229@@
+
+[$DE$DF$85$01$01$81$40]
+#??????
+Equip
+
+[exit]
+
+# 0x05E39B:
+# P: 5E4B7
+# @@386231@@
+
+[$A6$DF$85$01$01$81$40]
+#??????
+Dismount
+
+[exit]
+
+# 0x05E38E:
+# P: 5E4B9
+# @@386233@@
+
+[$B4$DF$85$01$01$81$40]
+#????
+Mount
+
+[exit]
+
+# 0x05E2DD:
+# P: 5E4BB
+# @@386235@@
+
+[$50$E0$85$01$01$81$40]
+#??????
+Give
+
+[exit]
+
+# 0x05E2CE:
+# P: 5E4BD
+# @@386237@@
+
+[$30$E0$85$01$01$81$40]
+#??????
+Give
+
+[exit]
+
+# 0x05E2AE:
+# P: 5E4BF
+# @@386239@@
+
+[$FB$DE$85$01$01$81$40]
+#????????
+Belongings
+
+[exit]
+
+# 0x05E2A1:
+# P: 5E4C1
+# @@386241@@
+
+[$D6$DE$85$01$01$81$40]
+#????
+Staff
+
+[exit]
+
+# 0x05E36C:
+# P: 5E4C3
+# @@386243@@
+
+[$43$DE$85$01$01$81$40]
+#??????
+Stay
+
+[exit]
+
+# 0x05E2BF:
+# P: 5E4C5
+# @@386245@@
+
+[$C2$DF$85$01$01$81$40]
+#??????
+Talk
+
+[exit]
+
+# 0x05E346:
+# P: 5E4C7
+# @@386247@@
+
+[$8A$DF$85$01$01$81$40]
+#??????????
+Depart
+
+[exit]
+
+# 0x05E337:
+# P: 5E4C9
+# @@386249@@
+
+[$7D$DF$85$01$01$81$40]
+#??????
+Equip
+
+[exit]
+
+# 0x05E32A:
+# P: 5E4CB
+# @@386251@@
+
+[$61$DF$85$01$01$81$40]
+#????
+Village
+
+[exit]
+
+# 0x05E31D:
+# P: 5E4CD
+# @@386253@@
+
+[$3F$DF$85$01$01$81$40]
+#????
+Town
+
+[exit]
+
+# 0x05E2FD:
+# P: 5E4CF
+# @@386255@@
+
+[$6F$DF$85$01$01$81$40]
+#????????
+Subdue
+
+[exit]
+
+# 0x05E30E:
+# P: 5E4D1
+# @@386257@@
+
+[$20$DF$85$01$01$81$40]
+#??????
+Enter
+
+[exit]
+
+# 0x05E292:
+# P: 5E4D3
+# @@386259@@
+
+[$AB$DE$85$01$01$81$40]
+#??????
+Dance
+
+[exit]
+
+# 0x05E2A1:
+# P: 5E4D5
+# @@386261@@
+
+[$D6$DE$85$01$01$81$40]
+#????
+Staff
+
+[exit]
+
+# 0x05E270:
+# P: 5E4D7
+# @@386263@@
+
+[$57$DE$85$01$01$81$40]
+#????????
+Attack
+
+[exit]
+
+# 0x05E281:
+# P: 5E4D9
+# @@386265@@
+
+[$7C$DE$85$01$01$81$40]
+#????????
+Charge
+
+[exit]
+
+# 0x05E2EC:
+# P: 5E4DB
+# @@386267@@
+
+[$12$E0$85$01$01$81$40]
+#????????
+Help
+
+[exit]
+
+# 0x05E2BF:
+# P: 5E4DD
+# @@386269@@
+
+[$C2$DF$85$01$01$81$40]
+#??????
+Talk
+
+[exit]
+

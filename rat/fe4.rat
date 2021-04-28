@@ -1,0 +1,78 @@
+.rat
+# This lists most of the blank spaces in the rom
+# which are usually the areas with FF FF FF FF ...
+# These are likely just fillers and can be overwritten
+
+SECTION PUBLIC
+        003E10-0081FF           # 17392 bytes
+SECTION BANK80
+        00D862-00DA17  # 438 bytes
+        00DD98-00DEA5   # 270 bytes
+        00EA4E-00EAEF   # 162 bytes
+SECTION PUBLIC
+        01B750-01C1FF           # 2736 bytes
+        01EFD0-0201FF           # 4656 bytes
+        #0296F0-02C1FF           # 11024 bytes
+        02C470-02E1FF           # 7568 bytes
+        0300E0-0301FF           # 288 bytes
+        050110-0501FF           # 240 bytes
+SECTION BANK85
+#        05E270-05E2AD   # 62 bytes
+#        05E2A1-05E2CD   # 45 bytes
+#        05E2BF-05E3C7   # 265 bytes
+        05EEE0-0601FF           # 5520 bytes
+SECTION PUBLIC
+        06FCB0-0701FF           # 1360 bytes
+        07FFE0-0801FF           # 544 bytes
+        08FC20-0901FF           # 1504 bytes
+        09FE50-0A01FF           # 944 bytes
+        0AFF10-0B01FF           # 752 bytes
+        0CE1E0-0CE1FF           # 32 bytes
+        0D01D0-0D01FF           # 48 bytes
+        0E01E0-0E01FF           # 32 bytes
+        0EF6D0-0F01FF           # 2864 bytes
+        100020-1001FF           # 480 bytes
+        10F820-1101FF           # 2528 bytes
+        #11FCB0-1201FF           # 1360 bytes
+        12C160-12C1FF           # 160 bytes
+        146D30-1481FF           # 5328 bytes
+        14B340-14C1FF           # 3776 bytes
+        1601C0-1601FF           # 64 bytes
+        168120-1681FF           # 224 bytes
+        176080-1761FF           # 384 bytes
+        177150-1771FF           # 176 bytes
+        1879C0-1881FF           # 2112 bytes
+        198000-1981FF           # 512 bytes
+        1A31E0-1A31FF           # 32 bytes
+        1A47C0-1A61FF           # 6720 bytes
+        1A7E40-1A81FF           # 960 bytes
+        1B01D0-1B01FF           # 48 bytes
+        1CEEB0-1CF1FF           # 848 bytes
+        1D0180-1D01FF           # 128 bytes
+        1E0170-1E01FF           # 144 bytes
+        1E1140-1E11FF           # 192 bytes
+        1E81A0-1E81FF           # 96 bytes
+        1EFF10-1F01FF           # 752 bytes
+        2EFC90-2F01FF           # 1392 bytes
+        2FFF90-3001FF           # 624 bytes
+        3100C0-3101FF           # 320 bytes
+        31FFA0-3201FF           # 608 bytes
+        3300E0-3301FF           # 288 bytes
+        33F1C0-3401FF           # 4160 bytes
+SECTION enm1
+        0385AF-03868C           # 222 bytes
+SECTION knight
+        038D43-039134           # 1010 bytes
+SECTION chrnam
+        03A0CD-03AFF4           # 3880 bytes
+SECTION army
+        03DB56-03DE11           # 700 bytes
+SECTION weap
+        03DF26-03E4E7           # 1474 bytes
+SECTION city
+        03F773-03F9C0           # 590 bytes
+COMMON itemex enm1 knight chrnam army weap city
+        03F9D0-0401FF           # 2096 bytes
+END
+# 101892 bytes remaining.
+

@@ -1,0 +1,291 @@
+Current Build: v0.50.9
+CVS Tag: fe4-0_50_9-jay
+
+GPL
+---
+This project has been GPL'd. See LICENSE for full details.
+Add on packs required to build the patch are not GPL'd.
+
+Notes
+-----
+This is a branch off the v0.50 patch. It is an experimental build of the FE4
+project. These builds are unofficial and are not part of the main project, but
+will probably be merged with the offical project sometime in the future.
+
+As of v0.50.5-jay, all work from the J2E project has been removed. Therefore, there
+are 2 versions of the FE4 project. The v0.50.4.x-jay series contains the lastest work
+with J2E patch merged, while releases from v0.50.5-jay and up are without.
+
+Build instructions
+------------------
+This project is to be built under Linux.
+Please install the following:
+	* gcc v2.95.x
+	* libSDL v1.2.0 or greater (optional)
+Please also install the following packs:
+	* sif v5.0 or greater (required)
+	* libtbl v1.0
+	* 65816 v2.0-2
+Place 'fe4.smc' into the base directory of the project. To install the packs,
+place all the files into the base directory of the project and unpack them.
+Run the script ./configure to configure the project. It will also attempt to
+download any packs as required. Don't bother with the configure options. They
+are not used. Also, run patch-update.sh periodically to download and install
+patches.
+
+Use the following 'make' commands to build the project:
+
+To build binaries:
+	make
+To build script dumps:
+	make dump
+To build a compressed image of the menufont:
+	make menufont
+To build the font:
+	make font
+To parse the scripts:
+	make script
+To do all of the above:
+	make project
+To get the status of the % completion of scripts:
+	make status
+To build the IPS patch:
+	make ips
+To build the IPS patch without dictionary compression:
+	make ips NOCOMPRESS=1
+To clean out sif files:
+	make cleansif
+To clean out object files:
+	make clean
+To clean out binaries:
+	make veryclean
+To clean everything:
+	make spotless
+To really clean out everything:
+	make distclean
+
+How to translate
+----------------
+Edit a script in the script/ directory.
+NOTE: Certain scripts have a special line in the first line. ex.
+# 7 6 army
+Leave that line alone!!!!!
+
+Let's look at an example from an untranslated version of fe4_00.txt:
+# 0x318971:
+# @@3244700@@
+
+[TWinTop][DlgOpn]['Mideel' 0007]
+[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop] # Mideel
+エ?ディン様、敵に城を包囲されました
+姫様をお守りすべき我々が、
+ふがいないばか  りに・・・
+[TWinBtm] # Edin
+[Wait 10]よいのです、ミデェ?ル
+・・・・・皆よく戦ってくれました
+私のことは、もういいのです[k]
+[dcs]
+今は一人でも多く、生き延びてください
+[k]
+[cs]
+
+[TWinTop] # Mideel
+いいえ、エ?ディン様
+皆、最後まで
+姫様をお守りする覚悟です[k]
+[dcs]
+命にかえても、お守りいたします
+[TWinBtm] # Edin
+[Wait 08]ありがとう、ミデェ?ル
+・・・・・ごめんなさい
+[k]
+
+[exit]
+
+When translating scripts, anything in between a [ ] is a special code.
+Special code examples:
+[k] -> Means the text will pause until it recieves a key press from the user
+[n] -> Insert a newline
+[cs] -> Clears the text box
+[sp] -> Inserts a space
+[dcs] -> Clears both text boxes
+[Wait xx] -> Replace xx with the time to pause the text
+[exit] -> Finish text dialog
+[TWinTop][TWinBot][DlgOpn] are used internally by the game and are best left alone
+
+In order to translate, all japanese characters must be deleted and replaced with
+english ones. Ex.
+
+# 0x318971:
+# @@3244700@@
+
+[TWinTop][DlgOpn]['Mideel' 0007]
+[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop] # Mideel
+
+Hi how are you
+
+[TWinBtm] # Edin
+[Wait 10]
+
+I'm fine thanks.
+
+[k]
+[dcs]
+
+Lalalalalalalala
+
+[k]
+[cs]
+
+This will make Midayle say "Hi how are you", etc ...
+Text is parsed like HTML, so automatic text wrapping can work.
+Therefore, if you type:
+Hey                how
+        are
+    you
+It gets parsed as:
+Hey how are you
+because the whitespaces don't matter. If you need to insert spaces
+and newlines, use the [sp] and [n] codes to force one in. It is best
+to not use the above codes unless required to to allow automatic
+wrapping to work optimally.
+
+[k] codes (wait for key presses) are also automatically inserted after
+every 3 lines. Therefore, you should delete all [k] except for the last
+one before a character switch to prevent unneccesary stopping in the text.
+Ex.
+[TWinTop][DlgOpn]['Mideel' 0007]
+[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop] # Mideel
+エ?ディン様、敵に城を包囲されました
+姫様をお守りすべき我々が、
+ふがいないばか  りに・・・
+[TWinBtm] # Edin
+[Wait 10]よいのです、ミデェ?ル
+・・・・・皆よく戦ってくれました
+私のことは、もういいのです[k]   <------ DELETE THIS ONE
+[dcs]              <------ THIS TOO
+今は一人でも多く、生き延びてください
+[k]                <------ KEEP THIS ONE BECAUSE OF CHARACTER SWITCH
+[cs]                       INDICATED HERE -+
+                                           |
+[TWinTop] # Mideel    <--------------------+
+いいえ、エ?ディン様
+皆、最後まで
+姫様をお守りする覚悟です[k]
+ .
+ .
+ .
+
+
+v0.50.9.1-jay
+-------------
+- Include package source code in build
+- Workaround 65816 bug
+- gcc3 compatibility
+
+v0.50.9-jay
+-----------
+- GPL'd Project
+- Lots of bug fixes
+
+v0.50.8-jay
+-----------
+- Merge with 0.50.7.1
+- Modified scanner to scan remainder of rom for missing text
+- Added the tools directory
+- Removed x816.exe and wine requirements
+- Converted to use Jeremy Gordon's 65816 assembler
+
+v0.50.7-jay
+-----------
+- Removed check-in option
+- Changed configure to autoconf script [experimental]
+- Item script fixes
+- Merge with 0.50.6.1
+- Boo's update
+- Script fixes in items
+- Fixes in Parser and dumper
+- Dumped shop.txt
+- Major fixes to fe4main.txt
+- Updated RAT TABLES
+- Removed GSLIB from character viewer
+- Portable to CYGWIN
+
+v0.50.6-jay
+-----------
+- Renamed script files
+- Added in check-in option
+- Experimental project configure script
+- Script dump bug fix
+- Boo's translation update
+
+v0.50.5-jay
+-----------
+- Breaking free from J2E's v0.50 patch
+- Added font utils (vwf generator)
+- Added scriptstat to inquire on the status of scripts
+- Fix a few $2C codes in scripts
+- Added all scripts to the script directory
+- Created a separate directory for rats
+- IPS generated in base directory
+- Merged with 0.50.4.3
+- Many bug fixes to parser and dumper
+- Added a fix table dumper
+- Added patch-project.sh
+- Added cleansif target
+- Dumped extra text
+
+v0.50.4-jay
+-----------
+- Working with Sif v5.0 CVS
+- Fixes $2A codes in fe4_06.txt
+- Integrate with libsif
+- Dumper updates with $2A codes
+- Inserted [winlimit] fixes to fe4_00.txt
+- Fixed relocation in fe4_00.txt
+- Added uncommenting in parser
+- Fixes to femain.txt with $00$8X codes
+- External programs now released as packs
+- New item dumps
+- Makefile updates, moving towards portability
+- Added NOCOMPRESS option to disable dictionary compression
+- Pointer table generator replaced with new prog
+- Main script expanded to include more missing text
+- Removed ppt tables from project, uses program to generate ppt tables
+- Merged FE4_0F with FE4_0E
+
+v0.50.3-jay
+-----------
+- Generates dumps compatible with main project
+- Parser accepts new dump format
+- Using Sif v5.0pre6
+- Added fe4dr.c, dumps a RAT table of the jap text
+- Added RAT table to include those addresses
+- Merge FE4 scripts
+- Fix $2B/$2C codes in script
+
+v0.50.2-jay
+-----------
+- Added x816.exe to CVS
+- Bug fixes in dictionary coding methods
+- Fixes in RAT tables
+- Makefile fixes (you can now build the entire project with 'make')
+- Added documentation
+
+v0.50.1-jay
+-----------
+This build is produced completly under a UNIX system, DOS ports will be done
+in later builds. Main changes along this branch are:
+- Dictionary encoding implemented using 1024 entries (ready for testing)
+- FIXME: Encoding takes over bytes FB-FF, possible side effect can occur
+- Relocation program being used is currently Sif v5.0pre5
+- Char viewer uses libSDL v1.2.0, gsLib v2.0 (v1.9.1)
+- Script dumper modified to include relocation info in script
+- FIXME: Script dumper dumps are not backwards compatible with main project
+	 Changes to use [reloc xx] entries or place # in front of relocs
+- PPT tables are left out of this version
+- Scripts merged to new format
+- Project is Makefile based

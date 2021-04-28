@@ -1,0 +1,230 @@
+dnl Check for ProjectVersion file to proceed
+AC_INIT(ProjectVersion)
+
+dnl Configure header.
+AC_CONFIG_HEADER(config.h)
+
+installPackage()
+{
+   if test -z "$BZIP2" || test -z "$TAR"; then
+      return -1
+   fi
+
+   PACK=`ls $1-*-pack-*.tar.bz2 2> /dev/null`
+   if test -n "$PACK"; then
+      echo -n "Found $PACK, installing ... "
+      if $BZIP2 -cd $PACK | $TAR xf -; then
+         echo "ok"
+         return 0
+      else
+         echo "failed"
+         return -1
+      fi
+   fi
+
+   if test -z "$WGET"; then
+      return -1
+   fi
+
+   eval "
+      if test -z \"\$$1_$HOST\"; then
+         return -1
+      fi
+   "
+
+   # Download from FE4 SITE
+   echo "No packs found in directory, trying to install from internet ..."
+   eval "
+      if \$WGET -nv $FE4_SITE/packages/\$$1_$HOST; then
+         echo -n \"Installing pack \$$1_$HOST ... \"
+
+         sleep 1s
+         OK=\`ls \$$1_$HOST 2> /dev/null\`
+         if test -z \"\$OK\"; then
+            echo \"failed\"
+            return -1
+         fi
+
+         if $BZIP2 -cd \$$1_$HOST | \$TAR xf -; then
+            echo \"ok\"
+            return 0
+         else
+            echo \"failed\"
+            return -1
+         fi
+      fi
+   "
+   return -1
+}
+
+if test ! -e .LICENSE.read; then
+   dnl License
+   echo "This project is bound under the GPL licence."
+   echo
+   echo "In simple terms, it states that you may freely copy, and distribute the source"
+   echo "code in it's exact form. Which means you may not modify the original"
+   echo "distribution."
+   echo
+   echo "However, if you do modify the source code, you must display clear notices"
+   echo "that you changed the files and keep all old licences and notices intact."
+   echo
+   echo "If you incorporate any parts of our project into yours, you must release"
+   echo "your project under the same license: release all source code of your project"
+   echo "and place it under the GPL."
+   echo
+   echo "Press enter."
+   read
+
+   echo "Now the whole licence."
+   more LICENSE
+   echo
+   echo "You automatically agree to the GPL licence by using this project."
+   echo "If you do not agree, you may delete this project."
+   echo "Type 'understood' to continue."
+   read
+   if test "$REPLY" != "understood"  ; then
+      echo "You must enter 'understood' to continue."
+      exit 1
+   fi
+fi
+touch .LICENSE.read
+
+dnl Init stuff
+echo "-- Configuring FE4 Project --"
+
+if test ! -r "fe4.smc"; then
+   echo "Please place 'fe4.smc' into the current directory."
+   exit 1
+fi
+
+echo -n "checking project version ... "
+eval `cat ProjectVersion`
+echo -n "$MAJORVERSION.$MINORVERSION.$BUILDVERSION"
+if test $PATCHLEVEL -ne 0; then
+   echo -n ".$PATCHLEVEL"
+fi
+echo
+
+dnl Check system.
+AC_CANONICAL_SYSTEM
+AC_CYGWIN
+
+case "$host" in
+   *-*-linux*)
+      HOST=linux
+      ;;
+   *-*-cygwin*)
+      HOST=cygwin
+      ;;
+   *-*-mingw32*)
+      HOST=mingw32
+      ;;
+   *-*-*djgpp*)
+      HOST=djgpp
+      ;;
+esac
+
+dnl Checks for programs.
+AC_PROG_CC
+if test -z $CC; then
+   echo "Error: GCC is required to build this project."
+   exit 1
+fi
+
+AC_CHECK_PROGS(MAKE,make gmake)
+if test -z $MAKE; then
+   echo "Error: GNU Make is required to build this project."
+   exit 1
+fi
+
+AC_CHECK_PROGS(CP,cp)
+AC_CHECK_PROGS(RM,rm)
+if test -z "$CP" -o -z "$RM"; then
+   echo "Error: GNU File Utilities is required to build this project."
+   exit 1
+fi
+
+AC_CHECK_PROGS(TAR,tar)
+AC_CHECK_PROGS(BZIP2,bzip2)
+AC_CHECK_PROGS(WGET,wget)
+
+NOCOMPRESS=""
+
+dnl Checks for header files.
+AC_HEADER_STDC
+AC_CHECK_HEADERS(fcntl.h unistd.h)
+
+dnl Checks for typedefs, structures, and compiler characteristics.
+AC_C_CONST
+AC_C_INLINE
+
+dnl Checks for library functions.
+AC_CHECK_FUNCS(strtol)
+
+dnl Checks for system specifics.
+AC_EXEEXT
+AC_OBJEXT
+
+dnl Attempt to build packages 
+
+if test "$HOST" = "cygwin" -o "$HOST" = "mingw32"; then
+	mv packages/sif/Makefile packages/sif/Makefile.bak && \
+	sed -e "s/LDFLAGS=.*/LDFLAGS=/" packages/sif/Makefile.bak > packages/sif/Makefile
+fi
+make -C packages
+make -C packages DESTDIR=$PWD install
+
+dnl FE4 project specific checks
+AC_PATH_PROGS(SIF,sif${EXEEXT},,bin)
+AC_PATH_PROGS(IPS2SIF,ips2sif${EXEEXT},,bin)
+AC_PATH_PROGS(SCANZ,scanz${EXEEXT},,bin)
+if test -z "$SIF" -o -z "$IPS2SIF" -o -z "$SCANZ"; then
+   if ! installPackage sif; then
+      echo "Error: Please install the SIF package from $FE4_SITE"
+      exit 1
+   fi
+fi
+
+if test -z "$NOCOMPRESS_STRING"; then
+   AC_PATH_PROGS(X86AS,65816${EXEEXT},,bin)
+   if test -z "$X86AS"; then
+      if ! installPackage as65816; then
+         NOCOMPRESS="NOCOMPRESS=1"
+      fi
+   fi
+fi
+
+LDFLAGS=-Llib 
+AC_CHECK_LIB(tbl,main,LIBTBL=-ltbl)
+if test -z "$LIBTBL"; then
+   if ! installPackage libtbl; then
+      echo "Error: Please install the LIBTBL package from $FE4_SITE"
+      exit 1
+   fi
+   LIBTBL=-ltbl
+fi
+
+AM_PATH_SDL(1.2.0,WITH_SDL="WITH_SDL=1"; CFLAGS="$SDL_CFLAGS $CFLAGS"; LIBSDL="$SDL_LIBS")
+
+AC_SUBST(HOST)
+
+AC_SUBST(LIBSDL)
+AC_SUBST(LIBTBL)
+AC_SUBST(LIBPTHREAD)
+
+AC_SUBST(WITH_SDL)
+AC_SUBST(NOCOMPRESS)
+
+AC_OUTPUT(Makefile.cfg)
+
+echo
+echo "Configuration of the FE4 project complete."
+echo
+echo -n "Dictionary compression: "
+if test -z "$NOCOMPRESS"; then echo "yes"
+else echo "no"; fi
+echo -n "Build character viewer: "
+if test -z "$WITH_SDL"; then echo "no"
+else echo "yes"; fi
+echo
+

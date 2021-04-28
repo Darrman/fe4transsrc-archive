@@ -1,0 +1,11 @@
+.rat
+# This rat table is used for dictionary encoding
+
+SECTION table1
+SECTION table2
+SECTION table3
+SECTION table4
+COMMON tables table1 table2 table3 table4
+   029EF0-02C1FF
+END
+

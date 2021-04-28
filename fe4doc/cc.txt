@@ -1,0 +1,122 @@
+FE4 Control Codes
+-----------------
+
+00 ?? - Main Control
+--------------------
+
+00000000 0000: New Line
+00000001 0001: Exit
+00000010 0002: New Line
+00000011 0003: Clear Text
+00000100 0004: Clear Text with Scroll
+00000101 0005XX: Target Window XX
+00000110 0006: Target Window [Top]
+00000111 0007: Target Window [Bottom]
+00001000 0008: Wait for key press
+00001001 0009: Text Select
+00001010 000A: Text Select
+00001011 000B: Text Select
+00001100 000C: Text Select
+00001101 000D: Text Select
+00001110 000E: Text Select
+00001111 000F: Text Select
+00010000 0010XXYY: Destination output (?)
+00010001 0011XXYY: ??????????
+00010010 0012SS: Set text speed to SS
+00010011 0013MM: BGM Select MM
+00010100 0014: CRASH!
+00010101 0015: ???????
+00010110 0016XXYY: ????????
+00010111 0017: Clear screen and wait for key press
+00011000 0018: Wait for key press
+00011001 0019XXYYZZ: Destination output (?)
+00011010 001A??: ?? Text colour (?)
+00011011 001B: ????????????
+00011100 001CWW: Insert spaces for WW characters
+00011101 001DXX: Wait for XX
+00011110 001EXXXX: ?????????????
+00011111 001FXXXX: Same as 001E
+00101001 0029: Same as 04 (?)
+00111101 003D: Text Dialog BG open
+00111110 003E: Text Dialog BG close
+00111111 003FCC: Character Open
+01000000 0040: Close Character
+
+01 - Exit (?)
+-------------
+
+Text speech termination???
+
+02 - New Line
+-------------
+
+Inserts a new line into the stream.
+
+03 - Clear Text
+---------------
+
+Clears the text window
+
+04 - Clear With Scroll
+----------------------
+
+Clears the text window via scrolling.
+
+05xx - Target Window
+--------------------
+
+xx = Target window
+   0: Top (?)
+   1: Bottom (?)
+
+Redirects text to the target window.
+
+06 - Target Window [Top] (?)
+----------------------------
+
+Sets the target window to the top window.
+
+07 - Target Window [Bottom] (?)
+-------------------------------
+
+Sets the target window to the bottom window.
+
+08 - Wait for Key Press
+-----------------------
+
+Waits for the user to press the action key.
+
+09 - Text Select [Base 0]
+-------------------------
+
+Changes text base.
+
+0A - Text Select [Base 256]
+---------------------------
+
+Changes text base.
+
+0B - Text Select [Base 512]
+---------------------------
+
+Changes text base.
+
+0C - Text Select [Base 768]
+---------------------------
+
+Changes text base.
+
+0D - Text Select [Base 1024]
+----------------------------
+
+Changes text base.
+
+0E - Text Select [Base 1280]
+----------------------------
+
+Changes text base.
+
+0F - Text Select [Base 1280]
+----------------------------
+
+Changes text base.

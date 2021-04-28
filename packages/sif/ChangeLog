@@ -1,0 +1,64 @@
+v5.0:
+   * LibSIF included
+   * Win32 Ports
+v5.0pre6:
+   * RAT conflict checker implemented
+v5.0pre5:
+   * Bug fixes
+   * Testing release
+v5.0pre4:
+   * Enabled debuging options
+   * Hash table bug fix
+   * Code clean up
+v5.0pre3:
+   * Implemented DLL maps
+v5.0pre2:
+   * Implemented merge
+v5.0pre1:
+	* Fixed section bug in v4.x
+   * ANSI C Portable
+   * Extended the SIF file format
+   * No merge, no maps
+   * UNIX like commandline interface
+v4.10:
+   * Bug fixes
+   * Source rewrite
+v4.02:
+   * New MAP format
+v4.0:
+   * Program rewritten
+   * SIF Format changed slightly
+   * Allows DLL specified inside SIF file
+   * Backwards compatibility for v3.50 file
+v3.5.1:
+   * Extended header
+v3.5:
+   * New file format
+   * Multi section support
+   * Common sections
+   * RAT table bug fix
+   * Multi-DLL maps
+   * Merge optimizer
+v3.1:
+   * Multifile Sif
+v3.0:
+   * SIF now parses intermediate objects
+   * Sif now functions as a relocator
+v2.0:
+   * Major bug fixes
+   * Support for double character insert
+   * New header format
+   * Multiple end hex bits
+v1.3:
+   * Minor bug fixes
+   * Error checking created
+   * Removed the pointer calculation as it was seldom used
+v1.2:
+   * Pointer calculation created
+   * Offset x bits field added
+v1.1:
+   * Optimized code
+   * Fill mode added
+   * Major bug fixes
+v1.0:
+   * First program made

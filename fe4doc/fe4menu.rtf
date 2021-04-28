@@ -1,0 +1,154 @@
+{\rtf1\ansi \deff4\deflang1033{\fonttbl{\f4\froman\fcharset0\fprq2 Times New Roman;}{\f11\fmodern\fcharset0\fprq1 Courier New;}{\f16\fmodern\fcharset186\fprq1 Courier New Baltic;}}{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;
+\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\widctlpar \f4\fs20 \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}}{\info{\author Tenn}{\operator Tenn}
+{\creatim\yr1998\mo4\dy24\hr17\min18}{\revtim\yr1998\mo4\dy24\hr17\min20}{\version2}{\edmins2}{\nofpages3}{\nofwords705}{\nofchars4019}{\*\company N/A}{\vern57431}}\widowctrl\ftnbj\aenddoc\hyphcaps0 \fet0\sectd \linex0 {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar \f4\fs20 {\f16 \tab \tab \tab FE 4 Menu's Explained
+\par \tab \tab \tab ---------------------
+\par The menu's in FE4 are stored pretty weirdly, as far as I know. First
+\par the loader code:
+\par 
+\par C7:93D2 38 \tab \tab \tab SEC 
+\par C7:93D3 E9 81 00\tab \tab SBC #$0081\tab \tab ; subtracting 81h
+\par C7:93D6 0A \tab \tab \tab ASL \tab \tab \tab ; multiply by 2
+\par C7:93D7 AA \tab \tab \tab TAX 
+\par C7:93D8 BF 71 94 87\tab LDA $879471,X\tab ; load base
+\par C7:93DC 85 00\tab \tab STA $00\tab \tab ; store it to $00
+\par C7:93DE FA \tab \tab \tab PLX 
+\par C7:93DF DA \tab \tab \tab PHX 
+\par C7:93E0 5A \tab \tab \tab PHY 
+\par C7:93E1 BD 01 00\tab \tab LDA $0001,X\tab \tab ; load second half
+\par C7:93E4 29 FF 00\tab \tab AND #$00FF
+\par C7:93E7 38 \tab \tab \tab SEC 
+\par C7:93E8 E9 40 00\tab \tab SBC #$0040\tab \tab ; subtract 40h
+\par C7:93EB 48 \tab \tab \tab PHA 
+\par C7:93EC 29 07 00\tab \tab AND #$0007\tab \tab ; AND 3h (LSB 3 bits)
+\par C7:93EF 85 02\tab \tab STA $02\tab \tab ; store to $02
+\par C7:93F1 68 \tab \tab \tab PLA 
+\par C7:93F2 29 F8 FF\tab \tab AND #$FFF8\tab \tab ; AND FFF8h (MSB 13 bits)
+\par C7:93F5 0A \tab \tab \tab ASL \tab \tab \tab ; multiply by 2
+\par C7:93F6 18 \tab \tab \tab CLC 
+\par C7:93F7 65 02\tab \tab ADC $02\tab \tab ; add with LSB 3 bits
+\par C7:93F9 0A \tab \tab \tab ASL \tab \tab \tab ; multiply by 2
+\par C7:93FA 18 \tab \tab \tab CLC 
+\par C7:93FB 65 00\tab \tab ADC $00\tab \tab ; add with base
+\par C7:93FD AA \tab \tab \tab TAX 
+\par C7:93FE AF 3A 05 00\tab LDA $00053A
+\par C7:9402 18 \tab \tab \tab CLC 
+\par C7:9403 7F 71 94 87\tab ADC $879471,X\tab ; data pulled
+\par C7:9407 97 33\tab \tab STA [$33],Y\tab \tab ; stored to WRAM
+\par C7:9409 98 \tab \tab \tab TYA 
+\par C7:940A 18 \tab \tab \tab CLC 
+\par C7:940B 65 04\tab \tab ADC $04
+\par C7:940D A8 \tab \tab \tab TAY 
+\par C7:940E AF 3A 05 00\tab LDA $00053A
+\par C7:9412 18 \tab \tab \tab CLC 
+\par C7:9413 7F 81 94 87\tab ADC $879481,X
+\par C7:9417 97 33\tab \tab STA [$33],Y
+\par C7:9419 7A \tab \tab \tab PLY 
+\par C7:941A FA \tab \tab \tab PLX 
+\par C7:941B 80 A0\tab \tab BRA $93BD
+\par 
+\par Let's look at some menu data.
+\par Each menu data follows the structure:
+\par 
+\par }{\f11\cf1 0005E30E }{\f11\cf2 20DF }{\f11\cf9 8501 }{\f11\cf2 0181 }{\f11\cf9 4082 }{\f11\cf2 CD82 }{\f11\cf9 A282 }{\f11\cf2 E900 }{\f11\cf9 00   }{\f11\cf1  .....@........}{\f16 
+\par          ^^^^^^^\tab      \tab      ^^   ^^   ^^
+\par \tab    |\tab \tab             |    |    |
+\par \tab    |\tab \tab       \tab \\    \\    |
+\par \tab    v\tab \tab        \tab  \\    \\   |
+\par     Appears to be a pointer\tab   \\   |   |
+\par     to the code function that\tab    |__|___|
+\par     executes when the menus\tab \tab |
+\par     are selected\tab \tab \tab \tab V
+\par \tab \tab \tab \tab The data that represents the menu
+\par \tab \tab \tab \tab characters
+\par 
+\par The algorithm goes like this:
+\par 1) Take the first byte and subtract it with 81
+\par 2) Multiple the result by 2 and save it to }{\b\f16 bptr}{\f16 
+\par 3) Now pull 2 bytes from [$79671 + }{\b\f16 bptr}{\f16 ] and store it to }{\b\f16 base}{\f16 
+\par 4) Get next byte and subtract it from 40h and store to }{\b\f16 base2}{\f16 
+\par 5) Take the lower 3 bits of }{\b\f16 base2 }{\f16 and store it to }{\b\f16 lsb3}{\f16 
+\par 6) Take the higher 13 bits of }{\b\f16 base2}{\f16 , multiply it by 2, and add it with }{\b\f16 lsb3}{\f16 
+\par 7) Multiply result by 2 and save to }{\b\f16 base2}{\f16 
+\par 8) }{\b\f16 index}{\f16  = }{\b\f16 base}{\f16  + }{\b\f16 base2}{\f16 
+\par 9) The corresponding data is at [$79641 + }{\b\f16 index}{\f16 ]
+\par 
+\par Now to find out what the menu says with the example data above,
+\par we are only concerned about the following data:
+\par 0005E315 82 CD 82 A2 82 E9
+\par 
+\par so we apply the algorithm:
+\par 
+\par 1) First byte is 82h and subtract with 81h
+\par    }{\b\f16 result}{\f16  = 82h - 81h = }{\b\f16 1h}{\f16 
+\par 2) bptr = }{\b\f16 result}{\f16  * 2 = }{\b\f16 1h}{\f16  * 2
+\par    }{\b\f16 bptr = 2h
+\par }{\f16 3) DATA DUMP:
+\par    }{\f11\cf1 00079670 }{\f11\cf2 8706 }{\f11\cf9 0006 }{\f11\cf2 0306 }{\f11\cf9 06FF }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf1 ................
+\par    00079680 }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf1 ................}{\f16 
+\par 
+\par    base = 2 bytes from [$79671 + }{\b\f16 bptr}{\f16 ] = [$79671 + }{\b\f16 2h}{\f16 ]
+\par    }{\b\f16 base = 0306h
+\par }{\f11 4) We grab the next byte which is CDh and subtract 40h from it.
+\par    base2 = CDh - 40h
+\par    }{\b\f11 base2 = 8dh}{\f11 
+\par 5) lsb3 = lower 3 bits of base2 = }{\b\f11 base2}{\f11  & 3 = }{\b\f11 8dh}{\f11  & 3
+\par    }{\b\f11 lsb3 = 1h
+\par }{\f11 6) Take the higher 13-bits of base2, multiply by 2 and add on lsb3.
+\par    result = ((}{\b\f11 base2}{\f11  & FFF8h) * 2) + }{\b\f11 lsb3}{\f11  = ((}{\b\f11 8dh }{\f11 & FFF8) * 2) + }{\b\f11 1h}{\f11  =
+\par \tab \tab (88h * 2) + 1h
+\par    }{\b\f11 result = 111h
+\par }{\f11 7) base2 = }{\b\f11 result}{\f11  * 2 = }{\b\f11 111h}{\f11  * 2
+\par    }{\b\f11 base2 = 222h}{\f11 
+\par 8) index = }{\b\f11 base}{\f11  + }{\b\f11 base2}{\f11  = }{\b\f11 0306h }{\f11 + }{\b\f11 222h
+\par    index = 528h}{\f11 
+\par 9) data is at [$79671 + }{\b\f11 index}{\f11 ] = [$79671 + }{\b\f11 528h}{\f11 ] =
+\par    }{\f11\ul $79B99
+\par 
+\par }{\f11    DUMP:}{\f11\ul 
+\par }{\f11\cf1    00079B90 }{\f11\cf2 0032 }{\f11\cf9 0033 }{\f11\cf2 0033 }{\f11\cf9 0024 }{\f11\cf2 0025 }{\f11\cf9 0026 }{\f11\cf2 0027 }{\f11\cf9 0028 }{\f11\cf1 .2.3.3.$.%.&.'.(
+\par    00079BA0 }{\f11\cf2 0029 }{\f11\cf9 006F }{\f11\cf2 0074 }{\f11\cf9 0034 }{\f11\cf2 0035 }{\f11\cf9 0036 }{\f11\cf2 0037 }{\f11\cf9 0038 }{\f11\cf1 .).o.t.4.5.6.7.8
+\par 
+\par    so we get 25h as the first menu code.
+\par 
+\par We repeat the process with the next few bytes.
+\par 
+\par 1) }{\b\f11\cf1 result}{\f11\cf1  = 82h - 81h = }{\b\f11\cf1 1h}{\f11\cf1 
+\par 2) }{\b\f11\cf1 bptr}{\f11\cf1  = result * 2 = }{\b\f11\cf1 2h}{\f11\cf1 
+\par 3) }{\b\f11\cf1 base}{\f11\cf1  = 2 bytes from }{\f16 [$79671 + }{\b\f16 bptr}{\f16 ] = }{\b\f16 0306h}{\f16 
+\par 4) }{\b\f16 base2}{\f16  = next byte - 40h = A2h - 40h = }{\b\f16 62h}{\f16 
+\par 5) }{\b\f16 lsb3}{\f16  = base2 & 3 = }{\b\f16 2h}{\f16 
+\par 6) }{\b\f16 result}{\f16  = ((base2 & FFF8h) * 2) + lsb3 = }{\b\f16 C2h}{\f16 
+\par 7) }{\b\f16 base2}{\f16  = result * 2 = }{\b\f16 184h}{\f16 
+\par 8) }{\b\f16 index }{\f16 = base + base2 = }{\b\f16 484h}{\f16 
+\par 9) data at [$79671 + 48Ah] = [$79AFB]
+\par 
+\par    DUMP:
+\par    }{\f11\cf1 00079AF0 }{\f11\cf2 00FF }{\f11\cf9 00FF }{\f11\cf2 00F3 }{\f11\cf9 0000 }{\f11\cf2 00FF }{\f11\cf9 0001 }{\f11\cf2 00FF }{\f11\cf9 0002 }{\f11\cf1 ................
+\par    00079B00 }{\f11\cf2 00FF }{\f11\cf9 0003 }{\f11\cf2 00FF }{\f11\cf9 0010 }{\f11\cf2 00F3 }{\f11\cf9 0011 }{\f11\cf2 00F4 }{\f11\cf9 0012 }{\f11\cf1 ................
+\par }{\f16 
+\par    so next byte is 01h.
+\par 
+\par }{\f11\cf1 1) }{\b\f11\cf1 result}{\f11\cf1  = 82h - 81h = }{\b\f11\cf1 1h}{\f11\cf1 
+\par 2) }{\b\f11\cf1 bptr}{\f11\cf1  = result * 2 = }{\b\f11\cf1 2h}{\f11\cf1 
+\par 3) }{\b\f11\cf1 base}{\f11\cf1  = 2 bytes from }{\f16 [$79671 + }{\b\f16 bptr}{\f16 ] = }{\b\f16 0306h}{\f16 
+\par 4) }{\b\f16 base2}{\f16  = next byte - 40h = E9h - 40h = }{\b\f16 A9h}{\f16 
+\par 5) }{\b\f16 lsb3}{\f16  = base2 & 3 = }{\b\f16 1h}{\f16 
+\par 6) }{\b\f16 result}{\f16  = ((base2 & FFF8h) * 2) + lsb3 = }{\b\f16 151h}{\f16 
+\par 7) }{\b\f16 base2}{\f16  = result * 2 = }{\b\f16 2A2h}{\f16 
+\par 8) }{\b\f16 index }{\f16 = base + base2 = }{\b\f16 5A8h}{\f16 
+\par 9) data at [$79671 + 5A8h] = [$79C19]
+\par 
+\par    DUMP:
+\par    }{\f11\cf1 00079C10 }{\f11\cf2 00FB }{\f11\cf9 0055 }{\f11\cf2 0056 }{\f11\cf9 0047 }{\f11\cf2 0048 }{\f11\cf9 0049 }{\f11\cf2 004A }{\f11\cf9 00FF }{\f11\cf1 ...U.V.G.H.I.J..
+\par    00079C20 }{\f11\cf2 004B }{\f11\cf9 00FF }{\f11\cf2 00FF }{\f11\cf9 0057 }{\f11\cf2 0058 }{\f11\cf9 0059 }{\f11\cf2 005A }{\f11\cf9 00FF }{\f11\cf1 .K.....W.X.Y.Z..
+\par }{\f16 
+\par    so next byte is 48h.
+\par 
+\par Finally, we've gotten 25h 01h 48h.
+\par Now the values can be determine by a kana table, where }{\f11 \'a1\'d6\'a4\'a2\'a1\'d7}{\f16  is at location 00. So it should say }{\f11 \'a4\'cf\'a4\'a4\'a4\'eb
+. Keep in mind that a character in the menus take up 2 bytes. One byte represents the top half of the character, the other represents the bottom half. Basically, 00 is the top half of \'a1\'d6\'a4\'a2\'a1\'d7and 10 is the bottom half.}{\f16 
+\par }}

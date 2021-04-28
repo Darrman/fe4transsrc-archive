@@ -1,0 +1,1056 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# Fire Emblem 4 Script Dump
+# ppt/fe4_0A.ppt
+
+# Filesize: 4194816 bytes
+
+# 0x33af0a:
+# @@886983@@
+
+[TWinTop][DlgOpn]['(null)' 026F]
+[TWinBtm][DlgOpn]['(null)' 0271]
+[TWinTop] # (null)
+Ishtar, how are things coming along?
+
+[TWinBtm] # (null)
+[Wait 10]They're proceeding smoothly, Your Highness.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Hrmph... The sacrifices to the Dark Lord must be quite a scare for the people.
+
+[TWinBtm] # (null)
+[Wait 10]They all go to pieces when their child is to be sacrificed. Especially the mothers...[k]
+
+[TWinTop] # (null)
+[dcs]
+Heh heh... Perfect. Break them down until they've lost the will to live.
+[k]
+[cs]
+They become like puppets and make for excellent slaves of the Loput Empire.
+[TWinBtm] # (null)
+[Wait 10]How shall I handle the excess of children? This castle is full as it is.[k]
+
+[TWinTop] # (null)
+[dcs]
+Have them sent to the capitol. I'll groom them myself.
+[k]
+[cs]
+After breaking all sibling and friendship ties, I'll match them up in a dual to the death.
+[k]
+[cs]
+Those who survive shall go on to serve Loputousu as faithful new inhabitants of the empire.
+[TWinBtm] # (null)
+[Wait 10]But what about Emperor Alvis?
+[k]
+[dcs]
+He has made it clear that he is strictly opposed to any child hunts.
+[k]
+[cs]
+
+[TWinTop] # (null)
+Shesh... Don't mind my father. Just let me handle this.[k]
+[cs]
+[DlgCls][xChr]
+[TWinBtm] # (null)
+Prince Yurius...
+[k]
+[cs]
+[Wait 10]
+[TWinTop][DlgOpn]['(null)' 0268]Ishtar, where's His Imperial Highness?
+
+[TWinBtm] # (null)
+[Wait 10]Ah, mother...[n]He just left for Barhara.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I see. I think he likes you, dear. You think he'll ever make you his princess?
+[TWinBtm] # (null)
+[Wait 10]I don't know.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Ishtar, you listen up![n]
+We Freeges are of noble rank within Grandbell.
+[k]
+[cs]
+And I'm from Velthomer just as the Imperial family is.[k]
+[cs]
+Who could possibly make a more worthy partner for His Highness than yourself!?
+
+[TWinBtm] # (null)
+[Wait 10]Yes, mother.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Now on to these rebels... the ones responsible for killing my husband and my dear Ishtore.[k]
+[cs]
+They stole Alster from us, as 
+well. Celice and his family shall 
+forever remain the Freege's 
+bitter enemy![k]
+[cs]
+Ishtar, I'll stay here to confront the rebel army when they arrive.
+[k]
+[cs]
+You go on back to Miletos and get the children ready to send to the capital.
+
+[TWinBtm] # (null)
+[Wait 10]Yes, mother.
+[k]
+[dcs]
+[DlgCls][xChr][Wait 10]
+[TWinBtm][DlgOpn]['Sandima' 0052]Your Highness,[n]the mages are finally in position.
+[k]
+[cs]
+However, a few children did slip past us in the disorder. How shall we handle it?[k]
+[cs]
+
+[TWinTop] # (null)
+They what!? I don't believe it... Well, I'll have them all killed as a lesson to the others.[k]
+[cs]
+Send my orders to General Ridale at Rados Castle to execute all escapees.
+[k]
+
+[exit]
+
+
+# 0x33b3eb:
+# @@887007@@
+
+[TWinTop][DlgOpn]['(null)' 02B2]
+[TWinBtm][DlgOpn]['(null)' 02B1]
+[TWinTop] # (null)
+Hey, where can we hide?
+
+[TWinBtm] # (null)
+[Wait 10]How should I know!?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+But if they catch us... (sniff..) they're gonna...
+
+[TWinBtm] # (null)
+[Wait 10]Now, don't cry. It'll be alright. The crusaders will save us, you'll see![k]
+
+[TWinTop] # (null)
+[dcs]
+Yeah, I suppose so. I sure can't wait till they get here!
+[k]
+
+[exit]
+
+
+# 0x33b55f:
+# @@887051@@
+
+[TWinTop][DlgOpn]['(null)' 025F]
+[TWinBtm][DlgOpn]['(null)' 026D]
+[TWinTop] # (null)
+General Ridale,[n]
+Queen Hilda has sent orders for you to engage battle.
+
+[TWinBtm] # (null)
+[Wait 10]It's about time. These child hunts have been an absolute waste of my battalion's time.[k]
+[dcs]
+Not to mention that I'm bored to death. Well, you have fun while we're gone.
+And I'm bored to death. Well, you have fun while we're gone.
+[k]
+[cs]
+
+[TWinTop] # (null)
+I hate to break this to you, but you're to capture and execute a few children who've escaped.
+
+[TWinBtm] # (null)
+[Wait 10]...You've got to be kidding.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+As a soldier of the empire, you really haven't a choice now, do you...[k]
+[cs]
+Unless you're considering betraying His Majesty...
+
+[TWinBtm] # (null)
+[Wait 10]Er... No, of course not. I would never even think it.[n]
+Alright, we'll leave at once.[k]
+[dcs]
+[DlgCls][xChr]
+[TWinTop] # (null)
+Hmph... Damn military types, anyhow.
+[k]
+
+[exit]
+
+
+# 0x33b6ea:
+# @@887243@@
+
+[TWinTop][DlgOpn]['(null)' 026C]
+[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop] # (null)
+Princess Yuria... I've been looking for you.
+
+[TWinBtm] # Yuria
+[Wait 10]Hmm? Who are you?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Heh heh... You've no memory of me, do you... It's just as well. Now come!
+[TWinBtm] # Yuria
+[Wait 10]No way. Let.. let go of me!
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Heh heh heh...[n]
+No use in resisting, my dear. Now come along quietly.
+
+[TWinBtm] # Yuria
+[Wait 10]No... stop it..... Prince Celice, help!!
+[k]
+[$00$2B$E2]
+[exit]
+
+
+# 0x33b7a0:
+# @@887262@@
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop] # (null)
+Celice, some kids managed to flee Chronos. They'll be hunted down if we don't act fast.
+[TWinBtm] # Selis
+[Wait 10]Really!? We'd better get going then. We've got to save as many as we can.[k]
+
+[TWinTop] # (null)
+[dcs]
+Celice...[n]
+I can't seem to find Yuria anywhere.
+[TWinBtm] # Selis
+[Wait 10]She's gone? How could that be!? She was just here...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I'm guessing the enemy found her. I can't help think otherwise.[k]
+[cs]
+What could they possibly want with her...
+
+[TWinBtm] # Selis
+[Wait 10]Yuria...[n]
+Wherever you may be...[n]
+We'll find you!
+[k]
+
+[exit]
+
+
+# 0x33b6bb:
+# @@887325@@
+
+[TWinBtm][DlgOpn]['(null)' 026D]I see no particular need to rush...[n]Alright, let's move out.
+[k]
+
+[exit]
+
+
+# 0x33b497:
+# @@887338@@
+
+[TWinBtm][DlgOpn]['(null)' 02B1]The liberation army?[n]Yes! You came for us!
+[k]
+
+[exit]
+
+
+# 0x33b4bb:
+# @@887351@@
+
+[TWinBtm][DlgOpn]['(null)' 02B1]Wow, it's the liberation army! How cool!!
+[k]
+
+[exit]
+
+
+# 0x33b4db:
+# @@887364@@
+
+[TWinBtm][DlgOpn]['(null)' 02B1]You're a crusader?[n]Could've fooled me.
+[k]
+
+[exit]
+
+
+# 0x33b4ff:
+# @@887377@@
+
+[TWinBtm][DlgOpn]['(null)' 02B2]Oh, thank you... I was so scared!
+[k]
+
+[exit]
+
+
+# 0x33b525:
+# @@887390@@
+
+[TWinBtm][DlgOpn]['(null)' 02B2]You're with the liberation army? Wow, great!
+[k]
+
+[exit]
+
+
+# 0x33b548:
+# @@887403@@
+
+[TWinBtm][DlgOpn]['(null)' 02B2]Thanks for saving me!
+[k]
+
+[exit]
+
+
+# 0x33b8c0:
+# @@887429@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop] # Selis
+Levn, did you find the children?
+
+[TWinBtm] # (null)
+[Wait 10]No. I'm guessing they were moved to Miletos. We need to move. Their lives are in danger.[k]
+
+[exit]
+
+
+# 0x33b98a:
+# @@887479@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop] # Selis
+Geez, it's like a ghost town here.
+
+[TWinBtm] # (null)
+[Wait 10]Yeah, Morgan's mages massacred all those who tried to resist.
+[k]
+
+[TWinTop] # Selis
+[dcs]
+That's horrible![n]I can't believe it...
+
+[TWinBtm] # (null)
+[Wait 10]Celice,[n]now you know why we must fight.[k]
+[dcs]
+There's just no room for good people to exist in the Loput Empire.[k]
+
+
+[exit]
+
+
+# 0x33bad6:
+# @@887674@@
+
+[TWinTop][DlgOpn]['(null)' 026E]
+[TWinBtm][DlgOpn]['(null)' 0271]
+[TWinTop] # (null)
+Ishtar,[n]it's good to see you. How are things?
+
+[TWinBtm] # (null)
+[Wait 10]Your Majesty![n]What brings you here?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Ishtar... I know you can do better than this.[n]
+Now, release the children.
+[TWinBtm] # (null)
+[Wait 10]But I have orders from Prince Yurius.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I'll inform Yurius myself. Don't you worry about him.
+
+[TWinBtm] # (null)
+[Wait 10]But...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+That's an order, Ishtar! Do you have a problem taking orders from me!?
+[TWinBtm] # (null)
+[Wait 10]No... of course not.
+[k]
+[dcs]
+[DlgCls][xChr][Wait 10]
+[TWinBtm][DlgOpn]['(null)' 026F]I can't have you interfering like this, father. Ishtar works for me.
+[k]
+[cs]
+
+[TWinTop] # (null)
+Yurius! I've have about enou-
+
+[TWinBtm] # (null)
+[Wait 10]You still don't get it, do you... You're too old, father. Don't you think it's time you retire?[k]
+[dcs]
+Or do you still have thoughts of banishing me from the empire?
+[k]
+[cs]
+
+[TWinTop] # (null)
+No... I know how far that got me.[n]You do as you please.
+[TWinBtm] # (null)
+[Wait 10]Alright, then quit hanging around here and get on back to your own castle![k]
+[dcs]
+If I'm not mistaken you have Chalphy Castle to defend!
+[k]
+[cs]
+
+[TWinTop] # (null)
+ . . . . .
+[k]
+[cs]
+[$00$2B$E0][DlgCls][xChr][Wait 20][BGM 7A]
+[TWinTop][DlgOpn]['(null)' 026C]Heh heh... He's emperor in name only, I see...[n]
+Such a wretched fool.
+
+[TWinBtm] # (null)
+[Wait 10]Manfroy, how's my twin sister? Did you get her memories back?[k]
+
+[TWinTop] # (null)
+[dcs]
+Yes, everything with Yuria went smoothly. She's being held at Chalphy Castle.
+[k]
+[cs]
+She clearly remembers how, when you were children, you left her for dead...
+[k]
+[cs]
+as well as her mother warping her outside the castle walls.
+
+[TWinBtm] # (null)
+[Wait 10]Humph... Yeah, Diadora just sort of accepted the idea of being killed by her own son.[k]
+[dcs]
+But she did manage to muster enough power to save Yuria before I could finish her off.
+[k]
+[cs]
+Yuria inherited the power of Lord Narga from Diadora, not I.
+[k]
+[cs]
+That's why we must kill her... while we have the chance.
+[k]
+[cs]
+
+[TWinTop] # (null)
+But the Book of Narga is sealed up at Barhara...
+[k]
+[cs]
+I cannot envision Lord Narga somehow residing within the girl, as well.
+
+[TWinBtm] # (null)
+[Wait 10]You just don't get it, do you... 
+The incarnate of Narga flows 
+within the Heim's royal blood. 
+We must wipe every last one 
+of them from the planet![k]
+
+[TWinTop] # (null)
+[dcs]
+Alright, then. I'll have her executed at once, Your Highness.
+
+[TWinBtm] # (null)
+[Wait 10]Don't you slip up, Manfroy. [Wait 1E] Alright, I need to head back to Barhara.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I'll place the entire sect behind holding the region.
+[k]
+[cs]
+And I'll see to it that we bring before you the corpse of Celice.
+
+[TWinBtm] # (null)
+[Wait 10]Celice... People refer to him as the Prince of Light.... and me the Prince of Darkness.[k]
+[dcs]
+They believe we both share 
+the same mother somehow 
+and that HE is first in the line 
+of succession to Grandbell's 
+throne! Only a fool would 
+believe such nonsense.[k]
+[cs]
+
+[TWinTop] # (null)
+The consequences would be disastrous if he were allowed to live. We must kill him!
+
+[TWinBtm] # (null)
+[Wait 10]Yeah, well, he only inherits the power of Crusader Baldo...
+[k]
+[dcs]
+I'm not all too concerned about him, but you do as you please.
+[k]
+[cs]
+
+[TWinTop] # (null)
+Yes...
+[k]
+[cs]
+[DlgCls][xChr][Wait 10]
+[TWinTop][DlgOpn]['(null)' 0271]Your Highness...
+
+[TWinBtm] # (null)
+[Wait 10]Ishtar,[n]
+I'm leaving the dark bishop in charge. Let's be on our way.
+[k]
+[dcs]
+Hey, let's have a little fun first. I'd say one of the rebels would make a nice blood offering.[k]
+[cs]
+Shall we have a little test of skill to see who can make the quickest kill?
+[k]
+[cs]
+
+[TWinTop] # (null)
+I'm all for that!
+[k]
+
+[exit]
+
+
+# 0x33cded:
+# @@887830@@
+
+[TWinTop][DlgOpn]['(null)' 026F]
+[TWinBtm][DlgOpn]['(null)' 0271]
+[TWinTop] # (null)
+Enough playing around. We're out of here, Ishtar.
+
+[TWinBtm] # (null)
+[Wait 10]Yes, Your Highness.
+[k]
+
+[exit]
+
+
+# 0x33c1b2:
+# @@887886@@
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop] # (null)
+Celice, we're too late. The kids must have already been swept off to Grandbell.
+[TWinBtm] # Selis
+[Wait 10]No...[n]We missed them again?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I don't think it could've been helped, Celice.
+[k]
+[cs]
+The bridge over the Miletos Channel will soon be up. Get ready to advance on Chalphy.
+[TWinBtm] # Selis
+[Wait 10]Chalphy... At last, I can finally see where my father came from.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Let's keep moving then. I'm sure the people are greatly anticipating your arrival.
+
+[TWinBtm] # Selis
+[Wait 10]Alright then. Onward to Chalphy!
+[k]
+
+[exit]
+
+
+# 0x33c2ab:
+# @@888036@@
+
+[TWinTop][DlgOpn]['(null)' 026E]
+[TWinBtm][DlgOpn]['(null)' 0286]
+[TWinTop] # (null)
+Bishop Palmark,[n]
+Take the children and get out of here.
+
+[TWinBtm] # (null)
+[Wait 10]Pardon me?[n]
+You mean you're setting them free!?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+That's right. Yurius' people will be here soon from Barhara. You must leave immediately!
+[TWinBtm] # (null)
+[Wait 10]Y..yes, Your Majesty![n]
+You have my sincerest blessings.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I also want you to hold on to this.
+
+[TWinBtm] # (null)
+[Wait 10]B..but, isn't this the...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+You once served under Siglud, correct... I think you know what to do with it.
+[TWinBtm] # (null)
+[Wait 10]Yes, Your Majesty. I believe I do.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Then get going... And you keep those children safe!
+
+[TWinBtm] # (null)
+[DlgCls][xChr][Wait 10]
+[TWinBtm][DlgOpn]['Yuria' 002B]Father...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Yuria, I've been awful to you. You must hate me by now. Can you ever forgive me?
+
+[TWinBtm] # Yuria
+[Wait 10]Father![n]
+I've never felt that way about you![k]
+[dcs]
+I've always thought of you as a kind man.
+[k]
+[cs]
+
+[TWinTop] # (null)
+No... I've been such a fool. Manfroy's been using me all along.
+[k]
+[cs]
+But by the time I realized what was going on, it was too late.
+[k]
+[cs]
+Yurius is the reincarnation of the Dark Lord Loputousu.
+[k]
+[cs]
+He murdered my beloved Diadora and had the same fate in store for you...
+
+[TWinBtm] # Yuria
+[Wait 10]Yes. Mother used her last drop of energy to warp me away from Yurius.[k]
+[dcs]
+I must have lost my memories over the shock of it all. I'm sure glad Levn found me.
+[k]
+[cs]
+But I still just break down and cry when I think about Yurius did to mother...[k]
+[cs]
+
+[TWinTop] # (null)
+Yuria, I could talk with you for hours, but you can't stay here. It's far too dangerous.
+[k]
+[cs]
+I want you to escape with Bishop Palmark.
+[$00$2B$E0][Wait 10]
+[TWinBtm] # Yuria
+[DlgCls][xChr][BGM 7A]
+[TWinBtm][DlgOpn]['(null)' 026C]That's not likely to happen. Yuria will be accompanying me back to Velthomer.[k]
+[dcs]
+If Your Majesty has a problem following Prince Yurius' orders, she'll be put to death.[k]
+[cs]
+
+[TWinTop] # (null)
+You'll what!? Just who the hell do you think you're talking to!!
+[TWinBtm] # (null)
+[Wait 10]Heh heh heh...[n]
+It's high time you realize the order of things.
+[k]
+[dcs]
+Anymore you're nothing but a mere servant to Prince Yurius.
+[k]
+[cs]
+If you wish to avoid any further anguish, you'll succumb to His Highness' every wish.
+[k]
+[cs]
+I'll also see to it that the children you released are all dead by sundown. Mwahahaa![k]
+[cs]
+[DlgCls][xChr][Wait 10]
+[TWinBtm][DlgOpn]['Yuria' 002B]Father!!
+[k]
+[cs]
+
+[TWinTop] # (null)
+Yuria,[n]
+I'm powerless against these people. Take this circlet...[k]
+[cs]
+It belonged to your mother. It's the only hope for protec-
+[k]
+[cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['(null)' 026C]What are you two going on about!? Yuria, you'll come with me at once!
+
+[TWinBtm] # Yuria
+[Wait 10]No... Father!
+[k]
+
+[exit]
+
+
+# 0x33c7d9:
+# @@888238@@
+
+[TWinBtm][DlgOpn]['(null)' 0286]H..hurry up! We've no time to rest!
+[k]
+[cs]
+
+[TWinTop][DlgOpn]['(null)' 02B2]But reverend, we can't go any further!
+[k]
+[cs]
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['(null)' 02B1]Those dark mages are coming for us... We're all going to die!
+
+[TWinBtm] # (null)
+[Wait 10]We'll be alright once Prince Celice arrives. You mustn't lose faith in the crusaders![k]
+
+[exit]
+
+
+# 0x33c873:
+# @@888269@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0286]
+[TWinTop] # Selis
+Reverend, are you alright?
+
+[TWinBtm] # (null)
+[Wait 10]Your Highness![n]
+Oh, how I've waited for you to come!
+[k]
+[dcs]
+I held out as best I could in order to give you this.[n]
+Here... it belongs to you.[k]
+[cs]
+
+[TWinTop] # Selis
+W..what is this!?
+
+[TWinBtm] # (null)
+[Wait 10]It's the Holy Tailfing... heirloom of the Chalphy family.
+[k]
+
+[TWinTop] # Selis
+[dcs]
+How did you get it?
+
+[TWinBtm] # (null)
+[Wait 10]I wish I could tell you, but I gave a solemn oath not to speak of where it came from.[k]
+
+[TWinTop] # Selis
+[dcs]
+I see... Well, that's okay. I'm just so grateful to have it.
+[k]
+[cs]
+So this is the Tailfing...[n]I can just feel the power swelling from it...
+
+[TWinBtm] # (null)
+[Wait 10]Your Highness, you must reclaim Chalphy Castle at once.
+[k]
+[dcs]
+The townsfolk have waited far too long for this day to come.
+[k]
+[cs]
+
+[TWinTop] # Selis
+I'll do that, reverend. With this holy sword in hand, I've nothing to fear now![k]
+
+[exit]
+
+
+# 0x33ca37:
+# @@888313@@
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop] # (null)
+Celice, well done. Look at everybody!
+[k]
+[cs]
+The townspeople came in droves to celebrate your return. Look how happy they are!
+[TWinBtm] # Selis
+[Wait 10]Yeah... I've finally reached my true homeland. It's a good feeling.[k]
+[dcs]
+But I also feel somewhat empty inside.
+[k]
+[cs]
+
+[TWinTop] # (null)
+You're worried about Yuria, aren't you... You really like her, don't you...
+
+[TWinBtm] # Selis
+[Wait 10]No, I'm just worried about her.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Several townspeople said they saw Bishop Manfroy take off with her.[k]
+[cs]
+She must still be in Grandbell somewhere.
+
+[TWinBtm] # Selis
+[Wait 10]Levn, I know I should be happy 
+now that my father's death 
+has been avenged, but I still 
+don't feel right somehow.[k]
+
+[TWinTop] # (null)
+[dcs]
+That's because this war is not yet over with.
+[k]
+[cs]
+Actually, the real battle, the holy war, is just on the horizon.
+[k]
+[cs]
+See this war through, Celice. You'll find the answers you seek. Trust me.[k]
+
+[exit]
+
+
+# 0x33cdb1:
+# @@888346@@
+
+[TWinTop][DlgOpn]['(null)' 026F]
+[TWinBtm][DlgOpn]['(null)' 0271]
+[TWinTop] # (null)
+Heh heh... Looks like I won, Ishtar.
+
+[TWinBtm] # (null)
+[Wait 10]You were wonderful, Your Highness!
+[k]
+
+[exit]
+
+
+# 0x33cd70:
+# @@888430@@
+
+[TWinTop][DlgOpn]['(null)' 0271]
+[TWinBtm][DlgOpn]['(null)' 026F]
+[TWinTop] # (null)
+Ha ha... looks like I won, Your Highness.
+
+[TWinBtm] # (null)
+[Wait 10]Humph... nice work, Ishtar. I'm impressed.
+[k]
+
+[exit]
+
+
+# 0x33cd49:
+# @@888569@@
+
+[TWinTop][DlgOpn]['(null)' 026F]
+[TWinBtm][DlgOpn]['(null)' 0271]
+[TWinTop] # (null)
+You didn't fare too well... It's time we leave!
+[k]
+
+[exit]
+
+
+# 0x33ce76:
+# @@888634@@
+
+[TWinBtm][DlgOpn]['(null)' 02AE]Oh my... the crusaders! Please, you must save our children!!
+[k]
+[cs]
+They are to be... (sob..) sacrificed to the Dark Lord!
+[k]
+
+[exit]
+
+
+# 0x33ced1:
+# @@888648@@
+
+[TWinBtm][DlgOpn]['(null)' 02AD]That Queen Hilda of Chronos is wicked to the core.
+[k]
+[cs]
+She began abducting kids after 
+allying with this dark bishop. 
+She kills the mothers, too, 
+without a blink of an eye![k]
+[cs]
+That woman's not even human. I'd 
+say she's more like a devil!
+[k]
+
+[exit]
+
+
+# 0x33cfe6:
+# @@888662@@
+
+[TWinBtm][DlgOpn]['(null)' 02AB]The war between the Loput Empire and the 12 Crusaders wore on for 15 long years.
+[k]
+[cs]
+The battle ended up dragging the entire continent into it's fold.
+[k]
+[cs]
+At long last Saint Heim 
+overcame the Dark Lord's 
+incarnation, Emperor Galle 
+the Seventeenth. Thus peace 
+was restored to the land.[k]
+[cs]
+...However, the Dark Lord has once again been resurrected.[n]Crusaders, do protect us!
+[k]
+
+[exit]
+
+
+# 0x33cf54:
+# @@888676@@
+
+[TWinBtm][DlgOpn]['(null)' 02AD]These sacrificial rituals didn't show up until just recently.
+[k]
+[cs]
+Before that Emperor Alvis wouldn't allow them... What in tarnation happened!?[k]
+[cs]
+Here, I'm giving you this Magic Ring in good conscious. Please save the children![k]
+
+[exit]
+
+
+# 0x33d0af:
+# @@888695@@
+
+[TWinBtm][DlgOpn]['(null)' 02B0]That Prince Yurius just sends chills down my spine.
+[k]
+[cs]
+That gaze of his draws you in, and you just totally lose yourself in it.[k]
+[cs]
+I've had many friends leave for Barhara to worship him, but now they're all missing...[k]
+
+[exit]
+
+
+# 0x33d142:
+# @@888709@@
+
+[TWinBtm][DlgOpn]['(null)' 02AB]None of you stand a chance against Imperial Prince Yurius in your present condition.
+[k]
+[cs]
+As unfortunate as it may be, you may need to make a sacrifice to get where you're going.
+[k]
+
+[exit]
+
+
+# 0x32dfdc:
+# @@888750@@
+
+[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]Celice... Celice.....
+
+[TWinBtm] # Selis
+[Wait 10]Wh.. who's calling my name?
+[k]
+
+[TWinTop][dcs]
+...Oh, how you've grown, Celice.
+
+[TWinBtm] # Selis
+[Wait 10]M..mother!?[n]Mother, is that you?
+[k]
+[BGM 54][Wait 14]
+[TWinTop][dcs]
+['(null)' 02B6]...Ah, Levn has done such a fine job with you.
+[k]
+[cs]
+...Celice, always treasure those in your presence. Honor each and every one of them.
+[TWinBtm] # Selis
+[Wait 10]Y..yes, mother! 
+[Wait 1E] Hey, I slayed Emperor Alvis! [n]
+[Wait 14] I've finally avenged father's death![k]
+
+[TWinTop] # (null)
+[dcs]
+...I see.[n]
+...What then of Yurius and Yuria?
+
+[TWinBtm] # Selis
+[Wait 19]Yurius and Yuria?[n]
+Do you know where they are!?[k]
+
+[TWinTop] # (null)
+[dcs]
+ . . . . .
+
+[TWinBtm] # Selis
+[Wait 19]Mother?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+[DlgCls][xChr][$00$2B$E2][Wait 28]
+[TWinTop][DlgOpn]['(null)' 02B5]...Celice...
+[BGM 53][Wait 14]
+[TWinBtm] # Selis
+[Wait 1E]Who's th-[n]
+Father? Is that you!?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+...Celice, don't let Alvis' death go to your head. His defeat wasn't by your hand alone.
+[TWinBtm] # Selis
+[Wait 19]Huh? Father, what's that supposed to mean?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+...Get to know the people's sorrow. Your reality and their's are still worlds apart.
+[k]
+[cs]
+...If you can't accomplish that, Celice, then this whole war has been for nothing.
+[Wait 1E][xChr]
+[TWinBtm] # Selis
+[Wait 19]F..father! Please... wait a second!!
+[k]
+
+[TWinTop][dcs]
+[DlgCls][Wait 10][DlgOpn]...Take care of yourself, my son.
+
+[TWinBtm] # Selis
+[Wait 19]Mother...
+[k]
+
+[exit]
+
+
+

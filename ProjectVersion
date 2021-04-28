@@ -1,0 +1,14 @@
+MAJORVERSION=0
+MINORVERSION=50
+BUILDVERSION=9
+PATCHLEVEL=1
+
+FE4_SITE="http://fe4trans.freeshell.org/jay/fe4"
+PATCH_DIR="$FE4_SITE/patches"
+
+sif_linux=sif-5.0cvs08312001-pack-linux.tar.bz2
+libtbl_linux=libtbl-1.0-pack-linux.tar.bz2
+as65816_linux=as65816-2.0-2-pack-linux.tar.bz2
+
+
+

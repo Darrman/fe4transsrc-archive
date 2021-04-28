@@ -1,0 +1,85 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+[mode-sjis]
+
+# 0x05DF0C:
+# P: 5DFBF
+# @@384959@@
+
+[$DD$DB$85$01$01$81$40]
+#???j?b?g
+Unit
+
+[exit]
+
+# 0x05DF1D:
+# P: 5DFC4
+# @@384964@@
+
+[$ED$DB$85$01$01$81$40]
+#?A?C?e??
+Items
+
+[exit]
+
+# 0x05DF2E:
+# P: 5DFC9
+# @@384969@@
+
+[$F6$DB$85$01$01$81$40]
+#?f?[?^
+Data
+
+[exit]
+
+# 0x05DF3D:
+# P: 5DFCE
+# @@384974@@
+
+[$0E$DC$85$01$01$81$40]
+#?X?L??
+Skills
+
+[exit]
+
+# 0x05DF4C:
+# P: 5DFD3
+# @@384979@@
+
+[$CA$DC$85$01$01$81$40]
+#?R???t?B?O
+Config
+
+[exit]
+
+# 0x05DF7D:
+# P: 5DFD8
+# @@384984@@
+
+[$26$DC$85$01$01$81$40]
+#?^?[???G???h
+End Turn
+
+[exit]
+

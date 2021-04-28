@@ -1,0 +1,4 @@
+LIBRARY fe4map.so
+EXPORTS
+   id @1
+   mapfunc @2

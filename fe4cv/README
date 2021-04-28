@@ -1,0 +1,8 @@
+Character viewer.
+This requires SDL to compile.
+This decodes and displays the character portraits for FE4.
+To use, type:
+make
+./fe4cv char.dat char.cg
+
+Use arrow keys to scroll and ESC to exit.

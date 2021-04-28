@@ -1,0 +1,892 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# Fire Emblem 4 Script Dump
+# ppt/fe4_0B.ppt
+
+# Filesize: 4194816 bytes
+
+# 0x329b16:
+# @@3268508@@
+
+[TWinTop][DlgOpn]['(null)' 026F]
+[TWinBtm][DlgOpn]['(null)' 026C]
+[TWinTop] # (null)
+My father's dead, is he...
+
+[TWinBtm] # (null)
+[Wait 10]He was of no use to us any more. The rebel army did us a favor by removing him.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Poor father... You used him for all his worth and then left him out there to perish.
+[TWinBtm] # (null)
+[Wait 10]It was all for your own good, Your Highness.
+[k]
+[dcs]
+Alvis may have been of 
+Loputian blood, but he 
+clearly opposed the revival 
+of the old regime.[k]
+[cs]
+Crusader Fala's ways ran far too deep with him. He would have turned on us eventually.[k]
+[cs]
+
+[TWinTop] # (null)
+I know... So it seems the rebel army reached Chalphy.[n]Should that concern me?
+[TWinBtm] # (null)
+[Wait 10]I've already given orders to Bishop Lodan and Burian of Dozel to retake Chalphy.[k]
+[dcs]
+Rest assured, there's no cause for alarm.
+[k]
+[cs]
+
+[TWinTop] # (null)
+I see...[n]
+Manfroy, I want to see Yuria. Where is she being kept?
+
+[TWinBtm] # (null)
+[Wait 10]She's in the dungeon. One moment... Guards, fetch us the Imperial Princess NOW!
+[k]
+[dcs]
+[DlgCls][xChr][Wait 10]
+[TWinBtm][DlgOpn]['Yuria' 002B] . . . . .
+[k]
+[cs]
+
+[TWinTop] # (null)
+Greetings, Yuria.[n]
+Do you remember who I am?
+
+[TWinBtm] # Yuria
+[Wait 10].....Yurius.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Ha! Your memory is still intact.... And to think it's been 7 years.
+[TWinBtm] # Yuria
+[Wait 10]Yes, I remember it all now...[n]...as if it were yesterday.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Heh heh... I suppose you've some fond memories of your mother, as well.
+
+[TWinBtm] # Yuria
+[Wait 10]. . . .[n]Just who are you?
+[k]
+[dcs]
+Everything changed the day Archbishop Manfroy brought that eerie black book in.[k]
+[cs]
+That day also marks the last I saw of my dear brother...
+[k]
+[cs]
+All that remained in his place was this powerful, yet demonic child.
+[k]
+[cs]
+You... whoever you are... have deprived me of my mother and my brother, as well!
+[k]
+[cs]
+WHO ARE YOU!?[n]WHY MUST YOU PUT ME THROUGH THIS AGONY!
+[k]
+[cs]
+
+[TWinTop] # (null)
+I am the inheritor of the power of the Loput Clan. This world is my domain.
+[k]
+[cs]
+And Yuria, you inherit the power of my mortal enemy... Narga. Therefore, you must die.
+[TWinBtm] # Yuria
+[Wait 10][DlgCls][xChr]
+[TWinBtm][DlgOpn]['(null)' 026C]Your Highness, wait... I still have a use for the girl. Allow me to finish her off later.[k]
+
+[TWinTop] # (null)
+[dcs]
+Hmm... Better be interesting, Manfroy. Alright, she's with you. I'm withdrawing to the capitol.[k]
+[cs]
+But be forewarned... one slip up on your part could have far reaching consequences!
+[k]
+
+[exit]
+
+
+# 0x329fc3:
+# @@3268624@@
+
+[TWinBtm][DlgOpn]['(null)' 0287]I've orders from His Imperial 
+Highness. Priests and mercenaries... no one gets past you, understood!?
+[k]
+[cs]
+And it's the knight brigade's job to get Chalphy back!!
+[k]
+
+[exit]
+
+
+# 0x32a01d:
+# @@3268837@@
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop] # (null)
+The final holy war is just about under way, Celice.
+
+[TWinBtm] # Selis
+[Wait 10]Holy war?[n]So this is it, huh...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Yeah...[n]
+Yurius turned out to be a 
+descendant of the Loput Clan. 
+He's been plotting to restore 
+the dark empire from day one.[k]
+[cs]
+We've got to stop him... no matter what!
+
+[TWinBtm] # Selis
+[Wait 10]Levn,[n]how do you always seem to know everything?
+[k]
+[dcs]
+Please...[n]
+you gotta let me know what else is going on here!
+[k]
+[cs]
+
+[TWinTop] # (null)
+Celice, I apologize if I've kept some things from you in the past.
+[k]
+[cs]
+In all my years of travel in search of the truth, I've finally stumbled upon something big.
+[TWinBtm] # Selis
+[Wait 10]What is it?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Legend has it Bishop Galle 
+crossed the sea in his youth 
+and traveled the world before 
+founding the Loput Empire.[k]
+[cs]
+He was determined to drink the lifeblood of a legendary creature of the time.
+[k]
+[cs]
+One sip promised powers of unimaginable proportions.
+
+[TWinBtm] # Selis
+[Wait 10]You don't mean the lifeblood of the Ancient Dragon Tribe!? That's all superstition, right?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Yeah, but when Galle returned from his travels, he possessed unexplainable powers.[k]
+[cs]
+He used his new powers to influence the young to his own devices.
+[k]
+[cs]
+Before long he had built up a demonic legion of warriors that followed his every whim.
+
+[TWinBtm] # Selis
+[Wait 10]So where does Lord Loputousu fit into all this?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+He was most likely of the Dragon Tribe. Their blood flows in all of Galle's descendants[k]
+[cs]
+making the Loput Clan's evil power and the Dragon Tribe's power one and the same.
+
+[TWinBtm] # Selis
+[Wait 10]Then what of our ancestors, the Crusaders? How did they come to be?
+[k]
+[TWinTop] # (null)
+[dcs]
+Well, the legend goes that the gods descended upon 12 warriors of the liberation army.[k]
+[cs]
+It all took place at Darna Fortress.[n]But, um...
+
+[TWinBtm] # Selis
+[Wait 10]But what? What happened!?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Celice, let's save this one for next time. We've got an enemy to confront.
+[k]
+
+[exit]
+
+
+# 0x32a4bf:
+# @@3269053@@
+
+[TWinTop][DlgOpn]['Brian' 01B8]
+[TWinBtm][DlgOpn]['Fisher' 01B5]
+[TWinTop] # Brian
+Fischer, it's time to make your move on Edda. Now watch as I tear on through to Chalphy![k]
+[cs]
+I'm pitting the entire might of my Grauen Ritter against those damn rebels!
+
+[TWinBtm] # Fisher
+[Wait 10]Understood, sir.
+[k]
+
+[exit]
+
+
+# 0x32a544:
+# @@3269291@@
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop] # (null)
+What a disgrace...[n]
+It's hard to believe the Dozels are of Crusader lineage.
+[k]
+[cs]
+This all started because of Langobalt...
+
+[TWinBtm] # Selis
+[Wait 10]Levn, tell me more about the source of the Crusader's power. I mean... who are the gods anyway?[k]
+
+[TWinTop] # (null)
+[dcs]
+Here's how I understand it... 
+There were beings from 
+another world who knew the 
+Dragon Tribe's power was 
+responsible for Jugdral's 
+unrest.[k]
+[cs]
+So they came from their world to assist us.
+[k]
+[cs]
+They were the ones who appeared at Darna Fortress just as it was about to fall.
+
+[TWinBtm] # Selis
+[Wait 10]That's the ''Decent of Lord Narga and the 11 Gods'' from scriptures, huh...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+That's right. They all 
+assumed human forms. Narga, 
+the god of light, appeared as a 
+young maiden, and the fire god 
+Salamand was that of an 
+elderly man.[k]
+[cs]
+Each god performed blood rites with one of the 12 chosen warriors.
+
+[TWinBtm] # Selis
+[Wait 10]Blood rites?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Yes. After making a small cut on their fingertip, they offered their blood to the warriors.
+
+[TWinBtm] # Selis
+[Wait 10]...!?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Celice, I'll just cut to the chase. The gods you and I know from scripture are of the same Dragon Tribe as Loputousu is.
+[k]
+[cs]
+So the warriors ingested the blood of the Dragon Tribe and were reborn as the Crusaders.[k]
+[cs]
+Each Crusader received a weapon sealed with the power of their respective tribesmen.
+[k]
+[cs]
+After imparting a few precepts upon the Crusaders, the tribesmen left.
+[TWinBtm] # Selis
+[Wait 10]Wow... so that's where our power comes from!
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Yet Loputousu's clan wields the most diabolic power of the entire tribe.
+[k]
+[cs]
+King Narga passed his own blood onto the leader of the liberation army, Bishop Heim.[k]
+[cs]
+That was Narga's only hope to rival the Loputian power.
+
+[TWinBtm] # Selis
+[Wait 10]Couldn't any of the other tribesmen take on Loputousu?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Doesn't seem likely. Even with all their power combined, they still need Narga's.[k]
+[cs]
+Now Empress Diadora's children are the only surviving descendants of Heim who would FIX[k]
+[cs]
+who would have inherited Narga's power.
+[k]
+[cs]
+But neither you nor Yurius inherited the 'blood' of Narga. But I now know who did.[k]
+[cs]
+Yurius' twin sister... Princess Yuria did. She's the one!
+
+[TWinBtm] # Selis
+[Wait 10]E..excuse me!?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+The connection kinda threw me at first, too. But, yeah, you've got a sis, Celice.
+[TWinBtm] # Selis
+[Wait 10]Yuria's my sister...[n]Geez, I never would've thought...
+[k]
+
+[TWinTop] # (null)
+[dcs]
+This all explains her disappearance now, doesn't it... But, we've got to find her.[k]
+[cs]
+Because we don't stand a chance against Yurius without her!
+[k]
+
+[exit]
+
+
+# 0x32aa72:
+# @@3269386@@
+
+[TWinBtm][DlgOpn]['(null)' 0268]What![n]Now we've lost Dozel!?
+[k]
+[cs]
+The whole bloody lot of them are worthless! Hrmph...[n]
+Fine, I'll handle this myself.[k]
+[cs]
+Should be simple matter of drawing the rebel army just a wee bit north.
+[k]
+[cs]
+I need to get through to Scorpio...[k]
+[cs]
+Once my Gelben Ritter draw them in, his Beigen Ritter can flank 'em from the rear.
+[k]
+[cs]
+Well kill those miscreants...[n]every last one of them!
+[k]
+
+[exit]
+
+
+# 0x32ab63:
+# @@3269804@@
+
+[TWinBtm][DlgOpn]['(null)' 0272]Heh... they fell for the trap. Freege's army appears to be in position.[k]
+[cs]
+Alright, we'll cut through these woods and take 'em from behind! Now move!!
+[k]
+
+[exit]
+
+
+# 0x32abc5:
+# @@3269843@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop] # Selis
+Levn,[n]we finally made it to Freege.
+[k]
+[cs]
+I wonder how the children up at Barhara are holding...[n]I hope they're okay.
+[TWinBtm] # (null)
+[Wait 10]Actually, there's someone here to speak to you about that, Celice.
+[k]
+
+[TWinTop] # Selis
+[dcs]
+
+[TWinBtm] # (null)
+[DlgCls][xChr]
+[TWinBtm][DlgOpn]['(null)' 0285]
+[TWinTop] # Selis
+Who are you?
+
+[TWinBtm] # (null)
+[Wait 10]My name is Felipe. I am a former attendant of His Majesty Emperor Alvis.
+[k]
+[dcs]
+I had secret orders from His Majesty to safeguard all the abducted children from Yurius.[k]
+[cs]
+
+[TWinTop] # Selis
+You wh-!?[n]
+You mean they're all alright!?
+
+[TWinBtm] # (null)
+[Wait 10]That's correct. They are all safe and sound at the monastery here in town.
+[k]
+
+[TWinTop] # Selis
+[dcs]
+Wow... You sure did a fantastic job keeping that from Hilda.
+[TWinBtm] # (null)
+[Wait 10]Well... Actually, Princess Ishtar secretly came to our aide in that matter.
+[k]
+[dcs]
+None of the soldiers came near the monastery for fear of retribution from the princess.
+[k]
+[cs]
+
+[TWinTop] # Selis
+Princess Ishtar did that!?[n]
+B..but why?
+
+[TWinBtm] # (null)
+[Wait 10]Her Highness is in truth a very caring individual.
+[k]
+[dcs]
+She took an interest in the children's welfare right from the start.
+[k]
+[cs]
+It was Her Highness after all who coordinated their escape from the Royal Palace.[k]
+[cs]
+
+[TWinTop] # Selis
+Is that right...[n]
+Well, everyone will be glad to know the children are safe.[k]
+[cs]
+Sir Felipe, please accept my utmost gratitude.[k]
+[cs]
+
+[TWinBtm] # (null)
+[DlgCls][xChr]
+[TWinBtm][DlgOpn]['(null)' 0280]That's one objective down. It's nice to see our struggle is finally starting to pay off.[k]
+[cs]
+
+[TWinTop] # Selis
+But we still haven't located Yuria.[n]Where could she be...
+[TWinBtm] # (null)
+[Wait 10]Well, she's not in Freege. So that leaves us with Barhara or Velthomer... one of the two.[k]
+
+[TWinTop] # Selis
+[dcs]
+Yurius is in Barhara, isn't he...
+
+[TWinBtm] # (null)
+[Wait 10]Yeah. We've got to find Yuria before we go there.
+[k]
+[dcs]
+Because we don't stand a chance against Yurius without her power.
+[k]
+[cs]
+
+[TWinTop] # Selis
+But will she want to face Yurius?[n]He's her own brother...
+
+[TWinBtm] # (null)
+[Wait 10].....[n]
+You're just going to have to get through to her, Celice.
+[k]
+
+[exit]
+
+
+# 0x32afbd:
+# @@3269965@@
+
+[TWinTop][DlgOpn]['(null)' 0271]
+[TWinBtm][DlgOpn]['(null)' 026F]
+[TWinTop] # (null)
+Your Highness, I wish to take the Weissen Ritter out and fortify the palace's defense.[k]
+[cs]
+I request your permission to leave the Royal Palace.
+
+[TWinBtm] # (null)
+[Wait 10]Hmph...[n]Why do you need to join the battle all of a sudden?
+[k]
+[dcs]
+They can send as many soldiers as they want. They can't defeat me... You just stay put.[k]
+[cs]
+
+[TWinTop] # (null)
+I mean no disrespect... but do understand I take great pride in being a warlock of Freege.[k]
+[cs]
+With the murder of my parents 
+and my brother... it pains me 
+to sit here doing nothing.[n]
+Please allow me to fight!
+
+[TWinBtm] # (null)
+[Wait 10]You have a death wish or something, Ishtar? Or are you just trying to elude me?[k]
+
+[TWinTop] # (null)
+[dcs]
+No...[n]
+Of course not. I love you, Yurius. You know that.
+
+[TWinBtm] # (null)
+[Wait 10]Heh heh...[n]
+Alright, you do what you want. I'm not stopping you.
+[k]
+
+[TWinTop] # (null)
+[dcs]
+Thank you, Your Highness.[n]Meng, Bregg, Meibel... come with me!
+[TWinBtm] # (null)
+[Wait 10][DlgCls][xChr]
+[TWinBtm][DlgOpn]['(null)' 0269]Yes, Your Highness!
+[k]
+[dcs]
+
+[TWinTop] # (null)
+[DlgCls][xChr]
+[TWinBtm] # (null)
+[DlgCls][xChr]
+[TWinBtm][DlgOpn]['(null)' 026F]How about we wrap this up...[n]
+Have Areone's mercenary troop set in an attack pattern.[n]
+Dark warlords, it's show time![k]
+[cs]
+I'm all through playing.[n]
+That rebel army is history!!
+[k]
+
+[exit]
+
+
+# 0x32b2bd:
+# @@3270150@@
+
+[TWinTop][DlgOpn]['(null)' 026C]
+[TWinBtm][DlgOpn]['(null)' 02B4]
+[TWinTop] # (null)
+Huahaha... It's time, Yuria.[n]
+Do as I bid thee and dispose of all who defy the empire!
+[TWinBtm] # (null)
+[Wait 10]Yes... Your Eminence.
+[k]
+
+[exit]
+
+
+# 0x32b23b:
+# @@3270361@@
+
+[TWinBtm][DlgOpn]['(null)' 025B]Men, we've lost the homeland...
+[k]
+[cs]
+Capturing Chalphy Castle shall be the first step in recovering it.
+[k]
+[cs]
+Now go forth with the pride that comes with being a Thracian Dragon Knight!!
+[k]
+
+[exit]
+
+
+# 0x32b320:
+# @@3270392@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 02B4]
+[TWinTop] # Selis
+Yuria!! It's me, Celice. Come on... snap out of it!
+
+[TWinBtm] # (null)
+[Wait 10]. . . . .[k]
+[$00$2D$D9$E8$B1]['Yuria' 002B][Wait 10]Huh... Celice!?[n]What... what's going on?
+[k]
+
+[TWinTop] # Selis
+[dcs]
+Manfroy cast a spell on you... He was manipulating you.
+
+[TWinBtm] # Yuria
+[Wait 10]Oh...[n]Now I remember. Manfroy forced me to go with him...
+[k]
+
+[TWinTop] # Selis
+[dcs]
+I'm so glad you're safe now, Yuria.
+
+[TWinBtm] # Yuria
+[Wait 10]Celice,[n]I have something I...
+[k]
+
+[TWinTop] # Selis
+[dcs]
+Don't worry about it, Yuria. Levn told me everything.
+[k]
+[cs]
+I... I feel so bad to you. I really let you down.
+
+[TWinBtm] # Yuria
+[Wait 10]Not really. For the first time in my life I know what I'm here for.[k]
+[dcs]
+And that's to fight...[n]
+I'm not scared anymore, Celice.
+[k]
+[cs]
+
+[TWinTop] # Selis
+You're really brave, Yuria, you know that? We're all behind you on this.
+[k]
+[cs]
+I wish things could be different, but we have to face this... We must persevere.[k]
+
+[exit]
+
+
+# 0x32b4d1:
+# @@3270429@@
+
+[TWinTop][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['(null)' 025B]
+[TWinTop] # Altena
+Areone... STOP![n]
+Just what is it going to take for you to listen to me!?
+[TWinBtm] # (null)
+[Wait 10]Altenna!?
+[k]
+
+[TWinTop] # Altena
+[dcs]
+You're such a coward![n]
+You're so caught up in your damn ego that you've completely lost track of what's right!
+[TWinBtm] # (null)
+[Wait 10]So what are you suggesting I do!?
+[k]
+
+[TWinTop] # Altena
+[dcs]
+Take a look at Prince Celice!
+[k]
+[cs]
+Why do you think he's out here putting his life on the line? Think about it for a minute.
+[TWinBtm] # (null)
+[Wait 10]So what?[n]He's in the right and I'm not somehow?
+[k]
+
+[TWinTop] # Altena
+[dcs]
+Areone... If I can't get through to you, then just finish me off and move on.[k]
+[cs]
+My fate is in your hands...
+
+[TWinBtm] # (null)
+[Wait 10]Altenna... that's enough.[n]I...[n]I see your point now.[k]
+[dcs]
+My final action as a mercenary shall be for Celi-... No, for you, Altenna. I fight for you.[k]
+[cs]
+
+[TWinTop] # Altena
+Oh, Areone...
+[k]
+
+[exit]
+
+
+# 0x32b6ae:
+# @@3270470@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop] # Selis
+Levn, do you really think the Book of Narga is in this castle?
+[TWinBtm] # (null)
+[Wait 10]Yeah, I do. Word is Emperor Alvis removed it from the Royal Palace himself and hid it here.[k]
+[dcs]
+You know, Felipe might know something.
+[k]
+[cs]
+
+[TWinTop] # Selis
+[DlgCls][xChr]
+[TWinTop][DlgOpn]['(null)' 0285]I'm fairly certain the book is within the treasure hall, however, we need the key.
+
+[TWinBtm] # (null)
+[Wait 10]The key?[n]Do you know where it is?
+[k]
+
+[TWinTop] # (null)
+[dcs]
+I'm quite sure the emperor had the key affixed to Empress Diadora's circlet.[k]
+[cs]
+Now if we just knew the whereabouts of that circlet...
+
+[TWinBtm] # (null)
+[Wait 10]Hmm... The Empress' circlet...
+[k]
+
+[exit]
+
+
+# 0x32b7e6:
+# @@3270504@@
+
+[TWinTop][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop] # (null)
+Yuria, here's the treasure hall. Now see if the ornament on your circlet fits this opening.
+[TWinBtm] # Yuria
+[Wait 10]Okay, I'll try.
+[k]
+[Wait 0F][BGM 07]
+[TWinTop] # (null)
+[dcs]
+[Wait 46]It worked... Look, there it is! The Book of Narga!![n]It's all yours, Yuria![$00$2B$E0]
+[TWinBtm] # Yuria
+[Wait 14][BGM 08]Oh my...[n]What a strange feeling... 
+[k]
+[dcs]
+I feel like I've known this book all my life...
+[k]
+
+[exit]
+
+
+# 0x32bd7d:
+# @@3271089@@
+
+[TWinBtm][DlgOpn]['(null)' 02AB]Descendants of the brave ones... Hear my ode to the Crusaders.
+[k]
+[cs]
+<Wielding the Magic Mistolteen, the Black Knight Hezul assails the darkness
+[k]
+[cs]
+<Wielding the Divine Balmunk, the Sword Master Odo holds the darkness at bay
+[k]
+[cs]
+<Wielding the Holy Tailfing, the Holy Knight Baldo shines upon the darkness[k]
+[cs]
+<And with the Book of Narga in hand, Saint Heim prays to the heavens
+[k]
+[cs]
+<Prayer invokes light, and
+from the light emerges the
+white dragon who confronts 
+the dragon of darkness
+[k]
+[cs]
+<the white and black dragon[n]
+<a seemingly endless battle between darkness and light[k]
+[k]
+[cs]
+<Shall we be greeted with victory[n]
+...or defeat?
+[k]
+[cs]
+<Yet fear not in the face of defeat[k]
+[cs]
+<For endless is the source of the light we seek
+[k]
+[cs]
+In those who shall succeed us[n]
+<I believe
+[k]
+[cs]
+In those who receive the light[n]
+<I believe
+[k]
+[cs]
+How 'bout it?[n]Sure soothes the soul if you ask me.
+[k]
+
+[exit]
+
+
+# 0x32bf6f:
+# @@3271115@@
+
+[TWinBtm][DlgOpn]['(null)' 02AB]Hear me noble ones... it's up to you to bring meaning to this holy war.[k]
+[cs]
+You must expend every ounce of your strength and valor in the battle that lies before you.[k]
+[cs]
+Go forth. Your future awaits you where the two lights meet!
+[k]
+
+[exit]
+
+
+# 0x32b8e8:
+# @@3271141@@
+
+[TWinTop][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['(null)' 02B4]
+[TWinTop] # Selis
+Yuria!! What's wrong with you!?[n]Come on, snap out of it!
+
+[TWinBtm] # (null)
+[Wait 10]Heeeeah . . .[n]
+Must..kill..any..who..oppose..us.[k]
+[dcs]
+[DlgCls][xChr][Wait 08]
+[TWinBtm][DlgOpn]['(null)' 0280]It's no use, Celice. Black magic has got Yuria's card.
+[k]
+[cs]
+Let's get Manfroy out of the picture first... then you can give it another go!
+[k]
+
+[exit]
+
+
+# 0x32b98b:
+# @@3271248@@
+
+[TWinBtm][DlgOpn]['(null)' 026C]W..what's happening!?[n]Oh no! The life-force of darkness is fading...[k]
+[cs]
+Nyaagh...[n]
+Lo... p..putou.. su.....
+[k]
+
+[exit]
+
+
+# 0x32b9e3:
+# @@3271308@@
+
+[TWinBtm][DlgOpn]['(null)' 02B4]Aaah...
+[k]
+[$00$2D$D9$E8$B1]
+[TWinBtm] # (null)
+[DlgOpn]['Yuria' 002B][cs]
+What was I ...[n]
+Ah, Manfroy... his black magic was controlling me.[k]
+[cs]
+Celice came to my rescue... I'm sure of it!
+[k]
+
+[exit]
+
+
+# 0x32ab63:
+# @@3271370@@
+[Merge 31e4ac]
+
+[TWinBtm][DlgOpn]['(null)' 0272]Heh... they fell for the trap. Freege's army appears to be in position.[k]
+[cs]
+Alright, we'll cut through these woods and take 'em from behind! Now move!!
+[k]
+
+[exit]

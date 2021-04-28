@@ -1,0 +1,2 @@
+caa00: Sigurd's Palette
+cc100: Char 0's pal

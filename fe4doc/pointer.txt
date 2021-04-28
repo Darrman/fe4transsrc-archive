@@ -1,0 +1,7 @@
+$186A - RAM location of TEXT pointer
+
+feac2 - POINTER TO EVENTS
+
+31829c - POINTER to TEXT1??
+
+ab6f9 - POINTER TO SPRITES??

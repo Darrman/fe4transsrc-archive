@@ -1,0 +1,525 @@
+# 7 6 army
+
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used 
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing 
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+#*#[section army]
+#*#[map 6]
+#*#[bits16]
+#*#[mode-sjis]
+# Table: 0x03DAE8
+
+# 0x03DB56:
+# P: 006E
+# @@252648@@
+
+#?}?f?B?m?R
+Madino
+
+#*# [exit]
+
+# 0x03DB62:
+# P: 007A
+# @@252650@@
+
+#?V???x?[???R
+Silvail
+
+#*# [exit]
+
+# 0x03DB70:
+# P: 0088
+# @@252652@@
+
+#?A???t?H?j?[?R
+Anphony
+
+#*# [exit]
+
+# 0x03DB80:
+# P: 0098
+# @@252654@@
+
+#?A?O?X?e?B?R
+Agusty
+
+#*# [exit]
+
+# 0x03DB8E:
+# P: 00A6
+# @@252656@@
+
+#?n?C???C???R
+Heirhein
+
+#*# [exit]
+
+# 0x03DB9C:
+# P: 00B4
+# @@252658@@
+
+#?}?b?L???[?R
+Mackily
+
+#*# [exit]
+
+# 0x03DBAA:
+# P: 00C2
+# @@252660@@
+
+#?m?f?B?I???R
+Nodion
+
+#*# [exit]
+
+# 0x03DBB8:
+# P: 00D0
+# @@252662@@
+
+#???F???g?}?[?R
+Velthomer
+
+#*# [exit]
+
+# 0x03DBC8:
+# P: 00E0
+# @@252664@@
+
+#?t???[?W?R
+Freege
+
+#*# [exit]
+
+# 0x03DBD4:
+# P: 00EC
+# @@252666@@
+
+#?o?[?n???R
+Barhara
+
+#*# [exit]
+
+# 0x03DBE0:
+# P: 00F8
+# @@252668@@
+
+#?h?Y???R
+Dozel
+
+#*# [exit]
+
+# 0x03DBEA:
+# P: 0102
+# @@252670@@
+
+#?G?b?_?R
+Edda
+
+#*# [exit]
+
+# 0x03DBF4:
+# P: 010C
+# @@252672@@
+
+#?V?A???t?B?R
+Chalphy
+
+#*# [exit]
+
+# 0x03DC02:
+# P: 011A
+# @@252674@@
+
+#?????O???B?R
+Jungby
+
+#*# [exit]
+
+# 0x03DC10:
+# P: 0128
+# @@252676@@
+
+#?????X?^?[?R
+Lenster
+
+#*# [exit]
+
+# 0x03DC1E:
+# P: 0136
+# @@252678@@
+
+#?R?m?[?g?R
+Conote
+
+#*# [exit]
+
+# 0x03DC2A:
+# P: 0142
+# @@252680@@
+
+#?}???X?^?[?R
+Manster
+
+#*# [exit]
+
+# 0x03DC38:
+# P: 0150
+# @@252682@@
+
+#?????Q???R
+Melgen
+
+#*# [exit]
+
+# 0x03DC44:
+# P: 015C
+# @@252684@@
+
+#?A???X?^?[?R
+Alster
+
+#*# [exit]
+
+# 0x03DC52:
+# P: 016A
+# @@252686@@
+
+#?I?[?K?q???R
+Orgahil
+
+#*# [exit]
+
+# 0x03DC60:
+# P: 0178
+# @@252688@@
+
+#?g?[???F?R
+Thove
+
+#*# [exit]
+
+# 0x03DC6C:
+# P: 0184
+# @@252690@@
+
+#?Z?C???[???R
+Sailane
+
+#*# [exit]
+
+# 0x03DC7A:
+# P: 0192
+# @@252692@@
+
+#?U?N?\???R
+Zaxon
+
+#*# [exit]
+
+# 0x03DC86:
+# P: 019E
+# @@252694@@
+
+#?V???W?A?R
+Silesia
+
+#*# [exit]
+
+# 0x03DC92:
+# P: 01AA
+# @@252696@@
+
+#?????[?x?b?N?R
+Lubeck
+
+#*# [exit]
+
+# 0x03DCA2:
+# P: 01BA
+# @@252698@@
+
+#?e?B???i?m?O?R
+Tilnanogue
+
+#*# [exit]
+
+# 0x03DCB2:
+# P: 01CA
+# @@252700@@
+
+#?K?l?[?V???R
+Ganeishire
+
+#*# [exit]
+
+# 0x03DCC0:
+# P: 01D8
+# @@252702@@
+
+#?\?t?@???R
+Sophara
+
+#*# [exit]
+
+# 0x03DCCC:
+# P: 01E4
+# @@252704@@
+
+#?C?U?[?N?R
+Isaac
+
+#*# [exit]
+
+# 0x03DCD8:
+# P: 01F0
+# @@252706@@
+
+#???{?[?R
+Rivough
+
+#*# [exit]
+
+# 0x03DCE2:
+# P: 01FA
+# @@252708@@
+
+#?t?B?m?[???R
+Phinora
+
+#*# [exit]
+
+# 0x03DCF0:
+# P: 0208
+# @@252710@@
+
+#?C?[?h?R
+Yied
+
+#*# [exit]
+
+# 0x03DCFA:
+# P: 0212
+# @@252712@@
+
+#?_?[?i?R
+Darna
+
+#*# [exit]
+
+# 0x03DD04:
+# P: 021C
+# @@252714@@
+
+#???F???_???R
+Verdane
+
+#*# [exit]
+
+# 0x03DD12:
+# P: 022A
+# @@252716@@
+
+#?G?o???X?R
+Evans
+
+#*# [exit]
+
+# 0x03DD1E:
+# P: 0236
+# @@252718@@
+
+#?W?F?m?A?R
+Genoa
+
+#*# [exit]
+
+# 0x03DD2A:
+# P: 0242
+# @@252720@@
+
+#?}?[?t?@?R
+Marpha
+
+#*# [exit]
+
+# 0x03DD36:
+# P: 024E
+# @@252722@@
+
+#?~???g?X?R
+Miletos
+
+#*# [exit]
+
+# 0x03DD42:
+# P: 025A
+# @@252724@@
+
+#?y?????[?N?R
+Peruluke
+
+#*# [exit]
+
+# 0x03DD50:
+# P: 0268
+# @@252726@@
+
+#?N???m?X?R
+Chronos
+
+#*# [exit]
+
+# 0x03DD5C:
+# P: 0274
+# @@252728@@
+
+#???h?X?R
+Rados
+
+#*# [exit]
+
+# 0x03DD66:
+# P: 027E
+# @@252730@@
+
+#?~?[?Y?R
+Mease
+
+#*# [exit]
+
+# 0x03DD70:
+# P: 0288
+# @@252732@@
+
+#?J?p?g?M?A?R
+Kapathogia
+
+#*# [exit]
+
+# 0x03DD7E:
+# P: 0296
+# @@252734@@
+
+#???e?L?A?R
+Luthecia
+
+#*# [exit]
+
+# 0x03DD8A:
+# P: 02A2
+# @@252736@@
+
+#?g???L?A?R
+Thracia
+
+#*# [exit]
+
+# 0x03DD96:
+# P: 02AE
+# @@252738@@
+
+#?O???e?B?A?R
+Grutia
+
+#*# [exit]
+
+# 0x03DDA4:
+# P: 02BC
+# @@252740@@
+
+#???F???g?}?[?R
+Velthomer
+
+#*# [exit]
+
+# 0x03DDB4:
+# P: 02CC
+# @@252742@@
+
+#?t???[?W?R
+Freege
+
+#*# [exit]
+
+# 0x03DDC0:
+# P: 02D8
+# @@252744@@
+
+#?o?[?n???R
+Barhara
+
+#*# [exit]
+
+# 0x03DDCC:
+# P: 02E4
+# @@252746@@
+
+#?h?Y???R
+Dozel
+
+#*# [exit]
+
+# 0x03DDD6:
+# P: 02EE
+# @@252748@@
+
+#?G?b?_?R
+Edda
+
+#*# [exit]
+
+# 0x03DDE0:
+# P: 02F8
+# @@252750@@
+
+#?V?A???t?B?R
+Chalphy
+
+#*# [exit]
+
+# 0x03DDEE:
+# P: 0306
+# @@252752@@
+
+#?????O???B?R
+Jungby
+
+#*# [exit]
+
+# 0x03DDFC:
+# P: 0314
+# @@252754@@
+
+#?V?O???h?R
+Siglud's army
+
+#*# [exit]
+
+# 0x03DE08:
+# P: 0320
+# @@252756@@
+
+#?Z???X?R
+Celice's army
+
+#*# [exit]

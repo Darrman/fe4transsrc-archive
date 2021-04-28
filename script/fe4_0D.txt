@@ -1,0 +1,1881 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# Fire Emblem 4 Script Dump
+# ppt\fe4_0d.ppt
+
+# Filesize: 4194816 bytes
+
+# 0x2ea7c2:
+# @@3198309@@
+
+[TWinTop][DlgOpn]['Lex' 000E]
+[TWinBtm][DlgOpn]['Ayra' 0013]
+[TWinTop] # Lex
+Hey, Ira.
+
+[TWinBtm] # Ayra
+[Wait 10]Lex? What do you want.
+[k]
+
+[TWinTop] # Lex
+[dcs]
+Geesh, you're sure the friendly type.
+
+[TWinBtm] # Ayra
+[Wait 10]Look, I'm busy. If you don't need me, I'm leaving.
+[k]
+
+[TWinTop] # Lex
+[dcs]
+Hold on. I got my hands on something you might be interested in.
+
+[TWinBtm] # Ayra
+[Wait 10]I don't need any souvenirs. Give it to one of the other girls.
+[k]
+
+[TWinTop] # Lex
+[dcs]
+Heh heh... So you've no use for this either?
+
+[TWinBtm] # Ayra
+[Wait 10]Whoa! Where did you get that!
+[k]
+
+[TWinTop] # Lex
+[dcs]
+The infamous Heroes Sword? So I take it you've heard of it before.
+
+[TWinBtm] # Ayra
+[Wait 10]THIS is the Heroes Sword? It is fantastic!
+[k]
+
+[TWinTop] # Lex
+[dcs]
+You like it, huh? It's yours. Take it.
+
+[TWinBtm] # Ayra
+[Wait 10]Ah, wait a sec! Lex!
+[k]
+[dcs]
+
+[TWinTop] # Lex
+[DlgCls][xChr]
+[TWinBtm] # Ayra
+[Wait 10]Lex...
+[k]
+
+[exit]
+
+
+# 0x2ea94a:
+# @@3198351@@
+
+[TWinTop][DlgOpn]['Holin' 0009]
+[TWinBtm][DlgOpn]['Ayra' 0013]
+[TWinTop] # Holin
+Ira, here. I've got somethin' for ya.
+
+[TWinBtm] # Ayra
+[Wait 10]This is a Heroes Sword, isn't it? Why me? You should be using this.[k]
+
+[TWinTop] # Holin
+[dcs]
+I've a feeling things are going to 
+get nasty here soon. Besides, 
+anyone who fights like you can 
+handle a couple of extra swords.
+
+[cs]
+Keep yourself well protected. I may not always be here to defend you.
+[TWinBtm] # Ayra
+[Wait 10]Holyn, thank you. I'll cherish this sword!
+[k]
+
+[exit]
+
+
+# 0x2eaa38:
+# @@3198393@@
+
+[TWinTop][DlgOpn]['Sigurd' 0001]
+[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinTop] # Sigurd
+Briggid, you okay?
+
+[TWinBtm] # Bridget
+[Wait 10]Who are you!? How do you know my name?
+[k]
+
+[TWinTop] # Sigurd
+[dcs]
+Well, one of the villagers was 
+telling me about the leader of 
+the Orgahil Pirates and how 
+she's always helping the poor.[k]
+[cs]
+That's you, isn't it?
+
+[TWinBtm] # Bridget
+[Wait 10]Ahh, I see. You're Siglud from Grandbell, right? If you must kill me, go on. Get it over with.[k]
+[TWinTop] # Sigurd
+[dcs]
+Hahauha! No, no. I merely came to talk to you![k]
+[cs]
+We'd like you to team up with us. What do you say?
+[TWinBtm] # Bridget
+[Wait 10]You want me to fight with you!?
+[k]
+
+[TWinTop] # Sigurd
+[dcs]
+Yep, we need you.
+
+[TWinBtm] # Bridget
+[Wait 10]You sure a strange one...
+[k]
+
+[exit]
+
+
+# 0x2eab9e:
+# @@3198419@@
+
+[TWinTop][DlgOpn]['Claude' 000C]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+[TWinTop] # Claude
+Sir Siglud! Finally we can meet!!
+
+[TWinBtm] # Sigurd
+[Wait 10]Claud! You're alright!! You had us all worried. We heard the pirates attacked you two.[k]
+[TWinTop] # Claude
+[dcs]
+Yes, but we managed thanks to Tailto.
+[k]
+[cs]
+That aside, my prayer at Blagi Tower proved to be quite fruitful, Sir Siglud.
+
+[TWinBtm] # Sigurd
+[$00$2B$E1][Wait 10]You found out who killed Prince Kult!?
+[k]
+[BGM 69]
+[TWinTop] # Claude
+[dcs]
+Yes. It was all a conspiracy of Lord Reptor. He had Lord Langobalt to murder the prince.[k]
+[cs]
+And then he shrewdly placed the blame on your father.
+
+[TWinBtm] # Sigurd
+[Wait 10]I knew it!
+[k]
+
+[TWinTop] # Claude
+[dcs]
+There's more. The death of King Mananan also turned out to be Lord Reptor's handiwork.[k]
+[cs]
+He did not want the war with Isaac to come to a close, so he secretly killed the king. 
+[TWinBtm] # Sigurd
+[Wait 10]Is that right? So this was Reptor right from the start.
+[k]
+
+[TWinTop] # Claude
+[dcs]
+Well, it doesn't seem to be all his doing. Some kind of wicked force is working in his shadow.[k]
+[cs]
+An evil presence so powerful that even Lord Blagi could not clearly discern it.
+
+[TWinBtm] # Sigurd
+[Wait 10]...Evil presence? Maybe the Dark Sect? Claud! What about my father!?[k]
+
+[TWinTop] # Claude
+[dcs]
+Well, he is still alive, but seems to be on his very last strands of life.
+[TWinBtm] # Sigurd
+[Wait 10]Father... Oh no!
+[k]
+
+[TWinTop] # Claude
+[dcs]
+I will hurry back to the capital and inform His Majesty all that I have been revealed.
+[k]
+[cs]
+Sir Siglud, please sit tight for the moment and try to avoid any rash behavior.
+
+[TWinBtm] # Sigurd
+[Wait 10]Of course.
+[k]
+[dcs]
+Claud, please, I beg of you, help my father clear himself of this horrible injustice.[k]
+[cs]
+
+[TWinTop] # Claude
+It's in the Lord's hand now, Sir Siglud.
+[k]
+
+[exit]
+
+
+# 0x2eaeec:
+# @@3198445@@
+
+[TWinTop][DlgOpn]['Mideel' 0007]
+[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinTop] # Mideel
+My lady?
+
+[TWinBtm] # Bridget
+[Wait 10]Huh? Who the hell are you?
+[k]
+
+[TWinTop] # Mideel
+[dcs]
+I'm sorry, you aren't Lady Adean, are you. So you must be...
+
+[TWinBtm] # Bridget
+[Wait 10]You a nut? What in the world are you mumbling about?
+[k]
+
+[TWinTop] # Mideel
+[dcs]
+What's you name?
+
+[TWinBtm] # Bridget
+[Wait 10]Briggid.
+[k]
+
+[TWinTop] # Mideel
+[dcs]
+Briggid... you're beautiful!
+
+[TWinBtm] # Bridget
+[Wait 10]What did you say? You tryin' to be funny!?
+[k]
+
+[TWinTop] # Mideel
+[dcs]
+To think there's another... one that's even more beautiful. You're like a dream!
+
+[TWinBtm] # Bridget
+[Wait 10]I... I'm leaving!
+[k]
+
+[exit]
+
+
+# 0x2eb009:
+# @@3198478@@
+
+[TWinTop][DlgOpn]['Ethrin' 0011]
+[TWinBtm][DlgOpn]['Cuan' 0006]
+[TWinTop] # Ethrin
+Cuan, I have an apology to make.
+
+[TWinBtm] # Cuan
+[Wait 10]Hm? What's the matter? Did something happen?
+[k]
+
+[TWinTop] # Ethrin
+[dcs]
+Here.
+
+[TWinBtm] # Cuan
+[Wait 10]Aaaaah! The Gayborg Lance! How did you get it!?[k]
+
+[TWinTop] # Ethrin
+[dcs]
+Your father gave it to me. He wanted me to give it to you if things got too out of hand.
+[TWinBtm] # Cuan
+[Wait 10]Boy, I'm going to clean up shop with this! So why did you wait until NOW?
+[k]
+
+[TWinTop] # Ethrin
+[dcs]
+Well, your father told me a bit about its history. I'm sorry, Cuan...
+[TWinBtm] # Cuan
+[Wait 10]The legend of Gayborg. Yeah, that's a sad story, but it's nothing more than legend.[k]
+
+[TWinTop] # Ethrin
+[dcs]
+Yeah, but...
+
+[TWinBtm] # Cuan
+[Wait 10]Ethlin, trust me. Anyway, this battle's about over with. We can soon return to Lenster.[k]
+[dcs]
+We gotta get back to our little Altenna.
+[k]
+[cs]
+
+[TWinTop] # Ethrin
+Yes, we do. Cuan, no matter what happens, we'll never be apart. Isn't that right?
+[TWinBtm] # Cuan
+[Wait 10]Huh? You must be worried about Diadora. But we're will find her soon.[k]
+
+[TWinTop] # Ethrin
+[dcs]
+Yeah, I want to think so, too. But...
+
+[TWinBtm] # Cuan
+[Wait 10]Ethlin? What're you crying for? You think something bad's going to happen?
+[k]
+
+[TWinTop] # Ethrin
+[dcs]
+I'm just (sniff..) sad to think those two may never see each other again.
+[k]
+[cs]
+They were so much in love. How could such a horrible thing like that happen!
+[TWinBtm] # Cuan
+[Wait 10]Ethlin...
+[k]
+[exit]
+
+
+# 0x2eb2d3:
+# @@3198518@@
+
+[TWinTop][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinTop] # Edin
+Hey, you're... Yes, I knew it! Briggid! I'm your sister, Adean![k]
+[cs]
+Please, try to remember!
+
+[TWinBtm] # Bridget
+[Wait 10]How come you know my name?? Wow, you look just like me.
+[k]
+[dcs]
+...Adean? Actually sounds kinda familiar.
+[k]
+[cs]
+
+[TWinTop] # Edin
+Yes! I'm your twin sister! You were taken by pirates when you were just 5 years old.[k]
+[cs]
+I've been looking for you for such a long time.
+
+[TWinBtm] # Bridget
+[Wait 10]I don't know. You're going to have to prove this to me somehow.
+[k]
+
+[TWinTop] # Edin
+[dcs]
+OK. Take this bow. Now pull.
+
+[TWinBtm] # Bridget
+[Wait 10]Hm? Wow! Now that's a nice bow!
+[k]
+[dcs]
+Just pull on it, right? Whooa! W...what is gg..going on!
+[k]
+[cs]
+Some strange power is bubbling up inside me. I... I have some recollection...[k]
+[cs]
+Aaah... my heart is getting warm... Adean. Your name is Adean, my sister![k]
+[cs]
+
+[TWinTop] # Edin
+Wonderful! You remember! That 
+bow is the holy Ichaival. It's 
+been handed down through our 
+family for generations.[k]
+[cs]
+It is said that only one direct descendant is able to handle the divine weapons.
+[k]
+[cs]
+And in our family, that appears to be you! Now is that enough proof for you?
+[TWinBtm] # Bridget
+[Wait 10]Adean. . . Let me see your face. How's our father?[k]
+[dcs]
+And our brother... Andorey?
+[k]
+[cs]
+
+[TWinTop] # Edin
+Oh! I have so many things to ask you, too!
+[k]
+[exit]
+
+
+# 0x2eb5bd:
+# @@3198558@@
+
+[TWinTop][DlgOpn]['Sigurd' 0001]
+[TWinBtm][DlgOpn]['Claude' 000C]
+[TWinTop] # Sigurd
+Claud. Geez, I'm sorry to get you involved in all this.
+
+[TWinBtm] # Claude
+[Wait 10]No, I'm just sorry I haven't been of much help to you.
+[k]
+[dcs]
+Well, I made it back to Grandbell and I had every intention of telling His Majesty the truth.[k]
+[cs]
+But Reptor's people kept me from the king. Now, I too have been branded a traitor.[k]
+[cs]
+
+[TWinTop] # Sigurd
+Claud, I've had it with them!
+[k]
+[cs]
+I tell you, I'm just about ready to storm Grandbell to expose those bastards!
+
+[TWinBtm] # Claude
+[Wait 10]Sir Siglud, violent tactics never yield positive results. We have to stick this one out.[k]
+
+[TWinTop] # Sigurd
+[dcs]
+But Claud!
+
+[TWinBtm] # Claude
+[Wait 10]I know exactly how you feel. Unfortunately, I believe this one is in fate's hands.[k]
+[dcs]
+...There is little we can do right now.
+[k]
+
+[exit]
+
+
+# 0x2eb768:
+# @@3198584@@
+
+[TWinTop][DlgOpn]['Tiltyu' 0015]
+[TWinBtm][DlgOpn]['Azel' 000A]
+[TWinTop] # Tiltyu
+Azel, wait up.
+
+[TWinBtm] # Azel
+[Wait 10]Tailto, what's up?
+[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+I have something I need to ask you.
+
+[TWinBtm] # Azel
+[Wait 10]Me?
+[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+It's okay? It's just that... Well, I've known you all my life, right?
+[k]
+[cs]
+And I've got no one else I can talk to about this.
+
+[TWinBtm] # Azel
+[Wait 10]Yeah, sure. What's the problem?[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+Well.. it's like I've been just kinda followin' Claud around, right?
+[k]
+[cs]
+But I'm startin' to wonder if it was such a good idea.
+[TWinBtm] # Azel
+[Wait 10]Why?
+[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+I don't know. It's just that everyone acts kinda funny around me.
+[k]
+[cs]
+And no one ever talks about my dad when I'm around.
+
+[TWinBtm] # Azel
+[Wait 10]Really? Yeah, that'd suck. But I think everyone likes you, Tailto.
+[k]
+[dcs]
+Everybody's just not sure how to act around you. That's all.
+[k]
+[cs]
+Just be yourself! People'll come around. You'll see.
+[k]
+[cs]
+
+[TWinTop] # Tiltyu
+Yeah, you're right. Thanks, I feel a bit spunkier now.
+[TWinBtm] # Azel
+[Wait 10]Ha ha ha! You're too much, Tailto!
+[k]
+[dcs]
+Come find me anytime you need someone to talk to, OK?[k]
+[cs]
+
+[TWinTop] # Tiltyu
+Will do! Thanks, Azel!
+[k]
+
+[exit]
+
+
+# 0x2eb9ad:
+# @@3198635@@
+
+[TWinTop][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinTop] # Edin
+Jamka, please have this bow.
+
+[TWinBtm] # Jamuka
+[Wait 10]Wow, this is the ah... Heroes Bow, right? You sure I can have it?
+[k]
+
+[TWinTop] # Edin
+[dcs]
+I want you to have it, Jamka.
+[k]
+[cs]
+Silesia's Pegasus Knights are fierce.  Now you'll be able to properly defend yourself.
+[TWinBtm] # Jamuka
+[Wait 10]Thank you, Adean.. I'll take good care of this. Let's catch up when this fighting is all over.[k]
+
+[TWinTop] # Edin
+[dcs]
+Jamka... I'll be praying for you.
+[k]
+[exit]
+
+
+# 0x2ebaa6:
+# @@3198666@@
+
+[TWinTop][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Mideel' 0007]
+[TWinTop] # Edin
+Midayle, I have something for you.
+
+[TWinBtm] # Mideel
+[Wait 10]...This is the Heroes Bow, right? It's OK for me to have this?
+[k]
+
+[TWinTop] # Edin
+[dcs]
+Yes. I bought it specifically for you. Silesia's Pegasus Knights are a fierce opponent.
+[k]
+[cs]
+Now you'll be able to properly defend yourself.
+
+[TWinBtm] # Mideel
+[Wait 10]My lady... I still feel like I'm in a dream or something.
+[k]
+[dcs]
+Being with you is all I ever wanted in life...
+[k]
+[cs]
+
+[TWinTop] # Edin
+I've also felt the same way, Midayle. I had wanted to say something to you for so long.[k]
+[cs]
+Just call me Adean, OK? Now, don't get yourself hurt out here. I'll be praying for you.[k]
+
+[exit]
+
+
+# 0x2ebbf0:
+# @@3198697@@
+
+[TWinTop][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Azel' 000A]
+[TWinTop] # Edin
+Azel, be careful out here, okay?
+
+[TWinBtm] # Azel
+[Wait 10]Yeah, you too, Adean.
+[k]
+
+[TWinTop] # Edin
+[dcs]
+This is so strange. I never would've imagined we'd end up together.
+[TWinBtm] # Azel
+[Wait 10]Why? Because I'm younger than you?
+[k]
+
+[TWinTop] # Edin
+[dcs]
+No, I don't know... It's just strange.
+
+[TWinBtm] # Azel
+[Wait 10]Yeah, well, I'm pretty shocked myself.
+[k]
+[dcs]
+To think that you'd become my wife. This is like a dream![k]
+[cs]
+
+[TWinTop] # Edin
+Really? How come? Don't you think we were meant for each other?
+
+[TWinBtm] # Azel
+[Wait 10]It's just that I always held you in such high regard.
+[k]
+[dcs]
+The first time I saw you my heart started beating so fast! I was just a kid, too![k]
+[cs]
+But ever since that day you were the only one for me.
+[k]
+[cs]
+
+[TWinTop] # Edin
+Hmhmm! Azel!
+
+[TWinBtm] # Azel
+[Wait 10]Gosh, I feel so stupid. Oh, I just remembered! Here, this is for you.
+[k]
+[dcs]
+This is called a Rescue Staff. You can use it to bring someone near you if they need help.[k]
+[cs]
+I'm sure you'll find a use for it.
+[k]
+[cs]
+
+[TWinTop] # Edin
+Azel, I'm so happy to be with you! There's no one in this world I'd rather be with.[k]
+[exit]
+
+
+# 0x2ebdfb:
+# @@3198728@@
+
+[TWinTop][DlgOpn]['Sylvia' 0016]
+[TWinBtm][DlgOpn]['Claude' 000C]
+[TWinTop] # Sylvia
+Hello, Reverend Claud!
+
+[TWinBtm] # Claude
+[Wait 10]Hm? And who might you be?
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+I'm Sylvia.
+
+[TWinBtm] # Claude
+[Wait 10]Miss Sylvia? What seems to be the problem? Did you run across some bandits perhaps?[k]
+[TWinTop] # Sylvia
+[dcs]
+Why?
+
+[TWinBtm] # Claude
+[Wait 10]Well, it's just that... I hate to be the one to tell you this, but your in your undies.
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Huh!? Don't tell me you've never seen a dancer before!
+[k]
+[cs]
+This is my dancin' outfit. It's jus' like you wearin' a robe.
+
+[TWinBtm] # Claude
+[Wait 10]Is that so? But you must awfully be cold.
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Not at all. I'm burnin' up in this. You see, my heart is on fire!
+
+[TWinBtm] # Claude
+[Wait 10]Dancing is that enjoyable, is it?
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Yes! I want to do it for the rest of my life!!
+
+[TWinBtm] # Claude
+[Wait 10][$00$2B$E2]Really!? How do your parents feel about that?
+[k]
+[BGM 5B]
+[TWinTop] # Sylvia
+[dcs]
+I'm an orphan. This man took me in when I was real little, an' raised me to be a dancer.[k]
+[cs]
+But he was really mean! He would hit me when I didn't even do anythin'.
+[k]
+[cs]
+Anyway, I had enough, and I left him last year for good!
+
+[TWinBtm] # Claude
+[Wait 10]That's horrible!
+[k]
+[dcs]
+I feel for you.  You see, I have a younger sister. If she is still alive, she'd be around your age.[k]
+[cs]
+
+[TWinTop] # Sylvia
+You have a sister?
+
+[TWinBtm] # Claude
+[Wait 10]Yes. But she was abducted when she was just a baby.
+[k]
+[dcs]
+I've been searching for her all these years, but still no sign of her.
+[k]
+[cs]
+
+[TWinTop] # Sylvia
+Ohhh! I bet your sister is real elegant an' beautiful an' all. Nothin' like me.
+[TWinBtm] # Claude
+[Wait 10]That's not true! I find you very attractive, and you have a grace all of your own.[k]
+
+[TWinTop] # Sylvia
+[dcs]
+REALLY!?
+
+[TWinBtm] # Claude
+[Wait 10]Of course. I'd never tell a lie.
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Wow!. No one's EVER said anythin' so nice to me! Er.. I f..ff..eel funny inside...[k]
+[cs]
+You are (sob..) so kind!
+[k]
+
+[exit]
+
+
+# 0x2ec17f:
+# @@3198761@@
+
+[TWinTop][DlgOpn]['Levin' 0008]
+[TWinBtm][DlgOpn]['Sigurd' 0001]
+[TWinTop] # Levin
+Siglud.. Hey, sorry to bother ya.
+
+[TWinBtm] # Sigurd
+[Wait 10]Levn. Hey, I'm real sorry about Mahnya.
+[k]
+[dcs]
+I never would have imagined Jungby's archers brigade would be here.
+[k]
+[cs]
+
+[TWinTop] # Levin
+Yeah. Well, I was the one who screwed up. I haven't had my head on straight lately.
+[k]
+[cs]
+I should've been protectin' the country and helping my mother.  But I just took off.
+[k]
+[cs]
+I really think Mahnya got herself killed doing my job.
+
+[TWinBtm] # Sigurd
+[Wait 10]Well, I wouldn't go that far, 
+Levn. You do need to care for 
+your mother now. You must 
+make sure Mahnya didn't die in 
+vain.[k]
+
+[TWinTop] # Levin
+[dcs]
+Yeah, I know. You don't gotta tell me that.
+
+[TWinBtm] # Sigurd
+[Wait 10]...Well, alright then. Ah! One more thing.
+[k]
+[dcs]
+Have you already made it to see Queen Rahna? Don't forget to go. It's very important![k]
+
+[exit]
+
+
+# 0x2ec2f6:
+# @@3198787@@
+
+[TWinTop][DlgOpn]['Fury' 0014]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop] # Fury
+Levn...
+
+[TWinBtm] # Levin
+[Wait 10]Ferry, I'm so sorry. Forgive me.
+[k]
+
+[TWinTop] # Fury
+[dcs]
+What? Oh, about Mahnya...
+
+[TWinBtm] # Levin
+[Wait 10]...Yeah.
+[k]
+
+[TWinTop] # Fury
+[dcs]
+Ahhh, so you and her were... I'm sorry. I didn't know.
+
+[TWinBtm] # Levin
+[Wait 10]Ferry! You got it all wrong. When I was a little kid I thought your sister was hot.[k]
+[dcs]
+But that was then. Now it's you.
+[k]
+[cs]
+
+[TWinTop] # Fury
+Eh!?
+
+[TWinBtm] # Levin
+[Wait 10]I want you, Ferry.
+[k]
+
+[exit]
+
+
+# 0x2ec3e7:
+# @@3198834@@
+
+[TWinTop][DlgOpn]['Edin' 0017]
+[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinTop] # Edin
+Briggid, what's wrong?
+
+[TWinBtm] # Bridget
+[Wait 10]Adean, you heard what Andorey did, didn't you!
+[k]
+
+[TWinTop] # Edin
+[dcs]
+Yes, he killed our dear father and Mahnya, as well.
+[k]
+[cs]
+He must have been possessed by something pretty evil to do such unthinkable things.
+
+[TWinBtm] # Bridget
+[Wait 10]Well, it doesn't matter 'cause I'm going to kill him! His little killing spree is over.[k]
+[dcs]
+Adean, you're with me on this, aren't you?
+[k]
+[cs]
+
+[TWinTop] # Edin
+Briggid...
+
+[TWinBtm] # Bridget
+[k]
+[Wait 10]I wish there was another way, but the crimes he has committed weigh heavily on us as well.
+[k]
+[dcs]
+Look, I may go down for what I'm about to do. I just wanted you to understand my reasons.
+[k]
+[cs]
+
+[TWinTop] # Edin
+Yes, Briggid.
+[k]
+
+[exit]
+
+
+# 0x2ec52e:
+# @@3198860@@
+
+[TWinTop][DlgOpn]['Claude' 000C]
+[TWinBtm][DlgOpn]['Edin' 0017]
+[TWinTop] # Claude
+Adean, so this is to be our last battle.
+
+[TWinBtm] # Edin
+[Wait 10]Yes, that's what everyone's saying.
+[k]
+
+[TWinTop] # Claude
+[dcs]
+Here, you should have this. Help our young soldiers with it.
+
+[TWinBtm] # Edin
+[Wait 10]Oh, this is the Rescue Staff. Why me?
+[k]
+
+[TWinTop] # Claude
+[dcs]
+I have yet to speak a word of this, but you being my wife, well... I should probably tell you.
+[k]
+[cs]
+This war will end in our defeat. All that is important to us will be lost.
+[TWinBtm] # Edin
+[Wait 10]Wha-!?
+[k]
+
+[TWinTop] # Claude
+[dcs]
+I too had a difficult time believing the Lord's words when I was at Blagi Tower.
+[k]
+[cs]
+But this is how fate will have it. I also will not likely survive. That's why I'm entrusting this staff with you.
+[TWinBtm] # Edin
+[Wait 10]That can't be true! I don't believe any of what you're saying!!
+[k]
+[dcs]
+Please... tell me it's not true!
+[k]
+[cs]
+
+[TWinTop] # Claude
+Adean, there's really nothing to be scared of. My death is really just a new beginning.[k]
+[cs]
+As life embraces death, that with form is lost, yet something still remains.[k]
+[cs]
+There's nothing to fear in death. It is merely a transition to a more perfect form.
+[TWinBtm] # Edin
+[Wait 10]But Claud!
+[k]
+
+[TWinTop] # Claude
+[dcs]
+Just as I am to die I shall to be reborn.
+[k]
+[cs]
+Look, inside of you is a brand new life and I am a part of it.[k]
+[cs]
+And that is why you must keep on living.
+
+[TWinBtm] # Edin
+[Wait 10]How could you! You tell me to keep living while you...
+[k]
+
+[TWinTop] # Claude
+[dcs]
+Adean, I have been blessed to have met you. Forgive me if I have sounded insensitive.
+[TWinBtm] # Edin
+[Wait 10]Claud...
+[k]
+
+[exit]
+
+
+# 0x2ec86c:
+# @@3198891@@
+
+[TWinTop][DlgOpn]['Deu' 000F]
+[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinTop] # Deu
+Hey, Jamka.
+
+[TWinBtm] # Jamuka
+[Wait 10]Dew. What're you still doing here? We don't need you around here, so get lost![k]
+
+[TWinTop] # Deu
+[dcs]
+!! Everyone's been sayin' that, and I'm sick of it! What's up with everybody?
+[k]
+[cs]
+We're just about ready to win here, but everyone's bein' all weird.
+[TWinBtm] # Jamuka
+[Wait 10]Er... Sorry, Dew. Yeah, you're right. I am a bit on edge. I'm not sure why.[k]
+
+[TWinTop] # Deu
+[dcs]
+Jamka, look. I like you. Your a nice guy.
+[k]
+[cs]
+I know I caused you trouble before... Anyway, I'm sorry.
+
+[TWinBtm] # Jamuka
+[Wait 10]Dew! What're you getting all mushy on me for! Now you're the one being weird.
+[k]
+
+[TWinTop] # Deu
+[dcs]
+Yeah, I just... Never mind. I'll see ya later.
+[Wait 20][cs]
+[DlgCls][xChr]
+[TWinBtm] # Jamuka
+Hmm... Dew's also sensing something.
+[k]
+
+[exit]
+
+
+# 0x2ec9d6:
+# @@3198917@@
+
+[TWinTop][DlgOpn]['Alec' 0003]
+[TWinBtm][DlgOpn]['Noish' 0002]
+[TWinTop] # Alec
+Noish, this is about it, huh?
+
+[TWinBtm] # Noish
+[Wait 10]Mmm.
+[k]
+
+[TWinTop] # Alec
+[dcs]
+Hey, ah... I just wanna thank you for everything.
+
+[TWinBtm] # Noish
+[Wait 10]Sure thing. Same goes here, Alec.
+[k]
+
+[TWinTop] # Alec
+[dcs]
+It's been a friggin' blast, huh!
+
+[TWinBtm] # Noish
+[Wait 10]Yep.
+[k]
+
+[TWinTop] # Alec
+[dcs]
+Well, take care then.
+
+[TWinBtm] # Noish
+[Wait 10]Yep. You too.
+[k]
+
+[exit]
+
+	
+# 0x2eca58:
+# @@3198943@@
+
+[TWinTop][DlgOpn]['Lex' 000E]
+[TWinBtm][DlgOpn]['Azel' 000A]
+[TWinTop] # Lex
+Azel, what's up. You look like crap.
+
+[TWinBtm] # Azel
+[Wait 10]Well, what're you so happy for?
+[k]
+
+[TWinTop] # Lex
+[dcs]
+Huh? Ah, you mean my dad?
+
+[TWinBtm] # Azel
+[Wait 10]Yeah...
+[k]
+
+[TWinTop] # Lex
+[dcs]
+Yeah... Well, I'd be lyin' if I said I didn't feel nothin'.[k]
+[cs]
+But I tell you it serves him right. He killed a lot of innocent people.
+
+[TWinBtm] # Azel
+[Wait 10]Boy, you're strong, Lex. I start to shake just when I'm around Alvis.
+[k]
+
+[TWinTop] # Lex
+[dcs]
+I can't figure your brother out. I never thought of him as a bad guy. He was always kind to us.
+[TWinBtm] # Azel
+[Wait 10]Yeah, he has meant more to me than my dad did.
+[k]
+[dcs]
+But sometimes I feel like I don't even know him. He can get pretty violent.[k]
+[cs]
+
+[TWinTop] # Lex
+And that's why you left your pad. Am I right?
+[k]
+[cs]
+I don't see any problem there, Azel. You've got your life, and he's got his.
+[TWinBtm] # Azel
+[Wait 10]Yeah, I suppose.
+[k]
+
+[exit]
+
+
+# 0x2ecc23:
+# @@3198969@@
+
+[TWinTop][DlgOpn]['Sigurd' 0001]
+[TWinBtm][DlgOpn]['Ayra' 0013]
+[TWinTop] # Sigurd
+Ira!? I thought I told you to go back to Isaac with Shanan.
+[TWinBtm] # Ayra
+[Wait 10]Thanks, but it wouldn't be right if I left now. I'm finishing this war with you.[k]
+
+[TWinTop] # Sigurd
+[dcs]
+Huh!? You were entrusted with Shanan's protection, but he's in Isaac and you're here!
+
+[TWinBtm] # Ayra
+[Wait 10]Ahhh, you're talking about the promise to my late brother.
+[k]
+[dcs]
+My job is finished with Shanan. He's old enough to look after himself now.[k]
+[cs]
+
+[TWinTop] # Sigurd
+Yeah, but...
+
+[TWinBtm] # Ayra
+[Wait 10]I will return to Isaac as soon as this war is finished.
+[k]
+[dcs]
+And when that day comes, Sir, you too will be able to return to your homeland.
+[k]
+
+[exit]
+
+
+# 0x2ecd70:
+# @@3198997@@
+
+[TWinTop][DlgOpn]['Tiltyu' 0015]
+[TWinBtm][DlgOpn]['Azel' 000A]
+[TWinTop] # Tiltyu
+Azel, don't go!
+
+[TWinBtm] # Azel
+[Wait 10]Tailto, you promised me you'd head for Silesia.  I told you I'll come as soon as I can![k]
+
+[TWinTop] # Tiltyu
+[dcs]
+But...
+
+[TWinBtm] # Azel
+[Wait 10]You can't fight Freege's army! What are you going to kill your own father?[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+Well, no, but...
+
+[TWinBtm] # Azel
+[Wait 10]Good. I'd have second thoughts about someone who'd off their own dad.[k]
+[dcs]
+You take care of the kids, okay?
+[k]
+[cs]
+
+[TWinTop] # Tiltyu
+...Azel!
+[k]
+
+[exit]
+
+
+# 0x2ece71:
+# @@3199023@@
+
+[TWinTop][DlgOpn]['Tiltyu' 0015]
+[TWinBtm][DlgOpn]['Claude' 000C]
+[TWinTop] # Tiltyu
+Claud, what am I to do??
+
+[TWinBtm] # Claude
+[Wait 10]Well, you certainly can't fight your father's army.
+[k]
+[dcs]
+Go to Silesia. You'll be safe there.
+[k]
+[cs]
+
+[TWinTop] # Tiltyu
+But what are you going to do!?
+
+[TWinBtm] # Claude
+[Wait 10]Well, it's my duty see this war out.[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+How could you! Just how am I to raise our children without you!?
+
+[TWinBtm] # Claude
+[Wait 10]I know it is difficult, but please understand.
+[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+...Claud!
+[k]
+
+[exit]
+
+
+# 0x2ecf78:
+# @@3199049@@
+
+[TWinTop][DlgOpn]['Tiltyu' 0015]
+[TWinBtm][DlgOpn]['Lex' 000E]
+[TWinTop] # Tiltyu
+Lex, you just have t'fight, don't ya.
+
+[TWinBtm] # Lex
+[Wait 10]Hey! You get on to Silesia where you'll be safe.[k]
+
+[TWinTop] # Tiltyu
+[dcs]
+You're so cruel! You want me t'go all alone.
+
+[TWinBtm] # Lex
+[Wait 10]Hey, everyone in the Freege family is breakin' their back lookin' for you, girl.
+[k]
+[dcs]
+And I don't want my kids goin' with them or the Dozels. You understand me!?[k]
+[cs]
+
+[TWinTop] # Tiltyu
+Yeah, but...
+
+[TWinBtm] # Lex
+[Wait 10]Look, we've both been dealt a crappy hand.
+[k]
+[dcs]
+I wish we could've been together longer. I will cherish every single moment we had.[k]
+[cs]
+
+[TWinTop] # Tiltyu
+Oh, Lex...
+[k]
+
+[exit]
+
+
+# 0x2ed0ad:
+# @@3199075@@
+
+[TWinTop][DlgOpn]['Fury' 0014]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop] # Fury
+Levn, so this is it.
+
+[TWinBtm] # Levin
+[Wait 10]Yeah. Ferry, you keep your promise to me, OK?
+[k]
+
+[TWinTop] # Fury
+[dcs]
+Yes, I'm to return immediately to Silesia. I know.
+
+[TWinBtm] # Levin
+[Wait 10]Look, I'm not gonna die out here, and you best not go doin' so either!
+[k]
+
+[TWinTop] # Fury
+[dcs]
+Yes. I can promise that!
+[k]
+[cs]
+I've had my childhood dream realized. It would be just horrible to die now![k]
+[cs]
+I will always be with you.
+
+[TWinBtm] # Levin
+[Wait 10]Mother's real excited to see you again... more than she is me![k]
+
+[TWinTop] # Fury
+[dcs]
+Yes. Well, I just hope I can make my new mother-in-law proud.
+[k]
+
+[exit]
+
+
+# 0x2ed1f4:
+# @@3199101@@
+
+[TWinTop][DlgOpn]['Fury' 0014]
+[TWinBtm][DlgOpn]['Adan' 0004]
+[TWinTop] # Fury
+Arden, you okay?
+
+[TWinBtm] # Adan
+[Wait 10]I've had 'nough of dis stupid desert!
+[k]
+
+[TWinTop] # Fury
+[dcs]
+Hmhm! Too bad you can't ride my pegasus with me out of here.
+
+[TWinBtm] # Adan
+[Wait 10]Yeh. If only I's 'bout a hunnerd pounds lighter.
+[k]
+
+[TWinTop] # Fury
+[dcs]
+Arden, don't you get yourself killed, okay?
+
+[TWinBtm] # Adan
+[Wait 10]You can bet on dat! I ain't dyin'. Not after gettin' someone as perdy as you for my wife![k]
+[dcs]
+When dis war's done wit we's headin' back t'Silesia. We can open a little veggie stand![k]
+[cs]
+
+[TWinTop] # Fury
+Yes, that would be just fine with me.
+[k]
+
+[exit]
+
+
+# 0x2ed300:
+# @@3199127@@
+
+[TWinTop][DlgOpn]['Fury' 0014]
+[TWinBtm][DlgOpn]['Noish' 0002]
+[TWinTop] # Fury
+Oh, Noish, I've been looking for you!
+
+[TWinBtm] # Noish
+[Wait 10]Ferry, you alright?
+[k]
+
+[TWinTop] # Fury
+[dcs]
+I'm fine.
+
+[TWinBtm] # Noish
+[Wait 10]Good. Ferry, you be careful. You're no longer caring for just yourself, you know.[k]
+[TWinTop] # Fury
+[dcs]
+I hope our kids back in Silesia are doing OK, as well. I'm dying to see them again.
+
+[TWinBtm] # Noish
+[Wait 10]Yep, me too. Let's get this war over with quick.
+[k]
+
+[TWinTop] # Fury
+[dcs]
+Yes, let's do that. Noish, you be careful, too.
+[k]
+
+[exit]
+
+
+# 0x2ed3f8:
+# @@3199153@@
+
+[TWinTop][DlgOpn]['Sylvia' 0016]
+[TWinBtm][DlgOpn]['Claude' 000C]
+[TWinTop] # Sylvia
+Claud, you okay?
+
+[TWinBtm] # Claude
+[Wait 10]Yes, I'm fine. But YOU cannot stay here. Now get going![k]
+
+[TWinTop] # Sylvia
+[dcs]
+But...
+
+[TWinBtm] # Claude
+[Wait 10]You cannot stay with us. It's too dangerous!
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+...Claud, I love you.
+
+[TWinBtm] # Claude
+[Wait 10]I love you too, but...
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+No! I'm not goin'. No way I'm leavin' your side!
+
+[TWinBtm] # Claude
+[Wait 10]Sylvia, I can't allow that! Please understand.
+[k]
+
+[exit]
+
+
+# 0x2ed4ed:
+# @@3199179@@
+
+[TWinTop][DlgOpn]['Sylvia' 0016]
+[TWinBtm][DlgOpn]['Levin' 0008]
+[TWinTop] # Sylvia
+Hey, L-e-v-n!
+
+[TWinBtm] # Levin
+[Wait 10]Hey, Sylvia. What's up?
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+You still like me?
+
+[TWinBtm] # Levin
+[Wait 10]C'mon. Give me a break, will ya?
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Well, do ya?
+
+[TWinBtm] # Levin
+[Wait 10]Yeah, I like ya. That's why we hooked up.
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Good! That's all I wanted to hear!
+[k]
+[cs]
+'cause I looooooove YOU! You-are-the-only-one... for-me... Da-la-laa... la-la-laa!
+[TWinBtm] # Levin
+[Wait 10]Sylvia! You mind bringin' it down a notch?
+[k]
+
+[exit]
+
+
+# 0x2ed5ba:
+# @@3199205@@
+
+[TWinTop][DlgOpn]['Sylvia' 0016]
+[TWinBtm][DlgOpn]['Alec' 0003]
+[TWinTop] # Sylvia
+Alec, I've been lookin' all around for you.
+
+[TWinBtm] # Alec
+[Wait 10]Sylvia!? You can't be here! Now get on back to the castle, will ya?[k]
+
+[TWinTop] # Sylvia
+[dcs]
+But I was gettin' all worried 'bout you.
+
+[TWinBtm] # Alec
+[Wait 10]C'mon, Sylvia. You gotta start actin' a bit more grown up. You are a full-blown mother now.
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Don't talk to me like you're my father or somethin'! It was all your fault anyway.
+
+[TWinBtm] # Alec
+[Wait 10]Hey now! I think the ah... willingness on both sides led to our little surprise, don't you?
+[k]
+
+[TWinTop] # Sylvia
+[dcs]
+Yeah, right. Well, hurry back. Leen and I can't live without ya forever.[k]
+[cs]
+OK? You gotta promise!
+
+[TWinBtm] # Alec
+[Wait 10]Yeah, I promise. I'll come for you.
+[k]
+
+[exit]
+
+
+# 0x2ed6e4:
+# @@3199231@@
+
+[TWinTop][DlgOpn]['Laches' 0012]
+[TWinBtm][DlgOpn]['Beowulf' 000D]
+[TWinTop] # Laches
+Beowolf...
+
+[TWinBtm] # Beowulf
+[Wait 10]Rackesis, if anything were to happen to me, I want you to go to Lenster.
+[k]
+[dcs]
+Fin is there with Cuan's children. Give him a hand, okay?[k]
+[cs]
+
+[TWinTop] # Laches
+How could you say that! When we go, we'll go together!
+
+[TWinBtm] # Beowulf
+[Wait 10]Rackesis, I've got a confession to make.
+[k]
+
+[TWinTop] # Laches
+[dcs]
+Hmm?
+
+[TWinBtm] # Beowulf
+[Wait 10]I've known your little secret all along.
+[k]
+
+[TWinTop] # Laches
+[dcs]
+!!
+
+[TWinBtm] # Beowulf
+[Wait 10]Take good care of yourself. It was mighty nice while it lasted.
+[k]
+
+[TWinTop] # Laches
+[dcs]
+Wait! Beowolf!!
+[k]
+
+[exit]
+
+
+# 0x2ed811:
+# @@3199257@@
+
+[TWinTop][DlgOpn]['Laches' 0012]
+[TWinBtm][DlgOpn]['Noish' 0002]
+[TWinTop] # Laches
+Noish, wait!
+
+[TWinBtm] # Noish
+[Wait 10]Rackesis!? You're still here! I told you to leave for Lenster.
+[k]
+
+[TWinTop] # Laches
+[dcs]
+I sent the kids back already but I'm staying to fight.
+
+[TWinBtm] # Noish
+[Wait 10]Why are you breaking your word with me?
+[k]
+[dcs]
+The kids need their mother. 
+What if something were to 
+happen to you? And you have 
+King Eltshan's child to consider, too.[k]
+[cs]
+
+[TWinTop] # Laches
+I don't know where Aless is anymore.
+
+[TWinBtm] # Noish
+[Wait 10]Well, Sir Siglud is very 
+concerned about Prince Aless. 
+That boy has lost both of his parents.[k]
+[dcs]
+Aless must mean something to you, as well.
+[k]
+[cs]
+
+[TWinTop] # Laches
+No, it's ju-... Ah, nevermind. Look, I am your wife.
+[TWinBtm] # Noish
+[Wait 10]Of course you are and I love you dearly. Don't you ever forget it.
+[k]
+
+[TWinTop] # Laches
+[dcs]
+I won't. Sorry.
+[k]
+
+[exit]
+
+
+# 0x2ed999:
+# @@3199283@@
+
+[TWinTop][DlgOpn]['Laches' 0012]
+[TWinBtm][DlgOpn]['Deu' 000F]
+[TWinTop] # Laches
+Dew, what are you doing here!
+
+[TWinBtm] # Deu
+[Wait 10]What gives? I can handle bein' here now. I'm not the same Dew anymore.[k]
+
+[TWinTop] # Laches
+[dcs]
+I know. But this next battle isn't going to be like the others![k]
+[cs]
+It'll be way out of your league, Dew.
+
+[TWinBtm] # Deu
+[Wait 10]Everyone's been sayin' that crap. I'm not a kid anymore!
+[k]
+
+[TWinTop] # Laches
+[dcs]
+I can definitely vouch for that Dew. Hm-hm! Especially after what we...
+
+[TWinBtm] # Deu
+[Wait 10]He-hey-hey! You're gettin' red there girl!
+[k]
+
+[TWinTop] # Laches
+[dcs]
+Dew, stop it!  Hm-hmm!
+
+[TWinBtm] # Deu
+[Wait 10]Rackesis, it's been great bein' with you. You're always nice to me.
+[k]
+
+[TWinTop] # Laches
+[dcs]
+Same goes to you, Dew.
+[k]
+
+[exit]
+
+
+# 0x2edaca:
+# @@3199309@@
+
+[TWinTop][DlgOpn]['Ayra' 0013]
+[TWinBtm][DlgOpn]['Lex' 000E]
+[TWinTop] # Ayra
+Lex, things are coming to a peak, aren't they.
+
+[TWinBtm] # Lex
+[Wait 10]Yep, looks that way. Ira, you are bein' damn stubborn. Why don't you go back to Isaac?
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Why? Because I'm a girl!? Our responsibility to our children is the same in my book.
+[TWinBtm] # Lex
+[Wait 10]Opps... you got me. Sorry. But you had the perfect chance to get out. Our kids are only...[k]
+
+[TWinTop] # Ayra
+[dcs]
+Yeah and that's why we'll go together AFTER we finish this war.
+
+[TWinBtm] # Lex
+[Wait 10]Right... right. C'mon, let's go!
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Lex, I'm sorry but this is the only way I know how to be.
+
+[TWinBtm] # Lex
+[Wait 10]Ha ha ha! I know. I'm just teasin'. That's what I like about you, Ira.
+[k]
+[dcs]
+I don't know how things are going to turn out, Ira, but I'm in for the long haul.
+[k]
+[cs]
+
+[TWinTop] # Ayra
+Me too.
+[k]
+
+[exit]
+
+
+# 0x2edc62:
+# @@3199335@@
+
+[TWinTop][DlgOpn]['Ayra' 0013]
+[TWinBtm][DlgOpn]['Holin' 0009]
+[TWinTop] # Ayra
+Holyn, things are coming to a peak, aren't they.
+
+[TWinBtm] # Holin
+[Wait 10]Um.
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Holyn, I've got something I want to ask you. Is that alright?
+
+[TWinBtm] # Holin
+[Wait 10]Yeah, what is it?
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Why do you look out for me? Is there something you haven't told me?
+
+[TWinBtm] # Holin
+[Wait 10]Ira, I've known you since I was a kid. Keeping you safe means everything to me.
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Eh!? Holyn... Hey, you weren't that boy from...
+
+[TWinBtm] # Holin
+[Wait 10]Yep. I'm the son of the lord of Sophara. You stole my heart at a tender young age, Ira.[k]
+
+[exit]
+
+
+# 0x2edd64:
+# @@3199361@@
+
+[TWinTop][DlgOpn]['Ayra' 0013]
+[TWinBtm][DlgOpn]['Adan' 0004]
+[TWinTop] # Ayra
+Arden, you alright?
+
+[TWinBtm] # Adan
+[Wait 10]Whew... I'm beat. This armor's dang heavy.
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Hmhm! But you look very manly. I like that about you.
+
+[TWinBtm] # Adan
+[Wait 10]O! That's nice of ya t'say.  I like you for bein' all womanly like.
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Me? Womanly? That's almost funny.
+
+[TWinBtm] # Adan
+[Wait 10]Yeah well, I think so at least. You're the perdiest girl I can think of.
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Arden, are you sick or something?
+
+[TWinBtm] # Adan
+[Wait 10]I might as well just blurp it out... Ira, I love you.
+[k]
+
+[TWinTop] # Ayra
+[dcs]
+Whaaat's that!?
+[k]
+
+[exit]
+
+
+# 0x2ede86:
+# @@3199387@@
+
+[TWinTop][DlgOpn]['Bridget' 0018]
+[TWinBtm][DlgOpn]['Alec' 0003]
+[TWinTop] # Bridget
+Alec, we're just about to Barhara.
+
+[TWinBtm] # Alec
+[Wait 10]Yeah. This is our grand return, huh.
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+I wonder if I'll be okay returning to the country I was born in. What is Jungby like?
+
+[TWinBtm] # Alec
+[Wait 10]Ahh... it's a beautiful place with loads of beautiful women.
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+Alec! I better not catch you cheating on me!
+
+[TWinBtm] # Alec
+[Wait 10]No way! You'd kill me if I did! Ha ha...
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+That's right! Besides, I want to keep you alive now. You're work with me has just begun![k]
+[cs]
+And for our children as well. I can't let you die!
+
+[TWinBtm] # Alec
+[Wait 10]Don't worry, I've got luck on my side. How else could I get such a beautiful bride![k]
+
+[TWinTop] # Bridget
+[dcs]
+Alec...
+[k]
+
+[exit]
+
+
+# 0x2edfc9:
+# @@3199413@@
+
+[TWinTop][DlgOpn]['Bridget' 0018]
+[TWinBtm][DlgOpn]['Jamuka' 000B]
+[TWinTop] # Bridget
+Jamka, you okay? You must be beat.
+
+[TWinBtm] # Jamuka
+[Wait 10]Ahh... I'm alright. How about you?
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+I'm fine as long as you're with me.
+
+[TWinBtm] # Jamuka
+[Wait 10]Briggid, you know I don't want you fighting. You won't consider it quits?
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+NO! I won't call it quits! And it's too late to turn back now anyhow.
+[TWinBtm] # Jamuka
+[Wait 10]Alright... alright.
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+Jamka, are you happy with us?
+
+[TWinBtm] # Jamuka
+[Wait 10]Huh?
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+Are you happy with me? Because I know Adean meant someth-
+
+[TWinBtm] # Jamuka
+[Wait 10]Briggid! Would you quit!? I fell in love with YOU! And that'll never change![k]
+
+[TWinTop] # Bridget
+[dcs]
+Ah... S..sorry, Jamka. (glad I asked though...)
+[k]
+
+[exit]
+
+
+# 0x2ee11e:
+# @@3199439@@
+
+[TWinTop][DlgOpn]['Bridget' 0018]
+[TWinBtm][DlgOpn]['Mideel' 0007]
+[TWinTop] # Bridget
+Midayle, are you alright?
+
+[TWinBtm] # Mideel
+[Wait 10]Yes, I'm fine. How are you doing, Briggid?
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+I'm fine as long as you're with me.
+
+[TWinBtm] # Mideel
+[Wait 10]Briggid, I'm very happy I met you and I appreciate everything you've done for me.
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+Midayle, you sound like you want to break up or something.
+[TWinBtm] # Mideel
+[Wait 10]Ah, forgive me. Briggid, I want you to understand something.
+[k]
+
+[TWinTop] # Bridget
+[dcs]
+Look, Midayle. I know you used to like Adean. Do you think you'll be happy with me?
+[TWinBtm] # Mideel
+[Wait 10]Of course! Yes, I used to like Adean... LIKE. But you are the only one I've ever loved.[k]
+
+[TWinTop] # Bridget
+[dcs]
+Midayle, thanks! Don't ever leave me.
+[k]
+
+[exit]

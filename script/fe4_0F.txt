@@ -1,0 +1,61 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# Fire Emblem 4 Script Dump
+# ppt\fe4_10.ppt
+
+# Filesize: 4194816 bytes
+
+# 0xda222:
+# @@1044850@@
+
+[TWinBtm][DlgOpn]['Oifaye' 027F]Sir... no! We can't go on without you...
+[k]
+
+[exit]
+
+
+# 0xda1b1:
+# @@1044876@@
+
+[TWinBtm][DlgOpn]['Oifaye' 027F]Sir... we've lost the castle! Unfortunately, that marks our defeat...[k]
+
+[exit]
+
+
+# 0xda247:
+# @@1044902@@
+
+[TWinBtm][DlgOpn]['(null)' 0280]Celice... No! We can't go on without you...
+[k]
+
+[exit]
+
+
+# 0xda1ed:
+# @@1044928@@
+
+[TWinBtm][DlgOpn]['(null)' 0280]Celice... we've lost the castle! Unfortunately, that marks our defeat...
+[k]
+
+[exit]

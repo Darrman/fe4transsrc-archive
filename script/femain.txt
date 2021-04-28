@@ -1,0 +1,1023 @@
+#    Fire Emblem 4 English patch
+#      This program creates a patch which can be used
+#      to replace all Japanese elements with English
+#      elements in the 1996 SNES strategy-role playing
+#      game 'Fire Emblem - Seisen no Keifu'.
+#    Copyright (C) 2002  Jay & Boo
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#Please refer to the 'LICENSE' file for the entire license and copying rights.
+
+# Fire Emblem 4 Script Dump
+# ppt/femain.ppt
+
+# Filesize: 4194816 bytes
+
+# Chap. 0 - Begin
+# 0x1d8200:
+# @@917122@@
+[$00$86][k]
+Grandbell rests in the center of the Jugdral continent[k]
+[Wait 28][cs]
+and was founded by Saint Heim, one of the 12 Crusaders.
+[$00$87][Wait 0A][k]
+[cs]
+Heim's descendants,
+the Royal Family, were joined by six[$00$80$8C$1C$00$0C][k]
+[cs]
+additional dukedoms,
+[$00$80$A4$7C$0C$0E]each with their own Crusader lineage.[k]
+[cs]
+Each dukedom possessed large territory
+and military holdings[k]
+[cs]
+and exercised partial autonomy while serving under the Royal Family.
+[k]
+[$00$81$0C][cs]
+On behalf of the aging King Azmur,
+[$00$82$02$7B$02][$00$83$02$98$1C]the government was[k]
+[$00$82$04$7C$02][$00$83$04$98$1C]administered by the highly regarded Prince Kult.
+[k]
+[$00$81$00][cs]
+[$00$80$7C$84$0C$10]Assisting the prince
+[$00$82$06$7E$02][$00$83$06$64$48]was his confidant Lord Vylon of Chalphy[$00$81$0C][k]
+[cs]
+[$00$80$34$94$0C$12]and Lord Ring
+[$00$82$08$7D$02][$00$83$08$30$60]of Jungby.[$00$81$0C][k]
+[$00$84$04][$00$84$06][$00$84$08][cs]
+[$00$80$4C$14$0C$14]Prime Minister Reptor
+[$00$82$02$46$02][$00$83$02$40$20]of Freege felt his position was[$00$81$0C][k]
+[cs]
+being undermined.[k]
+[cs]
+[$00$80$74$34$0C$16]Calling on the avaricious
+[$00$82$04$44$02][$00$83$04$84$38]Lord Langobalt of Dozel, the two[$00$81$0C][k]
+[cs]
+formed a coalition opposing the prince's authority.
+[k]
+[$00$84$02][$00$84$04][cs]
+[$00$80$B4$0C$0C$18]The young Lord Alvis of Velthomer,
+[$00$82$02$B1$00][$00$83$02$B8$04]commander of the[$00$81$0C][k]
+[cs]
+Royal Guard, had little involvement in
+govermental affairs.[k]
+[cs]
+[$00$80$BE$64$0C$1A]Only Father Claud of Edda
+[$00$82$04$0C$00][$00$83$04$90$50]could sense the impending crises.[$00$81$0C][k]
+[$00$84$02][$00$84$04][cs]
+Just as this drama was beginning to unfold,
+news of calamity arrived from the east.[k]
+[cs]
+
+[exit]
+
+
+# 0x1d853b:
+# @@917135@@
+[$00$80$72$78$00$02][Wait 3C]The peaceful town of Darna, located in the Yied Desert,
+came under siege by Isaacian barbarians.[Wait 0A][k]
+[Wait 0A][cs]
+Reports told of a massive slaughter taking place.
+[Wait 0A][k]
+[Wait 0A][$00$81$00][cs]
+
+[exit]
+
+
+# 0x1d859c:
+# @@917148@@
+Back in Grandbell public outcry began to grow,[k][cs]
+And before long the decision was made to subdue Isaac.[k]
+[cs]
+[$00$82$02$7C$02][$00$83$02$98$1C]Acting on his father's behalf, 
+Prince Kult departed for the[k]
+[cs]
+front commanding the lords from each dukedom.
+[k]
+[cs]
+There at his side, a warrior in his own right
+revered for his heroism and bravery,[k]
+[cs]
+[$00$82$04$7E$02][$00$83$04$64$48]was none other than Lord Vylon.
+[k]
+[cs]
+[$00$84$02][$00$84$04]
+Only a handful of soldiers remained in Grandbell.[k]
+[cs]
+
+[exit]
+
+
+# 0x1d8690:
+# @@917167@@
+[Wait 1E]Owing to a diplomatic alliance with Agustria to the west
+[Wait 0A][k]
+[Wait 0A][$00$87][Wait 0A][cs]
+[Wait 14]
+[exit]
+
+
+# 0x1d86ba:
+# @@917190@@
+[Wait 1E]and the Verdane Kingdom to the southwest,[Wait 0A][k]
+[Wait 0A][$00$87][Wait 0A][cs]
+fear of any kind of aggression was virtually nonexistent.
+[Wait 0A][k]
+[cs]
+
+[exit]
+
+
+# 0x1d8704:
+# @@917203@@
+However, that trust 
+was betrayed all too soon.[k]
+[cs]
+[$00$80$61$3A$00$00]Verdane Kingdom's massive army, 
+[$00$82$06$4D$00][$00$83$06$20$40]spearheaded by Prince Gandolf[k]
+[cs]
+crossed into Grandbell territory unnoticed 
+and laid siege on Jungby Castle.[k]
+[cs]
+Adean, daughter of Lord Ring, 
+[$00$82$02$17$00][$00$83$02$88$18]had sole responsibility for the castle.[k]
+[cs]
+Entrusted with the protection of the kingdom by his father,
+Lord Vylon,[$00$84$02]
+[k]
+[cs]
+[$00$82$04$01$00][$00$83$04$B4$06]Siglud stayed behind at Chalphy Castle. 
+With only a few soldiers at his disposal, 
+he was rightfully terrified when news of the invasion reached Chalphy.[k]
+[cs]
+Siglud cried, ''Those barbarians aren't laying a hand on Adean!''
+[k]
+[cs]
+Having known Adean since childhood, 
+he was left with no other alternative.[k]
+[cs]
+Siglud promptly made the decision 
+to take up arms.[k]
+[cs]
+Gran calender - 757[n]
+It was this very turn of events[$00$80$C6$4A$0C$04][k]
+[cs]
+that cracked open the door of fate.[k]
+[cs]
+[$00$84$04][$00$84$06][$00$81$00][$00$81$0C]No one at the time could have recognized this forewarning
+to the disastrous events to follow.[Wait 28][k]
+[cs]
+
+[exit]
+
+
+# Chap. 1 - Begin
+# 0x3286fb:
+# @@917229@@
+Adean was nowhere to be found in Evans Castle.
+[k]
+[cs]
+
+[exit]
+
+
+# 0x328717:
+# @@917242@@
+She had already been taken deep into Verdane territory.[k]
+[cs]
+
+[exit]
+
+
+#MISSING - Chap. 1 (1/4)
+#Verdane existed under the cover of a thick forest.
+#In the past, Verdane's frequent encroachment of the border earned them the label of 'barbarian' by the people of Grandbell.
+
+
+# 0x328792:
+# @@917262@@
+Under the reign of King Bator, 
+[$00$82$02$79$02][Wait 04][$00$83$02$20$02]Verdane witnessed a cessation of all fighting along the border.[k]
+[cs]
+The amiable monarch succeeded in maintaining the peace with Grandbell[k]
+[cs]
+while pacifying his zealous sons.
+[k]
+[cs]
+However, that very peace was ultimately violated by none other than King Bator.[k]
+[cs]
+
+[exit]
+
+
+# 0x328839:
+# @@917267@@
+The king ordered his three sons to invade Grandbell.[k]
+[cs]
+There was Kinbois of Genoa, [Wait 04][$00$82$06$48$00][$00$83$06$B8$3A][k]
+[cs]
+the eldest son, Gandolf of Marpha, 
+[Wait 04][$00$82$08$4D$00][$00$83$08$40$60]and Jamka, the youngest of the three.[Wait 04][$00$82$0A$0B$00][$00$83$0A$70$40][k]
+[cs]
+Using the forest as cover, 
+the savages awaited Siglud's arrival.[k]
+[cs]
+
+[exit]
+
+
+# 0x3288e8:
+# @@917296@@
+Where had Adean been swept off to? 
+And what incited King Bator to invade Grandbell without warning?[k]
+[cs]
+Sprawling before Siglud lay 
+the daunting Great Verdane Forest.[k]
+[cs]
+He was about to set foot into the forest of spirits...[k]
+[cs]
+
+[exit]
+
+
+# Chap. 2 - Begin
+# 0xe8cc1:
+# @@917322@@
+
+[TWinTop]Upon gaining control of the Verdane Kingdom,
+[$00$82$02$01$00][$00$83$02$A0$20]Siglud received orders from Barhara[k]
+[cs]
+to preside over Evans Castle along the border.[n]
+He soon thereafter took Diadora to be his wife.[k]
+[cs]
+[$00$84$02]
+
+[exit]
+
+
+# 0xe8d27:
+# @@917335@@
+Grandbell's subjugation of Verdane 
+[$00$86]
+[exit]
+
+
+#MISSING - Chap. 2 (2/4)
+#caused quite a stir in neighboring Agustria.
+#The lords of Agustria expressed strong anti-Grandbell sentiment.
+
+
+# 0xe8d84:
+# @@917340@@
+The great King Imuka, 
+who prized peace more than anything, [k]
+[cs]
+was fallen by an assassin.
+[k]
+[cs]
+King Imuka was succeeded by his eldest son, 
+[$00$82$04$A1$00][$00$83$04$A8$24]Prince Shagall.[k]
+[cs]
+Grandbell's military was still faraway to the east in Isaac.[k]
+[cs]
+
+[exit]
+
+
+# 0xe8e1b:
+# @@917364@@
+And none too soon did the new king 
+command the lords of Agustria to invade Verdane.[$00$82$02$6F$00][$00$83$02$2C$08][Wait 18][$00$82$06$5D$00][$00$83$06$38$50][Wait 18][$00$82$08$5A$00][$00$83$08$75$60][Wait 18][$00$82$0A$75$00][$00$83$0A$B8$30][Wait 04][k]
+[cs]
+Under orders to hold Evans Castle, 
+Siglud once again found himself in the midst of conflict.[k]
+[$00$84$02][$00$84$06][$00$84$08][$00$84$0A][cs]
+
+[exit]
+
+
+# Chap. 3 - Begin
+#MISSING - Chap. 3 (3/4)
+#After losing Agusty, King Shagall moved his royal court north to Madino.
+#Keeping his word with Eltshan, Siglud did not pursue King Shagall.
+
+
+# 0xe8f17:
+# @@917418@@
+While the troops rested at Agusty Castle, 
+Siglud worked to fulfill his promise to Eltshan.[k]
+[cs]
+He persisted in negotiations aimed to return 
+administrative control back to Agusty.[k]
+[cs]
+However, the directive from Barhara to ''maintain a presence''[k]
+[cs]
+and ''govern the people'' never changed.
+[k]
+[cs]
+
+[exit]
+
+
+# 0xe8fab:
+# @@917429@@
+In a half year's time, 
+the officials dispatched to Agustria became exceedingly reckless[k]
+[cs]
+and began to abuse the power 
+they were entrusted with.[k]
+[cs]
+The discontent of the Agustrian people 
+slowly began to take root.[k]
+[cs]
+Before long, a new conflict arose 
+giving Siglud great cause for concern.[k]
+[cs]
+
+[exit]
+
+
+# 0xe903f:
+# @@917434@@
+Shagall had been arranging a military force 
+[$00$82$02$A1$00][$00$83$02$7A$04][Wait 0C][$00$80$CC$6C$00$08]at Madino poised[k]
+[cs]
+[$00$82$04$01$00][$00$83$04$96$60][Wait 04]to challenge Siglud in an attempt to regain control of the capitol at Agusty.
+[k]
+[cs]
+
+[exit]
+
+
+# 0xe90a5:
+# @@917453@@
+[$00$85$04$96$60][Wait 02][$00$85$04$98$5E][Wait 02][$00$85$04$9A$5C][Wait 02][$00$85$04$9C$5B][Wait 02][$00$85$04$9E$5A][Wait 02][$00$85$04$A1$59][Wait 02][$00$85$04$A4$58][Wait 02][$00$85$04$A7$57][Wait 02][$00$85$04$A9$56][Wait 02][$00$85$04$AC$55][Wait 02][$00$85$04$AE$54][Wait 04]Meanwhile the notorious Orgahil Pirates 
+north of Madino[$00$82$06$AA$00][$00$83$06$6C$08][k]
+[cs]
+positioned themselves to take advantage of the ensuing chaos.
+[k]
+[$00$84$06][cs]
+Siglud had strict orders from Barhara 
+to hold Agusty Castle at any cost.[k]
+[cs]
+The ensuing conflict weighed heavily on Siglud's heart.
+[k]
+[cs]
+In addition, Eltshan had troops stationed 
+at Silvail Castle southwest of Madino.[$00$82$02$5A$00][$00$83$02$40$30][k]
+[cs]
+The battle on the horizon was gearing up 
+to be a true test of one's friendship and loyalty.[k]
+[cs]
+All of Siglud's attention was now focused on the looming threat 
+at the northern reaches of Agustria... [k]
+[cs]
+one that could very well change the course of history.
+[k]
+[$00$84$02][$00$84$04][cs]
+
+[exit]
+
+
+# Chap. 4 - Begin
+# 0xecc72:
+# @@917483@@
+In an unthinkable series of events 
+Siglud had been blackened the traitor by his beloved motherland.[$00$82$02$01$00][$00$83$02$24$06][k]
+[cs]
+In the midst of adversity, 
+[$00$80$44$4C$0C$22]he found refuge in the sovereign Kingdom of Silesia just north of Grandbell.[k]
+[$00$84$02][$00$81$0C][cs]
+
+[exit]
+
+
+# 0xecce4:
+# @@917496@@
+Silesia was founded by the Wind Crusader Sety.[$00$86]
+[k]
+[cs]
+Under the guard of the valiant Pegasus Knights and the Wind Mages, 
+Silesia proved to be impenetrable by any force.[k]
+[cs]
+As a result, Silesia successfully maintained its neutrality 
+for the hundred years following its foundation.[k]
+[cs]
+[$00$87]However, opposition arose within the royal family 
+[$00$80$9D$63$0C$24]soon after the king's death.[k]
+[cs]
+Before long signs of war began to emerge 
+within the once peaceful kingdom.[$00$81$0C][k]
+[cs]
+[$00$80$5C$94$0C$1C]Between the late king and Queen Rahna 
+[$00$82$02$08$00][$00$83$02$28$60]they had a son, Prince Levn.[$00$81$0C][k]
+[cs]
+[$00$82$04$40$02][$00$83$04$C0$50]The zealous younger brother to the king, Duke Daccar,
+protested the idea of Levn succeeding the throne[k]
+[cs]
+[$00$80$A4$74$0C$1E]and confined himself to Zaxon Castle.
+And almost as if acting in concert the youngest brother to the king,[$00$81$0C][k]
+[cs]
+[$00$80$AC$0B$0C$20][Wait 02][$00$82$06$3F$02][$00$83$06$88$08]Duke Maios, began to amass
+an army at Thove Castle.[$00$81$0C][k]
+[cs]
+It was these swelling of events
+that compelled Prince Levn to leave the country.[$00$84$02]
+[k]
+[cs]
+There was no indication of just how far the conspiring brothers would go.[k]
+[cs]
+The majestic land of Silesia was about to be
+engulfed by the raging flames of war.[Wait 20][$00$84$04][$00$84$06][k]
+[cs]
+
+[exit]
+
+
+# Chap. 5 - Begin
+# 0xecf41:
+# @@917532@@
+After quelling Silesia's internal unrest, 
+Grandbell's great military lay waiting for Siglud.[k]
+[cs]
+[$00$80$6C$0C$0C$28]Siglud hadn't a moment's rest 
+[$00$82$02$01$00][$00$83$02$28$04]since gaining control of Zaxon Castle.[$00$81$0C][k]
+[cs]
+[$00$80$74$13$0C$26]He sat face to face with Grandbell's military 
+stationed over at Lubeck Castle.[k]
+[cs]
+Commanding the forces was an enemy of Siglud's father... 
+[$00$82$04$44$02][$00$83$04$BC$08]Lord Langobalt.[k]
+[cs]
+Engaging Grandbell's military 
+would provide Siglud a chance[k]
+[cs]
+to avenge his father's entrapment at the hands of Langobalt.
+[$00$81$0C][k]
+[cs]
+[$00$80$94$3C$0C$2A]Stationed in the desert town Phinora 
+were Lord Alvis' men[k]
+[cs]
+[$00$82$06$48$02][$00$83$06$70$28][$00$81$0C]and the great mage fighter, Vaha. 
+[$00$80$5C$7C$0C$2C]In Velthomer, Alvis' most trusted confidant[k]
+[cs]
+[$00$82$08$4B$02][$00$83$08$3E$44][$00$81$0C]General Ida was entrusted 
+with the castle's defense.[k]
+[cs]
+[$00$80$3C$94$0C$2E]And in the capitol,
+[k]
+[cs]
+Lord Alvis assisted the elderly bedridden King Azmur[k]
+[cs]
+[$00$82$0A$46$02][$00$83$0A$10$60][$00$81$0C]while Prime Minister Reptor 
+maintained the public order.[k]
+[cs]
+[$00$80$73$2C$00$0A]With such a great distance to the capitol, 
+confrontation with Grandbell's forces seemed inevitable.[k]
+[cs]
+Siglud also knew he mustn't involve Silesia 
+any further in the conflict with Grandbell.[k]
+[cs]
+He resolved to fight this final battle.[n]
+Gran calender - 760. Early Spring...[k]
+[cs]
+[$00$81$00][$00$84$02][$00$84$04][$00$84$06][$00$84$08][$00$84$0A]All of Silesia rested peacefully
+under a heavy cover of snow...[k]
+[cs]
+
+[exit]
+
+
+# Chap. 6 - Begin
+# 0xed210:
+# @@917567@@
+[Wait 20][$00$80$73$2C$00$0A][Wait 02][$00$82$02$01$00][$00$83$02$40$04][Wait 16][$00$82$04$44$02][$00$83$04$BC$08][Wait 16][$00$82$08$46$02][$00$83$08$60$60][Wait 16][$00$82$0A$B1$00][$00$83$0A$26$50][Wait 0A]The intense battle over control 
+of the capitol sent most of the powerful lords to their grave.[k]
+[Wait 0A][$00$84$04][Wait 20][$00$84$08][cs]
+[Wait 0A]Only Lord Alvis' plan went without a hitch
+[Wait 10][$00$84$02][$00$81$00]as he successfully gained full control of the kingdom.[k]
+[Wait 0A][$00$84$0A][cs]
+
+[exit]
+
+
+# 0xed2d7:
+# @@917580@@
+[$00$80$8C$1C$00$0C][Wait 02][$00$82$0A$B1$00][$00$83$0A$60$38]After overthrowing the two opposing kingdoms, 
+[$00$81$00]Silesia and Lenster, Lord Alvis unified the continent.[Wait 0A][$00$86][k]
+[cs]
+And with the overwhelming support of the people
+[k]
+[cs]
+ he became the first emperor 
+of the Grandbell Empire.[k]
+[Wait 0A][$00$84$0A][$00$87][cs]
+
+[exit]
+
+
+# 0xed360:
+# @@917585@@
+...Seventeen years past 
+since the Battle of Barhara.[k]
+[cs]
+[$00$80$8C$1C$00$0C][Wait 14][$00$82$0A$6E$02][$00$83$0A$64$38]The people who once enthusiastically 
+welcomed Emperor Alvis[k]
+[$00$81$00][cs]
+were now experiencing extreme hardship under the oppresive rule.
+[k]
+[cs]
+And in the surrounding nations
+which came under the empire's rule[k]
+[cs]
+the people were forced to live
+in slavery like conditions.[k]
+[Wait 0A][$00$84$0A][cs]
+
+[exit]
+
+
+# 0xed41d:
+# @@917598@@
+[Wait 02][$00$86][cs]
+Isaac was no exception. 
+The extreme conditions had taken its toll on the people.[k]
+[$00$87][cs]
+[Wait 0A]
+[exit]
+
+
+# 0xed44f:
+# @@917611@@
+[$00$80$74$94$00$3C][Wait 02][$00$82$02$4D$02][$00$83$02$3E$60]King Danan of Isaac was 
+a merciless ruler[k]
+[$00$81$00][cs]
+taking much after his father, Duke Langobalt.
+[k]
+[cs]
+He dropped the social standing of the Isaacian people to that of slaves
+[k]
+[cs]
+while he himself indulged in the pleasures 
+of the royal palace at Rivough.[k]
+[cs]
+[$00$80$B4$6C$00$3E][Wait 02][$00$82$04$1E$00][$00$83$04$90$48]Danan's second oldest son, Johan, presided over Isaac Castle 
+[Wait 14][$00$81$00][Wait 02]while his youngest, Joharva, presided over Sophara Castle.[Wait 02][$00$80$6C$54$00$40][Wait 02][$00$82$06$31$00][$00$83$06$5B$16][k]
+[Wait 08][$00$81$00][cs]
+[$00$80$A4$1C$00$42]Danan's confidant General Harold 
+[$00$82$08$4E$02][$00$83$08$BC$0C]administered the remote Ganeishire Castle.[k]
+[Wait 08][$00$81$00][cs]
+He as well relied heavily on oppressive governing tactics to control the citizens.
+[k]
+[Wait 0A][$00$84$02][$00$84$04][$00$84$06][$00$84$08][cs]
+
+[exit]
+
+
+# 0xed5a3:
+# @@917616@@
+Fortunately, the people of Isaac were not without hope.
+[k]
+[cs]
+[$00$80$5C$0C$00$44][Wait 0A][$00$82$02$1A$00][$00$83$02$30$08]Prince Shanan had organized a liberation army based 
+in the northern isolated village of Tilnanogue.[k]
+[$00$81$00][cs]
+Their strength increased day by day...
+[k]
+[Wait 0A][$00$84$02][cs]
+Among the army of young soldiers was one who the Isaacian citizens 
+referred to as 'the Bringer of Light'.[k]
+[cs]
+He was also revered 
+as the Imperial Prince of Grandbell.[k]
+[cs]
+[$00$80$5C$0C$00$44][Wait 0A][$00$82$02$19$00][$00$83$02$5C$1C]He was the young leader 
+of the liberation army. His name was... Celice.[k]
+[Wait 08][$00$81$00][Wait 0A][$00$84$02][Wait 0A][cs]
+[Wait 20]
+[exit]
+
+
+# Chap. 7 - Begin
+# 0xed6bd:
+# @@917642@@
+Word spread of the liberation army under Imperial Prince Celice 
+instilling a sense of courage in those still suffering under the empire's tyrannical rule.[k]
+[cs]
+As a result uprisings broke out in almost every corner of the continent.
+[k]
+[cs]
+However, many lacked solid leadership 
+and were easily crushed by the empire.[k]
+[cs]
+Casualities at the hands of the 
+imperial troops were enormous.[k]
+[cs]
+In the Kingdom of Lenster in the Thracia Peninsula, 
+[$00$80$84$54$00$46][k]
+[cs]
+[$00$82$02$1D$00][$00$83$02$8C$14]Cuan's son, Prince Leaf, assembled a resistance force
+[$00$82$04$22$00][$00$83$04$58$50]with Fin's assistance.[k]
+[cs]
+But they suffered a crushing defeat before King Bloom's massive army
+and found themselves stranded in enemy territory.[k]
+[$00$81$00][$00$84$02][$00$84$04][cs]
+[$00$80$3C$14$00$48]The Yied Desert was administered by a Loput Sectarian
+[$00$82$02$50$02][$00$83$02$64$07]named Cutouzov out of Yied Shrine.[$00$81$00][k]
+[cs]
+[$00$80$14$4C$00$4A]Stationed in the oasis town of Darna
+[k]
+[cs]
+[$00$82$04$4F$02][$00$83$04$3E$44]was Bramsel, a former merchant,
+[$00$82$06$51$02][$00$83$06$0A$5B]and Jabarro, commander of a mercenary squad.[$00$81$00][k]
+[cs]
+[$00$84$02][$00$84$04][$00$84$06][Wait 1C]
+[exit]
+
+
+# 0xed87d:
+# @@917655@@
+[$00$80$34$7C$00$4C][Wait 02][$00$82$02$52$02][$00$83$02$18$3B]Prince Ishtore
+[$00$82$04$53$02][$00$83$04$4B$60]and the highly revered General Liza protected Melgen Castle,[$00$81$00][k]
+[cs]
+[$00$80$7C$64$00$4E]while Duke Reptor's son,
+[$00$82$06$54$02][$00$83$06$75$20]King Bloom, was at the captal in Alster [k]
+[cs]
+[$00$2D$A4$AF$91][$00$2D$B2$FE$8D][$00$83$08$A3$52]with his niece, a young mage named [$00$81$00][$00$22][k]
+[cs]
+[$00$84$02][$00$84$04][$00$84$06][$00$84$08][Wait 1C]
+[exit]
+
+
+# 0xed92e:
+# @@917668@@
+[$00$80$8C$34$00$50]Celice was all set to depart Rivough 
+and lead the warriors [$00$81$00][$00$82$02$19$00][$00$83$02$64$30][k]
+[cs]
+of Isaac's liberation army on a rescue mission 
+in distant Lenster.[k]
+[cs]
+Each warrior put aside his and her individual concerns 
+[k]
+[cs]
+as they embraced the new challenge 
+before them.[k]
+[cs]
+[$00$84$02][Wait 14]
+[exit]
+
+# Chap. 8 - Begin
+# 0xfe1ff:
+# @@917707@@
+The Thracia Peninsula has two very distinct faces.
+[k]
+[$00$86]
+[Targetwin 04]
+The northern half is an enormous fertile savannah 
+home to several small kingdoms.[$00$87][k]
+[cs]
+
+[exit]
+
+
+# 0xfe246:
+# @@917720@@
+While the south is a barren wasteland lined with towering mountains 
+[$00$86]
+[TWinTop]and home to the Thracia Kingdom and their infamous Dragon Knights.[k]
+[cs]
+With reckless valor Thracia made repeated attempts 
+[k]
+[$00$87][cs]
+[$00$80$94$64$0C$30]to conquer the northern fertile land.[k]
+[$00$81$0C][cs]
+
+[exit]
+
+
+# 0xfe2da:
+# @@917733@@
+[$00$80$84$1C$00$52]However, each attempt met with opposition 
+by Lenster's Royal House and ended in defeat.[k]
+[cs]
+After the massacre of Lenster's army in the Yied Desert, 
+[$00$81$00]Thracia's perseverance finally seemed to have paid off.[k]
+[cs]
+[$00$82$02$54$02][$00$83$02$48$30]However, a military force headed by Bloom of Freege 
+had already moved in and subdued the area.[k]
+[cs]
+Thereafter the empire appointed the region as
+the Northern Kingdom of Thracia under King Bloom.[$00$84$02]
+[k]
+[cs]
+During the ten-odd years that followed, 
+not even the brazen King Trabant[k]
+[cs]
+dared challenge the empire's 
+military power.[k]
+[cs]
+And thus a precarious balance persisted.
+[k]
+[cs]
+But the fall of the capitol in Alster 
+to the liberation army [k]
+[cs]
+presented a new twist to the delicate 
+balance of power in the region.[k]
+[cs]
+[$00$82$02$19$00][$00$83$02$40$08][Wait 02][$00$80$6C$5C$00$54][Wait 04]Celice's liberation army now controlled 
+[Wait 04][$00$80$84$1C$0C$52][Wait 04]both Alster and Lenster Castle.[Wait 04][$00$81$00][$00$81$0C][k]
+[cs]
+[$00$82$04$54$02][$00$83$04$C0$18][Wait 02][$00$80$BC$14$00$56]After safely escaping to Conote Castle, 
+King Bloom began to amass a military force.[$00$81$00][k]
+[cs]
+[$00$82$06$71$02][$00$83$06$80$28][Wait 02][$00$80$AC$44$00$58]Meanwhile Princess Ishtar, 
+better known as the goddess of thunder, [$00$81$00][k]
+[cs]
+fortified Manster Castle's defense in case of a Thracian attack.
+[k]
+[cs]
+[$00$82$08$60$02][$00$83$08$B8$60][Wait 02][$00$80$A4$74$00$5A]And just over the border at Mease, 
+King Trabant [$00$81$00][k]
+[cs]
+and his commanding officer General Maikoff 
+maintained an ominous silence.[k]
+[cs]
+The people had only one wish, 
+[k]
+[cs]
+and that was for the Lenster Royal House 
+to return to power.[k]
+[cs]
+And thus another battle commenced.
+[k]
+[$00$84$02][$00$84$04][$00$84$06][$00$84$08][cs]
+
+[exit]
+
+
+# Chap. 9 - Begin
+# 0xfe5df:
+# @@917759@@
+[$00$82$02$19$00][$00$83$02$B0$40]Upon liberating the peninsula's northern half,
+the liberation army[k]
+[cs]
+stationed themselves at Mease Castle uncertain of their next course of action.
+[k]
+[$00$84$02][cs]
+Beyond Mease Castle and the towering mountain ranges lay Thracia,
+home of the Dragon Knights.[$00$86]
+[TWinTop][k]
+[cs]
+Aligning with Emperor Alvis, 
+[$00$82$04$60$02][$00$83$04$B0$40]King Trabant governed this remote [k]
+[cs]
+region representing the sole ally
+of the Grandbell Empire.[k]
+[$00$87][$00$84$04][Wait 1E][cs]
+
+[exit]
+
+
+# 0xfe6c5:
+# @@917772@@
+King Trabant stationed both his children,
+[$00$82$02$5B$02][$00$83$02$B0$10]Prince Areone and Princess Altenna, at the capital, [$00$82$04$2C$00][$00$83$04$A0$58][k]
+[cs]
+while the distinguished General Hannibal, dubbed ''the Shield of Thracia'',
+was posted at Kapathogia Castle.[$00$82$06$24$00][$00$83$06$60$34][k]
+[cs]
+Occupying Luthecia Castle was the king's trusted confidant
+[$00$82$08$62$02][$00$83$08$10$08] General Disra, [k]
+[cs]
+and dispatched from the empire,
+[$00$82$0A$67$02][$00$83$0A$18$60]the Dark Sectarian Bishop Judah held the Grutia Castle post.[k]
+[cs]
+King Trabant was prepared for a full-scale confrontation
+with the liberation army.[k]
+[cs]
+Even the citizens of Thracia feared
+Celice's army to be an invading force [k]
+[cs]
+and begun taking up arms.
+[k]
+[cs]
+Is there any justice to be found in this battle?
+And for whom are we fighting for?[k]
+[cs]
+These very issues now confronted Celice
+and his liberation army for the first time.[k]
+[$00$84$02][$00$84$04][$00$84$06][$00$84$08][$00$84$0A][cs]
+
+[exit]
+
+
+# Chap. 10 - Begin
+# 0xd8fc4:
+# @@917800@@
+[$00$82$06$19$00][$00$83$06$70$30]After subduing Thracia Castle,
+[Wait 0A][$00$80$4C$6B$0C$38][Wait 1E]Celice advanced straight for Grandbell.[Wait 3C][k]
+[Wait 0A][$00$84$06][Wait 14][$00$81$0C][cs]
+
+[exit]
+
+
+# 0xd9019:
+# @@917813@@
+[$00$86]
+[TWinBtm]His army passed through
+the Miletos District, [k]
+[cs]
+a independant region which had built up
+a sizable fortune through trade.[k]
+[cs]
+[$00$87]However, all that remained was a region
+dying out under the empire and Dark Sect's rule.[k]
+[cs]
+[$00$82$02$68$02][$00$83$02$A0$60]Queen Hilda of Chronos
+[k]
+[cs]
+drove numerous citizens
+to a hideously cruel death.[k]
+[cs]
+[$00$82$04$6C$02][$00$83$04$60$30]While Bishop Morgan
+[$00$82$06$5F$02][$00$83$06$20$50]carried out merciless child hunts at Rados [k]
+[cs]
+under orders from Archbishop Manfroy.
+[k]
+[cs]
+Fortune, hope, freedom, and destiny
+had all been stripped from the hands of the people.[k]
+[cs]
+The Dark Sect's sacrificial rituals,
+claiming one life after another, [k]
+[cs]
+left Celice with no other choice but to intervene.
+[k]
+[cs]
+An intense battle ensued,
+[$00$80$B6$54$0C$36][Wait 02][$00$82$08$19$00][$00$83$08$A0$18]but the Imperial Guard was driven away, [k]
+[cs]
+and Peruluke was free once again.
+[k]
+[cs]
+The liberation army received a heroes welcome
+from the townspeople.[k]
+[cs]
+Their very presence began to revive
+the once lost hope of Miletos.[k]
+[Wait 0A][$00$84$02][$00$84$04][$00$84$06][$00$84$08][$00$81$0C][cs]
+[Wait 20]
+[exit]
+
+
+# Chap. 11 - Begin
+# 0xfe85f:
+# @@917839@@
+At long last, the liberation army neared
+the final stage of their journey.[k]
+[cs]
+The army's presence continued to instill courage
+in those still suffering under the empire's rule, [k]
+[cs]
+and civilians all over Jugdral rose in revolt.
+[k]
+[cs]
+
+[exit]
+
+
+# 0xfe8cc:
+# @@917852@@
+[$00$86]
+Silesia was the first to return to the people's control.
+[k]
+[$00$87][Wait 1E][cs]
+
+[exit]
+
+
+# MISSING - Chap. 11 (4/4)
+#Shortly thereafter, the wave spread to Agustria
+#spurring the masses to rise and take up arms.
+
+
+# 0xfe8f5:
+# @@917865@@
+[$00$86]
+[exit]
+
+
+# 0xfe928:
+# @@917878@@
+However, the momentum had yet to penetrate Grandbell.
+[k]
+[cs]
+[$00$82$06$73$02][$00$83$06$40$48][Wait 20]The Grauen Ritter axer brigade
+under the command of Burian of Dozel, [k]
+[cs]
+[$00$82$0A$72$02][$00$83$0A$10$68]the Beigen Ritter archer brigade
+under the command of Scorpio of Jungby, [k]
+[cs]
+[$00$82$08$68$02][$00$83$08$08$10]and the Gelben Ritter thunder brigade
+under the command of Queen Hilda of Freege [k]
+[cs]
+were all in top form.
+[k]
+[cs]
+Ishtar and
+[$00$82$04$71$02][$00$83$04$B0$08]the sinister Prince Yurius [$00$82$02$6F$02][$00$83$02$78$30][Wait 20][k]
+[cs]
+along with the 12 enigmatic Dark Warlords
+remained eerily silent at Barhara.[k]
+[cs]
+Over a year had passed since the liberation army's initial uprising in Isaac.
+[k]
+[cs]
+The ongoing conflict tragically split the 12 Crusaders between light and dark
+as it pitted fellow decendants against one another.[k]
+[cs]
+And thus commenced the final holy war...
+[k]
+[$00$84$02][$00$84$04][$00$84$06][$00$84$08][$00$84$0A][cs]
+
+[exit]
+
+
+# 0xde1a2:
+# @@917905@@
+[$00$2D$87$B8$8D][$00$2D$B4$B8$8D][cs]
+
+[exit]
+
+
+# 0xde5c7:
+# @@917918@@
+[$00$2D$A9$BB$8D][$00$2D$DC$BB$8D][cs]
+
+[exit]
+
+
+# 0xde9a8:
+# @@917931@@
+¥¢¥°¥¹¥È¥?¢¤ÏÆâÍ?Î¤¢¤È
+[$00$86]
+[exit]
+
+
+# 0xdecd6:
+# @@917944@@
+¥?§¥?À¥?¦¹?Ï
+[$00$86][$00$0A]¤Ø¥µ¤Î°µÀ¯²¼¤Ë¤ª¤¤¤Æ¤â¡¢
+¤Û¤È¤?É¤«¤¨¤ê¤ß¤é¤???Ê¤¯
+ÂÇ¤Á¼Î¤Æ¤é¤?Æ¤¤¤¿¤È¤¤¤¦¡£
+[$00$87]³ÆÉ?²¤ÏÁè¤¤¤?¯¤?Ö¤·
+¼£°Â¤Ï¤ß¤À¤?¢
+Å?±ÃÄ¤¬¤¢¤Ð¤??Ã¤Æ¤¤¤¿¡£
+[$00$2D$A8$C1$8D][$00$2D$CF$C1$8D]¿¹¤È¸Ð¤Î¹??§¥?À¥?
+¤½¤ÎÈ?¤·¤¤ÎÐ¤Ï¥·¥°¥?É¤Î¤¤¤Î¤ê¡¢
+¤½¤Î¤¹¤­¤È¤ª¤Ã¤¿¿å¤Ï
+¥Ç¥£¥¢¥É¥é¤ÎÎÞ¤À¤È
+¤³¤Î¹?Î¿ÍÃ£¤Ï¿®¤¸¤Æ¤¤¤?¦¡¦¡¦¡£
+[cs]
+
+[exit]
+
+
+# 0xddea7:
+# @@917957@@
+[$00$2D$3D$B6$8D][$00$2D$64$B6$8D][cs]
+
+[exit]
+
+
+# 0xdefc4:
+# @@917970@@
+[Wait 02][$00$2D$17$C3$8D][Wait 14][$00$80$8C$1C$0C$0C][Wait 14]¥°¥é¥?Ù¥?¦¹?Î¥Ð£­¥Ï¥é²¦Ä«¤Ë¤Ï¡¢
+[$00$82$02$19$00][$00$81$0C][Wait 14][$00$83$02$98$1C]¥»¥?¹¹Ä»Ò¤¬¹?±¤Î°µÅÝÅª¤Ê»Ù»?¤Ë¤è¤Ã¤Æ
+[$00$86][k]
+¹?¦¤È¤·¤ÆÀµ¼°¤Ë·Þ¤¨¤é¤?¿¡£
+²¦¤È¤Ê¤Ã¤¿¥»¥?¹¤Ï¹?ÎÉ?½¤È
+[$00$87]ÂçÎ¦¤ÎÊ¿ÏÂ¤ËÎÏ¤??®
+º¹ÊÌ¤ä»ÙÇÛ¤Î¤Ê¤¤¡¢
+ÇÀ¤«¤ÊÀ¤³¦¤Î¼Â¸½¤?á¤¶¤·¤¿¡£
+[$00$2D$EE$C2$8D][$00$2D$55$C2$8D][$00$2D$8E$C2$8D][$00$2D$C7$C2$8D]¤Î¤Á¤Î¿Í¤Ï¸À¤¦
+¥æ¥°¥É¥é¥?ÎÎ?Ë¤ËÀ»²¦¤¢¤ê¤­
+¤½¤ÎÌ¾¤Ï¥»¥?¹¡¦¡¦¡¦¤È
+[Wait 28][$00$2D$0E$C9$8D][Wait 3C][Wait 3C][$00$2D$55$C9$8D][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40][Wait 40]
+[exit]
+
+

@@ -1,0 +1,98 @@
+.rat
+# This lists address ranges for the currently existing
+# japanese text. We may safely overwrite these ranges
+# since the game's gonna be in english anyways.
+
+SECTION PUBLIC
+	0EDAF0-0EDB45		# 86 bytes
+	0EDDF5-0EDE47		# 83 bytes
+	318971-319490		# 2848 bytes
+	3194C5-3197F9		# 821 bytes
+	319816-319C5B		# 1094 bytes
+	319D2A-31A577		# 2126 bytes
+	0EDD6D-0EDDD0		# 100 bytes
+	108F0A-10987D		# 2420 bytes
+	1098E0-10A27C		# 2461 bytes
+	10A2C1-10A312		# 82 bytes
+	10A351-10B5CD		# 4733 bytes
+	10B5FA-10B89F		# 678 bytes
+	10BB3D-10C0FE		# 1474 bytes
+	10C14E-10C2E7		# 410 bytes
+	32DAD3-32DAF4		# 34 bytes
+	0F826B-0F8F5D		# 3315 bytes
+	0F9012-0F9911		# 2304 bytes
+	0F995A-0FA060		# 1799 bytes
+	0FA0B2-0FA429		# 888 bytes
+	0FA461-0FA921		# 1217 bytes
+	0FA95D-0FAA50		# 244 bytes
+	0FAA78-0FB017		# 1440 bytes
+	0FB064-0FBA1C		# 2489 bytes
+	32F8C3-32F9BD		# 251 bytes
+	1D9581-1DA1DF		# 3167 bytes
+	1DA1FC-1DAB8A		# 2447 bytes
+	1DAC70-1DB369		# 1786 bytes
+	1DB68D-1DB6EC		# 96 bytes
+	1DB714-1DC0BA		# 2471 bytes
+	32D4AA-32D4FA		# 81 bytes
+	32D926-32DA61		# 316 bytes
+	32DAF5-32DB2E		# 58 bytes
+	0E9D61-0EA427		# 1735 bytes
+	0EA826-0EACDB		# 1206 bytes
+	0EAD32-0EAF15		# 484 bytes
+	0EAF46-0EB3AD		# 1128 bytes
+	0EB420-0EB97D		# 1374 bytes
+	0EB993-0EBD1F		# 909 bytes
+	0EBDB1-0EC232		# 1154 bytes
+	0EC286-0ECA1D		# 1944 bytes
+	0ECA4D-0ECC71		# 549 bytes
+	32D4FB-32D696		# 412 bytes
+	32E387-32E558		# 466 bytes
+	3086C7-30B96D		# 12967 bytes
+	32DDC9-32DE77		# 175 bytes
+	0EE22E-0EE290		# 99 bytes
+	10C2E8-10E9E1		# 9978 bytes
+	32D697-32D6D2		# 60 bytes
+	32D778-32D925		# 430 bytes
+	32DB2F-32DC07		# 217 bytes
+	32F05F-32F373		# 789 bytes
+	31AE01-31CF7B		# 8571 bytes
+	31CFF9-31D415		# 1053 bytes
+	32DC08-32DD85		# 382 bytes
+	32DE78-32DFDB		# 356 bytes
+	32F374-32F61D		# 682 bytes
+	0FC315-0FCF83		# 3183 bytes
+	0FCF86-0FE008		# 4227 bytes
+	32DD86-32DDC8		# 67 bytes
+	32E293-32E386		# 244 bytes
+	32E73C-32E9D9		# 670 bytes
+	32EC49-32EE7E		# 566 bytes
+	32EF67-32F05E		# 248 bytes
+	32F61E-32F8C2		# 677 bytes
+	32E559-32E73B		# 483 bytes
+	32E9DA-32EC48		# 623 bytes
+	32EE7F-32EF66		# 232 bytes
+	338200-338C1D		# 2590 bytes
+	338D6E-33A6E7		# 6522 bytes
+	33A712-33A978		# 615 bytes
+	33AA2C-33AD55		# 810 bytes
+	32DFDC-32E292		# 695 bytes
+	33AF0A-33B927		# 2590 bytes
+	33B98A-33BA58		# 207 bytes
+	33BAD6-33CC03		# 4398 bytes
+	33CD49-33CE22		# 218 bytes
+	33CE76-33D19C		# 807 bytes
+	329B16-32A3B3		# 2206 bytes
+	32A4BF-32B8B5		# 5111 bytes
+	32B8E8-32BA4A		# 355 bytes
+	32BD7D-32C012		# 662 bytes
+	2E8200-2E8C13		# 2580 bytes
+	2E8CAB-2EA7C1		# 6935 bytes
+	2EA7C2-2EE27C		# 15035 bytes
+	0DF52D-0DFE55		# 2345 bytes
+	2EE27D-2EFC82		# 6662 bytes
+	2F8200-2FC32C		# 16685 bytes
+	33D221-33E9B9		# 6041 bytes
+	2FC32D-2FC492		# 358 bytes
+END
+# 186586 bytes remaining.
+

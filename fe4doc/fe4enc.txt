@@ -1,0 +1,184 @@
+		The Encoding of FE4 graphics
+			   by JAY
+		============================
+		  Last Revision: 09/11/99
+
+AT
+355d0e: Main title screen GFX encoded
+f49c9: Character Sprites
+a67b5: Sigurd's Sprite
+c2b - 1b7b: Menu Font
+
+At first, I thought FE4 used a variant of RLE. However, I
+was completly suprised to find out that FE4 not only uses
+RLE, but uses a COMBINATION of 5+ DISTINCT compression
+algorithms for it's graphics.
+
+The methods are not completly known as tests are still
+in progress.
+
+The encoding in FE4 seems to code data in blocks which are prefixed
+with a prefix byte. The prefix byte has this format:
+
+bit
+ 7   6   5   4   3   2   1   0
+|----method----|----count-----|
+
+The method field is the method of encoding.. Remember FE4 uses a
+COMBINATION of at least 5 compression methods in the code and
+each have one or more variants... meaning there are at least
+12 VARIANTS of compressions used. So far to this document version,
+I have discovered all but 1 method which include: 2 variants of
+RLE, 6 variants of LZ77, 2 variants of post/pre appends, and 1
+variant of duplication 2x. Methods 0-3 are literals.
+
+Methods
+=======
+
+0 - Literal
+-----------
+
+Literal bytes of count+1 are emitted.
+
+1 - Literal
+-----------
+
+Literal bytes of count+17 are emitted.
+
+2 - Literal
+-----------
+
+Literal bytes of count+33 are emitted.
+
+3 - Literal
+-----------
+
+Literal bytes of count+49 are emitted.
+
+4 - ????????
+------------
+
+Only method not discovered yet....
+
+5 - Duplicate 2x
+----------------
+
+The next count+1 bytes are duplicated twice. eg.
+51 44 55
+
+will expand to
+
+44 44 55 55
+
+6 - PreAppend
+-------------
+
+One byte is grabbed from the stream, then count+2 bytes are
+firstly, outputted with grabbed byte, and then one literal. eg.
+61 00 50 60 70
+
+will expand to
+
+00 50 00 60 00 70
+
+7 - PostAppend
+--------------
+
+One byte is grabbed from the stream, then count+2 bytes are
+outputted each following with the grabbed byte. eg.
+71 00 50 60 70
+
+will expand to
+
+50 00 60 00 70 00
+
+8 - Length, Distance (LZ77)
+---------------------------
+
+LZ77 algorithm, but the format seems to look like:
+
+bit
+| C o u n t |      Next Byte        |
+ 11 10 09 08 07 06 05 04 03 02 01 00
+|-len-|----------Distance-----------|
+
+Bits 8 - 11, are carried from the prefix's count field.
+Length should be added with 2.
+
+9 - Length, Distance (LZ77)
+---------------------------
+
+Like the LZ77 presented above, however this format is an extension
+to the previous one.
+
+bit
+| C o u n t |      Next Byte        |
+ 11 10 09 08 07 06 05 04 03 02 01 00
+|-len-|----------Distance-----------|
+
+Length is added with 6.
+
+A - Length, Distance (LZ77)
+---------------------------
+
+Again a longer length support for the length.
+
+bit
+| C o u n t |      Next Byte        |
+ 11 10 09 08 07 06 05 04 03 02 01 00
+|-len-|----------Distance-----------|
+
+Length is added with 10 this time.
+
+B - Length, Distance (LZ77)
+---------------------------
+
+EVEN longer length support for the length.
+
+bit
+| C o u n t |      Next Byte        |
+ 11 10 09 08 07 06 05 04 03 02 01 00
+|-len-|----------Distance-----------|
+
+Length is added with 14 this time.
+
+C - Length, Distance (LZ77)
+---------------------------
+
+A LZ77 derivative again, with a larger sliding window
+and look ahead.
+
+|C O U N T |        LSB byte       |       MSB byte        | 
+19 18 17 16 15 14 13 12 11 10 09 08 07 06 05 04 03 02 01 00
+|---length----|-----------------Distance-------------------|
+
+Length is added with 2.
+
+D - Length, Distance (LZ77)
+---------------------------
+
+A LZ77 derivative again, more of an extension to the previous
+one.
+
+|C O U N T |        LSB byte       |       MSB byte        | 
+19 18 17 16 15 14 13 12 11 10 09 08 07 06 05 04 03 02 01 00
+|---length----|-----------------Distance-------------------|
+
+Length is added with 34.
+
+E - RLE (Run Length Encoding)
+-----------------------------
+
+| C o u n t |      Next Byte        |
+ 11 10 09 08 07 06 05 04 03 02 01 00
+|------------Run Length-------------|
+
+Bits 8 - 11 are carried from count field. While the next byte makes up
+bits 0 - 7. Run Length + 3 of next next byte is copied to the output.
+
+F - RLE (Run Length Encoding)
+-----------------------------
+
+The next byte is duplicated count+3 times. If count is greater than
+or equal to 8, the method happens to be variated.... Usually if count
+is 15 means End Of Encoding.
