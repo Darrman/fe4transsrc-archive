@@ -2,8 +2,8 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 02/05/04
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-03-12
+# This file was modified by Twilkitri
 
 # This file is for altering the army names, as used in the Phase description
 # at the start of each turn, and in the Data Screen.
@@ -528,6 +528,6 @@ Sigurd
 # @@252756@@
 
 #?Z???X?R
-Celice
+Serlis
 
 #*# [exit]

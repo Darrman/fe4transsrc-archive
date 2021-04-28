@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-05-06
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 4.
 
@@ -120,28 +120,28 @@ I wish I could help you out somehow... I'll be praying for your safety.
 # 0xeab62:
 # @@955440@@
 
-[TWinTop][DlgOpn]['(null)' 023F]
-[TWinBtm][DlgOpn]['(null)' 0242]
+[TWinTop][DlgOpn]['Maios' 023F]
+[TWinBtm][DlgOpn]['Deetva' 0242]
 
-[TWinTop] # (null)
+[TWinTop] # Maios
 Deetva, where are we at with our preparations?
 
-[TWinBtm] # (null)
+[TWinBtm] # Deetva
 [Wait 10]
 Bishop Cuvuli's wind mages are standing by in a forest near Sailane. They await your command.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Maios
 Alright then. Give my order to strike Sailane![k]
 [cs]
 Deetva, your Pegasus squad knows what to do, don't they?
 
-[TWinBtm] # (null)
+[TWinBtm] # Deetva
 [Wait 10]
 Yes. Our squadron is to divert the enemy.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Maios
 Alright, then get going![k]
 [cs]
 Heheh... The heads of the Grandbell traitors should fetch us a nice little sum![k]
@@ -152,7 +152,7 @@ Heheh... The heads of the Grandbell traitors should fetch us a nice little sum![
 # 0xeac84:
 # @@955671@@
 
-[TWinBtm][DlgOpn]['Kenbuli' 00BD]
+[TWinBtm][DlgOpn]['Cuvuli' 00BD]
 The orders to take Sailane have just come through.[k]
 [cs]
 Now to show these traitors the true ferocity of a wind mage![k]
@@ -163,29 +163,29 @@ Now to show these traitors the true ferocity of a wind mage![k]
 # 0xead32:
 # @@955703@@
 
-[TWinTop][DlgOpn]['(null)' 0240]
-[TWinBtm][DlgOpn]['(null)' 0241]
+[TWinTop][DlgOpn]['Daccar' 0240]
+[TWinBtm][DlgOpn]['Pamela' 0241]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 Maios has moved his troops, has he?[k]
 [cs]
 Heheh. This is getting interesting. Wouldn't you agree, Pamela?
 
-[TWinBtm] # (null)
+[TWinBtm] # Pamela
 [Wait 10]
 Indeed. The fugitive army is quite a surprise though. They may prove to be a real threat.[k]
 [dcs]
 So you think our takeover of Silesia will go smoothly if Duke Maios can just draw them in?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 I do. I've already reached a private agreement with Grandbell.[k]
 [cs]
 Andre's reinforcement troops should be arriving shortly.[k]
 [cs]
 Heh heh... Pamela, the day I am to become Silesia's next king is not that far off.
 
-[TWinBtm] # (null)
+[TWinBtm] # Pamela
 [Wait 10]
 Yes, it shall certainly come.[k]
 
@@ -195,7 +195,7 @@ Yes, it shall certainly come.[k]
 # 0xeae65:
 # @@955734@@
 
-[TWinBtm][DlgOpn]['(null)' 023F]
+[TWinBtm][DlgOpn]['Maios' 023F]
 The Grandbell traitors are nearing, are they? Raise the drawbridge over Thove River.[k]
 [cs]
 They can't cross without this key. Heh heh... I can just imagine their dumbfounded faces![k]
@@ -221,17 +221,17 @@ There ya go!
 # 0xeaf46:
 # @@955847@@
 
-[TWinTop][DlgOpn]['(null)' 0240]
-[TWinBtm][DlgOpn]['(null)' 0241]
+[TWinTop][DlgOpn]['Daccar' 0240]
+[TWinBtm][DlgOpn]['Pamela' 0241]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 Thove's been captured? Hmph. My brother never did realise he was just a mere pawn in my greater scheme.[k]
 [cs]
 Pamela, it's time to prove your worth. Now go lead your Pegasus Knights to victory![k]
 [cs]
 You're to capture Silesia Castle before Sigurd can provide reinforcements.
 
-[TWinBtm] # (null)
+[TWinBtm] # Pamela
 [Wait 10]
 Yes sir![k]
 
@@ -242,12 +242,12 @@ Yes sir![k]
 # @@956039@@
 
 [TWinTop][DlgOpn]['Manya' 00B6]
-[TWinBtm][DlgOpn]['(null)' 0284]
+[TWinBtm][DlgOpn]['Rahna' 0284]
 
 [TWinTop] # Manya
 Your Highness, Pamela's squad just left Zaxon and they're heading our way!
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 What!? Are you sure? Well, at least we finally know Lord Daccar's true intentions.[k]
 [dcs]
@@ -255,7 +255,7 @@ What!? Are you sure? Well, at least we finally know Lord Daccar's true intention
 [TWinTop] # Manya
 No need to worry. My knights can handle Pamela's squad.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Are you sure of that, Mahnya? I've heard Pamela is quite a fierce warrior.[k]
 [dcs]
@@ -265,7 +265,7 @@ Yes, she is a formidable opponent.[k]
 [cs]
 But a Falcon Knight never prepares to enter a losing battle.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 I'm sorry, Mahnya. I'm just trying to understand your feelings. I...[k]
 [dcs]
@@ -282,18 +282,18 @@ I need to get going. Pegasus Knights, get into formation![k]
 # @@956167@@
 
 [TWinTop][DlgOpn]['Manya' 00B6]
-[TWinBtm][DlgOpn]['(null)' 0241]
+[TWinBtm][DlgOpn]['Pamela' 0241]
 
 [TWinTop] # Manya
 Pamela... haven't seen you around for a while... and to think we trained together as knights.[k]
 [cs]
 I never imagined we would come to this!
 
-[TWinBtm] # (null)
+[TWinBtm] # Pamela
 [Wait 10]
 Mahnya, are you still fool enough to stay loyal to the queen? She knows it's over for her.[k]
 [dcs]
-Well, I'll become the top ranking Falcon Knight once you're gone. Nothing personal.[k]
+Well, I'll be the top ranking Falcon Knight once you're gone. Nothing personal.[k]
 [cs]
 
 [TWinTop] # Manya
@@ -301,7 +301,7 @@ Pamela, you're the one acting like a fool! Well... I guess if this is how fate'l
 [cs]
 Let's at least fight with a little grace and dignity. We are both Knights of Silesia after all.
 
-[TWinBtm] # (null)
+[TWinBtm] # Pamela
 [Wait 10]
 Sheesh... Enough of your rhetoric![k]
 
@@ -311,15 +311,15 @@ Sheesh... Enough of your rhetoric![k]
 # 0xeb2c6:
 # @@956295@@
 
-[TWinTop][DlgOpn]['(null)' 0240]
-[TWinBtm][DlgOpn]['(null)' 023B]
+[TWinTop][DlgOpn]['Daccar' 0240]
+[TWinBtm][DlgOpn]['Andre' 023B]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 Ah, Lord Andre. I see you've finally arrived...[k]
 [cs]
 So this must be the Beige Ritter, the reputed archery knights of Jungby... Impressive!
 
-[TWinBtm] # (null)
+[TWinBtm] # Andre
 [Wait 10]
 My father is no longer with us and my older sister is being pursued for her involvement with the Grandbell traitors.[k]
 [dcs]
@@ -333,17 +333,17 @@ Those Pegasus Knights won't pose a problem in the face of the Beige Ritter. Now 
 # 0xeb420:
 # @@956324@@
 
-[TWinTop][DlgOpn]['(null)' 023B]
-[TWinBtm][DlgOpn]['(null)' 0241]
+[TWinTop][DlgOpn]['Andre' 023B]
+[TWinBtm][DlgOpn]['Pamela' 0241]
 
-[TWinTop] # (null)
+[TWinTop] # Andre
 Hmm... Silesia's Pegasus squad aren't posing much of a problem.[k]
 [cs]
 Alright. My troops'll finish up here. Then we'll bring down Silesia Castle.[k]
 [cs]
 Pamela, make your way north over these mountains and take Thove Castle.
 
-[TWinBtm] # (null)
+[TWinBtm] # Pamela
 [Wait 10]
 Yes sir![k]
 
@@ -353,7 +353,7 @@ Yes sir![k]
 # 0xeb4a2:
 # @@956352@@
 
-[TWinBtm][DlgOpn]['(null)' 0284]
+[TWinBtm][DlgOpn]['Rahna' 0284]
 What!? Mahnya died in battle!? Aahhh... No... Mahnya......[n]
 Forgive me...[k]
 
@@ -384,7 +384,7 @@ Ooooah! Please! Someone tell me it's not true!![k]
 # 0xeb552:
 # @@956424@@
 
-[TWinBtm][DlgOpn]['(null)' 023B]
+[TWinBtm][DlgOpn]['Andre' 023B]
 We got Silesia Castle? Okay. We're finished here. Let's wrap up and head back to Grandbell![k]
 
 [exit]
@@ -393,10 +393,10 @@ We got Silesia Castle? Okay. We're finished here. Let's wrap up and head back to
 # 0xeb58e:
 # @@956626@@
 
-[TWinTop][DlgOpn]['(null)' 0240]
-[TWinBtm][DlgOpn]['(null)' 0243]
+[TWinTop][DlgOpn]['Daccar' 0240]
+[TWinBtm][DlgOpn]['Donovan' 0243]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 Heh heh heh... Silesia Castle is finally in my possession, is it?[k]
 [cs]
 Okay. We need a patrol south of Silesia River. Send some wind mages.[k]
@@ -405,7 +405,7 @@ And Donovan, I want you to take your axemen to Silesia and occupy the castle.[k]
 [cs]
 But don't lay a hand on Queen Rahna. She'll be a valuable hostage for us.
 
-[TWinBtm] # (null)
+[TWinBtm] # Donovan
 [Wait 10]
 You got it.[k]
 
@@ -415,25 +415,25 @@ You got it.[k]
 # 0xeb64f:
 # @@956706@@
 
-[TWinTop][DlgOpn]['(null)' 0284]
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinTop][DlgOpn]['Rahna' 0284]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 Hurry! Get out of here as quick as you can!
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 But Queen Rahna... [k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 Don't worry about me. Now get going!!
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 Everybody! Let's do as the queen says. Let's get outta here![k]
 
 [exit]
@@ -442,7 +442,7 @@ Everybody! Let's do as the queen says. Let's get outta here![k]
 # 0xeb6d2:
 # @@956855@@
 
-[TWinBtm][DlgOpn]['(null)' 0243]
+[TWinBtm][DlgOpn]['Donovan' 0243]
 What? Where the hell is everyone!?[k]
 [cs]
 You don't want to mess with me! You guys go out 'n kill every one of 'em![k]
@@ -450,17 +450,17 @@ You don't want to mess with me! You guys go out 'n kill every one of 'em![k]
 No one gets away! You got me!?[k]
 [cs]
 
-[TWinTop][DlgOpn]['(null)' 0284]
+[TWinTop][DlgOpn]['Rahna' 0284]
 Please, stop! They're just innocent people.[k]
 [cs]
 You can do what you want with me, but please don't hurt them!
 
-[TWinBtm] # (null)
+[TWinBtm] # Donovan
 [Wait 10]
 Heh... right. You're gonna learn what happens when you go against Daccar![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 Oh, please no...[k]
 
 [exit]
@@ -469,31 +469,31 @@ Oh, please no...[k]
 # 0xeb7bd:
 # @@956953@@
 
-[TWinTop][DlgOpn]['(null)' 0240]
-[TWinBtm][DlgOpn]['Leimia' 00D5]
+[TWinTop][DlgOpn]['Daccar' 0240]
+[TWinBtm][DlgOpn]['Lamia' 00D5]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 Heh heh... Donovan's working out real nice.
 
-[TWinBtm] # Leimia
+[TWinBtm] # Lamia
 [Wait 10]
 Yeah, he's a real animal! You guys are seriously corrupt, though! Tryin' to seize an entire kingdom! Heehee![k]
 [dcs]
 
-[TWinTop] # (null)
-But YOU and assassins like yourself will kill anyone as long as there's a paycheck involved.[k]
+[TWinTop] # Daccar
+Whereas you and assassins like yourself will kill anyone as long as there's a paycheck involved.[k]
 [cs]
 It's no wonder they call you 'Lamia the Wicked'. It sure suits you.
 
-[TWinBtm] # Leimia
+[TWinBtm] # Lamia
 [Wait 10]
 Hehehe... I'll take that as a compliment. So what'll you have us do?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Daccar
 For now I need you to watch the castle. Sigurd's army just might try to attack us here.
 
-[TWinBtm] # Leimia
+[TWinBtm] # Lamia
 [Wait 10]
 You gotta be kiddin'. That's all? Well, you got it.[k]
 [dcs]
@@ -505,7 +505,7 @@ Yo, everyone! We'll be pickin' off any stragglers who come this way. Stay near t
 # 0xeb914:
 # @@957115@@
 
-[TWinBtm][DlgOpn]['(null)' 0243]
+[TWinBtm][DlgOpn]['Donovan' 0243]
 Them Sailane troops are makin' their way here, huh? Traitor scum's gonna die![k]
 [cs]
 Hey! You guys get it together. Don't let 'em get anywhere near the castle![k]
@@ -517,12 +517,12 @@ Hey! You guys get it together. Don't let 'em get anywhere near the castle![k]
 # @@957220@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['(null)' 0284]
+[TWinBtm][DlgOpn]['Rahna' 0284]
 
 [TWinTop] # Sigurd
 Queen Rahna, you're okay! Forgive us for taking so long to get here.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 No, I really... You did just fine making it this far.[k]
 [dcs]
@@ -538,7 +538,7 @@ And Daccar has gone way too far![k]
 [cs]
 I request your permission to lay siege to Zaxon Castle.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Lord Daccar has put the innocent citizens of Silesia through enough suffering.[k]
 [dcs]
@@ -548,7 +548,7 @@ The man's a murderer, nothing more. He must pay for his crimes.[k]
 [TWinTop] # Sigurd
 Alright. Well, we'd better start making our way to Zaxon. Please get some rest.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Sir Sigurd, you be especially careful. Let's meet up after you get Zaxon under control.[k]
 
@@ -559,12 +559,12 @@ Sir Sigurd, you be especially careful. Let's meet up after you get Zaxon under c
 # @@957231@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['(null)' 0284]
+[TWinBtm][DlgOpn]['Rahna' 0284]
 
 [TWinTop] # Sigurd
 Queen Rahna, you're okay! Forgive us for taking so long to get here.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 No, I really... You did just fine making it this far.[k]
 [dcs]
@@ -578,7 +578,7 @@ Queen Rahna, don't lose heart. We were able to avenge Mahnya's killer.[k]
 [cs]
 I wish to apologise for moving my soldiers without your permission.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 That's not a problem at all. I really appreciate all you've done.[k]
 [dcs]
@@ -591,12 +591,12 @@ I'll be by Zaxon Castle later. Let's meet up again then.[k]
 # @@957341@@
 
 [TWinTop][DlgOpn]['Levin' 0008]
-[TWinBtm][DlgOpn]['(null)' 0284]
+[TWinBtm][DlgOpn]['Rahna' 0284]
 
 [TWinTop] # Levin
 Mother! I'm so glad you weren't hurt. I heard Silesia was overrun... I was so worried!
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Levin, I'm glad to see you. You've finally matured into a person who can keep his word.[k]
 [dcs]
@@ -606,11 +606,11 @@ I think Sir Sigurd has had a good influence on you.[k]
 [TWinTop] # Levin
 C'mon, give me a break. You're treatin' me like a kid or something.[k]
 [cs]
-Sir Sigurd is NOT that much older than me, you know.
+Sir Sigurd isn't that much older than me, you know.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
-Dear, Sir Sigurd is light-years ahead of you when it comes to responsibility.[k]
+Dear, Sir Sigurd is leagues ahead of you when it comes to responsibility.[k]
 [dcs]
 You still have much to learn from him. I need a prince who can put my mind at ease.[k]
 [cs]
@@ -622,9 +622,9 @@ Especially since Mahnya is no longer with us.[k]
 [cs]
 Mother, I will protect you from here on out.[k]
 [cs]
-I solemnly swear I will NEVER leave your side again.
+I solemnly swear I will never leave your side again.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Levin... I never knew such endearing words could come out of your mouth.[k]
 [dcs]
@@ -636,7 +636,7 @@ He needs your strength.[k]
 [TWinTop] # Levin
 But what about you?
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 I'll be fine, Levin.[k]
 [dcs]
@@ -650,7 +650,7 @@ Here you go. It's yours now.[k]
 [TWinTop] # Levin
 So this is our family's Book of Holsety! Eraagh... What power! Where's this heat coming from?
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Levin, please remember the Wind Crusader flows like a cool breeze guiding all living beings to the path of peace.[k]
 [dcs]
@@ -660,7 +660,7 @@ His way is never to be confused with violence.[k]
 [TWinTop] # Levin
 Yes, I understand now. That is the only way I could hope to live my life.
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Hmm... You are without a doubt a child of the wind.[k]
 [dcs]
@@ -670,7 +670,7 @@ Levin, you need to get going. Take care and use sound judgement out there.[k]
 [TWinTop] # Levin
 But mother...
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 10]
 Go! Please...[k]
 [dcs]
@@ -682,7 +682,7 @@ Okay. You take care.
 
 [DlgCls][xChr]
 
-[TWinBtm] # (null)
+[TWinBtm] # Rahna
 [Wait 40]
 Levin...[k]
 
@@ -701,7 +701,7 @@ Sir, Queen Rahna is here.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0284]
+[TWinTop][DlgOpn]['Rahna' 0284]
 Sir Sigurd, that was a rough battle out there. Are you hurt at all?
 
 [TWinBtm] # Sigurd
@@ -709,7 +709,7 @@ Sir Sigurd, that was a rough battle out there. Are you hurt at all?
 Nope. I managed to get through somehow.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 If at all possible, I'd like you to station your troops here at Zaxon Castle.[k]
 [cs]
 Duke Langbart of Grandbell brought in a large military force and overran Lubeck Castle.[k]
@@ -727,7 +727,7 @@ The Silesians have been too kind to us. This my problem, and I can't drag them i
 We need to move out of Zaxon Castle at once and settle this with Langbart.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 Wouldn't that be a reckless move? I can't see how you could win!
 
 [TWinBtm] # Sigurd
@@ -735,7 +735,7 @@ Wouldn't that be a reckless move? I can't see how you could win!
 If we stay put, they'll just attack us here. Queen Rahna, there's no time to dispute this.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 You really think so? Oh, how sad this all is...
 
 [TWinBtm] # Sigurd
@@ -749,7 +749,7 @@ But for the first time I felt what that feels like through you.[k]
 I'm sorry to leave so suddenly. I so look forward to the day we meet again. Until then...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Rahna
 The same goes for me, Sir Sigurd. You be careful and don't push yourself too hard.[k]
 [cs]
 I'll be praying for Deirdre's safe return.[k]
@@ -760,7 +760,7 @@ I'll be praying for Deirdre's safe return.[k]
 # 0xec5b5:
 # @@957415@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 Oh... Thank you... Thank you so much![k]
 
 [exit]
@@ -769,7 +769,7 @@ Oh... Thank you... Thank you so much![k]
 # 0xec5d0:
 # @@957428@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 Ah! Thank you![k]
 
 [exit]
@@ -778,7 +778,7 @@ Ah! Thank you![k]
 # 0xec5f8:
 # @@957441@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Magic has attributes much in the same way as weapons do.[k]
 [cs]
 Fire is stronger than Wind, Wind is stronger than Thunder, and Thunder's stronger than Fire.[k]
@@ -791,7 +791,7 @@ However, Light and Dark magic have the upper hand on all of 'em. [k]
 # 0xec676:
 # @@957455@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Only direct descendants inherit the full power of the gods.[k]
 [cs]
 And they're the only ones who can handle divine items such as the Sacred Relics.[k]
@@ -806,7 +806,7 @@ But that practice is strictly forbidden, and for obvious reasons![k]
 # 0xec737:
 # @@957469@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 There are various advantages that come with being of divine lineage.[k]
 [cs]
 You'll be able to handle items of a very high class, and your innate abilities will improve quicker than others.[k]
@@ -819,7 +819,7 @@ Granted, only a few can claim to be of such divine heredity.[k]
 # 0xec7b5:
 # @@957483@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Silesia's Royal Family's power is 'Wind' as is bestowed by Holsety, the God of Wind.[k]
 [cs]
 The Velthomer's power is 'Fire' as is bestowed upon them by Fala, the God of Fire.[k]
@@ -831,7 +831,7 @@ And the Freege's power is 'Thunder' as is bestowed by Tordo, the God of Thunder.
 # 0xec843:
 # @@957497@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 The Dark Lord Loputousu's power is evil. Only the divine power of Lord Narga could match it.[k]
 [cs]
 And the only ones who inherit Narga's power are Grandbell's Royal Family, the Heims.[k]
@@ -842,7 +842,7 @@ And the only ones who inherit Narga's power are Grandbell's Royal Family, the He
 # 0xec8b0:
 # @@957511@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 It is said that all direct descendants of the Crusaders have a sacred marking appear somewhere on their body during infancy.[k]
 [cs]
 Prince Kurth's daughter was recognised as a direct descendant of Saint Heim by the mark on her forehead.[k]
@@ -852,7 +852,7 @@ Prince Kurth's daughter was recognised as a direct descendant of Saint Heim by t
 # 0xec931:
 # @@957525@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 If Prince Kurth's daughter were to bear a child, that child would become heir to the Grandbell Kingdom.[k]
 [cs]
 That'd put the husband to be, Lord Alvis, into quite a position of power, I'd say.[k]
@@ -878,7 +878,7 @@ Good, I'd like to have a word with him as well. Please, send him this way.[k]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 02AB]
+[TWinTop][DlgOpn]['Old villager' 02AB]
 Sir Sigurd, you've done us all a great service by overthrowing Lord Maios.[k]
 [cs]
 All the townsfolk are rejoicing!
@@ -888,7 +888,7 @@ All the townsfolk are rejoicing!
 ...I don't understand. I thought for sure you all considered us the aggressor here.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Listen here. Lord Maios was nothing but a tyrant. Plain and simple.[k]
 [cs]
 There is not a Silesian alive who does not have the utmost of adoration for Queen Rahna.
@@ -902,7 +902,7 @@ I'm sure you'll be hearing word from Queen Rahna in a day or two.[k]
 But until then, I think the people should have a hand at governing themselves.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Understood.[k]
 [cs]
 Queen Rahna is a veritable jewel of this great land. Please keep her from harm.
@@ -917,7 +917,7 @@ Yes, I will protect her to the absolute best of my ability.[k]
 # 0xebdb1:
 # @@957645@@
 
-[TWinBtm][DlgOpn]['Leimia' 00D5]
+[TWinBtm][DlgOpn]['Lamia' 00D5]
 Why's Daccar so damn freaked out? Okay, let's go work up an appetite![k]
 
 [exit]
@@ -926,13 +926,13 @@ Why's Daccar so damn freaked out? Okay, let's go work up an appetite![k]
 # 0x32d4fb:
 # @@957665@@
 
-[TWinTop][DlgOpn]['(null)' 02AD]
+[TWinTop][DlgOpn]['Villager' 02AD]
 [TWinBtm][DlgOpn]['Sylvia' 0016]
 
-[TWinTop] # (null)
+[TWinTop] # Villager
 Wow! Sir Sigurd's troops have come t'rescue us! Hey, you're a dancer, arn'cha?[k]
 [cs]
-If ya don't mine, we'd sure like t'see yer dance.[k]
+If ya don't mind, we'd sure like t'see yer dance.[k]
 [cs]
 Things have been pretty rough lately. We rarely ever have time fer any fun.
 
@@ -975,13 +975,13 @@ Sure! I'll dance for ya if it'll cheer you up a bit.[k]
 # 0x32d5f9:
 # @@957718@@
 
-[TWinTop][DlgOpn]['(null)' 02AD]
+[TWinTop][DlgOpn]['Villager' 02AD]
 [TWinBtm][DlgOpn]['Sylvia' 0016]
 
 Whew... (pant...) ahaa... Well... how was I?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Villager
 Whoa! That was fabulous! That dancin' energised me somehow![k]
 [cs]
 Thank you so much! Here's a magic sword for ya in 'preciation. It'll protect ya good![k]

@@ -2,8 +2,8 @@
 
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file is used for altering the names of characters whereever they are used in a dialogue sense.
 # Eg: Fortune Teller, Second Generation conversations which could have substitutes.
@@ -162,7 +162,7 @@ Brigid
 
 # 0xd9520
 # @@889917@@
-Celice
+Serlis
 [exit]
 
 
@@ -312,7 +312,7 @@ Johalva
 
 # 0xd95b4
 # @@889967@@
-Skasaha
+Scathach
 [exit]
 
 

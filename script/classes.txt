@@ -2,8 +2,8 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 11/03/05
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is used for altering the class names whereever they appear in a status sense.
 # Eg: Character Status Screen
@@ -41,17 +41,17 @@
 # 0x038D43:
 # P: 0090
 # @@232627@@
+# Cavalier (Social Knight)
 
-#?\?V?A???i?C?g
-SoclKnt
+Cavalier
 
 #*# [exit]
 
 # 0x038D53:
 # P: 00A0
 # @@232629@@
+# Lance Knight
 
-#?????X?i?C?g
 LanceKnt
 
 #*# [exit]
@@ -59,8 +59,8 @@ LanceKnt
 # 0x038D61:
 # P: 00AE
 # @@232631@@
+# Arch Knight
 
-#?A?[?`?i?C?g
 ArchKnt
 
 #*# [exit]
@@ -68,8 +68,8 @@ ArchKnt
 # 0x038D6F:
 # P: 00BC
 # @@232633@@
+# Axe Knight
 
-#?A?N?X?i?C?g
 AxeKnt
 
 #*# [exit]
@@ -77,8 +77,8 @@ AxeKnt
 # 0x038D7D:
 # P: 00CA
 # @@232635@@
+# Free Knight
 
-#?t???[?i?C?g
 FreeKnt
 
 #*# [exit]
@@ -86,8 +86,8 @@ FreeKnt
 # 0x038D8B:
 # P: 00D8
 # @@232637@@
+# Troubador
 
-#?g???o?h?[??
 Troubdor
 
 #*# [exit]
@@ -95,8 +95,8 @@ Troubdor
 # 0x038D99:
 # P: 00E6
 # @@232639@@
+# Lord Knight
 
-#???[?h?i?C?g
 LordKnt
 
 #*# [exit]
@@ -104,8 +104,8 @@ LordKnt
 # 0x038DA7:
 # P: 00F4
 # @@232641@@
+# Duke Knight
 
-#?f???[?N?i?C?g
 DukeKnt
 
 #*# [exit]
@@ -113,8 +113,8 @@ DukeKnt
 # 0x038DB7:
 # P: 0104
 # @@232643@@
+# Master Knight
 
-#?}?X?^?[?i?C?g
 MstrKnt
 
 #*# [exit]
@@ -122,8 +122,8 @@ MstrKnt
 # 0x038DC7:
 # P: 0114
 # @@232645@@
+# Paladin
 
-#?p???f?B??
 Paladin
 
 #*# [exit]
@@ -131,8 +131,8 @@ Paladin
 # 0x038DC7:
 # P: 0114
 # @@232647@@
+# Paladin
 
-#?p???f?B??
 Paladin
 
 #*# [exit]
@@ -140,8 +140,8 @@ Paladin
 # 0x038DD3:
 # P: 0120
 # @@232649@@
+# Bow Knight
 
-#?{?E?i?C?g
 BowKnt
 
 #*# [exit]
@@ -149,17 +149,17 @@ BowKnt
 # 0x038DDF:
 # P: 012C
 # @@232651@@
+# Ranger (Forest Knight)
 
-#?t?H???X?g?i?C?g
-FrstKnt
+Ranger
 
 #*# [exit]
 
 # 0x038DF1:
 # P: 013E
 # @@232653@@
+# Mage Knight
 
-#?}?[?W?i?C?g
 MageKnt
 
 #*# [exit]
@@ -167,8 +167,8 @@ MageKnt
 # 0x038DFF:
 # P: 014C
 # @@232655@@
+# Great Knight
 
-#?O???[?g?i?C?g
 GreatKnt
 
 #*# [exit]
@@ -176,8 +176,8 @@ GreatKnt
 # 0x038E0F:
 # P: 015C
 # @@232657@@
+# Pegasus Rider
 
-#?y?K?T?X???C?_?[
 PegRider
 
 #*# [exit]
@@ -185,8 +185,8 @@ PegRider
 # 0x038E21:
 # P: 016E
 # @@232659@@
+# Pegasus Knight
 
-#?y?K?T?X?i?C?g
 PegKnt
 
 #*# [exit]
@@ -194,8 +194,8 @@ PegKnt
 # 0x038E31:
 # P: 017E
 # @@232661@@
+# Falcon Knight
 
-#?t?@???R???i?C?g
 FalcoKnt
 
 #*# [exit]
@@ -203,53 +203,53 @@ FalcoKnt
 # 0x038E43:
 # P: 0190
 # @@232663@@
+# Wyvern Rider (Dragon Rider)
 
-#?h???S?????C?_?[
-DrgRider
+WyvRider
 
 #*# [exit]
 
 # 0x038E55:
 # P: 01A2
 # @@232665@@
+# Wyvern Knight (Dragon Knight)
 
-#?h???S???i?C?g
-DrgKnt
+WyvKnt
 
 #*# [exit]
 
 # 0x038E65:
 # P: 01B2
 # @@232667@@
+# Wyvern Lord (Dragon Master)
 
-#?h???S???}?X?^?[
-DrgMstr
+WyvLord
 
 #*# [exit]
 
 # 0x038E77:
 # P: 01C4
 # @@232669@@
+# Archer (Bowfighter)
 
-#?{?E?t?@?C?^?[
-Bowfghtr
+Archer
 
 #*# [exit]
 
 # 0x038E87:
 # P: 01D4
 # @@232671@@
+# Myrmidon (Swordfighter)
 
-#?\?[?h?t?@?C?^?[
-Swdfghtr
+Myrmidon
 
 #*# [exit]
 
 # 0x038E99:
 # P: 01E6
 # @@232673@@
+# Swordmaster
 
-#?\?[?h?}?X?^?[
 Swdmstr
 
 #*# [exit]
@@ -257,8 +257,8 @@ Swdmstr
 # 0x038EA9:
 # P: 01F6
 # @@232675@@
+# Sniper
 
-#?X?i?C?p?[
 Sniper
 
 #*# [exit]
@@ -266,17 +266,17 @@ Sniper
 # 0x038EB5:
 # P: 0202
 # @@232677@@
+# Hero (Forest)
 
-#?t?H?[???X?g
-Forrest
+Hero
 
 #*# [exit]
 
 # 0x038EC3:
 # P: 0210
 # @@232679@@
+# General
 
-#?W?F?l????
 General
 
 #*# [exit]
@@ -284,8 +284,8 @@ General
 # 0x038ECF:
 # P: 021C
 # @@232681@@
+# Emperor
 
-#?G???y???[
 Emperor
 
 #*# [exit]
@@ -293,8 +293,8 @@ Emperor
 # 0x038EDB:
 # P: 0228
 # @@232683@@
+# Baron
 
-#?o????
 Baron
 
 #*# [exit]
@@ -302,8 +302,6 @@ Baron
 # 0x038EE3:
 # P: 0230
 # @@232685@@
-
-#?\???W???[
 # Soldier
 
 #*# [exit]
@@ -311,17 +309,13 @@ Baron
 # 0x038EEF:
 # P: 023C
 # @@232687@@
-
-#?X?s?A?\???W???[
-# Spear Soldier
+# Lance Soldier
 
 #*# [exit]
 
 # 0x038F01:
 # P: 024E
 # @@232689@@
-
-#?A?N?X?\???W???[
 # Axe Soldier
 
 #*# [exit]
@@ -329,8 +323,6 @@ Baron
 # 0x038F13:
 # P: 0260
 # @@232691@@
-
-#?A?[?`???[
 # Archer
 
 #*# [exit]
@@ -338,8 +330,6 @@ Baron
 # 0x038F1F:
 # P: 026C
 # @@232693@@
-
-#?\?[?h?\???W???[
 # Sword Soldier
 
 #*# [exit]
@@ -347,44 +337,44 @@ Baron
 # 0x038F31:
 # P: 027E
 # @@232695@@
+# Lance Armour (Armour)
 
-#?A?[?}?[
-Armour
+LncArmr
 
 #*# [exit]
 
 # 0x038F3B:
 # P: 0288
 # @@232697@@
+# Axe Armour
 
-#?A?N?X?A?[?}?[
-AxArmour
+AxeArmr
 
 #*# [exit]
 
 # 0x038F4B:
 # P: 0298
 # @@232699@@
+# Bow Armour
 
-#?{?E?A?[?}?[
-BwArmour
+BowArmr
 
 #*# [exit]
 
 # 0x038F59:
 # P: 02A6
 # @@232701@@
+# Sword Armour
 
-#?\?[?h?A?[?}?[
-SdArmour
+SwdArmr
 
 #*# [exit]
 
 # 0x038F69:
 # P: 02B6
 # @@232703@@
+# Brigand
 
-#?o?[?o???A??
 Brigand
 
 #*# [exit]
@@ -392,26 +382,26 @@ Brigand
 # 0x038F77:
 # P: 02C4
 # @@232705@@
+# Fighter (Axefighter)
 
-#?A?N?X?t?@?C?^?[
-Axefghtr
+Fighter
 
 #*# [exit]
 
 # 0x038F89:
 # P: 02D6
 # @@232707@@
+# Mountain Thief
 
-#?}?E???e???V?[?t
-MThief
+MtnThief
 
 #*# [exit]
 
 # 0x038F9B:
 # P: 02E8
 # @@232709@@
+# Warrior
 
-#?E?H?[???A
 Warrior
 
 #*# [exit]
@@ -419,8 +409,8 @@ Warrior
 # 0x038FA7:
 # P: 02F4
 # @@232711@@
+# Hunter
 
-#?n???^?[
 Hunter
 
 #*# [exit]
@@ -428,8 +418,8 @@ Hunter
 # 0x038FB1:
 # P: 02FE
 # @@232713@@
+# Pirate
 
-#?p?C???[?c
 Pirate
 
 #*# [exit]
@@ -437,8 +427,8 @@ Pirate
 # 0x038FBD:
 # P: 030A
 # @@232715@@
+# Junior Lord
 
-#?W???j?A???[?h
 JrLord
 
 #*# [exit]
@@ -446,17 +436,17 @@ JrLord
 # 0x038FCD:
 # P: 031A
 # @@232717@@
+# Mage Hero (Magefighter)
 
-#?}?[?W?t?@?C?^?[
-Magfghtr
+MageHero
 
 #*# [exit]
 
 # 0x038FDF:
 # P: 032C
 # @@232719@@
+# Prince
 
-#?v?????X
 Prince
 
 #*# [exit]
@@ -464,8 +454,8 @@ Prince
 # 0x038FE9:
 # P: 0336
 # @@232721@@
+# Princess
 
-#?v?????Z?X
 Princess
 
 #*# [exit]
@@ -473,17 +463,17 @@ Princess
 # 0x038FF5:
 # P: 0342
 # @@232723@@
+# Mage Hero (Magefighter)
 
-#?}?[?W?t?@?C?^?[
-Magfghtr
+MageHero
 
 #*# [exit]
 
 # 0x039007:
 # P: 0354
 # @@232725@@
+# Queen
 
-#?N?C?[??
 Queen
 
 #*# [exit]
@@ -491,8 +481,8 @@ Queen
 # 0x039011:
 # P: 035E
 # @@232727@@
+# Dancer
 
-#?_???T?[
 Dancer
 
 #*# [exit]
@@ -500,8 +490,8 @@ Dancer
 # 0x03901B:
 # P: 0368
 # @@232729@@
+# Priest
 
-#?v???[?X?g
 Priest
 
 #*# [exit]
@@ -509,8 +499,8 @@ Priest
 # 0x039027:
 # P: 0374
 # @@232731@@
+# Mage
 
-#?}?[?W
 Mage
 
 #*# [exit]
@@ -518,8 +508,8 @@ Mage
 # 0x03902F:
 # P: 037C
 # @@232733@@
+# Fire Mage
 
-#?t?@?C?A?}?[?W
 FireMage
 
 #*# [exit]
@@ -527,8 +517,8 @@ FireMage
 # 0x03903F:
 # P: 038C
 # @@232735@@
+# Thunder Mage
 
-#?T???_?[?}?[?W
 TndrMage
 
 #*# [exit]
@@ -536,8 +526,8 @@ TndrMage
 # 0x03904F:
 # P: 039C
 # @@232737@@
+# Wind Mage
 
-#?E?C???h?}?[?W
 WindMage
 
 #*# [exit]
@@ -545,8 +535,8 @@ WindMage
 # 0x03905F:
 # P: 03AC
 # @@232739@@
+# High Priest
 
-#?n?C?v???[?X?g
 HiPriest
 
 #*# [exit]
@@ -554,8 +544,8 @@ HiPriest
 # 0x03906F:
 # P: 03BC
 # @@232741@@
+# Bishop
 
-#?r?V???b?v
 Bishop
 
 #*# [exit]
@@ -563,8 +553,8 @@ Bishop
 # 0x03907B:
 # P: 03C8
 # @@232743@@
+# Sage
 
-#?Z?C?W
 Sage
 
 #*# [exit]
@@ -572,8 +562,8 @@ Sage
 # 0x039083:
 # P: 03D0
 # @@232745@@
+# Bard
 
-#?o?[?h
 Bard
 
 #*# [exit]
@@ -581,8 +571,8 @@ Bard
 # 0x03908B:
 # P: 03D8
 # @@232747@@
+# Shaman
 
-#?V???[?}??
 Shaman
 
 #*# [exit]
@@ -590,8 +580,8 @@ Shaman
 # 0x039097:
 # P: 03E4
 # @@232749@@
+# Dark Mage
 
-#?_?[?N?}?[?W
 DkMage
 
 #*# [exit]
@@ -599,8 +589,8 @@ DkMage
 # 0x0390A5:
 # P: 03F2
 # @@232751@@
+# Dark Bishop
 
-#?_?[?N?r?V???b?v
 DkBishop
 
 #*# [exit]
@@ -608,8 +598,8 @@ DkBishop
 # 0x0390B7:
 # P: 0404
 # @@232753@@
+# Thief
 
-#?V?[?t
 Thief
 
 #*# [exit]
@@ -617,17 +607,17 @@ Thief
 # 0x0390BF:
 # P: 040C
 # @@232755@@
+# Rogue (Thieffighter)
 
-#?V?[?t?t?@?C?^?[
-Thffghtr
+Rogue
 
 #*# [exit]
 
 # 0x0390D1:
 # P: 041E
 # @@232757@@
+# Civilian
 
-#?V?r???A??
 Civilian
 
 #*# [exit]
@@ -635,8 +625,8 @@ Civilian
 # 0x0390DD:
 # P: 042A
 # @@232759@@
+# Civilian
 
-#?V?r???A??
 Civilian
 
 #*# [exit]
@@ -644,36 +634,34 @@ Civilian
 # 0x0390E9:
 # P: 0436
 # @@232761@@
+# Long Ballista (Long Arch)
 
-#?????O?A?[?`
-LongArc
+Ballista
 
 #*# [exit]
 
 # 0x0390F7:
 # P: 0444
 # @@232763@@
+# Iron Ballista (Iron Arch)
 
-#?A?C?A???A?[?`
-IronArc 
+IronBal 
 
 #*# [exit]
 
 # 0x039107:
 # P: 0454
 # @@232765@@
+# Killer Ballista (Killer Arch)
 
-#?L???[?A?[?`
-KillArc
+KillBal
 
 #*# [exit]
 
 # 0x039115:
 # P: 0462
 # @@232767@@
-
-#?O???[?g?A?[?`
-# Great Arch
+# Great Ballista (Great Arch)
 
 
 #*# [exit]
@@ -681,8 +669,8 @@ KillArc
 # 0x039125:
 # P: 0472
 # @@232769@@
+# Dark Prince
 
-#?_?[?N?v?????X
 DkPrince
 
 #*# [exit]

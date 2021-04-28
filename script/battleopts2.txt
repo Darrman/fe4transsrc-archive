@@ -2,10 +2,10 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 02/05/04
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-03-11
+# This file was modified by Twilkitri
 
-# This file is for altering the options for the Anime/All command.
+# This file is for altering the options for the Animation/All command.
 
 #    Fire Emblem 4 English patch
 #      This program creates a patch which can be used

@@ -2,6 +2,9 @@
    $Id: fe4s.c,v 1.3 2001/08/27 22:20:23 j10 Exp $
    Script scanner
 */
+/* Last modified: 2012-03-09
+   This file was modified by Twilkitri */
+#include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

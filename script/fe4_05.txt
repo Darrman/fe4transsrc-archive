@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 5.
 
@@ -36,7 +36,7 @@
 # 0x3086c7:
 # @@1949924@@
 
-[TWinBtm][DlgOpn]['(null)' 027E]
+[TWinBtm][DlgOpn]['Byron' 027E]
 Ooooh...[n]
 I've only... (pant..) a little strength left in me.[k]
 [cs]
@@ -49,27 +49,27 @@ Sigurd... I must get the Holy Tyrfing to you!
 # 0x30870c:
 # @@1950094@@
 
-[TWinTop][DlgOpn]['(null)' 029A]
-[TWinBtm][DlgOpn]['Lanbard' 00DB]
+[TWinTop][DlgOpn]['Slaydar' 029A]
+[TWinBtm][DlgOpn]['Langbart' 00DB]
 
-[TWinTop] # (null)
+[TWinTop] # Slaydar
 Langbart, I spotted Lord Byron due west of here.[k]
 [cs]
 He managed to get away just as I was closing in.[k]
 [cs]
 I believe he intends to seek refuge in Silesia.
 
-[TWinBtm] # Lanbard
+[TWinBtm] # Langbart
 [Wait 10]
 Then what the hell're you doing here!? Get after him!![k]
 [dcs]
 We must finish him off now! Otherwise our entire effort spent wiping out Chalphy's Gruenen Ritter will have been for nothing![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Slaydar
 Y, yes, of course. He has sustained heavy injuries, so he shouldn't get far.
 
-[TWinBtm] # Lanbard
+[TWinBtm] # Langbart
 [Wait 10]
 You gravely underestimate the situation.[k]
 [dcs]
@@ -80,7 +80,7 @@ Do you have any idea how much trouble we'll face if that sword reaches Sigurd!?[
 Depart immediately and kill him!![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Slaydar
 Y, yes sir! Right away, sir![k]
 
 [exit]
@@ -89,25 +89,25 @@ Y, yes sir! Right away, sir![k]
 # 0x3088c4:
 # @@1950148@@
 
-[TWinTop][DlgOpn]['Lanbard' 00DB]
-[TWinBtm][DlgOpn]['Andrei' 00E9]
+[TWinTop][DlgOpn]['Langbart' 00DB]
+[TWinBtm][DlgOpn]['Andre' 00E9]
 
-[TWinTop] # Lanbard
+[TWinTop] # Langbart
 Damn it. Dannan still hasn't shown up with his reinforcements.[k]
 [cs]
 The axe knights of the Grauen Ritter are all elite warriors. With that much power on his side, Dannan has no excuse for taking so long to quell some little uprising in Isaac.[k]
 [cs]
 Both my sons, Dannan and Lex, are absolutely worthless.
 
-[TWinBtm] # Andrei
+[TWinBtm] # Andre
 [Wait 10]
 Don't lose heart, sir. Those rebels won't stand a chance against the Beige Ritter.[k]
 [dcs]
 
-[TWinTop] # Lanbard
+[TWinTop] # Langbart
 I appreciate it, Lord Andre. Do lend us a hand if things get too out of control.
 
-[TWinBtm] # Andrei
+[TWinBtm] # Andre
 [Wait 10]
 Heh heh... With pleasure![k]
 
@@ -117,7 +117,7 @@ Heh heh... With pleasure![k]
 # 0x3089c1:
 # @@1950264@@
 
-[TWinBtm][DlgOpn]['Lanbard' 00DB]
+[TWinBtm][DlgOpn]['Langbart' 00DB]
 That contemptuous little brat. He shows absolutely no remorse for killing his own father.[k]
 [cs]
 Lord Ring... may you rest in peace.
@@ -156,12 +156,12 @@ Okay. Let's take the enemy's front line in one sweep. Our first strike'll decide
 # @@1950424@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['(null)' 027E]
+[TWinBtm][DlgOpn]['Byron' 027E]
 
 [TWinTop] # Sigurd
 F, father! Is that you!? You're alright!
 
-[TWinBtm] # (null)
+[TWinBtm] # Byron
 [Wait 10]
 Sigurd... I see you've grown into a fine young man. (cough.. cough..)[k]
 [dcs]
@@ -169,7 +169,7 @@ Sigurd... I see you've grown into a fine young man. (cough.. cough..)[k]
 [TWinTop] # Sigurd
 Father! Hang in there!!
 
-[TWinBtm] # (null)
+[TWinBtm] # Byron
 [Wait 10]
 Son, I'm afraid I'm at death's door, so listen up. Langbart killed Prince Kurth, not I.[k]
 [dcs]
@@ -183,7 +183,7 @@ I knew it! Don't worry, father. I will restore your honour in the kingdom.[k]
 [cs]
 Rest assured!
 
-[TWinBtm] # (null)
+[TWinBtm] # Byron
 [Wait 10]
 Son, I'm sorry. My negligence has led to all the hardships you're currently facing.[k]
 [dcs]
@@ -193,7 +193,7 @@ Here, take this from me. It's the Holy Tyrfing.[k]
 [TWinTop] # Sigurd
 The Holy Tyrfing! But father, you can still...
 
-[TWinBtm] # (null)
+[TWinBtm] # Byron
 [Wait 10]
 Take it! And restore our good name![k]
 [dcs]
@@ -216,7 +216,7 @@ I've had it with those two! Reptor and Langbart... I'm taking you both out!![k]
 # 0x308d67:
 # @@1950475@@
 
-[TWinBtm][DlgOpn]['Andrei' 00E9]
+[TWinBtm][DlgOpn]['Andre' 00E9]
 Okay, we're off! Show them the sheer power of the Beige Ritter![k]
 
 [exit]
@@ -225,10 +225,10 @@ Okay, we're off! Show them the sheer power of the Beige Ritter![k]
 # 0x308d98:
 # @@1950504@@
 
-[TWinTop][DlgOpn]['(null)' 027B]
+[TWinTop][DlgOpn]['Azmur' 027B]
 [TWinBtm][DlgOpn]['Arvis' 0104]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 Lord Alvis, is it true that Sigurd's party is making an advance in Barhara's direction?
 
 [TWinBtm] # Arvis
@@ -238,7 +238,7 @@ Yes, but there is no need for alarm.[k]
 Lord Langbart's army has already reached Lubeck. Subjugation of the insurgents should be forthcoming.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 Yes. Well, I'm not so sure I buy all this.[k]
 [cs]
 Lord Byron assassinating Kurth, and Sigurd causing all this ruckus... I don't know.
@@ -264,7 +264,7 @@ The late Prince Kurth is also now a father-in-law to me... And for my beloved pr
 If Lord Langbart cannot successfully subdue the rebels, Velthomer's fire knights, the Roten Ritter, will stop Sigurd's rebel army in their tracks![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 Well, you obviously have strong feelings about all this, and rightly so.[k]
 [cs]
 Alvis... (cough.. cough..) about Deirdre...
@@ -277,7 +277,7 @@ Alvis... (cough.. cough..) about Deirdre...
 Grandfather, are you alright? You mustn't overdo yourself. Would you care to lie down?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 Ahh, Deirdre. You're such a sweet child.[k]
 [cs]
 I'm... wheeze... not long for this world, but you give me hope for the kingdom's future.[k]
@@ -293,7 +293,7 @@ I'm sorry. I don't know. I don't remember anything from my past.[k]
 Not a single memory I can speak of...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 Ahh, forgive me. You've gone through more hardship than the lot of us.
 
 [TWinBtm] # Deirdre
@@ -310,7 +310,7 @@ I was simply looking after her out of sympathy, but then I fell deeply in love w
 With all due respect, I never in a million years would have suspected she was of royalty.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 The day you brought her in to the Royal Palace to announce your wedding intentions, I tell you... I could have swore my eyes were playing tricks on me![k]
 [cs]
 I don't know. Call it a family's intuition, but somehow I knew. And sure enough under her circlet were the markings of Narga.[k]
@@ -326,7 +326,7 @@ And Narga's power is the only one capable of standing up to the Dark Lord Loputo
 Yes, I'm aware of that.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Azmur
 Lord Narga's lineage through Saint Heim must not be allowed to perish! I want the two of you to bear a son as soon as possible![k]
 [cs]
 If the child inherits the power of Narga, he shall be Prince of Grandbell.[k]
@@ -343,7 +343,7 @@ I hope you understand all of what I've told you. (cough.. Ah...ack..)[k]
 # 0x30b926:
 # @@1950546@@
 
-[TWinBtm][DlgOpn]['(null)' 027E]
+[TWinBtm][DlgOpn]['Byron' 027E]
 Ahh... No... Sigurd!! Just one more step... Oh, why have the heavens forsaken me![k]
 
 [exit]
@@ -362,7 +362,7 @@ Sir, that sure wasn't an easy one.
 [Wait 10]
 Yeah. And that was just Grandbell's standing army. Things are only going to get worse.[k]
 [dcs]
-Oifaye, I need a favour of you.[k]
+Oifaye, I need a favour from you.[k]
 [cs]
 
 [TWinTop] # Oifaye
@@ -386,9 +386,9 @@ I'm not leaving your side, sir! I'm here till the end!
 [Wait 10]
 Oifaye, I hate to impose on you, but please understand my situation.[k]
 [dcs]
-I don't want to lose Celice. He is not even two yet. But I can't fight and take care of him.[k]
+I don't want to lose Serlis. He is not even two yet. But I can't fight and take care of him.[k]
 [cs]
-Oifaye, please. I want you to take Celice and go to where it's safe.[k]
+Oifaye, please. I want you to take Serlis and go to where it's safe.[k]
 [cs]
 You are the only one who I can feasibly count on to do this.[k]
 [cs]
@@ -411,8 +411,8 @@ Okay.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0281]
-Hold on a second! Deirdre put me in charge of protectin' Celice![k]
+[TWinTop][DlgOpn]['Young Shanan' 0281]
+Hold on a second! Deirdre put me in charge of protectin' Serlis![k]
 [cs]
 And I'm not handin' him over to Oifaye or anyone until she says it's okay!
 
@@ -423,7 +423,7 @@ Shanan, come on... I know how you feel.[k]
 I'm not any happier than you are about Deirdre not being around, but this is for the best.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Forget it! It's my job! Besides, Isaacians hate you guys.[k]
 [cs]
 You send Oifaye by himself and he'll be in big trouble![k]
@@ -449,13 +449,13 @@ Hm...[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0281]
+[TWinTop][DlgOpn]['Young Shanan' 0281]
 
 [TWinBtm] # Sigurd
-...Alright. Shanan, watch over Celice, okay?[k]
+...Alright. Shanan, watch over Serlis, okay?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 You got it! I'm gonna get even tougher, you'll see. No one'll lay a hand on him![k]
 [cs]
 And I'll tell him all about Deirdre, too![k]
@@ -483,7 +483,7 @@ Will do![k]
 # @@1950616@@
 
 [TWinBtm][DlgOpn]['Sigurd' 0001]
-Celice... forgive your father. Grow up strong.[k]
+Serlis... forgive your father. Grow up strong.[k]
 
 [exit]
 
@@ -537,7 +537,7 @@ Well, alright then. We'll take on the rebels with all we've got.[k]
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['(null)' 026C]
+[TWinBtm][DlgOpn]['Manfloy' 026C]
 [BGM 7A]
 Hmhmhm... Lord Alvis, I see things are proceeding smoothly.[k]
 [cs]
@@ -547,7 +547,7 @@ Manfloy? How many times have I told you not to show yourself around here!?[k]
 [cs]
 All members of your Lopt Sect must stay completely hidden until I've taken power!
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 Yes. You're too weak to admit our presence, and you let that greedy Reptor and Langbart run all over you![k]
 [dcs]
@@ -568,7 +568,7 @@ I will use my power to create a world which is free of prejudice. One where all 
 [cs]
 Of course, Sigurd knows way too much. Consider him a sacrifice to the greater good.
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 Hohoho... I assume that greater good includes Deirdre as well![k]
 [dcs]
@@ -578,7 +578,7 @@ Lord Alvis, you're afraid, aren't you. Afraid her memories may be restored![k]
 [TWinTop] # Arvis
 Enough, Manfloy! We-are-in-love. And no one's going to get in our way!
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 Hmhmhm... Well, the two of you need to get busy and bear a son.[k]
 [dcs]
@@ -591,7 +591,7 @@ That child is certain to become a magnificent king! Heeheehee...[k]
 # @@1950700@@
 
 [TWinBtm][DlgOpn]['Vaha' 00EB]
-The rebels have shown up? Hmhm... Just a little closer for a good dose of Meteo![k]
+The rebels have shown up? Hmhm... Just a little closer for a good dose of Meteor![k]
 [cs]
 This desert can be their grave![k]
 
@@ -686,7 +686,7 @@ Well... okay, but keep it short.[k]
 # 0x30a45f:
 # @@1951127@@
 
-[TWinBtm][DlgOpn]['Torabant' 00EF]
+[TWinBtm][DlgOpn]['Trabant' 00EF]
 Heheh... Cuan has no clue we're here.  He's got a woman with him, too. That'd be a mistake.[k]
 [cs]
 Let's bid a fine farewell to Lenster's Lance Ritter![k]
@@ -702,7 +702,7 @@ Let's move! The future of Thracia is in our grasp![k]
 # @@1951149@@
 
 [TWinBtm][DlgOpn]['Cuan' 0006]
-What!? Thracia's Dragon Knights!! Argh... No! Trabant's followed us![k]
+What!? Thracia's Wyvern Knights!! Argh... No! Trabant's followed us![k]
 [cs]
 
 [TWinTop][DlgOpn]['Ethlin' 0011]
@@ -740,7 +740,7 @@ Ethlin... thank you![k]
 # 0x30a687:
 # @@1951196@@
 
-[TWinBtm][DlgOpn]['Torabant' 00EF]
+[TWinBtm][DlgOpn]['Trabant' 00EF]
 The woman brought a child with her, did she? Ahh... Cuan's daughter. This is gettin' good![k]
 [cs]
 You tell 'im to hand over the Gae Bolg, otherwise the little girl gets it.[k]
@@ -765,10 +765,10 @@ He can have the damn Gae Bolg, but he better not lay a finger on Altenna!
 # 0x30a70e:
 # @@1951220@@
 
-[TWinTop][DlgOpn]['Torabant' 00EF]
+[TWinTop][DlgOpn]['Trabant' 00EF]
 [TWinBtm][DlgOpn]['Magone' 00F0]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 The woman brought a child with her, did she? Ahh... Cuan's daughter. This is gettin' good![k]
 [cs]
 Hand her over. I'm takin' her an' the Gae Bolg back to Thracia with me.
@@ -778,15 +778,15 @@ Hand her over. I'm takin' her an' the Gae Bolg back to Thracia with me.
 This is unexpected. Why would you want to take her back to Thracia?[k]
 [dcs]
 
-[TWinTop] # Torabant
-Shut up! This 'as got nothin' t'do with ya! So keep yer trap shut.
+[TWinTop] # Trabant
+Shut up! This's got nothin' t'do with ya! So keep yer trap shut.
 
 [TWinBtm] # Magone
 [Wait 10]
 Ah, f, forgive me. I will... ah, lead the troops in pursuit of Sigurd then.[k]
 [dcs]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Yeah, ya do that![k]
 
 [exit]
@@ -795,10 +795,10 @@ Yeah, ya do that![k]
 # 0x30a882:
 # @@1951291@@
 
-[TWinTop][DlgOpn]['Torabant' 00EF]
+[TWinTop][DlgOpn]['Trabant' 00EF]
 [TWinBtm][DlgOpn]['Magone' 00F0]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Cuan's dead, is he? Good. Magorn, take our men up an' raise some hell on Sigurd's troops.[k]
 [cs]
 There's a nice reward on their heads, so don't let a single one slip by ya.
@@ -809,7 +809,7 @@ Yes sir. What shall we do with the child? She won't stop crying, and... um... no
 [dcs]
 Should I off her?
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 [Wait 10]
 No, give her to me. I'm takin' her an' the Gae Bolg back to Thracia with me.[k]
 [dcs]
@@ -818,7 +818,7 @@ No, give her to me. I'm takin' her an' the Gae Bolg back to Thracia with me.[k]
 This is unexpected. Why would you want to take her back to Thracia?[k]
 [cs]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Shut up! This 'as got nothin' t'do with ya! So keep yer trap shut.
 
 [TWinBtm] # Magone
@@ -826,7 +826,7 @@ Shut up! This 'as got nothin' t'do with ya! So keep yer trap shut.
 Ah, f, forgive me. I will... ah, lead the troops in pursuit of Sigurd then.[k]
 [dcs]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Yeah, ya do that!
 [k]
 
@@ -839,18 +839,18 @@ Yeah, ya do that!
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 So this is Phinora. Mmm... the motherland is not far.[k]
 [cs]
-Oifaye... Celice... I wonder how they're doing...[k]
+Oifaye... Serlis... I wonder how they're doing...[k]
 [cs]
 
-[TWinTop][DlgOpn]['(null)' 02AB]
+[TWinTop][DlgOpn]['Old villager' 02AB]
 Welcome. You must be Sir Sigurd.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-Ahh, a Phinora elder I presume. Phinora is quite the oasis in this desert. It's unfortunate your town got caught up in the middle of all this.[k]
+Ahh, a Phinoran elder I presume. Phinora is quite the oasis in this desert. It's unfortunate your town got caught up in the middle of all this.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Well, it can't be helped. We just heard about another skirmish in the desert's south end.[k]
 [cs]
 I tell you, the world's become a dangerous place.
@@ -860,8 +860,8 @@ I tell you, the world's become a dangerous place.
 There was fighting in the south end, too? Who was that?[k]
 [dcs]
 
-[TWinTop] # (null)
-According to our sources, Lenster's lance knights were assaulted by Thracia's Dragon
+[TWinTop] # Old villager
+According to our sources, Lenster's lance knights were assaulted by Thracia's Wyvern
 [$00$2B$E1]
 [Wait 0A]
 [Wait 0A]
@@ -874,7 +874,7 @@ Knights while coming north. Word is none of Lenster's knights survived.
 ...are you sure about that!?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Pretty sure. I hear they had a little girl with them. The poor thing.
 
 [TWinBtm] # Sigurd
@@ -888,10 +888,10 @@ That must be... Ethlin! And Cuan! No... For...forgive me![k]
 # @@1951404@@
 [Merge 1dc63b]
 
-[TWinTop][DlgOpn]['Torabant' 00EF]
+[TWinTop][DlgOpn]['Trabant' 00EF]
 [TWinBtm][DlgOpn]['Magone' 00F0]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Cuan's dead, is he? Good. Magorn, take our men up an' raise some hell on Sigurd's troops.[k]
 [cs]
 There's a nice reward on their heads, so don't let a single one slip by ya.
@@ -902,7 +902,7 @@ Yes sir. What shall we do with the child? She won't stop crying, and... um... no
 [dcs]
 Should I off her?
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 [Wait 10]
 No, give her to me. I'm takin' her an' the Gae Bolg back to Thracia with me.[k]
 [dcs]
@@ -911,7 +911,7 @@ No, give her to me. I'm takin' her an' the Gae Bolg back to Thracia with me.[k]
 This is unexpected. Why would you want to take her back to Thracia?[k]
 [cs]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Shut up! This 'as got nothin' t'do with ya! So keep yer trap shut.
 
 [TWinBtm] # Magone
@@ -919,7 +919,7 @@ Shut up! This 'as got nothin' t'do with ya! So keep yer trap shut.
 Ah, f, forgive me. I will... ah, lead the troops in pursuit of Sigurd then.[k]
 [dcs]
 
-[TWinTop] # Torabant
+[TWinTop] # Trabant
 Yeah, ya do that!
 [k]
 
@@ -929,10 +929,10 @@ Yeah, ya do that!
 # 0x30abe9:
 # @@1951471@@
 
-[TWinTop][DlgOpn]['(null)' 024B]
+[TWinTop][DlgOpn]['Ida' 024B]
 [TWinBtm][DlgOpn]['Reptor' 00F5]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Lord Reptor, we're counting on you.
 
 [TWinBtm] # Reptor
@@ -940,7 +940,7 @@ Lord Reptor, we're counting on you.
 I know. I just wonder if Alvis really is going to back me up, and is not just sticking us out here to die.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Alvis just put the finishing touches on his plan of attack. You've nothing to worry about.
 
 [TWinBtm] # Reptor
@@ -948,7 +948,7 @@ Alvis just put the finishing touches on his plan of attack. You've nothing to wo
 Hm... Well, I suppose I'll have to trust him this time.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Reptor, I have orders to assume Velthomer Castle's defense.  So you'll excuse me.[k]
 
 [exit]
@@ -957,7 +957,7 @@ Reptor, I have orders to assume Velthomer Castle's defense.  So you'll excuse me
 # 0x30acd3:
 # @@1951491@@
 
-[TWinBtm][DlgOpn]['(null)' 024B]
+[TWinBtm][DlgOpn]['Ida' 024B]
 Hmhmhm! Good, that fool hasn't caught on yet.[k]
 
 [exit]
@@ -986,7 +986,7 @@ Okay, let's do this! Velthomer's fire knights are backing us up. Now let's crush
 # 0x30ad82:
 # @@1951591@@
 
-[TWinBtm][DlgOpn]['(null)' 024B]
+[TWinBtm][DlgOpn]['Ida' 024B]
 Lay in an attack on Reptor's army according to plan.[k]
 [cs]
 Kill every one of them. No one is to be spared![k]
@@ -1006,10 +1006,10 @@ What!? Velthomer's turned on us!? Argh... Alvis deceived me![k]
 # 0x30ae0b:
 # @@1951665@@
 
-[TWinTop][DlgOpn]['(null)' 024B]
+[TWinTop][DlgOpn]['Ida' 024B]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Sir Sigurd, I'm very happy to see you're not harmed.
 
 [TWinBtm] # Sigurd
@@ -1017,7 +1017,7 @@ Sir Sigurd, I'm very happy to see you're not harmed.
 What's going on here? Why has Velthomer suddenly turned in our favour?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Alvis has been aware all along of your innocence.[k]
 [cs]
 This has all been a conspiracy by Duke Reptor and Duke Langbart.[k]
@@ -1031,7 +1031,7 @@ Is that right? Well, good. This has all turned out for the best then.[k]
 I can finally clear my father's name.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 ...Yes. His Majesty and Alvis are anxiously awaiting your arrival in the capital.[k]
 [cs]
 Please, see to it that you make your way there.
@@ -1041,7 +1041,7 @@ Please, see to it that you make your way there.
 Really? Alright. Well, we should get going then.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Apparently, Alvis has arranged for Barhara's Royal Guard to receive you and your troops.[k]
 [cs]
 It sounds like they've planned quite a celebration for your triumphant return.
@@ -1053,7 +1053,7 @@ Wonderful! That should make for a nice closing for all we've been through.[k]
 And I can finally get some compensation to all those who have fought with me.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 Indeed...[k]
 
 [exit]
@@ -1161,7 +1161,7 @@ Do you... ...know me?[k]
 [dcs]
 
 [TWinTop] # Sigurd
-OF COURSE I DO! YOU'RE...[k]
+Of course I do! You're...[k]
 [cs]
 
 [xChr][DlgCls]
@@ -1204,7 +1204,7 @@ We no longer need to keep them alive. Let them serve their sentence right here![
 [cs]
 
 [TWinTop] # Sigurd
-Alvis! YOU DASTARD!![k]
+Alvis, you bastard![k]
 
 [exit]
 
@@ -1226,7 +1226,7 @@ We no longer need to keep them alive. Let them serve their sentence right here![
 [cs]
 
 [TWinTop] # Sigurd
-Alvis! YOU DASTARD!![k]
+Alvis, you bastard![k]
 
 [exit]
 
@@ -1234,10 +1234,10 @@ Alvis! YOU DASTARD!![k]
 # 0x30b059:
 # @@1952817@@
 
-[TWinTop][DlgOpn]['(null)' 024B]
+[TWinTop][DlgOpn]['Ida' 024B]
 [TWinBtm][DlgOpn][$00$24]
 
-[TWinTop] # (null)
+[TWinTop] # Ida
 This is no time to talk! Please find me after we've subdued Reptor.[k]
 
 [exit]
@@ -1246,7 +1246,7 @@ This is no time to talk! Please find me after we've subdued Reptor.[k]
 # 0x30b622:
 # @@1952830@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 Grandbell's military went and seized Lubeck, did they? Ahh! Silesia's days're numbered.[k]
 
 [exit]
@@ -1255,7 +1255,7 @@ Grandbell's military went and seized Lubeck, did they? Ahh! Silesia's days're nu
 # 0x30b668:
 # @@1952844@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 Our Silesia remained peaceful for the longest time.[k]
 [cs]
 Just when did things get so bad...[k]
@@ -1266,7 +1266,7 @@ Just when did things get so bad...[k]
 # 0x30b6b1:
 # @@1952858@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Children inherit certain traits from their parents.[k]
 [cs]
 More often than not, boys inherit their father's traits and girls inherit their mother's.[k]
@@ -1277,7 +1277,7 @@ More often than not, boys inherit their father's traits and girls inherit their 
 # 0x30b71f:
 # @@1952872@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 Langbart's soldiers are looting all the villages![k]
 [cs]
 But we managed to sneak a little cash past them.[n]
@@ -1289,7 +1289,7 @@ Here, we would like you to have it.[k]
 # 0x30b788:
 # @@1952886@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 By the sounds of it, the late King Eltshan of Nodion and his queen had themselves a young boy.[k]
 [cs]
 His name was Aless, I believe. I reckon he'd be about 3 or 4 by now. Poor thing.[k]
@@ -1300,7 +1300,7 @@ His name was Aless, I believe. I reckon he'd be about 3 or 4 by now. Poor thing.
 # 0x30b7fc:
 # @@1952900@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 Grandbell did subdue Isaac, but there still is some commotion going on over there.[k]
 [cs]
 Apparently the people of Isaac are desperate to see Prince Shanan return.[k]
@@ -1311,7 +1311,7 @@ Apparently the people of Isaac are desperate to see Prince Shanan return.[k]
 # 0x30b86a:
 # @@1952924@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 Grandbell used to be a peace loving country, but things have changed.[k]
 [cs]
 They've been sending troops to each and every nation with the intention of overthrowing them.[k]

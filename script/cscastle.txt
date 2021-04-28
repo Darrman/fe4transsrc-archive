@@ -1,9 +1,15 @@
 # Fontcheck: Reformatted
 
-# Last modified: 02/05/04
-# This file was added by Dark Twilkitri
+# Last modified: 2012-05-06
+# This file was added by Twilkitri
 
 # This file is for altering the castle names in the cutscenes.
+
+# TODO: Add a flag to allow merging within the same file only?
+# Alternately, adjust the merging engine to provide merge addresses according to
+# the format required by the file which is merging into the existing script,
+# rather than the format required by the file which the existing script is in.
+[nomerge]
 
 # 0xd92b5
 # @@1935627@@
@@ -170,7 +176,7 @@ Alster
 
 # 0xd9346
 # @@1935687@@
-Orgahill
+Orgahil
 [exit]
 
 

@@ -1,6 +1,6 @@
 /* $Id: fe4map.c,v 1.2 2001/08/31 18:41:52 j10 Exp $ */
 /* Last modified: 02/05/04
-   This file was last modified by Dark Twilkitri
+   This file was modified by Twilkitri
    
    This file is used for determining the addresses for relative pointers. */
 int id()

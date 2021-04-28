@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-03-12
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 9.
 
@@ -36,18 +36,18 @@
 # 0x338200:
 # @@3266085@@
 
-[TWinTop][DlgOpn]['(null)' 0260]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Altenna! What the hell's going on!? Why didn't you attack Manster!?
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 But father, I...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 I don't want to hear it! Don't you underestimate me, Altenna.[k]
 [cs]
 Your skills on the battlefield are like no other, and I depend on you and Arion to work as my hands and feet out there.[k]
@@ -56,7 +56,7 @@ So what happens? You ignore my orders, lose an entire battalion, and stroll in h
 [cs]
 You thoroughly disappoint me, girl!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 I'm sorry, father... but hear what I have to say![k]
 [dcs]
@@ -65,44 +65,44 @@ How do you ever expect the citizens of Thracia to be content thriving off the bl
 ...Your ways leave much to be desired, father.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 025B]
+[TWinTop][DlgOpn]['Arion' 025B]
 That's enough! Your opinion is not wanted here, Altenna. Now listen and obey father's wishes![k]
 [cs]
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['(null)' 0260]
+[TWinBtm][DlgOpn]['Old Trabant' 0260]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 She's still very young, father. I imagine the sight of actual combat overwhelmed her a bit.[k]
 [cs]
 Please, father... just this once. Go easy on her.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 Arion, if you wouldn't baby that girl so damn much, she might not be such a problem for me.[k]
 [dcs]
 Altenna...
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Altena' 002C]
+[TWinTop][DlgOpn]['Altenna' 002C]
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 I'll give you one more chance. Now command a battalion and take Mease back![k]
 [cs]
 But if you screw up again, daughter or not, I'll show you no mercy! Understood!?[k]
 [cs]
 
-[TWinTop] # Altena
+[TWinTop] # Altenna
 Yes, father...[k]
 
 [exit]
@@ -111,18 +111,18 @@ Yes, father...[k]
 # 0x338494:
 # @@3266123@@
 
-[TWinTop][DlgOpn]['(null)' 0260]
-[TWinBtm][DlgOpn]['(null)' 025B]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
+[TWinBtm][DlgOpn]['Arion' 025B]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Whew... The kid hates me. I'd swear Ethlin was speaking to her from the grave.
 
-[TWinBtm] # (null)
+[TWinBtm] # Arion
 [Wait 10]
 Father, she's still a child. She just doesn't know where to draw the line sometimes.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Whatever...[n]
 Well, I'm off to Kapathogia.[k]
 [cs]
@@ -133,7 +133,7 @@ And so I must take measures to make sure he doesn't turn on me.[k]
 
 [DlgCls][xChr]
 
-[TWinBtm] # (null)
+[TWinBtm] # Arion
 [Wait 20]
 I've never seen father in such dismay... What could've happened...[k]
 
@@ -143,10 +143,10 @@ I've never seen father in such dismay... What could've happened...[k]
 # 0x338596:
 # @@3266242@@
 
-[TWinTop][DlgOpn]['(null)' 0260]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
 [TWinBtm][DlgOpn]['Hanibal' 0024]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 General Hanibal, Mease has fallen to the rebels. I have Altenna going in for the attack.[k]
 [cs]
 I want your armoured knight battalion to carry out a raid as well.
@@ -160,7 +160,7 @@ Only a cease-fire with the liberation army will allow us the time to strengthen 
 Siding with the empire was an absurd idea. And the populace is now in jeopardy as a result![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Where do you get off!? They killed my men out there, and now they've got Mease Castle![k]
 [cs]
 What good is a cease-fire going to do us now!?
@@ -170,7 +170,7 @@ What good is a cease-fire going to do us now!?
 ...I see. Well, it appears there's no other choice then.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 You're not thinking of turning on me, are you, Hanibal?
 
 [TWinBtm] # Hanibal
@@ -178,7 +178,7 @@ You're not thinking of turning on me, are you, Hanibal?
 Your Majesty! I happen to have a certain amount of distinction as a warrior, thank you![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Well, how about we have a little test of your loyalty then...[k]
 [cs]
 Your boy's coming with me. You can have him back when this war is over.
@@ -188,7 +188,7 @@ Your boy's coming with me. You can have him back when this war is over.
 Your Majesty! Have you no faith in me!?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 If betrayal's not on the cards, then you've got nothing to worry about.
 
 [TWinBtm] # Hanibal
@@ -196,7 +196,7 @@ If betrayal's not on the cards, then you've got nothing to worry about.
 Of all the...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Bring me the boy![k]
 [cs]
 
@@ -214,7 +214,7 @@ Father...
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 0260]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
 Don't worry, Hanibal. You'll get him back when we're through fighting.[k]
 [cs]
 That boy's not even your real son, Hanibal. Does he really mean that much to you?
@@ -224,7 +224,7 @@ That boy's not even your real son, Hanibal. Does he really mean that much to you
 [$00$2C$34$00][sp] is everything to me, adopted or not...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Don't tell me the distinguished general has a soft spot for kids. Alright, I'm counting on you![k]
 
 [exit]
@@ -233,33 +233,33 @@ Don't tell me the distinguished general has a soft spot for kids. Alright, I'm c
 # 0x3388c6:
 # @@3266298@@
 
-[TWinTop][DlgOpn]['(null)' 0260]
-[TWinBtm][DlgOpn]['(null)' 0262]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
+[TWinBtm][DlgOpn]['Disler' 0262]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 We're about to go to war, Disler. You got the castle well protected, don't you?
 
-[TWinBtm] # (null)
+[TWinBtm] # Disler
 [Wait 10]
 Your Majesty, it's my pleasure![k]
 [dcs]
 Luthecia Castle is impenetrable, Your Majesty. You may put your worries at ease.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 I'll take your word for it. I have very little faith in Hanibal of Kapathogia, though.[k]
 [cs]
 So I took his kid hostage, and I want you to keep an eye on him.
 
-[TWinBtm] # (null)
+[TWinBtm] # Disler
 [Wait 10]
 You can count on me. And what if Hanibal were to turn on us?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 You're to kill the boy. I don't care if he is a child...
 
-[TWinBtm] # (null)
+[TWinBtm] # Disler
 [Wait 10]
 Understood.[k]
 
@@ -269,18 +269,18 @@ Understood.[k]
 # 0x338a04:
 # @@3266350@@
 
-[TWinTop][DlgOpn]['(null)' 0260]
-[TWinBtm][DlgOpn]['(null)' 0267]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
+[TWinBtm][DlgOpn]['Judah' 0267]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Bishop Judah, will Emperor Alvis uphold our pact and send me some reinforcements?
 
-[TWinBtm] # (null)
+[TWinBtm] # Judah
 [Wait 10]
 Aren't we the cautious one... Rest assured a battalion of knights are on their way.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Alright, then I'm leaving this castle in your custody.[k]
 [cs]
 You make sure the rebel army doesn't pull one over on you![k]
@@ -299,11 +299,11 @@ Fin, what's wrong? You've been lost in thought ever since we left Manster.
 
 [TWinBtm] # Finn
 [Wait 10]
-Your Highness... did you notice the dragon knight atop that mountain in Manster?[k]
+Your Highness... did you notice the wyvern knight atop that mountain in Manster?[k]
 [dcs]
 
 [TWinTop] # Leif
-Yeah, I did. It's not often you see a female dragon knight, even in Thracia.[k]
+Yeah, I did. It's not often you see a female wyvern knight, even in Thracia.[k]
 [cs]
 Why? Was something strange about her?
 
@@ -361,7 +361,7 @@ Please, do whatever is in your power to save the princess...[k]
 # 0x3390d5:
 # @@3266563@@
 
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 We're taking back Mease Castle. All troops, prepare to attack![k]
 
 [exit]
@@ -371,12 +371,12 @@ We're taking back Mease Castle. All troops, prepare to attack![k]
 # @@3266590@@
 
 [TWinTop][DlgOpn]['Hanibal' 0024]
-[TWinBtm][DlgOpn]['(null)' 0263]
+[TWinBtm][DlgOpn]['Kanatz' 0263]
 
 [TWinTop] # Hanibal
 Hmph... It appears the rebel army has begun to move.
 
-[TWinBtm] # (null)
+[TWinBtm] # Kanatz
 [Wait 10]
 Sir, we await your orders to attack.[k]
 [dcs]
@@ -384,7 +384,7 @@ Sir, we await your orders to attack.[k]
 [TWinTop] # Hanibal
 Let's focus on the castle's defense. We shall not attack unless absolutely necessary.
 
-[TWinBtm] # (null)
+[TWinBtm] # Kanatz
 [Wait 10]
 But your son...[k]
 [dcs]
@@ -394,7 +394,7 @@ Yes, I know. But I... Let's just wait and see how things develop first.[k]
 [cs]
 Kanatz, forgive me, but I'd like you to cover the castle.
 
-[TWinBtm] # (null)
+[TWinBtm] # Kanatz
 [Wait 10]
 As you command, sir![k]
 
@@ -404,10 +404,10 @@ As you command, sir![k]
 # 0x3391f6:
 # @@3266614@@
 
-[TWinTop][DlgOpn]['(null)' 0262]
+[TWinTop][DlgOpn]['Disler' 0262]
 [TWinBtm][DlgOpn]['Corple' 0034]
 
-[TWinTop] # (null)
+[TWinTop] # Disler
 This is ridiculous... babysitting at my age.
 
 [TWinBtm] # Corple
@@ -417,7 +417,7 @@ Mr. Disler, let me go... My father doesn't want to fight.[k]
 The only reason he's out there is 'cause you guys got me hostage![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Disler
 You shut your trap![k]
 [cs]
 The 'Shield of Thracia' won't be getting any funny ideas with you in my custody.
@@ -433,12 +433,12 @@ Father, no...[k]
 # @@3266646@@
 
 [TWinTop][DlgOpn]['Leif' 001D]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
 [TWinTop] # Leif
 Altenna, please stop! It's me, your brother!!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Brother!? What're you talking about!? Just who the hell are you?[k]
 [dcs]
@@ -446,7 +446,7 @@ Brother!? What're you talking about!? Just who the hell are you?[k]
 [TWinTop] # Leif
 I... I'm Leaf of Lenster.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Leaf? That's Leaf as in Prince Leaf, I presume...[k]
 [dcs]
@@ -460,7 +460,7 @@ You also went missing at that time along with the Holy Gae Bolg.[k]
 [cs]
 The very lance you hold in your hand right now is the Gae Bolg of Lenster.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 You take me for some kind of fool!?[k]
 [dcs]
@@ -473,15 +473,15 @@ Take one good look... and you'll know if I'm lying or not.[k]
 [cs]
 Altenna, please...
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 I... How could this be!? I want so badly to say you're lying... but I can't![k]
 [dcs]
 
 [TWinTop] # Leif
-Altenna... you ARE my sister!!
+Altenna... you are my sister!!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 ...Wait! I must speak with my father first... I will get to the bottom of this![k]
 
@@ -491,13 +491,13 @@ Altenna... you ARE my sister!!
 # 0x3394f5:
 # @@3266706@@
 
-[TWinTop][DlgOpn]['(null)' 0260]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinTop][DlgOpn]['Old Trabant' 0260]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Altenna! What the hell's going on!? That's twice now that you've deserted your battalion!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Father, I have something I must ask you![k]
 [dcs]
@@ -505,60 +505,60 @@ Are you my true father?[n]
 ...or is my true father King Cuan!?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Hmph... you found out, did you... Well, this day was bound to come sooner or later.[k]
 [cs]
 Yeah, Cuan was your father. But what the hell does that matter now?[k]
 [cs]
 I was the one who raised you... Don't you forget that.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 ...So you murdered my real mother and father....[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 Heh heh... Yeah, I did. You got a problem with that?[k]
 [cs]
 War is all about death, my dear. What's done is done.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Grr... You! You've lead me astray all these years, father! Er... Trabant![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Trabant
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 025B]
+[TWinTop][DlgOpn]['Arion' 025B]
 Altenna! That's enough!!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Arion, I swear I'm gonna kill this man! Don't you try and stop me!![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Step back, Altenna! If you oppose father then you oppose me too!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 ...Arion!? I could never fight you!![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Altenna, you've crossed the line this time.[n]
 And now I'll have you die!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 No, Arion...[k]
 [dcs]
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['(null)' 0260]
+[TWinBtm][DlgOpn]['Old Trabant' 0260]
 ...Is she dead? Arion, you didn't need to go that far, you know...[k]
 [cs]
 Well, it looks like it's time for me to take matters into my own hands.[k]
@@ -566,28 +566,28 @@ Well, it looks like it's time for me to take matters into my own hands.[k]
 Arion, you're watching the castle.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Yes, father.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 Here, I'm leaving this lance with you. Thracia is in your hands now.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Isn't this the Gungnir?[k]
 [cs]
 Father, what's the meaning of this? Don't tell me you're going into battle without it.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 Arion, I've grown tired. It's me they're after anyway. Do as you see fit after I'm gone, okay?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 So you're suggesting I call for a truce!? I will never, ever give in to them, father!
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 Like I said, do as you see fit. I only ask that you see an end to the people's suffering.[k]
 [dcs]
@@ -598,7 +598,7 @@ Farewell, Arion![k]
 
 [Wait 10]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Father...[k]
 
 [exit]
@@ -607,68 +607,68 @@ Father...[k]
 # 0x339944:
 # @@3266810@@
 
-[TWinTop][DlgOpn]['(null)' 025B]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinTop][DlgOpn]['Arion' 025B]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Altenna, are you all right!?
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 ...[n]
 Ahh... Arion...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Forgive me, Altenna. I had to knock you out with that swing.[k]
 [cs]
 If I hadn't, father would have suspected something.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 I see... Arion. So where is fath... King Trabant?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 He won't be coming back... I received word he died in battle.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 ...Really? What happened?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 You're better off not asking, Altenna. You don't understand father the way I do.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 ...Arion, what do you think I should do?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Prince Leaf is waiting for you. Go to him.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 But what's to become of us?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Altenna... this is our fate. And the sooner we resign ourselves to it the better.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Arion, we can call for a truce! With King Trabant gone, there's nothing stopping us![k]
 [dcs]
 Besides, I'm not about to fight you![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 If it weren't for father's parting words, I would... Just go, Altenna... now![k]
 [cs]
 Next time we meet shall be on the battlefield. But be ready... I won't go easy on you!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Arion...[k]
 
@@ -678,41 +678,41 @@ Arion...[k]
 # 0x339b9d:
 # @@3266888@@
 
-[TWinTop][DlgOpn]['(null)' 025B]
-[TWinBtm][DlgOpn]['(null)' 0260]
+[TWinTop][DlgOpn]['Arion' 025B]
+[TWinBtm][DlgOpn]['Old Trabant' 0260]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Father! Altenna has... she has fallen in battle.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 ...Is that right? Well, it looks like I'll be taking matters into my own hands now.[k]
 [dcs]
 Arion, you're watching the castle.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Yes, father.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 Here, I'm leaving this lance with you. Don't you lose Thracia now, you hear?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 ...Isn't this the Gungnir?[k]
 [cs]
 Father, what's the meaning of this? You're not going into battle without it, are you?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 I've had enough, Arion. It's me they're after anyway. Do as you see fit after I'm gone, okay?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Are you suggesting I call for a truce!? You know I could never do that!
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Trabant
 [Wait 10]
 Like I said, do as you see fit. I only ask that you see an end to the people's suffering.[k]
 [dcs]
@@ -723,7 +723,7 @@ Farewell, Arion![k]
 
 [Wait 10]
 
-[TWinTop] # (null)
+[TWinTop] # Arion
 Father...[k]
 
 [exit]
@@ -743,16 +743,16 @@ Men, I order you to commence attack. Stop the aggressor in their tracks![k]
 # 0x339da6:
 # @@3267014@@
 
-[TWinTop][DlgOpn]['Altena' 002C]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Altenna' 002C]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # Altena
-Sir Celice,[n]
+[TWinTop] # Altenna
+Sir Serlis,[n]
 I'm Altenna... the daughter of Cuan of Lenster.[k]
 [cs]
 Prince Leaf told me everything. I can no longer oppose you... Please, let me join your army.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Princess Altenna!? Ahh... so you're Prince Leaf's older sister![k]
 [dcs]
@@ -761,47 +761,47 @@ The prince and I both hoped that you'd come... He'll be so happy you're here.[k]
 You've made the right decision, Your Highness.[k]
 [cs]
 
-[TWinTop] # Altena
+[TWinTop] # Altenna
 This is still happening so fast. But one look into Prince Leaf's eyes...[k]
 [cs]
 And there before me I saw the gentle gaze of my father...[k]
 [cs]
 And memories of my mother's embrace suddenly felt just like yesterday.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I still don't understand what motivated King Trabant in the first place.[k]
 [dcs]
 Why would he murder your parents and bring you back here? You were just a kid.[k]
 [cs]
 
-[TWinTop] # Altena
+[TWinTop] # Altenna
 He told Arion once that all he was after was control of the Gae Bolg.[k]
 [cs]
 And that's why he needed me...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 So he just used you for that?[k]
 [dcs]
 
-[TWinTop] # Altena
+[TWinTop] # Altenna
 I... I'm not sure myself. I know he did some terrible things, but he was a father to me...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hmm... Well, it's all beyond me, that's for sure.[k]
 [dcs]
 
-[TWinTop] # Altena
-Sir Celice, I have one favour to ask of you. Arion... We must save Prince Arion!
+[TWinTop] # Altenna
+Sir Serlis, I have one favour to ask of you. Arion... We must save Prince Arion!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Sure, I don't want to fight him. I've heard too many good things about him anyway. But will he listen to us?[k]
 [dcs]
 
-[TWinTop] # Altena
+[TWinTop] # Altenna
 I'll give it one more shot.... Just give me a little more time![k]
 
 [exit]
@@ -810,13 +810,13 @@ I'll give it one more shot.... Just give me a little more time![k]
 # 0x33a0e2:
 # @@3267045@@
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Celice, it'd appear that they took General Hanibal's son hostage so he'd fight us.
+[TWinTop] # Old Levin
+Serlis, it'd appear that they took General Hanibal's son hostage so he'd fight us.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You're kidding... Oh no, what have I done! Forgive me, General Hanibal.[k]
 [exit]
@@ -825,11 +825,11 @@ You're kidding... Oh no, what have I done! Forgive me, General Hanibal.[k]
 # 0x33a167:
 # @@3267102@@
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Celice, look.[n]
+[TWinTop] # Old Levin
+Serlis, look.[n]
 They've been keeping kids locked up in the dungeon.[k]
 [cs]
 [Wait 20]
@@ -838,16 +838,16 @@ They've been keeping kids locked up in the dungeon.[k]
 
 [TWinTop][DlgOpn]['Corple' 0034]
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 Who are you? What happened to you?[k]
 [cs]
 
 [TWinTop] # Corple
 I'm [$00$2C$34$00], General Hanibal's son. Who are you?[k]
 [cs]
-Hey, aren't you Sir Celice of the liberation army!?
+Hey, aren't you Sir Serlis of the liberation army!?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yep, that's me. But what would make them lock up the son of General Hanibal?[k]
 [dcs]
@@ -857,11 +857,11 @@ King Trabant took me hostage.[k]
 [cs]
 My father didn't want to fight, so they've forced to him against his will.[k]
 [cs]
-Sir Celice, please take me to my father![k]
+Sir Serlis, please take me to my father![k]
 [cs]
 Once he sees that I'm okay, he'll stop fighting! Please, we must hurry!!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hmm, you think so, huh...[k]
 [dcs]
@@ -873,24 +873,24 @@ Alright, we need to find General Hanibal then. Let's move![k]
 # 0x33a31b:
 # @@3267154@@
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Celice, it looks like General Hanibal's son was being held hostage here.
+[TWinTop] # Old Levin
+Serlis, it looks like General Hanibal's son was being held hostage here.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 ...They locked up his son in order to get him to fight!? How horrible.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Apparently, the general's son,[n]
 [$00$2C$34$00], vanished upon word of his father's death.[k]
 [cs]
 I'm sure the boy's not too happy with us... What a shame.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Damn...[k]
 
@@ -914,13 +914,13 @@ The liberation army has taken over Luthecia Castle!
 [dcs]
 
 [TWinTop] # Corple
-Yeah, I'm just fine. I want to join Sir Celice's liberation army, father.[k]
+Yeah, I'm just fine. I want to join Sir Serlis's liberation army, father.[k]
 [cs]
 Thracia is not like it used to be... I want to fight for the people!
 
 [TWinBtm] # Hanibal
 [Wait 10]
-[$00$2C$34$00], you've grown into a fine young man. Alright. I, too, shall join Sir Celice's effort.[k]
+[$00$2C$34$00], you've grown into a fine young man. Alright. I, too, shall join Sir Serlis's effort.[k]
 [dcs]
 
 [TWinTop] # Corple
@@ -932,7 +932,7 @@ Great! First we'll liberate Thracia, and then we'll all take on the empire toget
 # 0x33a503:
 # @@3267282@@
 
-[TWinBtm][DlgOpn]['(null)' 0267]
+[TWinBtm][DlgOpn]['Judah' 0267]
 Kapathogia has fallen to the enemy!? Hrmph, Thracia has proven utterly worthless![k]
 [cs]
 Alright, fortify our defense! We must hold the castle until the reinforcements arrive![k]
@@ -943,7 +943,7 @@ Alright, fortify our defense! We must hold the castle until the reinforcements a
 # 0x33a57c:
 # @@3267430@@
 
-[TWinBtm][DlgOpn]['(null)' 0261]
+[TWinBtm][DlgOpn]['Musar' 0261]
 So this is Thracia... Heh, what a godforsaken wasteland.[k]
 [cs]
 The rebel army has gone far enough. Troops, prepare to attack.[k]
@@ -956,7 +956,7 @@ His Majesty has placed a bounty on the enemy. Now show me what you've got![k]
 # 0x33a712:
 # @@3267596@@
 
-[TWinBtm][DlgOpn]['(null)' 025B]
+[TWinBtm][DlgOpn]['Arion' 025B]
 They reached Grutia, did they...[k]
 [cs]
 Alright, we'll employ the 'Three-Headed Dragon' assault. All reserve battalions to the battlefront![k]
@@ -969,10 +969,10 @@ This is our last chance. This battle shall decide the fate of Thracia![k]
 # 0x33a791:
 # @@3268028@@
 
-[TWinBtm][DlgOpn]['(null)' 025B]
+[TWinBtm][DlgOpn]['Arion' 025B]
 Okay, they're here... Let's move out! Victory or defeat... It's all up to you![k]
 [cs]
-Dragon Knights, I command you to attack!![k]
+Wyvern Knights, I command you to attack!![k]
 
 [exit]
 
@@ -980,7 +980,7 @@ Dragon Knights, I command you to attack!![k]
 # 0x33a7e9:
 # @@3268089@@
 
-[TWinBtm][DlgOpn]['(null)' 026F]
+[TWinBtm][DlgOpn]['Julius' 026F]
 Arion, this is not your time to die. Come with me... Hahaha![k]
 
 [exit]
@@ -989,13 +989,13 @@ Arion, this is not your time to die. Come with me... Hahaha![k]
 # 0xee22e:
 # @@3268189@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Julia!? Oh my god! You're alright!
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k]
 
@@ -1005,30 +1005,30 @@ Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k
 # 0x33a822:
 # @@3268201@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Levin,[n]
 did Arion really just disappear?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Yeah, someone said they saw Prince Julius appear and take off with him.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Prince Julius? As in Emperor Alvis' son?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
-Yep. Your half-brother, Celice.[k]
+Yep. Your half-brother, Serlis.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 It's hard to believe we have the same mother...
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Yes... Empress Deirdre is where he inherited his shaman abilities from.[k]
 [dcs]
@@ -1037,10 +1037,10 @@ Return and Recover are just a mere thought away for him.[k]
 But there's more to it than that. Prince Julius' real power comes from...[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Who?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 ...the Dark Lord Loputousu.[k]
 
@@ -1050,7 +1050,7 @@ Who?
 # 0x33aa2c:
 # @@3268224@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 The villages in these parts were peaceful while under Lenster's rule.[k]
 [cs]
 But we were subjugated by the Thracian army soon after the war.[k]
@@ -1061,7 +1061,7 @@ But we were subjugated by the Thracian army soon after the war.[k]
 # 0x33aa93:
 # @@3268238@@
 
-[TWinBtm][DlgOpn]['(null)' 02AC]
+[TWinBtm][DlgOpn]['Villager' 02AC]
 That King Trabant is a right cold man. Thank goodness Prince Arion and Princess Altenna are nothing like him.[k]
 [cs]
 Those two have always been very close. I hope nothing ever comes between them.
@@ -1073,7 +1073,7 @@ Those two have always been very close. I hope nothing ever comes between them.
 # 0x33ab07:
 # @@3268252@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 General Hanibal of Kapathogia is one of the most revered generals in all of Thracia.[k]
 [cs]
 He has spent his entire adult life on the battlefield, so he never did marry.[k]
@@ -1086,7 +1086,7 @@ But he did take in an orphan several years back raising him as his own. Such a k
 # 0x33aba1:
 # @@3268266@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 General Disler of Luthecia follows King Trabant around like a puppet.[k]
 [cs]
 But afterwards he goes throwin' his weight around... thinkin' he's important... What a jerk![k]
@@ -1097,7 +1097,7 @@ But afterwards he goes throwin' his weight around... thinkin' he's important... 
 # 0x33abf1:
 # @@3268280@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Could there be any truth to the rumour of a Dark Priest being in Grutia?[k]
 [cs]
 I can sympathise with King Trabant's situation...[k]
@@ -1113,7 +1113,7 @@ Now, please, save our Thracia![k]
 # 0x33acae:
 # @@3268305@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 I can't verify this, but word is the empire is sending reinforcements this way.[k]
 [cs]
 They say Musar is commanding them. Apparently, his father was killed by a Silesian knight among your ranks.[k]
@@ -1126,7 +1126,7 @@ He has it in for you all, so you better be on the lookout.[k]
 # 0x33ad26:
 # @@3268320@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 You guys took out the empire's reinforcements? Heh... nice work![k]
 
 [exit]
@@ -1136,12 +1136,12 @@ You guys took out the empire's reinforcements? Heh... nice work![k]
 # @@3268336@@
 
 [TWinTop][DlgOpn]['Hanibal' 0024]
-[TWinBtm][DlgOpn]['Charlo' 001F]
+[TWinBtm][DlgOpn]['Sharlow' 001F]
 
 [TWinTop] # Hanibal
 Sharlow...
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 Father? What's the matter?[k]
 [dcs]
@@ -1151,7 +1151,7 @@ Son, I feel terrible for what I've put you through.[k]
 [cs]
 You may have been better off being raised in a normal home than by a soldier like me.
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 Father! What're you saying!? You're the only one I've ever wanted to be with.[k]
 [dcs]
@@ -1161,7 +1161,7 @@ And now I can work to help bring about peace. That makes me so happy.[k]
 [TWinTop] # Hanibal
 Is that so?
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 And that's not all.[k]
 [dcs]
@@ -1169,7 +1169,7 @@ And that's not all.[k]
 [TWinTop] # Hanibal
 Yes?
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 I'm proud of you, father.[k]
 [dcs]
@@ -1181,7 +1181,7 @@ That's very kind of you to say, Sharlow. You've turned into a fine young man ind
 [cs]
 Oh yes, I almost forgot. This staff was found lying in the castle. I believe you can use it.
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 Wow, that's a nice staff. Thanks, father.[k]
 
@@ -1257,10 +1257,10 @@ What nerve! Well... at least this shield will give my defense a little boost.[k]
 # 0x32ee7f:
 # @@3268408@@
 
-[TWinTop][DlgOpn]['(null)' 02AF]
+[TWinTop][DlgOpn]['Villager' 02AF]
 [TWinBtm][DlgOpn]['Hawk' 0020]
 
-[TWinTop] # (null)
+[TWinTop] # Villager
 Heh heh heh...
 
 [TWinBtm] # Hawk
@@ -1268,7 +1268,7 @@ Heh heh heh...
 ...?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Villager
 Over at the public square, I just had a girl confess her love to me while sitting under a tree.[k]
 [cs]
 Man, I wish I could share this feeling with ya!
@@ -1278,15 +1278,15 @@ Man, I wish I could share this feeling with ya!
 ...[k]
 [dcs]
 
-[TWinTop] # (null)
-Of course! You're with the liberation army! Here, I have some medicine and also the village's secret text for ya.
+[TWinTop] # Villager
+Of course! You're with the liberation army! Here, I have some medicine and also the village's secret book for ya.
 
 [TWinBtm] # Hawk
 [Wait 10]
 Er, thanks.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Villager
 Love sure is a beautiful thing. Now get out there and find yourself a woman![k]
 
 [exit]

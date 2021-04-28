@@ -2,8 +2,8 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-03-12
+# This file was added by Twilkitri
 
 # This file is used for altering the weapon descriptions.
 
@@ -49,7 +49,7 @@
 
 
 # @@255220@@
-# Prayer
+# Miracle Sword
 
 [exit]
 
@@ -69,7 +69,7 @@ Res[spx]+7
 [exit]
 
 # @@255228@@
-# Hero
+# Brave Sword
 
 [exit]
 
@@ -126,7 +126,7 @@ Critical
 
 # @@255250@@
 # Tyrfing
-Prayer
+Miracle
 [exit]
 
 # @@255252@@
@@ -185,7 +185,7 @@ Prayer
 [exit]
 
 # @@255274@@
-# Hero
+# Brave Lance
 
 [exit]
 
@@ -235,7 +235,7 @@ Prayer
 [exit]
 
 # @@255294@@
-# Hero
+# Brave Axe
 
 [exit]
 
@@ -280,7 +280,7 @@ Prayer
 [exit]
 
 # @@255312@@
-# Hero
+# Brave Bow
 
 [exit]
 
@@ -291,7 +291,7 @@ Critical
 
 # @@255316@@
 # Ichival
-Live
+Renewal
 [exit]
 
 # @@255318@@
@@ -340,7 +340,7 @@ Live
 [exit]
 
 # @@255336@@
-# Volcanon
+# Bolganone
 
 [exit]
 
@@ -350,7 +350,7 @@ Live
 [exit]
 
 # @@255340@@
-# Meteo
+# Meteor
 
 [exit]
 
@@ -365,7 +365,7 @@ Live
 [exit]
 
 # @@255346@@
-# Tron
+# Thoron
 
 [exit]
 
@@ -375,7 +375,7 @@ Live
 [exit]
 
 # @@255350@@
-# Storm
+# Bolting
 
 [exit]
 
@@ -410,7 +410,7 @@ Live
 [exit]
 
 # @@255364@@
-# Rezire
+# Nosferatu
 Leech[spx]HP
 [exit]
 
@@ -460,13 +460,13 @@ Drain[spx]HP
 [exit]
 
 # @@255384@@
-# Live
+# Heal
 Restores
 some[spx]HP
 [exit]
 
 # @@255386@@
-#Relive
+# Mend 
 Restores
 most[spx]HP
 [exit]
@@ -478,7 +478,7 @@ all[spx]HP
 [exit]
 
 # @@255390@@
-# Libro
+# Physic
 Restores
 some[spx]HP[spx]
 to[spx]one[spx][spx]
@@ -486,7 +486,7 @@ Range[spx]10
 [exit]
 
 # @@255392@@
-# Reserve
+# Fortify
 Restores
 some[spx]HP[spx]
 to[spx]all[spx][spx]
@@ -531,7 +531,7 @@ Range[spx]10
 [exit]
 
 # @@255404@@
-# Valkyre
+# Valkyrie
 Revive[spx]a
 unit[spx]at[spx]
 home[spx][spx][spx][spx]
@@ -575,47 +575,47 @@ Range[spx]10
 [exit]
 
 # @@255418@@
-#Broken
+# Broken
 
 [exit]
 
 # @@255420@@
-#Life
+# Life Bracelet
 Bestows[spx]
-Live[spx][spx][spx][spx]
+Renewal[spx]
 skill
 [exit]
 
 # @@255422@@
-#Elite
+# Paragon Ring
 Bestows[spx]
-Elite[spx][spx][spx]
+Paragon[spx]
 skill
 [exit]
 
 # @@255424@@
-# Thief
+# Thief Bracelet
 Bestows[spx]
 Steal[spx][spx][spx]
 skill
 [exit]
 
 # @@255426@@
-# Prayer
+# Miracle Bracelet
 Bestows[spx]
-Prayer[spx][spx]
+Miracle[spx]
 skill
 [exit]
 
 # @@255428@@
-# Pursuit
+# Pursuit Bracelet
 Bestows[spx]
 Pursuit[spx][spx]
 skill
 [exit]
 
 # @@255430@@
-# Recover
+# Recover Ring
 Restores
 all[spx]HP[spx][spx]
 on[spx]every
@@ -623,21 +623,20 @@ turn
 [exit]
 
 # @@255432@@
-# Bargain
+# Bargain Bracelet
 Bestows[spx]
 Bargain[spx]
 skill
 [exit]
 
 # @@255434@@
-# Knight
+# Knight Ring
 Bestows[spx]
-Repeated
-Movement
+Canto
 [exit]
 
 # @@255436@@
-# Return
+# Return Ring
 Wearer[spx][spx]
 can[spx]warp
 to[spx]home[spx]
@@ -645,37 +644,37 @@ castle
 [exit]
 
 # @@255438@@
-# Speed
+# Speed Ring
 Spd[spx]+5
 [exit]
 
 # @@255440@@
-# Magic
+# Magic Ring
 Mgc[spx]+5
 [exit]
 
 # @@255442@@
-# Power
+# Power Ring
 Str[spx]+5
 [exit]
 
 # @@255444@@
-# Shield
+# Shield Ring
 Def[spx]+5
 [exit]
 
 # @@255446@@
-# Barrier
+# Barrier Ring
 Res[spx]+5
 [exit]
 
 # @@255448@@
-# Leg
+# Leg Ring
 Move[spx]+3
 [exit]
 
 # @@255450@@
-# Skill
+# Skill Ring
 Skl[spx]+5
 [exit]
 
@@ -758,7 +757,7 @@ Broken
 # Circlet
 Sacred[spx][spx]
 ornament
-Prayer[spx][spx]
-Live
+Miracle[spx]
+Renewal
 [exit]
 

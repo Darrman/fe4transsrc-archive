@@ -2,8 +2,8 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 02/05/04
-# This file was modified by Dark Twiilkitri
+# Last modified: 2012-05-06
+# This file was modified by Twilkitri
 
 # This file is for altering the castle names whereever they are used in a status sense.
 # Eg: On the map; in the data screen; etc.
@@ -32,423 +32,383 @@
 #
 #Please refer to the 'LICENSE' file for the entire license and copying rights.
 
-#*#[section city]
-#*#[map 8]
-#*#[bits16]
-#*#[mode-sjis]
+[section city]
+[map 8]
+[bits16]
+[mode-sjis]
 # Table: 0x03F717
 
 # 0x03F773:
 # P: 005C
 # @@259863@@
 
-#?}?f?B?m?
-Mad
+Madino
 
-#*# [exit]
+[exit]
 
 # 0x03F77F:
 # P: 0068
 # @@259865@@
 
-#?V???x?[???
-Sil
+Silvail
 
-#*# [exit]
+[exit]
 
 # 0x03F78D:
 # P: 0076
 # @@259867@@
 
-#?A???t?H?j?[?
-Anph
+Anphony
 
-#*# [exit]
+[exit]
 
 # 0x03F79D:
 # P: 0086
 # @@259869@@
 
-#?A?O?X?e?B?
 Agusty
 
-#*# [exit]
+[exit]
 
 # 0x03F7AB:
 # P: 0094
 # @@259871@@
 
-#?n?C???C???
-Her
+#Heirhein
+Heirhei
 
-#*# [exit]
+[exit]
 
 # 0x03F7B9:
 # P: 00A2
 # @@259873@@
 
-#?}?b?L???[?
-McKil
+Mackily
 
-#*# [exit]
+[exit]
 
 # 0x03F7C7:
 # P: 00B0
 # @@259875@@
 
-#?m?f?B?I???
-Nod
+Nodion
 
-#*# [exit]
+[exit]
 
 # 0x03F7D5:
 # P: 00BE
 # @@259877@@
 
-#???F???g?}?[?
-Veltho
+#Velthomer
+Velthom
 
-#*# [exit]
+[exit]
 
 # 0x03F7E5:
 # P: 00CE
 # @@259879@@
 
-#?t???[?W?
-Free
+Freege
 
-#*# [exit]
+[exit]
 
 # 0x03F7F1:
 # P: 00DA
 # @@259881@@
 
-#?o?[?n???
 Barhara
 
-#*# [exit]
+[exit]
 
 # 0x03F7FD:
 # P: 00E6
 # @@259883@@
 
-#?h?Y???
-Doze
+Dozel
 
-#*# [exit]
+[exit]
 
 # 0x03F807:
 # P: 00F0
 # @@259885@@
 
-#?G?b?_?
 Edda
 
-#*# [exit]
+[exit]
 
 # 0x03F811:
 # P: 00FA
 # @@259887@@
 
-#?V?A???t?B?
-Chal
+Chalphy
 
-#*# [exit]
+[exit]
 
 # 0x03F81F:
 # P: 0108
 # @@259889@@
 
-#?????O???B?
-Jung
+Jungby
 
-#*# [exit]
+[exit]
 
 # 0x03F82D:
 # P: 0116
 # @@259891@@
 
-#?????X?^?[?
-Lens
+Lenster
 
-#*# [exit]
+[exit]
 
 # 0x03F83B:
 # P: 0124
 # @@259893@@
 
-#?R?m?[?g?
-Con
+Conote
 
-#*# [exit]
+[exit]
 
 # 0x03F847:
 # P: 0130
 # @@259895@@
 
-#?}???X?^?[?
-Mans
+Manster
 
-#*# [exit]
+[exit]
 
 # 0x03F855:
 # P: 013E
 # @@259897@@
 
-#?????Q???
-Mel
+Melgen
 
-#*# [exit]
+[exit]
 
 # 0x03F861:
 # P: 014A
 # @@259899@@
 
-#?A???X?^?[?
-Als
+Alster
 
-#*# [exit]
+[exit]
 
 # 0x03F86F:
 # P: 0158
 # @@259901@@
 
-#?I?[?K?q???
 Orgahil
 
-#*# [exit]
+[exit]
 
 # 0x03F87D:
 # P: 0166
 # @@259903@@
 
-#?g?[???F?
 Thove
 
-#*# [exit]
+[exit]
 
 # 0x03F889:
 # P: 0172
 # @@259905@@
 
-#?Z?C???[???
-Sai
+Sailane
 
-#*# [exit]
+[exit]
 
 # 0x03F897:
 # P: 0180
 # @@259907@@
 
-#?U?N?\???
-Zax
+Zaxon
 
-#*# [exit]
+[exit]
 
 # 0x03F8A3:
 # P: 018C
 # @@259909@@
 
-#?V???W?A?
 Silesia
 
-#*# [exit]
+[exit]
 
 # 0x03F8AF:
 # P: 0198
 # @@259911@@
 
-#?????[?x?b?N?
-Lube
+Lubeck
 
-#*# [exit]
+[exit]
 
 # 0x03F8BF:
 # P: 01A8
 # @@259913@@
 
-#?e?B???i?m?O?
-Til
+#Tilnanogue
+Tilnano
 
-#*# [exit]
+[exit]
 
 # 0x03F8CF:
 # P: 01B8
 # @@259915@@
 
-#?K?l?[?V???
-Gan
+#Ganeishire
+Ganeish
 
-#*# [exit]
+[exit]
 
 # 0x03F8DD:
 # P: 01C6
 # @@259917@@
 
-#?\?t?@???
-Soph
+Sophara
 
-#*# [exit]
+[exit]
 
 # 0x03F8E9:
 # P: 01D2
 # @@259919@@
 
-#?C?U?[?N?
 Isaac
 
-#*# [exit]
+[exit]
 
 # 0x03F8F5:
 # P: 01DE
 # @@259921@@
 
-#???{?[?
-Rivo
+Rivough
 
-#*# [exit]
+[exit]
 
 # 0x03F8FF:
 # P: 01E8
 # @@259923@@
 
-#?t?B?m?[???
-Phin
+Phinora
 
-#*# [exit]
+[exit]
 
 # 0x03F90D:
 # P: 01F6
 # @@259925@@
 
-#?C?[?h?
 Yied
 
-#*# [exit]
+[exit]
 
 # 0x03F917:
 # P: 0200
 # @@259927@@
 
-#?_?[?i?
-Darn
+Darna
 
-#*# [exit]
+[exit]
 
 # 0x03F921:
 # P: 020A
 # @@259929@@
 
-#???F???_???
 Verdane
 
-#*# [exit]
+[exit]
 
 # 0x03F92F:
 # P: 0218
 # @@259931@@
 
-#?G?o???X?
 Evans
 
-#*# [exit]
+[exit]
 
 # 0x03F93B:
 # P: 0224
 # @@259933@@
 
-#?W?F?m?A?
-Gen
+Genoa
 
-#*# [exit]
+[exit]
 
 # 0x03F947:
 # P: 0230
 # @@259935@@
 
-#?}?[?t?@?
-Mar
+Marpha
 
-#*# [exit]
+[exit]
 
 # 0x03F953:
 # P: 023C
 # @@259937@@
 
-#?~???g?X?
 Miletos
 
-#*# [exit]
+[exit]
 
 # 0x03F95F:
 # P: 0248
 # @@259939@@
 
-#?y?????[?N?
-Peru
+#Peruluke
+Peruluk
 
-#*# [exit]
+[exit]
 
 # 0x03F96D:
 # P: 0256
 # @@259941@@
 
-#?N???m?X?
-Cro
+Cronos
 
-#*# [exit]
+[exit]
 
 # 0x03F979:
 # P: 0262
 # @@259943@@
 
-#???h?X?
-Rad
+Rados
 
-#*# [exit]
+[exit]
 
 # 0x03F983:
 # P: 026C
 # @@259945@@
 
-#?~?[?Y?
 Mease
 
-#*# [exit]
+[exit]
 
 # 0x03F98D:
 # P: 0276
 # @@259947@@
 
-#?J?p?g?M?A?
-Kapa
+#Kapathogia
+Kapatho
 
-#*# [exit]
+[exit]
 
 # 0x03F99B:
 # P: 0284
 # @@259949@@
 
-#???e?L?A?
-Luthe
+#Luthecia
+Lutheci
 
-#*# [exit]
+[exit]
 
 # 0x03F9A7:
 # P: 0290
 # @@259951@@
 
-#?g???L?A?
 Thracia
 
-#*# [exit]
+[exit]
 
 # 0x03F9B3:
 # P: 029C
 # @@259953@@
 
-#?O???e?B?A?
-Gru
+Grutia
 
-#*# [exit]
-
+[exit]

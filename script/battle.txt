@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file contains the generic speechs made in battles
 # when the character in question isn't versus someone in
@@ -37,7 +37,7 @@ damn you![k]
 [TWinBtm][DlgOpn]['Ira' 0013]
 For Shanan's sake, you must die.[k]
 [cs]
-Feel my Meteor Sword![k]
+Taste Astrasword![k]
 
 [exit]
 
@@ -82,7 +82,7 @@ I'll end this grudge today![k]
 # 0x10b5ce
 # @@445527@@
 
-[TWinBtm][DlgOpn]['Sandima' 0052]
+[TWinBtm][DlgOpn]['Dark Mage (Sandima)' 0052]
 Heheheh...[n]
 Feel the horror of my dark magic![k]
 
@@ -251,7 +251,7 @@ I'll make you pay for this!![k]
 [TWinBtm][DlgOpn]['Papilion' 00A4]
 Heheheh...[k]
 [cs]
-Prepare to feel the terror that is the Thracian Dragon Knights![k]
+Prepare to feel the terror that is the Thracian Wyvern Knights![k]
 
 [exit]
 
@@ -349,7 +349,7 @@ Gwahaha... DIE![k]
 # 0xec233
 # @@449786@@
 
-[TWinBtm][DlgOpn]['Dakar' 0240]
+[TWinBtm][DlgOpn]['Daccar' 0240]
 Lordship of Silesia is my right! You're just a hindrance![k]
 
 [exit]
@@ -368,7 +368,7 @@ Only a fool would face me...[k]
 # 0x30bb33
 # @@451249@@
 
-[TWinBtm][DlgOpn]['Slayder' 029A]
+[TWinBtm][DlgOpn]['Slaydar' 029A]
 Sorry about this, Lord Byron, but I have my orders.[k]
 [cs]
 This is where you'll die![k]
@@ -388,7 +388,7 @@ I'll protect you, Altenna![k]
 # 0x30bb81
 # @@451428@@
 
-[TWinBtm][DlgOpn]['Slayder' 029A]
+[TWinBtm][DlgOpn]['Slaydar' 029A]
 What? How could you have reached here!?[k]
 [cs]
 Our front line's already broken!?[k]
@@ -418,7 +418,7 @@ Die![k]
 # 0x30bbdc
 # @@451476@@
 
-[TWinBtm][DlgOpn]['Langobalt' 00DB]
+[TWinBtm][DlgOpn]['Langbart' 00DB]
 Gwahaha... weaklings. As long as I have my Swanchika...[k]
 [cs]
 No matter how many of you come, you'll all suffer the same fate![k]
@@ -433,7 +433,7 @@ If you don't want to die, then stay away![k]
 
 [TWinBtm][DlgOpn]['Vaha' 00EB]
 I summon thee, wrath of the heavens![n]
-METEO!![k]
+METEOR!![k]
 
 [exit]
 
@@ -441,7 +441,7 @@ METEO!![k]
 # 0x30bcc4
 # @@451508@@
 
-[TWinBtm][DlgOpn]['Torabant' 00EF]
+[TWinBtm][DlgOpn]['Trabant' 00EF]
 Behold, the world-renowned Gungnir! Heheheh... you look so happy to see it.[k]
 [cs]
 You will bow to me, and then you will die.[k]
@@ -502,7 +502,7 @@ Die!![k]
 
 [TWinBtm][DlgOpn]['Harold' 024E]
 Urgh...[n]
-It's ONLY the rebel army![k]
+It's only the rebel army![k]
 
 [exit]
 
@@ -533,7 +533,7 @@ To die by my hand, you should feel flattered.[k]
 # 0x10ea71
 # @@3310675@@
 
-[TWinBtm][DlgOpn]['Shumit' 0245]
+[TWinBtm][DlgOpn]['Schmidt' 0245]
 Lord Dannan's orders...[n]
 You are not to go any further![k]
 
@@ -543,7 +543,7 @@ You are not to go any further![k]
 # 0x10eaa1
 # @@3310691@@
 
-[TWinBtm][DlgOpn]['Danan' 024D]
+[TWinBtm][DlgOpn]['Dannan' 024D]
 Rebels![n]
 Don't underestimate the Grandbell Empire![k]
 
@@ -563,7 +563,7 @@ TRIANGLE ATTACK!![k]
 # 0x31cfa8
 # @@453424@@
 
-[TWinBtm][DlgOpn]['Fetora' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 Vampa, Eliu, come on![n]
 TRIANGLE ATTACK!![k]
 
@@ -583,7 +583,7 @@ TRIANGLE ATTACK!![k]
 # 0x31d416
 # @@453616@@
 
-[TWinBtm][DlgOpn]['Coutozov' 0250]
+[TWinBtm][DlgOpn]['Cutozov' 0250]
 Rebels...[n]
 You're tarnishing the sacred Yied Shrine![k]
 [cs]
@@ -596,7 +596,7 @@ My dark magic will consign you to oblivion![k]
 # @@453632@@
 [Merge 6ebf0]
 
-[TWinBtm][DlgOpn]['Coutozov' 0250]
+[TWinBtm][DlgOpn]['Cutozov' 0250]
 Rebels...[n]
 You're tarnishing the sacred Yied Shrine![k]
 [cs]
@@ -650,7 +650,7 @@ Take this! ELFIRE!![k]
 # 0x31d55b
 # @@453712@@
 
-[TWinBtm][DlgOpn]['Fetora' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 Take this! ELWIND!![k]
 
 [exit]
@@ -729,7 +729,7 @@ TRIANGLE ATTACK!![k]
 # 0xfe0f4
 # @@455278@@
 
-[TWinBtm][DlgOpn]['Fetora' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 Vampa, Eliu, let's go, right now![n]
 TRIANGLE ATTACK!![k]
 
@@ -809,7 +809,7 @@ Take this! ELFIRE!![k]
 # 0xfe121
 # @@455553@@
 
-[TWinBtm][DlgOpn]['Fetora' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 Take this! ELWIND!![k]
 
 [exit]
@@ -932,7 +932,7 @@ Clearly you haven't noticed the Lance of the Heavens, Gungnir, in my grasp.[k]
 # 0x33aecc
 # @@457065@@
 
-[TWinBtm][DlgOpn]['Trabant' 0260]
+[TWinBtm][DlgOpn]['Old Trabant' 0260]
 Hahaha, I'm Trabant, you rebel wimps.[k]
 [cs]
 Remember this as a gift from hell![k]
@@ -943,7 +943,7 @@ Remember this as a gift from hell![k]
 # 0x33cc88
 # @@3179570@@
 
-[TWinBtm][DlgOpn]['Lideel' 026D]
+[TWinBtm][DlgOpn]['Ridale' 026D]
 Finally, a good fight.[n]
 Thanks.[k]
 
@@ -963,7 +963,7 @@ I will avenge my father, my husband, and my son.[n]
 # 0x33ccde
 # @@3179602@@
 
-[TWinBtm][DlgOpn]['Morrigan' 025F]
+[TWinBtm][DlgOpn]['Morigan' 025F]
 Feel the terror that is my dark magic!![k]
 
 [exit]
@@ -1001,7 +1001,7 @@ Your misfortunes are cursed...[k]
 # 0x33ce48
 # @@3179666@@
 
-[TWinBtm][DlgOpn]['Alvis' 026E]
+[TWinBtm][DlgOpn]['Emperor Alvis' 026E]
 Hmph... you're pathetic.[n]
 You'll all be consumed in my hellfire![k]
 
@@ -1072,7 +1072,7 @@ It's time to end this grudge that has plagued the House of Dozel for 3 generatio
 # 0x32bb3e
 # @@3254490@@
 
-[TWinBtm][DlgOpn]['(null)' 0277]
+[TWinBtm][DlgOpn]['Daggon' 0277]
 Gwahaha...[n]
 Foolish people...[k]
 [cs]
@@ -1094,8 +1094,8 @@ I don't go down that easy![k]
 # 0x32bb8e
 # @@3254522@@
 
-[TWinBtm][DlgOpn]['(null)' 0272]
-I'll take this oppurtunity to avenge my father, Andre![k]
+[TWinBtm][DlgOpn]['Scorpio' 0272]
+I'll take this oppurtunity to avenge my father![k]
 
 [exit]
 
@@ -1103,7 +1103,7 @@ I'll take this oppurtunity to avenge my father, Andre![k]
 # 0x32bbb9
 # @@3254538@@
 
-[TWinBtm][DlgOpn]['(null)' 0275]
+[TWinBtm][DlgOpn]['Baran' 0275]
 Gwahaha...[n]
 Foolish people...[k]
 [cs]
@@ -1161,7 +1161,7 @@ Just witness the wrath of the Goddess of Thunder!![k]
 # 0x32bd68
 # @@3254634@@
 
-[TWinBtm][DlgOpn]['(null)' 02B4]
+[TWinBtm][DlgOpn]['Evil Julia' 02B4]
 Heheheh......[k]
 
 [exit]

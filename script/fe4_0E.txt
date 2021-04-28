@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering conversations from Chapter 6 to the Epilogue.
 
@@ -37,12 +37,12 @@
 # @@1044945@@
 
 [TWinTop][DlgOpn]['Oifaye' 0027]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Oifaye
 Your Highness, you're alright!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Oifaye, you made it back! How are things in the other countries?[k]
 [dcs]
@@ -52,7 +52,7 @@ Things are getting worse. People all over the continent are being oppressed.[k]
 [cs]
 As a result, there are uprisings popping up all over the place.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 So it's not just Isaac, is it...[k]
 [dcs]
@@ -62,7 +62,7 @@ Oifaye, there's no way we can help them, is there?[k]
 [TWinTop] # Oifaye
 Well, we just don't have the manpower to take on the empire.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 But Isaac's war of liberation is already under way. There's no turning back now.[k]
 [dcs]
@@ -72,7 +72,7 @@ And we can't keep you in hiding now that your whereabouts have been leaked.[k]
 [cs]
 I just wish we were more prepared... But we have no choice now.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Sorry that I sort of got things rolling before it was time.[k]
 [dcs]
@@ -139,12 +139,12 @@ I hope so, Lester.[k]
 # @@1045015@@
 
 [TWinTop][DlgOpn]['Fee' 003C]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Fee
-Are you Prince Celice?
+Are you Prince Serlis?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yes, I am. And who might you be?[k]
 [dcs]
@@ -152,7 +152,7 @@ Yes, I am. And who might you be?[k]
 [TWinTop] # Fee
 I am [$00$2C$3C$00]. I came here from Silesia.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Silesia? Are you a Pegasus Knight?[k]
 [dcs]
@@ -162,7 +162,7 @@ No... not yet anyway. But my mother was.[k]
 [cs]
 She fought alongside Sir Sigurd in the last war.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Really? Well, on his behalf, thanks. So what made you come here?[k]
 [dcs]
@@ -174,7 +174,7 @@ But when I heard word of you taking on the empire, I made a little change in pla
 [cs]
 Please, let me join your liberation army.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hey, that's fine with me, but what about your brother?[k]
 [dcs]
@@ -189,12 +189,12 @@ I have a hunch that we'll run across him eventually.[k]
 # @@1045041@@
 
 [TWinTop][DlgOpn]['Lana' 003B]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
 [TWinTop] # Lana
 Hello, Julia. I bet you miss Levin.
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 You're [$00$2C$3B$00], right? No, I'm fine.[k]
 [dcs]
@@ -204,7 +204,7 @@ Well, His Highness is pretty concerned about you.[k]
 [cs]
 But if you have any problems, come to me. Okay?
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Thank you.[k]
 [dcs]
@@ -212,15 +212,15 @@ Thank you.[k]
 [TWinTop] # Lana
 I also have this for you.
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
-This is a Relive Staff, isn't it?[k]
+This is a Mend Staff, isn't it?[k]
 [dcs]
 
 [TWinTop] # Lana
 Yes, it is. You know how to use it, don't you?
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 I do! Thank you so much, [$00$2C$3B$00].
 Now I can help out a little, too.[k]
@@ -236,10 +236,10 @@ I hope so, Julia. Let's you and I stick together!
 # 0x2ee96f:
 # @@1045072@@
 
-[TWinTop][DlgOpn]['Skasaha' 0032]
+[TWinTop][DlgOpn]['Scathach' 0032]
 [TWinBtm][DlgOpn]['Lakche' 003A]
 
-[TWinTop] # Skasaha
+[TWinTop] # Scathach
 Lakche, are you okay?
 
 [TWinBtm] # Lakche
@@ -247,7 +247,7 @@ Lakche, are you okay?
 Yeah, I'm managing.[k]
 [dcs]
 
-[TWinTop] # Skasaha
+[TWinTop] # Scathach
 Well, take it easy, alright?  We don't need you pulling any of your stunts out here.
 
 [TWinBtm] # Lakche
@@ -255,15 +255,15 @@ Well, take it easy, alright?  We don't need you pulling any of your stunts out h
 I'm not a child! You don't have to speak to me like that.[k]
 [dcs]
 
-[TWinTop] # Skasaha
+[TWinTop] # Scathach
 Prince Shanan tells me you've got an iron will just like our mother did.
 
 [TWinBtm] # Lakche
 [Wait 10]
-Aira... Yeah, I have no memories of her whatsoever. How about you, Skasaha?[k]
+Aira... Yeah, I have no memories of her whatsoever. How about you, Scathach?[k]
 [dcs]
 
-[TWinTop] # Skasaha
+[TWinTop] # Scathach
 Of course I don't remember anything! You forget we're twins or something?[k]
 [cs]
 We weren't even two years old yet at the time.[k]
@@ -274,12 +274,12 @@ Maybe she didn't survive the Battle of Barhara after all...
 
 [TWinBtm] # Lakche
 [Wait 10]
-Skasaha! You promised you'd never say that! She is alive!![k]
+Scathach! You promised you'd never say that! She is alive!![k]
 [dcs]
 Don't you ever let me catch you saying that again![k]
 [cs]
 
-[TWinTop] # Skasaha
+[TWinTop] # Scathach
 ...I'm sorry, Lakche. Yeah, I shouldn't have said that.[k]
 
 [exit]
@@ -289,12 +289,12 @@ Don't you ever let me catch you saying that again![k]
 # @@1045116@@
 
 [TWinTop][DlgOpn]['Arthur' 0038]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Arthur
 How do you do, sir.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Who are you?[k]
 [dcs]
@@ -302,7 +302,7 @@ Who are you?[k]
 [TWinTop] # Arthur
 I'm [$00$2C$38$00]. I came from Silesia.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You're [$00$2C$38$00]? Thanks for lending us a hand![k]
 [dcs]
@@ -310,7 +310,7 @@ You're [$00$2C$38$00]? Thanks for lending us a hand![k]
 [TWinTop] # Arthur
 Not a problem.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 It's really great how you can use magic.[k]
 [dcs]
@@ -318,7 +318,7 @@ It's really great how you can use magic.[k]
 [TWinTop] # Arthur
 Well, my mother was a warlock. I've personally still got quite a way to go though.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, we all do. But as long as we stay together...[k]
 [dcs]
@@ -334,18 +334,18 @@ Sounds great. Look, I'll do what I can to help out, sir. Glad we could finally m
 # 0x2eec90:
 # @@1045142@@
 
-[TWinTop][DlgOpn]['Dimuna' 0023]
+[TWinTop][DlgOpn]['Dimna' 0023]
 [TWinBtm][DlgOpn]['Mana' 002A]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Mana? You're fighting too!?
 
 [TWinBtm] # Mana
 [Wait 10]
-Yeah, I was so worried about Sir Celice.[k]
+Yeah, I was so worried about Sir Serlis.[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Hmm... I thought so.
 
 [TWinBtm] # Mana
@@ -353,7 +353,7 @@ Hmm... I thought so.
 Thought what?[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Ah, nothin'. Just don't get your hopes up.[k]
 [cs]
 He's of royal blood, you know. He's actually a member of the Grandbell Royal Family.[k]
@@ -367,7 +367,7 @@ Dimna, you have it all wrong![k]
 I'm merely trying to keep him out of danger![k]
 [cs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Really? Er... Sorry. I'm just trying to watch out for you.
 
 [TWinBtm] # Mana
@@ -420,7 +420,7 @@ Any guy?
 
 [TWinBtm] # Radnay
 [Wait 10]
-Well, I can handle being around you and Sir Celice.[k]
+Well, I can handle being around you and Sir Serlis.[k]
 [dcs]
 
 [TWinTop] # Rodolban
@@ -437,10 +437,10 @@ Rodolban!!
 # 0x2eef93:
 # @@1045230@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Lana' 003B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 [$00$2C$3B$00], you shouldn't be out here. It's too dangerous!
 
 [TWinBtm] # Lana
@@ -448,7 +448,7 @@ Rodolban!!
 Oh, I'll be alright.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Please, stay back for me, will you? You're too easy a target for them.
 
 [TWinBtm] # Lana
@@ -456,7 +456,7 @@ Please, stay back for me, will you? You're too easy a target for them.
 But...[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 [$00$2C$3B$00], I'm just worried about you, that's all.
 
 [TWinBtm] # Lana
@@ -469,29 +469,29 @@ But...[k]
 # 0x2ef10e:
 # @@1045311@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Julia, are you doing okay?
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 I'm fine, sir.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Here, I'm giving you this. I picked it up at Sophara Castle.
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 What is it?[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 It's a Book of Aura. You can use it, can't you?
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Aura...[n]
 I've heard that somewhere before...[k]
@@ -504,37 +504,37 @@ Thank you very much, sir.[k]
 # 0x2ef03d:
 # @@1045324@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Julia, are you doing okay?
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Yes, I'm fine.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Here, I'm giving you this. I picked it up at Isaac Castle.
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 What is it?[k]
 [dcs]
 
-[TWinTop] # Selis
-It's a Book of Rezire. You can use it, can't you?
+[TWinTop] # Serlis
+It's a Book of Nosferatu. You can use it, can't you?
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Yes, I believe so.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Good. You should be able to protect yourself a little better out here now.
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 Thank you very much, sir.[k]
 
 [exit]
@@ -623,44 +623,44 @@ The Balmung... I finally have you now. This sword has... ah, woaahhh! The power!
 # 0x2ef42f:
 # @@1045409@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Shanan' 001A]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Shanan! You're alright!
 
 [TWinBtm] # Shanan
 [Wait 10]
 Yeah, I'm fine. Sorry to worry you.[k]
 [dcs]
-I heard you took back Isaac while I was gone. I can't thank you enough, Celice.[k]
+I heard you took back Isaac while I was gone. I can't thank you enough, Serlis.[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 You were the one who gave us the courage to fight in the first place!
 
 [TWinBtm] # Shanan
 [Wait 10]
-Hey Celice, you're getting some muscle on you. You'd be just about...[k]
+Hey Serlis, you're getting some muscle on you. You'd be just about...[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 What's that, Shanan?
 
 [TWinBtm] # Shanan
 [Wait 10]
-...Huh? Ah, nothing. Never mind, Celice.[k]
+...Huh? Ah, nothing. Never mind, Serlis.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Well, anyway... Shanan, I'm going to take on the empire!
 
 [TWinBtm] # Shanan
 [Wait 10]
-Haha... That's great, Celice. I've been waiting for this day to come, too.[k]
+Haha... That's great, Serlis. I've been waiting for this day to come, too.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Well, I better get going. I'll see you later, Shanan![k]
 
 [exit]
@@ -740,12 +740,12 @@ How am I now?[k]
 # @@1045609@@
 
 [TWinTop][DlgOpn]['Patty' 0039]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Patty
-Wow, it's Sir Celice!
+Wow, it's Sir Serlis!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Huh? And who are you?[k]
 [dcs]
@@ -753,7 +753,7 @@ Huh? And who are you?[k]
 [TWinTop] # Patty
 I'm [$00$2C$39$00], Shanan's girlfriend.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You're Shanan's girlfriend? Yeah, right.[k]
 [dcs]
@@ -763,7 +763,7 @@ Ulp... you got me. I used to be a thief, but I've given that all up.[k]
 [cs]
 So I'm here to help you guys out now.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You can't be serious. This is an army. It's no place for you.[k]
 [dcs]
@@ -773,7 +773,7 @@ You sure about that? You guys have no money, right? But you gotta have money to 
 [cs]
 That's where I come in. I can get you all the money you need!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, but we don't want your money if it's stolen.[k]
 [dcs]
@@ -785,7 +785,7 @@ They steal it from the villagers! I'm just tryin' to take it back from them![k]
 [cs]
 ...What's so wrong with that!?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 ...I'm sorry, [$00$2C$39$00]. You've got a good point.[k]
 [dcs]
@@ -793,7 +793,7 @@ They steal it from the villagers! I'm just tryin' to take it back from them![k]
 [TWinTop] # Patty
 Sniff...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$39$00], I think we can make room for you.[k]
 [dcs]
@@ -801,7 +801,7 @@ Sniff...
 [TWinTop] # Patty
 Hm? Really??
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, I think so.[k]
 [dcs]
@@ -811,13 +811,13 @@ I promise I'll work as hard as anybody else![k]
 [cs]
 Here, I'll give you this sword as a token of our friendship.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Wow, that's a nice blade![k]
 [dcs]
 
 [TWinTop] # Patty
-It's a Hero Sword... just for you![k]
+It's a Brave Sword... just for you![k]
 
 [exit]
 
@@ -826,12 +826,12 @@ It's a Hero Sword... just for you![k]
 # @@1045654@@
 
 [TWinTop][DlgOpn]['Ares' 0025]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Ares
-You must be Celice.
+You must be Serlis.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hm? Do I know you?[k]
 [dcs]
@@ -839,7 +839,7 @@ Hm? Do I know you?[k]
 [TWinTop] # Ares
 I'm the Black Knight, Aless. But you might know me better as the son of Eltshan.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 What? You're the son of King Eltshan!?[k]
 [dcs]
@@ -849,7 +849,7 @@ That's right! The very Eltshan that your father murdered![k]
 [cs]
 My mother went to her grave with that over her head! How does that make you feel!?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Really... But I thought our fathers were friends.[k]
 [dcs]
@@ -859,7 +859,7 @@ I know things ended horribly, but I don't think our fathers ever resented each o
 [TWinTop] # Ares
 That can't be... How could I have grown up believing the exact opposite to be true!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Aless, we need some time to work this out. Why don't you come with us for a little while?[k]
 [dcs]
@@ -871,9 +871,9 @@ Please consider it. Look, I hold King Eltshan in the same high regard as my fath
 [cs]
 But if I find out you've been lying to me, I will gladly take your life in place of Sigurd's![k]
 [cs]
-You follow me, Celice!?
+You follow me, Serlis!?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You do how you please.[k]
 [dcs]
@@ -886,12 +886,12 @@ You just don't understand how ecstatic our fathers would be at us meeting like t
 # @@1045680@@
 
 [TWinTop][DlgOpn]['Leif' 001D]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Leif
-Sir Celice, it is an honour to make your acquaintance. I am the son of King Cuan of Lenster.
+Sir Serlis, it is an honour to make your acquaintance. I am the son of King Cuan of Lenster.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Prince Leaf, it's great to finally meet you. I'm glad to see you're not hurt.[k]
 [dcs]
@@ -905,7 +905,7 @@ Fin kept me out of harm's way. We sought shelter in a nearby village and waited 
 [cs]
 The timing felt right, so we rose up. However...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 We both took up arms about the same time. We've all heard of King Blume's bloody rule.[k]
 [dcs]
@@ -923,7 +923,7 @@ With all due respect, would you consider including us in your liberation effort?
 [cs]
 With what little I have to offer I hope to assist in Grandbell's return to glory.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Thank you, Prince Leaf.[k]
 [dcs]
@@ -941,7 +941,7 @@ I'm very proud of my parents, sir. And I greatly admire your father for all he d
 [cs]
 It's Emperor Alvis and King Trabant that I detest!!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 That's exactly how I feel.[k]
 [dcs]
@@ -1074,12 +1074,12 @@ Tristan, we must make certain we never get separated again![k]
 # @@1045794@@
 
 [TWinTop][DlgOpn]['Tinny' 003D]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Tinny
 Um... sir?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hm? Who are you?[k]
 [dcs]
@@ -1087,7 +1087,7 @@ Hm? Who are you?[k]
 [TWinTop] # Tinny
 I'm [$00$2C$3D$00], [$00$2C$38$00]'s younger sister.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Ah, so you're [$00$2C$3D$00]. Yeah, I heard about you.[k]
 [dcs]
@@ -1095,7 +1095,7 @@ Ah, so you're [$00$2C$3D$00]. Yeah, I heard about you.[k]
 [TWinTop] # Tinny
 Um... I need to apologise to you.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 No, don't worry about it. King Blume is your uncle, right? You didn't have a choice.[k]
 [dcs]
@@ -1103,7 +1103,7 @@ No, don't worry about it. King Blume is your uncle, right? You didn't have a cho
 [TWinTop] # Tinny
 You'll forgive me then?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hahaha... Of course! It's good to have you on our side.[k]
 [dcs]
@@ -1111,7 +1111,7 @@ Hahaha... Of course! It's good to have you on our side.[k]
 [TWinTop] # Tinny
 Wow, you're very understanding. I wish I could've met you sooner.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3D$00], I know you have family out here, and I don't expect you to fight them, okay?[k]
 [dcs]
@@ -1126,12 +1126,12 @@ Thanks...[k]
 # @@1045820@@
 
 [TWinTop][DlgOpn]['Leen' 003E]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Leen
 Hey, Your Highness. Nice to meet you!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Er... hello. Have we met?[k]
 [dcs]
@@ -1139,7 +1139,7 @@ Er... hello. Have we met?[k]
 [TWinTop] # Leen
 Don't think so. My name's [$00$2C$3E$00]. I'm a dancer.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You're [$00$2C$3E$00], huh?[k]
 [dcs]
@@ -1147,7 +1147,7 @@ You're [$00$2C$3E$00], huh?[k]
 [TWinTop] # Leen
 What s'matter? Never seen a dancer before?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 No, I haven't.[k]
 [dcs]
@@ -1312,12 +1312,12 @@ Aira... You're the first I've met to parallel her beauty.
 # @@1045978@@
 
 [TWinTop][DlgOpn]['Faval' 0033]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Faval
-Prince Celice, please forgive me.
+Prince Serlis, please forgive me.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hey, aren't you [$00$2C$33$00]?[k]
 [dcs]
@@ -1327,9 +1327,9 @@ Don't worry about it. [$00$2C$39$00][sp]told me about all the orphans you two ar
 [TWinTop] # Faval
 Yeah, I just can't believe I was stupid enough to work for the empire. I'm so ashamed...[k]
 [cs]
-Prince Celice, I vow to make it up to you.
+Prince Serlis, I vow to make it up to you.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Well, thanks, [$00$2C$33$00]. It's good to have you aboard.[k]
 
@@ -1367,7 +1367,7 @@ So you joined the liberation army, did you?[k]
 [dcs]
 
 [TWinTop] # Femina
-Yep. I wanted to help out Sir Celice.
+Yep. I wanted to help out Sir Serlis.
 
 [TWinBtm] # Hawk
 [Wait 10]
@@ -1413,7 +1413,7 @@ So you joined the liberation army, did you?[k]
 [dcs]
 
 [TWinTop] # Fee
-Yep. I wanted to help out Sir Celice.
+Yep. I wanted to help out Sir Serlis.
 
 [TWinBtm] # Sety
 [Wait 10]
@@ -1511,7 +1511,7 @@ Whoa... I've had it wrong all this time.[k]
 [dcs]
 
 [TWinTop] # Nanna
-Aless, keep Sir Celice safe, okay? He needs you on his side more than anything!
+Aless, keep Sir Serlis safe, okay? He needs you on his side more than anything!
 
 [TWinBtm] # Ares
 [Wait 10]
@@ -1526,12 +1526,12 @@ Hey, I'll teach you some sword fighting tactics before you go. Now watch careful
 # @@1046141@@
 
 [TWinTop][DlgOpn]['Sety' 0035]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Sety
 Er... sir! May I ask who that person beside you is?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hi, Sety... That's Levin. He's my advisor. Do you know him?[k]
 [dcs]
@@ -1539,13 +1539,13 @@ Hi, Sety... That's Levin. He's my advisor. Do you know him?[k]
 [TWinTop] # Sety
 Levin... is my father...[k]
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 
 [DlgCls][xChr]
 
 [Wait 18]
 
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 Hey Sety, you found me out. How've you been?[k]
 [dcs]
 
@@ -1554,7 +1554,7 @@ Father, you've got some nerve! You have no idea how long I've been looking for y
 [cs]
 Do you have any idea how many years have past since you left Silesia!?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Hmm... good question. Hey, how's Fury doing?[k]
 [dcs]
@@ -1564,7 +1564,7 @@ H, how dare you! Mother is dead!![k]
 [cs]
 I wanted her to see you just one last time before she passed away, so I set out to find you.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Is that right? Fury... that's too bad.[k]
 [dcs]
@@ -1572,7 +1572,7 @@ Is that right? Fury... that's too bad.[k]
 [TWinTop] # Sety
 Father, you are so cold! You're not sad in the least, are you...
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 ...[k]
 [dcs]
@@ -1582,7 +1582,7 @@ Fee resents you very much, father. She's determined not to speak to you.[k]
 [cs]
 Why haven't you approached her yet? You knew she was here...
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Sety, I left my family a long time ago for a reason... Just deal with it, okay?[k]
 [dcs]
@@ -1596,10 +1596,10 @@ Sety, I left my family a long time ago for a reason... Just deal with it, okay?[
 # 0x33e13b:
 # @@1046185@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Tinny' 003D]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 [$00$2C$3D$00], do you know Princess Ishtar?
 
 [TWinBtm] # Tinny
@@ -1607,7 +1607,7 @@ Sety, I left my family a long time ago for a reason... Just deal with it, okay?[
 Yes. Ishtar was just like a sister to me.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 What about that boy who came for her,[$00$2B$E1]who was that?
 
 [TWinBtm] # Tinny
@@ -1616,7 +1616,7 @@ Hmm... That was probably Prince Julius.[k]
 [BGM 83]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 ...Prince Julius!?
 
 [TWinBtm] # Tinny
@@ -1624,7 +1624,7 @@ Hmm... That was probably Prince Julius.[k]
 Yes, the two are in love. That's why he saved her, I think.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 So you know Prince Julius?
 
 [TWinBtm] # Tinny
@@ -1641,43 +1641,43 @@ It's terrifying... almost like he's not even human.[k]
 # 0x33e2b4:
 # @@1046260@@
 
-[TWinTop][DlgOpn]['Yuria' 002B]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Julia' 002B]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 Sir...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Julia, what's wrong?[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 ...I'm scared. I sense something evil in this area.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Why's that?[k]
 [$00$2B$F7]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 [TextSpd 08]
-...Celice, be careful...[n]
+...Serlis, be careful...[n]
 Ishtar is extremely powerful... You must not fight her![k]
 [cs]
 [TextSpd FD]
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 Julia? What's gotten into you!?
 [$00$2B$E8]
 [k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 ...Huh? W, what's going on!?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Julia![k]
 
@@ -1838,18 +1838,18 @@ I don't know... But you and I are going to look for her when we're all done here
 # 0x2f8200:
 # @@1046481@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Hanibal' 0024]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 General Hanibal, please forgive our military aggression on your homeland.
 
 [TWinBtm] # Hanibal
 [Wait 10]
-Sir Celice... I heard you rescued my boy. If anyone is to apologise, it is I.[k]
+Sir Serlis... I heard you rescued my boy. If anyone is to apologise, it is I.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 General, for you, a warrior revered as 'The Shield of Thracia', to be forced into battle the way you were...[k]
 [cs]
 I just can't believe how low that King Trabant will go!
@@ -1861,12 +1861,12 @@ His deceitful ways are contemptible, indeed. He has basically lost everyone's tr
 How he ever hoped to sustain the will of the people is beyond me...[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 General, please guide us. We are still young and there's much you can teach us.
 
 [TWinBtm] # Hanibal
 [Wait 10]
-Well, if an old timer like myself will do, then you have my loyal devotion, Sir Celice.[k]
+Well, if an old timer like myself will do, then you have my loyal devotion, Sir Serlis.[k]
 
 [exit]
 
@@ -1935,12 +1935,12 @@ Heehee... Thanks, Corple.[k]
 # @@1046551@@
 
 [TWinTop][DlgOpn]['Finn' 0022]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
 [TWinTop] # Finn
 Your Highness, I am Fin, a knight of Lenster. Please... try to remember me.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 So you're Fin... Leaf told me all about you.[k]
 [dcs]
@@ -1954,7 +1954,7 @@ The thought of looking for you never crossed my mind as I was convinced that you
 [cs]
 My negligence is inexcusable.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Fin, you're crying... What's wrong?[k]
 [dcs]
@@ -1962,7 +1962,7 @@ Fin, you're crying... What's wrong?[k]
 [TWinTop] # Finn
 I... I'm sorry you have to see me like this. Forgive me...
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Wait... I do seem to remember something of you, Fin. I always had to be around you, didn't I...[k]
 [dcs]
@@ -1979,12 +1979,12 @@ Your Highness, I...[k]
 # @@1046613@@
 
 [TWinTop][DlgOpn]['Hanibal' 0024]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
 [TWinTop] # Hanibal
 Princess Altenna, they briefed me on all you've been through. Accept my deepest sympathy.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 General Hanibal... so you've sided with the liberation army as well, have you...[k]
 [dcs]
@@ -1994,7 +1994,7 @@ Well, I'm relieved. I couldn't stand opposing you as well.[k]
 [TWinTop] # Hanibal
 And what has become of Prince Arion?
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 My bro... er... Arion won't listen to me. Perhaps he'll listen to you, General.[k]
 [dcs]
@@ -2004,7 +2004,7 @@ If you had no luck with him, I can't imagine he'd listen to anyone.[k]
 [cs]
 I'd gather Prince Arion intends to face death as a warrior. It's out of our hands now.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 But General...[k]
 [dcs]
@@ -2050,49 +2050,49 @@ You... you've got a lotta nerve![k]
 # 0x2f899f:
 # @@1046764@@
 
-[TWinTop][DlgOpn]['Yuria' 002B]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Julia' 002B]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 Sir, you're not hurt, are you?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 No, I'm fine. You're the one I worry about, Julia.[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 Sir...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 What's up?[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 ...Ah, never mind.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Julia, you're acting weird. What's going on?[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 ...I just have a terrible feeling that we'll become separated somehow, never to meet again.[k]
 [cs]
 I'm... I'm scared, sir.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Julia, there's nothing to worry about.[k]
 [dcs]
 Look, I told you I'd look out for you, didn't I? Have a little trust in me.[k]
 [cs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 I... I do trust you, sir. I'm sorry... I'm always such a burden on you.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 We have been on the move for a while, you know. You're just tired, that's all.[k]
 [dcs]
@@ -2103,39 +2103,39 @@ Hey, want to do some shopping while we're there? I'll get you anything you want,
 ...as long as it's not too expensive, that is. I'd never hear the end of it from Levin.[k]
 [cs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 Oh, you! Well, that is nice of you... Thanks.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Ahh... now there's a smile.[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 Sir, would you close your eyes for a moment?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hm? What for?[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 I'm going to increase your resistance with the Magic Shield spell.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hold on! Doesn't using that spell put you at some risk?[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 I'll be fine... I have so little I can offer you, sir. Please allow me just this once.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Julia...[k]
 [dcs]
 
-[TWinTop] # Yuria
+[TWinTop] # Julia
 ...May the grace of the gods be with this person.[k]
 
 [exit]
@@ -2145,12 +2145,12 @@ Julia...[k]
 # @@1046808@@
 
 [TWinTop][DlgOpn]['Leif' 001D]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
 [TWinTop] # Leif
 Altenna, are you alright? You look tired, or something.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Ah, Leaf...[n]
 No, it's nothing really.[k]
@@ -2161,7 +2161,7 @@ Well, if you're sure...[k]
 [cs]
 But if there's ever anything I can ever do for you, just let me know.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Thanks, Leaf.[n]
 Actually, I was just thinking about Arion...[k]
@@ -2170,7 +2170,7 @@ Actually, I was just thinking about Arion...[k]
 [TWinTop] # Leif
 I thought so... I heard someone came along and just took off with him.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 I heard it was Prince Julius.[k]
 [dcs]
@@ -2178,15 +2178,15 @@ I heard it was Prince Julius.[k]
 [TWinTop] # Leif
 The Imperial Prince Julius!? But why?
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 I imagine he's trying to sway Arion over to his side.[k]
 [dcs]
 
 [TWinTop] # Leif
-So it's safe to assume we'll be facing Dragon Knights once again...
+So it's safe to assume we'll be facing Wyvern Knights once again...
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Yes, I'm afraid that's a possibility.[k]
 [dcs]
@@ -2194,7 +2194,7 @@ Yes, I'm afraid that's a possibility.[k]
 [TWinTop] # Leif
 Well, I don't think it's such a bad thing, Altenna.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Huh? Why's that?[k]
 [dcs]
@@ -2204,7 +2204,7 @@ Because Arion is still alive. That means there's still hope.[k]
 [cs]
 Don't give up just yet, Altenna. Things are bound to get better with time.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Thanks, Leaf. I think that's just what I needed to hear.[k]
 [dcs]
@@ -2221,14 +2221,14 @@ I want you to be happy. Whatever it takes, I'm here for you, Altenna.[k]
 # @@1046852@@
 
 [TWinTop][DlgOpn]['Shanan' 001A]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Shanan
-Celice, you've gotten seriously tough. It's no wonder, since you are the son of Sir Sigurd and Deirdre...[k]
+Serlis, you've gotten seriously tough. It's no wonder, since you are the son of Sir Sigurd and Deirdre...[k]
 [cs]
 I've nothing more I can show you.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I've got you to thank for everything, Shanan.[k]
 [dcs]
@@ -2238,7 +2238,7 @@ You're the one who brought me up with the sword.[k]
 [TWinTop] # Shanan
 Yeah, right. Hey, forget I even...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Are you alright, Shanan? You look tired. I wish I could give you some of my strength...[k]
 [dcs]
@@ -2246,7 +2246,7 @@ Are you alright, Shanan? You look tired. I wish I could give you some of my stre
 [TWinTop] # Shanan
 Hey, don't treat me like some old man. I can still run circles around you, you know...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Er... sorry. I didn't mean it like that.[k]
 [dcs]
@@ -2261,12 +2261,12 @@ Nah, don't sweat it. It's kind of you all the same.[k]
 # @@1046896@@
 
 [TWinTop][DlgOpn]['Oifaye' 0027]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Oifaye
 Your Highness, the Duchy of Chalphy is just beyond Miletos Channel.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 My father's homeland... Oifaye, you must be glad to be getting back.[k]
 [dcs]
@@ -2274,11 +2274,11 @@ My father's homeland... Oifaye, you must be glad to be getting back.[k]
 [TWinTop] # Oifaye
 I am. I have so many memories from that place.[k]
 [cs]
-Sir Sigurd and Princess Ethlin... Noish, Alec and all the younger soldiers I hung around with.[k]
+Sir Sigurd and Lady Ethlin... Noish, Alec and all the younger soldiers I hung around with.[k]
 [cs]
 They were all such good people.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hm... I can't imagine. I've never even been there.[k]
 [dcs]
@@ -2288,7 +2288,7 @@ That's right. You were born in Agustria and then grew up in Silesia and Isaac.[k
 [cs]
 Come to think of it, you've never set foot anywhere in Grandbell, have you...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah. I feel I've cheated the people somehow by me being a Prince of Grandbell and all.[k]
 [dcs]
@@ -2300,7 +2300,7 @@ The atrocity they've suffered is beyond words.
 [$00$2B$E1]
 That's why they desperately await the coming of their saviour.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 And that's supposed to be me?[k]
 [BGM 87]
@@ -2311,7 +2311,7 @@ Yes, it is. They've been praying for the second coming of Sigurd the Hero.[k]
 [cs]
 They believe he has returned as the fabled child born of himself and Empress Deirdre.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 The fabled child... People scare me at times, Oifaye, looking at me like I'm a god or something.[k]
 [dcs]
@@ -2323,7 +2323,7 @@ Even in Miletos children are being abducted. Parents who resist are murdered out
 [cs]
 It's truly the work of evil forces... not of mankind.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Oifaye, do you believe Emperor Alvis is the Dark Lord Loputousu?[k]
 [dcs]
@@ -2331,7 +2331,7 @@ Oifaye, do you believe Emperor Alvis is the Dark Lord Loputousu?[k]
 [TWinTop] # Oifaye
 A lot of people seem to think so, but I don't.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Do you think it's Manfloy, then?[k]
 [dcs]
@@ -2348,12 +2348,12 @@ The people revere you as a crusader, Your Highness. It's time to heed their crie
 # @@1046940@@
 
 [TWinTop][DlgOpn]['Corple' 0034]
-[TWinBtm][DlgOpn]['Altena' 002C]
+[TWinBtm][DlgOpn]['Altenna' 002C]
 
 [TWinTop] # Corple
 Your Highness, you haven't gotten hurt, have you?
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Oh, [$00$2C$34$00]...[n]
 Thanks for your concern. I'm fine.[k]
@@ -2364,7 +2364,7 @@ You be careful too, now. Don't be too reckless out here.[k]
 [TWinTop] # Corple
 Um... Your Highness?
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Yes?[k]
 [dcs]
@@ -2372,7 +2372,7 @@ Yes?[k]
 [TWinTop] # Corple
 With your permission I'd like to cast a Magic Shield over you.
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Ah... you're worried because my resistance is low, aren't you...[k]
 [dcs]
@@ -2386,7 +2386,7 @@ Your Highness, I never knew my real mother... But you've always been there for m
 [cs]
 Please... I'm just trying to help you!!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Alright, [$00$2C$34$00]. If it means that much to you...[k]
 [dcs]
@@ -2396,7 +2396,7 @@ But promise me that at the very first sign of trouble you back out. Understood?[
 [TWinTop] # Corple
 You got a deal! Don't worry, I'll be extra careful!
 
-[TWinBtm] # Altena
+[TWinBtm] # Altenna
 [Wait 10]
 Shall we proceed then?[k]
 [dcs]
@@ -2576,16 +2576,16 @@ Haha... You're a good guy, [$00$2C$33$00].[k]
 # 0x2f9cbd:
 # @@1047237@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Leen' 003E]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Leen, Levin wants a word with you. I'll be right over here if you need anything.[k]
 [cs]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Old Levin' 0280]
 Leen, take it easy out here. You'd send the boys crying if you ever scratched that beautiful face of yours.
 
 [TWinBtm] # Leen
@@ -2593,7 +2593,7 @@ Leen, take it easy out here. You'd send the boys crying if you ever scratched th
 Hey, Levin. Did you know my mum?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Huh?[n]
 Why would I know your mum?
 
@@ -2602,7 +2602,7 @@ Why would I know your mum?
 'Cause you seem to know everything.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 You want to know about your mum, huh...
 
 [TWinBtm] # Leen
@@ -2610,7 +2610,7 @@ You want to know about your mum, huh...
 Yes! And my dad too![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Leen, you are who you are... Don't worry yourself too much about who your parents were.[k]
 [cs]
 I will tell you this, though. Your parents loved each other like nothing else.[k]
@@ -2626,7 +2626,7 @@ That was my father, wasn't it... Why won't he show himself to me!?[k]
 It's lonely not knowing who your parents are your whole life...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Leen...[k]
 
 [exit]
@@ -2635,16 +2635,16 @@ Leen...[k]
 # 0x2f9ef4:
 # @@1047281@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Fee' 003C]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Fee, Levin wants a word with you. I'll be right over here if you need anything.[k]
 [cs]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Old Levin' 0280]
 Fee... you're stubborn, you know that? You're just like your mother.
 
 [TWinBtm] # Fee
@@ -2652,7 +2652,7 @@ Fee... you're stubborn, you know that? You're just like your mother.
 Grr...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Hey, don't get angry. Look, I'm sorry I ignored you.
 
 [TWinBtm] # Fee
@@ -2667,7 +2667,7 @@ I was in tears![k]
 But you wouldn't speak to me! Do you have any idea how horrible that's made me feel!?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 So... what?[n]
 You've just been pretending not to notice me all this time?
 
@@ -2676,7 +2676,7 @@ You've just been pretending not to notice me all this time?
 I decided I wasn't going to talk to you unless you approached me first.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Damn, you're stubborn, girl.
 
 [TWinBtm] # Fee
@@ -2687,7 +2687,7 @@ That's it! You just forget you ever had a daughter!![k]
 If you weren't such a jerk, mum still might be...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Fee, look, I'm sorry about Fury...[k]
 [cs]
 But what went on between the two of us is really none of yours or Sety's damn business!
@@ -2697,7 +2697,7 @@ But what went on between the two of us is really none of yours or Sety's damn bu
 Father![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Fee, the only thing you need to concern yourself with is winning this war! Got it!?[k]
 
 [exit]
@@ -2706,10 +2706,10 @@ Fee, the only thing you need to concern yourself with is winning this war! Got i
 # 0x2fa199:
 # @@1047325@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 [TWinBtm][DlgOpn]['Tinny' 003D]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Tinny, Levin wants a word with you.[k]
 [cs]
 I'll be right over here if you need anything.[k]
@@ -2717,7 +2717,7 @@ I'll be right over here if you need anything.[k]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Old Levin' 0280]
 Tinny, Hilda was your aunt, wasn't she? It must be tough being out here.
 
 [TWinBtm] # Tinny
@@ -2725,7 +2725,7 @@ Tinny, Hilda was your aunt, wasn't she? It must be tough being out here.
 No, I'm fine with it. Queen Hilda was an evil, evil person.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 What, did she treat you bad or something?
 
 [TWinBtm] # Tinny
@@ -2733,7 +2733,7 @@ What, did she treat you bad or something?
 Yeah. She always used to beat me and call me names, and she said my mother a traitor.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 That would've been Tiltyu...
 
 [TWinBtm] # Tinny
@@ -2743,7 +2743,7 @@ Yes. She and Arthur escaped to Silesia after the Battle of Barhara. Then she had
 But I was told my father passed away...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Is that right... So you came to the Alster Kingdom after all that?
 
 [TWinBtm] # Tinny
@@ -2753,7 +2753,7 @@ Well, we didn't go there willingly. We were taken by force by King Blume's men.[
 And then that's where my mother died.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 You sure haven't had it easy, have you...
 
 [TWinBtm] # Tinny
@@ -2764,7 +2764,7 @@ Anyway, Hilda really had it in for my mum.[k]
 My mum put up with so much to keep me safe. A day didn't go by that she wasn't crying...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Geez...[n]
 That's horrible.
 
@@ -2773,7 +2773,7 @@ That's horrible.
 Levin... are you okay?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Huh? Why do you ask?
 
 [TWinBtm] # Tinny
@@ -2781,7 +2781,7 @@ Huh? Why do you ask?
 I don't know. It kinda looks like you're crying.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 No, I'm... it's... it must just be sweat. It's nothing...[k]
 
 [exit]
@@ -2791,12 +2791,12 @@ No, I'm... it's... it must just be sweat. It's nothing...[k]
 # @@1047369@@
 
 [TWinTop][DlgOpn]['Tinny' 003D]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Tinny
-Celice...
+Serlis...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3D$00]! Get back, would you?[k]
 [dcs]
@@ -2804,7 +2804,7 @@ Celice...
 [TWinTop] # Tinny
 Please, I want to help out, too!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I know, but... I just don't want to lose you![k]
 [dcs]
@@ -2812,9 +2812,9 @@ I know, but... I just don't want to lose you![k]
 [TWinTop] # Tinny
 Well, I'm not budging. I'm not letting what happened to Deirdre to happen to me too![k]
 [cs]
-Please, Celice... Just let me stay near you!
+Please, Serlis... Just let me stay near you!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 ...Yeah, you're right. I'm sorry. We do need to stay close, don't we?[k]
 [dcs]
@@ -2902,12 +2902,12 @@ That's right, isn't it![k]
 # @@1047518@@
 
 [TWinTop][DlgOpn]['Daisy' 0028]
-[TWinBtm][DlgOpn]['Dimuna' 0023]
+[TWinBtm][DlgOpn]['Dimna' 0023]
 
 [TWinTop] # Daisy
 Hey Dimna. What're you up to?
 
-[TWinBtm] # Dimuna
+[TWinBtm] # Dimna
 [Wait 10]
 I don't know... Actually, I'm a little depressed.[k]
 [dcs]
@@ -2915,7 +2915,7 @@ I don't know... Actually, I'm a little depressed.[k]
 [TWinTop] # Daisy
 Why's that?
 
-[TWinBtm] # Dimuna
+[TWinBtm] # Dimna
 [Wait 10]
 Don't you feel like we're kinda not needed here?[k]
 [dcs]
@@ -2923,7 +2923,7 @@ Don't you feel like we're kinda not needed here?[k]
 [TWinTop] # Daisy
 Hmm... Now that you say it, I don't think they need us at all here!
 
-[TWinBtm] # Dimuna
+[TWinBtm] # Dimna
 [Wait 10]
 That's just what I mean. Look, I'm going to go back to Isaac and find a regular job.[k]
 [dcs]
@@ -2931,7 +2931,7 @@ That's just what I mean. Look, I'm going to go back to Isaac and find a regular 
 [TWinTop] # Daisy
 Yeah, I'm pooped. Hey, why don't we go back together when this is all finished?
 
-[TWinBtm] # Dimuna
+[TWinBtm] # Dimna
 [Wait 10]
 Look at us...[n]
 ...We're so hopeless.[k]
@@ -3021,12 +3021,12 @@ Hehehe... Asaello...[k]
 # @@1047650@@
 
 [TWinTop][DlgOpn]['Lana' 003B]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Lana
-Celice, we've just a little more go...
+Serlis, we've just a little more to go...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah. You've meant a lot to me out here, [$00$2C$3B$00]. I really mean that.[k]
 [dcs]
@@ -3036,7 +3036,7 @@ Well, I don't know if I've actually done anything...[k]
 [cs]
 But I'm content just being by your side.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3B$00], we go pretty far back, don't we... I remember us always hanging out as kids.[k]
 [dcs]
@@ -3044,15 +3044,15 @@ But I'm content just being by your side.
 [TWinTop] # Lana
 Uh-huh. I have so many good memories from back then, but I never thought you and I...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 But I've always liked you, [$00$2C$3B$00]...[k]
 [dcs]
 
 [TWinTop] # Lana
-I know... but it's just hard for me to accept that, Celice. I feel so awful to Julia...
+I know... but it's just hard for me to accept that, Serlis. I feel so awful for Julia...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3B$00]...[k]
 
@@ -3108,12 +3108,12 @@ Faval...[n]
 # @@1047738@@
 
 [TWinTop][DlgOpn]['Lana' 003B]
-[TWinBtm][DlgOpn]['Skasaha' 0032]
+[TWinBtm][DlgOpn]['Scathach' 0032]
 
 [TWinTop] # Lana
 [$00$2C$32$00]...
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 What's up?[k]
 [dcs]
@@ -3121,7 +3121,7 @@ What's up?[k]
 [TWinTop] # Lana
 You make me proud, you know that?
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 Hey, what're you gettin' all sentimental on me for?[k]
 [dcs]
@@ -3129,7 +3129,7 @@ Hey, what're you gettin' all sentimental on me for?[k]
 [TWinTop] # Lana
 [$00$2C$32$00], you promise me you won't get killed out here, okay?
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 Don't you worry... I'd never leave you.[k]
 [dcs]
@@ -3138,7 +3138,7 @@ Don't you worry... I'd never leave you.[k]
 [$00$2C$32$00]...[n]
 ...
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 ...yeah?[k]
 [dcs]
@@ -3153,12 +3153,12 @@ Don't you worry... I'd never leave you.[k]
 # @@1047799@@
 
 [TWinTop][DlgOpn]['Lakche' 003A]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Lakche
-Celice, wait up!
+Serlis, wait up!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3A$00]?[k]
 [dcs]
@@ -3166,7 +3166,7 @@ Celice, wait up!
 [TWinTop] # Lakche
 I'm coming with you!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Sure, that's fine with me. Everything alright?[k]
 [dcs]
@@ -3174,7 +3174,7 @@ Sure, that's fine with me. Everything alright?[k]
 [TWinTop] # Lakche
 I... I'm just a little scared, that's all.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Really? Geez, that sure doesn't sound like you, [$00$2C$3A$00].[k]
 [dcs]
@@ -3182,13 +3182,13 @@ Really? Geez, that sure doesn't sound like you, [$00$2C$3A$00].[k]
 [TWinTop] # Lakche
 I just...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hey, don't worry about it. I'd feel better if you were with me anyway.[k]
 [dcs]
 
 [TWinTop] # Lakche
-Celice...[k]
+Serlis...[k]
 
 [exit]
 
@@ -3197,12 +3197,12 @@ Celice...[k]
 # @@1047843@@
 
 [TWinTop][DlgOpn]['Lakche' 003A]
-[TWinBtm][DlgOpn]['Johann' 001E]
+[TWinBtm][DlgOpn]['Johan' 001E]
 
 [TWinTop] # Lakche
 Johan, you alright?
 
-[TWinBtm] # Johann
+[TWinBtm] # Johan
 [Wait 10]
 I hate to admit it, but even I'm having a hard time keeping up out here.[k]
 [dcs]
@@ -3213,7 +3213,7 @@ But with your love I shall prevail... you wait and see![k]
 ...right.[n]
 Hmph... Well, I fell for you, so I guess I'm stuck with you.
 
-[TWinBtm] # Johann
+[TWinBtm] # Johan
 [Wait 10]
 Love makes no mistakes, my darling. Now let's see a smile![k]
 [dcs]
@@ -3221,7 +3221,7 @@ Love makes no mistakes, my darling. Now let's see a smile![k]
 [TWinTop] # Lakche
 Sure. You hang in there, Johan.
 
-[TWinBtm] # Johann
+[TWinBtm] # Johan
 [Wait 10]
 Ah... [$00$2C$3A$00]...[k]
 
@@ -3232,12 +3232,12 @@ Ah... [$00$2C$3A$00]...[k]
 # @@1047887@@
 
 [TWinTop][DlgOpn]['Lakche' 003A]
-[TWinBtm][DlgOpn]['Jolaver' 0031]
+[TWinBtm][DlgOpn]['Johalva' 0031]
 
 [TWinTop] # Lakche
 Johalva, you okay?
 
-[TWinBtm] # Jolaver
+[TWinBtm] # Johalva
 [Wait 10]
 This battle is proving to be a tough one... even for me.[k]
 [dcs]
@@ -3247,7 +3247,7 @@ At least we got Dozel back... Alright, I'm going back in.[k]
 [TWinTop] # Lakche
 You be careful out here! You're the one who has to get the duchy back on its feet.
 
-[TWinBtm] # Jolaver
+[TWinBtm] # Johalva
 [Wait 10]
 Yeah, I know...[k]
 [dcs]
@@ -3260,7 +3260,7 @@ Besides, I'd never get over my father's and brothers' deaths if I left things as
 Uh-huh.[n]
 I guess you could say I sort of owe you.
 
-[TWinBtm] # Jolaver
+[TWinBtm] # Johalva
 [Wait 10]
 Yeow... that's my girl! You're the best, [$00$2C$3A$00]![k]
 [dcs]
@@ -3319,12 +3319,12 @@ Shanan...[k]
 # @@1047975@@
 
 [TWinTop][DlgOpn]['Patty' 0039]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Patty
-Celice, here you go!
+Serlis, here you go!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Wow, you made lunch! This is for me, is it? Thanks a lot, [$00$2C$39$00].[k]
 [dcs]
@@ -3332,7 +3332,7 @@ Wow, you made lunch! This is for me, is it? Thanks a lot, [$00$2C$39$00].[k]
 [TWinTop] # Patty
 ...and here's your drink.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Wow, really? Geez... thanks! This is just what I needed.[k]
 [dcs]
@@ -3340,7 +3340,7 @@ Wow, really? Geez... thanks! This is just what I needed.[k]
 [TWinTop] # Patty
 And this is to top it off... Here.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Er... what's this?[k]
 [dcs]
@@ -3348,7 +3348,7 @@ Er... what's this?[k]
 [TWinTop] # Patty
 It's my own home brewed stamina drink. It'll give you a little boost. Now don't waste it!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 N, no. I won't.[k]
 
@@ -3434,34 +3434,34 @@ Hehe... You know it![k]
 # @@1048122@@
 
 [TWinTop][DlgOpn]['Nanna' 003F]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Nanna
-Celice...
+Serlis...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3F$00]... we've still got a tough battle ahead of us, so just play it safe, alright?[k]
 [dcs]
 
 [TWinTop] # Nanna
-I will. But you've got me worried, Celice. Please, don't push yourself too hard.
+I will. But you've got me worried, Serlis. Please, don't push yourself too hard.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I know, but we've come this far... I just can't let up now.[k]
 [dcs]
 
 [TWinTop] # Nanna
-Well, I'll do my best to look out for you. You're always in my prayers, Celice.
+Well, I'll do my best to look out for you. You're always in my prayers, Serlis.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Thanks, [$00$2C$3F$00]. Believe me, I really appreciate all the times you've helped me out.[k]
 [dcs]
 
 [TWinTop] # Nanna
-Any time, Celice.[n]
+Any time, Serlis.[n]
 Any time...[k]
 
 [exit]
@@ -3547,12 +3547,12 @@ Leaf, wherever you go, I shall follow... even to the ends of the continent.[k]
 # @@1048254@@
 
 [TWinTop][DlgOpn]['Fee' 003C]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Fee
-Celice, how about I go get a close up on the enemy?
+Serlis, how about I go get a close up on the enemy?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Forget it, [$00$2C$3C$00]! This battle isn't like the others. Don't you dare leave my side![k]
 [dcs]
@@ -3560,7 +3560,7 @@ Forget it, [$00$2C$3C$00]! This battle isn't like the others. Don't you dare lea
 [TWinTop] # Fee
 If you say so...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3C$00], are you worried about Silesia?[k]
 [dcs]
@@ -3568,7 +3568,7 @@ If you say so...
 [TWinTop] # Fee
 Yeah, a little. It sounds like they all started fighting too.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 The Isaacians staged an uprising. It's going rather well from the sounds of it.[k]
 [dcs]
@@ -3576,7 +3576,7 @@ The Isaacians staged an uprising. It's going rather well from the sounds of it.[
 [TWinTop] # Fee
 Really? I'm so glad to hear it!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You probably want to get back home, don't you...[k]
 [dcs]
@@ -3584,13 +3584,13 @@ You probably want to get back home, don't you...[k]
 [TWinTop] # Fee
 No way! I'm not leaving your side.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Wow... Thanks, [$00$2C$3C$00]. I'm glad to hear it.[k]
 [dcs]
 
 [TWinTop] # Fee
-Celice... you're like a dream come true for me. I wanna stay with you forever...[k]
+Serlis... you're like a dream come true for me. I wanna stay with you forever...[k]
 
 [exit]
 
@@ -3654,7 +3654,7 @@ That's not a good idea, Fee. They'd shoot you right out of the sky.[k]
 [dcs]
 
 [TWinTop] # Fee
-Oifaye.. um...
+Oifaye... um...
 
 [TWinBtm] # Oifaye
 [Wait 10]
@@ -3662,7 +3662,7 @@ What's on your mind, Fee?[k]
 [dcs]
 
 [TWinTop] # Fee
-It's really admirable that you've devoted your life to keeping Prince Celice safe.
+It's really admirable that you've devoted your life to keeping Prince Serlis safe.
 
 [TWinBtm] # Oifaye
 [Wait 10]
@@ -3830,29 +3830,29 @@ She died in battle... How sad...[k]
 # 0x2fc27c:
 # @@1048535@@
 
-[TWinTop][DlgOpn]['Leilia' 002F]
-[TWinBtm][DlgOpn]['Charlo' 001F]
+[TWinTop][DlgOpn]['Laylea' 002F]
+[TWinBtm][DlgOpn]['Sharlow' 001F]
 
-[TWinTop] # Leilia
+[TWinTop] # Laylea
 Hey, you're Sharlow, aren't you?
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 Huh... Have we met?[k]
 [dcs]
 
-[TWinTop] # Leilia
+[TWinTop] # Laylea
 I'm Laylea. You've never seen a dancer before, have you?
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 No... you're my first.[k]
 [dcs]
 
-[TWinTop] # Leilia
+[TWinTop] # Laylea
 Haha! Well, if you ever have some free time, come on over and I'll dance for you.
 
-[TWinBtm] # Charlo
+[TWinBtm] # Sharlow
 [Wait 10]
 Oh... okay.[k]
 
@@ -3863,12 +3863,12 @@ Oh... okay.[k]
 # @@1048579@@
 
 [TWinTop][DlgOpn]['Femina' 002D]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop] # Femina
-You're Sir Celice?
+You're Sir Serlis?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yes. And who are you?[k]
 [dcs]
@@ -3876,7 +3876,7 @@ Yes. And who are you?[k]
 [TWinTop] # Femina
 I am Femina. I just got here from Silesia.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Silesia? Are you a Pegasus Knight?[k]
 [dcs]
@@ -3884,7 +3884,7 @@ Silesia? Are you a Pegasus Knight?[k]
 [TWinTop] # Femina
 Yes. Er... Actually, I'm still in training.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I see. So what are you doing in Isaac?[k]
 [dcs]
@@ -3896,7 +3896,7 @@ But when I heard word of you taking on the empire, I made a little change in pla
 [cs]
 Please, I'd like to join your liberation army.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, that's fine with me. But what about your brother?[k]
 [dcs]

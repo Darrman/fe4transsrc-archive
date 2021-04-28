@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 24/06/2006
-# This file was last modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering the narration before each level.
 
@@ -603,7 +603,7 @@ Stationed in the desert town Phinora were Lord Alvis' men,
 [$00$82$06$48$02]
 [$00$83$06$70$28]
 [$00$81$0C]
-and the great Magefighter, Vaha.[k]
+and the great Mage Hero, Vaha.[k]
 [cs]
 [$00$80$5C$7C$0C$2C]
 In Velthomer, Alvis' most trusted confidant
@@ -808,7 +808,7 @@ He was also revered as the Imperial Prince of Grandbell.[k]
 [Wait 0A]
 [$00$82$02$19$00]
 [$00$83$02$5C$1C]
-He was the young leader of the liberation army. His name was... Celice.[k]
+He was the young leader of the liberation army. His name was... Serlis.[k]
 [Wait 08]
 [$00$81$00]
 [Wait 0A]
@@ -824,7 +824,7 @@ He was the young leader of the liberation army. His name was... Celice.[k]
 # 0xed6bd:
 # @@917642@@
 
-Word spread of the liberation army under Imperial Prince Celice, instilling a sense of courage in those still suffering under the empire's tyrannical rule.[k]
+Word spread of the liberation army under Imperial Prince Serlis, instilling a sense of courage in those still suffering under the empire's tyrannical rule.[k]
 [cs]
 As a result uprisings broke out in almost every corner of the continent.[k]
 [cs]
@@ -914,7 +914,7 @@ with his niece, a young mage named
 # @@917668@@
 
 [$00$80$8C$34$00$50]
-Celice was all set to depart Rivough and lead the warriors
+Serlis was all set to depart Rivough and lead the warriors
 [$00$81$00]
 [$00$82$02$19$00]
 [$00$83$02$64$30]
@@ -946,7 +946,7 @@ The northern half is an enormous fertile savannah home to several small kingdoms
 
 The south however is a barren wasteland lined with towering mountains, 
 [$00$86$06]
-and home to the Thracia Kingdom and their infamous Dragon Knights.[k]
+and home to the Thracia Kingdom and their infamous Wyvern Knights.[k]
 [cs]
 With reckless valour Thracia made repeated attempts
 [$00$87]
@@ -987,7 +987,7 @@ But the fall of the capitol in Alster to the liberation army presented a new twi
 [Wait 02]
 [$00$80$6C$5C$00$54]
 [Wait 04]
-Celice's liberation army now controlled 
+Serlis's liberation army now controlled 
 [Wait 04]
 [$00$80$84$1C$0C$52]
 [Wait 04]
@@ -1043,7 +1043,7 @@ And thus another battle commenced.
 Upon liberating the peninsula's northern half, the liberation army stationed themselves at Mease Castle uncertain of their next course of action.[k]
 [$00$84$02]
 [cs]
-Beyond Mease Castle and the towering mountain ranges lay Thracia, home of the Dragon Knights.
+Beyond Mease Castle and the towering mountain ranges lay Thracia, home of the Wyvern Knights.
 [$00$86$06]
 [k]
 [cs]
@@ -1083,12 +1083,12 @@ the Dark Bishop Judah held Grutia Castle.[k]
 [cs]
 King Trabant was prepared for a full-scale confrontation with the liberation army.[k]
 [cs]
-Even the citizens of Thracia feared Celice's army to be an invading force and began taking up arms.[k]
+Even the citizens of Thracia feared Serlis's army to be an invading force and began taking up arms.[k]
 [cs]
 Is there any justice to be found in this battle?[n]
 And for whom are we fighting for?[k]
 [cs]
-These very issues now confronted Celice and his liberation army for the first time.[k]
+These very issues now confronted Serlis and his liberation army for the first time.[k]
 [$00$84$02]
 [$00$84$04]
 [$00$84$06]
@@ -1109,7 +1109,7 @@ After subduing Thracia Castle,
 [Wait 0A]
 [$00$80$4C$6B$0C$38]
 [Wait 1E]
-Celice advanced straight for Grandbell.
+Serlis advanced straight for Grandbell.
 [Wait 3C]
 [k]
 [Wait 0A]
@@ -1143,7 +1143,7 @@ carried out merciless child hunts at Rados under orders from Archbishop Manfloy.
 [cs]
 Fortune, hope, freedom, and destiny had all been stripped from the hands of the people.[k]
 [cs]
-The Dark Sect's sacrificial rituals, claiming one life after another, left Celice with no other choice but to intervene.[k]
+The Dark Sect's sacrificial rituals, claiming one life after another, left Serlis with no other choice but to intervene.[k]
 [cs]
 An intense battle ensued,
 [$00$80$B6$54$0C$36]

@@ -1,5 +1,5 @@
-# Last Modified: 06/07/04
-# This file was added by Dark Twilkitri
+# Last Modified: 2012-03-11
+# This file was added by Twilkitri
 
 # This file is used for altering the green (selected)
 # choices on the config screen in the option box.

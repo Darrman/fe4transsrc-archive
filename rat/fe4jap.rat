@@ -1,6 +1,6 @@
 .rat
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-16
+# This file was modified by Twilkitri
 
 # This lists address ranges for the currently existing
 # japanese text. We may safely overwrite these ranges
@@ -34,6 +34,7 @@ SECTION PUBLIC
 	0BD4AF-0BD4D6		# 39 bytes
 	0BD64E-0BD667		# 25 bytes
 	0BD684-0BD6BB		# 55 bytes
+	0CF2F1-0D01BA		# 3785 bytes
 	0E9F80-0ECC62		# 11490 bytes
 	0F826B-0FBA1C		# 14257 bytes
 	0FC315-0FCF83		# 3183 bytes

@@ -1,7 +1,7 @@
 # Fontcheck: Tiled
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-03-12
+# This file was added by Twilkitri
 
 # This file is for altering headings in the Character Status Screen
 # and several in the Item Screen.
@@ -192,12 +192,12 @@ Drk
 # The following are skill types
 # @@632474@@
 
-Soldier
+Class
 [exit]
 
 # @@632486@@
 
-Citizen
+Personal
 [exit]
 
 

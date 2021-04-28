@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 13/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file contains the 2A-type scripts for
 # Chapter 4
@@ -193,7 +193,7 @@ Good. The royal heritage won't die out...[k]
 [TWinTop]
 Also, the princess is apparently in a relationship with Lord Alvis.[k]
 [cs]
-The King has approved their marraige, and there is to be a grand wedding soon.
+The King has approved their marriage, and there is to be a grand wedding soon.
 [Wait 10]
 
 [TWinBtm]
@@ -209,7 +209,7 @@ You... oh... I'm sorry, Lord Sigurd. Your wife...
 [TWinBtm]
 Deirdre... she's still gone...[k]
 [dcs]
-It's already been over a year. Celice has grown so much, but I still can't show him to her...[k]
+It's already been over a year. Serlis has grown so much, but I still can't show him to her...[k]
 [cs]
 
 [TWinTop]
@@ -300,7 +300,7 @@ Lady Rahna, it's been a pleasure.[k]
 # @@957310@@
 [block b004]
 
-[TWinBtm][DlgOpn]['Dakar' 0240]
+[TWinBtm][DlgOpn]['Daccar' 0240]
 Silesia was overtaken by the Grandbell traitors!?[k]
 [cs]
 What the hell is Donovan doing out there!?[k]
@@ -341,7 +341,7 @@ The bridge is already down? How did you know how to do that?[k]
 # @@957545@@
 [block b010]
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 The drawbridge over Thove River is under the control of Lord Maios.[k]
 [cs]
 If it's not down, and you don't have a key, you're not getting across.[k]

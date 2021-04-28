@@ -3,9 +3,9 @@
 
 # Options
 CC=gcc
+AR=/opt/gcc.4.2/bin/ar
 CFLAGS=-I. -I.. -Wall -W -O2 -ansi -pedantic -g
 LDFLAGS=
-MAKE=make
 RM=rm -f
 
 SRC=scanz.c ips2sif.c libsif.c

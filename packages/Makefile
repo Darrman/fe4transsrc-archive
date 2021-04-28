@@ -1,13 +1,14 @@
 # This makefile builds external packages and installs them
 
+LDFLAGS=-ldl
 ifeq ($(DESTDIR),)
 DESTDIR=$(PWD)/..
 endif
 
 all: .patchok
-	make -C 65816
-	make -C sif
-	make -C TableLib
+	$(MAKE) -C 65816
+	$(MAKE) -C sif
+	$(MAKE) -C TableLib
 .patchok: 65816-2.0-2.patch
 	@echo 
 	@echo "Do you wish to apply 65816-2.0-2.patch to the 65816 assembler?"
@@ -19,16 +20,16 @@ all: .patchok
 		cd 65816 && patch -p1 < ../65816-2.0-2.patch && touch ../$@; \
 	fi
 install:
-	install 65816/65816 $(DESTDIR)/bin
-	install sif/sif $(DESTDIR)/bin
-	install sif/tools/ips2sif $(DESTDIR)/bin
-	install sif/tools/scanz $(DESTDIR)/bin
-	install sif/sif.h $(DESTDIR)/include
-	install sif/tools/libsif.a $(DESTDIR)/lib
-	install TableLib/tbl.h $(DESTDIR)/include
-	install TableLib/libtbl.a $(DESTDIR)/lib
+	install 65816/65816 "$(DESTDIR)/bin"
+	install sif/sif "$(DESTDIR)/bin"
+	install sif/tools/ips2sif "$(DESTDIR)/bin"
+	install sif/tools/scanz "$(DESTDIR)/bin"
+	install sif/sif.h "$(DESTDIR)/include"
+	install sif/tools/libsif.a "$(DESTDIR)/lib"
+	install TableLib/tbl.h "$(DESTDIR)/include"
+	install TableLib/libtbl.a "$(DESTDIR)/lib"
 clean:
-	make -C 65816 clean
-	make -C sif veryclean
-	make -C TableLib clean
+	$(MAKE) -C 65816 clean
+	$(MAKE) -C sif veryclean
+	$(MAKE) -C TableLib clean
 	

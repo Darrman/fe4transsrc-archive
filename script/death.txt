@@ -2,8 +2,8 @@
 
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file contains the death speeches of every character.
 
@@ -235,7 +235,7 @@ please forgive me...[k]
 # 0xedf78
 # @@980020@@
 
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 [TextSpd 08]...gods,[n]
 please protect everyone.[k]
 
@@ -254,7 +254,7 @@ please protect everyone.[k]
 # 0xedfb7
 # @@980028@@
 
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 [TextSpd 08]Ahh... father...[k]
 
 [exit]
@@ -263,7 +263,7 @@ please protect everyone.[k]
 # 0xedfb7
 # @@980032@@
 
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 [TextSpd 08]Ahh... father...[k]
 
 [exit]
@@ -272,7 +272,7 @@ please protect everyone.[k]
 # 0xedfb7
 # @@980036@@
 
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 [TextSpd 08]Ahh... father...[k]
 
 [exit]
@@ -281,7 +281,7 @@ please protect everyone.[k]
 # 0xedfb7
 # @@980042@@
 
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 [TextSpd 08]Ahh... father...[k]
 
 [exit]
@@ -291,7 +291,7 @@ please protect everyone.[k]
 # @@980046@@
 
 [TWinBtm][DlgOpn]['Shanan' 001A]
-[TextSpd 08]Urgh... Celice, forgive me![k]
+[TextSpd 08]Urgh... Serlis, forgive me![k]
 
 [exit]
 
@@ -357,7 +357,7 @@ please protect everyone.[k]
 # @@980074@@
 
 [TWinBtm][DlgOpn]['Tristan' 0021]
-[TextSpd 08]Lord Celice, I wish you luck...[k]
+[TextSpd 08]Lord Serlis, I wish you luck...[k]
 
 [exit]
 
@@ -377,7 +377,7 @@ please protect everyone.[k]
 # @@980082@@
 
 [TWinBtm][DlgOpn]['Dimna' 0023]
-[TextSpd 08]Lord Celice,[n]
+[TextSpd 08]Lord Serlis,[n]
 I leave the rest to you...[k]
 
 [exit]
@@ -443,7 +443,7 @@ I'm so sorry...[n]
 # @@980110@@
 
 [TWinBtm][DlgOpn]['Mana' 002A]
-[TextSpd 08]Ahh, Sir Celice...[k]
+[TextSpd 08]Ahh, Sir Serlis...[k]
 
 [exit]
 
@@ -451,7 +451,7 @@ I'm so sorry...[n]
 # 0xee204
 # @@980114@@
 
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinBtm][DlgOpn]['Julia' 002B]
 [TextSpd 08]Please stop![n]
 Where am I being taken?![k]
 
@@ -507,7 +507,7 @@ I'll leave the rest to you...[k]
 # 0xee377
 # @@980138@@
 
-[TWinBtm][DlgOpn]['Skasaha' 0032]
+[TWinBtm][DlgOpn]['Scathach' 0032]
 [TextSpd 08]How is this...[n]
 [Wait 18]Lakche...[n]
 I'll leave the rest to you...[k]
@@ -558,7 +558,7 @@ Thank you for raising me...[k]
 # @@980158@@
 
 [TWinBtm][DlgOpn]['Delmud' 0036]
-[TextSpd 08]Sir Celice, good luck...[k]
+[TextSpd 08]Sir Serlis, good luck...[k]
 
 [exit]
 
@@ -567,7 +567,7 @@ Thank you for raising me...[k]
 # @@980162@@
 
 [TWinBtm][DlgOpn]['Lester' 0037]
-[TextSpd 08]Lord Celice,[n]
+[TextSpd 08]Lord Serlis,[n]
 I leave the rest to you...[k]
 
 [exit]
@@ -711,7 +711,7 @@ I want to see you again...[k]
 # 0xedf46
 # @@980224@@
 
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 [TextSpd 08]...gods, please protect everyone.[n]
 [$00$22], I'm sorry...[k]
 
@@ -730,8 +730,8 @@ I want to see you again...[k]
 # 0xee1ee
 # @@980232@@
 
-[TWinBtm][DlgOpn]['Yuria' 002B]
-[TextSpd 08]Ahh, Sir Celice...[k]
+[TWinBtm][DlgOpn]['Julia' 002B]
+[TextSpd 08]Ahh, Sir Serlis...[k]
 
 [exit]
 
@@ -739,8 +739,8 @@ I want to see you again...[k]
 # 0xee1ee
 # @@3254801@@
 
-[TWinBtm][DlgOpn]['Yuria' 002B]
-[TextSpd 08]Ahh, Sir Celice...[k]
+[TWinBtm][DlgOpn]['Julia' 002B]
+[TextSpd 08]Ahh, Sir Serlis...[k]
 
 [exit]
 
@@ -854,7 +854,7 @@ Gah...
 # 0xee626
 # @@980282@@
 
-[TWinBtm][DlgOpn]['Sandima' 0052]
+[TWinBtm][DlgOpn]['Dark Mage (Sandima)' 0052]
 Archbishop Manfloy...[n]
 Please forgive me...
 [Wait C8]
@@ -1105,7 +1105,7 @@ Too... strong...
 # 0xee97f
 # @@980386@@
 
-[TWinBtm][DlgOpn]['Dakar' 0240]
+[TWinBtm][DlgOpn]['Daccar' 0240]
 Uuh... My plans...[n]
 They... 
 [Wait C8]
@@ -1133,7 +1133,7 @@ Sigurd... Sor... ry...
 # 0xee9d3
 # @@980398@@
 
-[TWinBtm][DlgOpn]['Slayder' 029A]
+[TWinBtm][DlgOpn]['Slaydar' 029A]
 Damn, I've miscalculated...
 [Wait C8]
 [exit]
@@ -1153,7 +1153,7 @@ Avenge me...
 # 0xeea1b
 # @@980406@@
 
-[TWinBtm][DlgOpn]['Langobalt' 00DB]
+[TWinBtm][DlgOpn]['Langbart' 00DB]
 No...[n]
 I've been defeated...?[n]
 Dannan... it's up to you.
@@ -1259,7 +1259,7 @@ Our love is eternal...
 # 0xeebc8
 # @@980444@@
 
-[TWinBtm][DlgOpn]['Shumit' 0245]
+[TWinBtm][DlgOpn]['Schmidt' 0245]
 Lord Dannan... please forgive me!
 [Wait C8]
 [exit]
@@ -1268,7 +1268,7 @@ Lord Dannan... please forgive me!
 # 0xeebe5 
 # @@980448@@
 
-[TWinBtm][DlgOpn]['Danan' 024D]
+[TWinBtm][DlgOpn]['Dannan' 024D]
 Cough...[n]
 Lord Alvis, your majesty...
 [Wait C8]
@@ -1278,7 +1278,7 @@ Lord Alvis, your majesty...
 # 0xeec05
 # @@980452@@
 
-[TWinBtm][DlgOpn]['Coutozov' 0250]
+[TWinBtm][DlgOpn]['Cutozov' 0250]
 Glory... to...[n]
 the Lopt Empire...
 [Wait C8]
@@ -1288,7 +1288,7 @@ the Lopt Empire...
 # 0xeec05
 # @@980456@@
 
-[TWinBtm][DlgOpn]['Coutozov' 0250]
+[TWinBtm][DlgOpn]['Cutozov' 0250]
 Glory... to...[n]
 the Lopt Empire...
 [Wait C8]
@@ -1356,7 +1356,7 @@ Grr. For the moment, I'll retreat.
 # 0xeecdc
 # @@980480@@
 
-[TWinBtm][DlgOpn]['Fetora' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 Grr. For the moment, I'll retreat.
 [Wait C8]
 [exit]
@@ -1439,7 +1439,7 @@ Fetra, Eliu...[Wait C8]
 # 0xeee0c
 # @@980516@@
 
-[TWinBtm][DlgOpn]['Fetora' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 Urgh... You rebel scum...
 [Wait C8]
 [exit]
@@ -1555,7 +1555,7 @@ Guh, how regretful...[n]
 # 0xeefaf
 # @@980564@@
 
-[TWinBtm][DlgOpn]['Trabant' 0260]
+[TWinBtm][DlgOpn]['Old Trabant' 0260]
 Thracia...[n]
 My beautiful kingdom... cough...
 [Wait C8]
@@ -1565,7 +1565,7 @@ My beautiful kingdom... cough...
 # 0xeefd7
 # @@980568@@
 
-[TWinBtm][DlgOpn]['Lideel' 026D]
+[TWinBtm][DlgOpn]['Ridale' 026D]
 Heh... Is this destiny...?
 [Wait C8]
 [exit]
@@ -1584,7 +1584,7 @@ For now, I'll retreat...
 # 0xef024
 # @@980576@@
 
-[TWinBtm][DlgOpn]['Morrigan' 025F]
+[TWinBtm][DlgOpn]['Morigan' 025F]
 Archbishop Manfloy...[n]
 Forgive me...
 [Wait C8]
@@ -1621,7 +1621,7 @@ Please forgive me...
 # 0xef0a1
 # @@980592@@
 
-[TWinBtm][DlgOpn]['Alvis' 026E]
+[TWinBtm][DlgOpn]['Emperor Alvis' 026E]
 Deirdre...[n]
 ...Julia...
 [Wait C8]
@@ -1686,7 +1686,7 @@ Was I on the right side...[Wait C8]
 # 0xef1ba
 # @@980620@@
 
-[TWinBtm][DlgOpn]['(null)' 0277]
+[TWinBtm][DlgOpn]['Daggon' 0277]
 Urghhh... Lord Julius...[n]
 Forgive me...
 [Wait C8]
@@ -1705,7 +1705,7 @@ Ishtar, please avenge me...
 # 0xef212
 # @@980628@@
 
-[TWinBtm][DlgOpn]['(null)' 0272]
+[TWinBtm][DlgOpn]['Scorpio' 0272]
 Damn... Damn it all...
 [Wait C8]
 [exit]
@@ -1714,7 +1714,7 @@ Damn... Damn it all...
 # 0xef22d
 # @@980632@@
 
-[TWinBtm][DlgOpn]['(null)' 0275]
+[TWinBtm][DlgOpn]['Baran' 0275]
 Urghhh... Lord Julius...[n]
 Forgive me...
 [Wait C8]
@@ -1785,7 +1785,7 @@ The Lopt Empire is in your hands now.
 [TWinBtm][DlgOpn]['Julius' 026F]
 [BGM 30][TextSpd 0C]
 [Wait 0F]
-GWAAAAAAAAAAaaaaaaaaaa...
+Gwaaaaaaaaaaaaaaaaaaaa...
 [Wait C8]
 [exit]
 
@@ -1796,7 +1796,7 @@ GWAAAAAAAAAAaaaaaaaaaa...
 [TWinBtm][DlgOpn]['Julius' 026F]
 [TextSpd 0C]
 Urghhh...[n]
-nARGA... yOU'VE rUINED eVERYTHING yET aGAIN...
+NaRgA... yOu'Ve RuInEd EvErYtHiNg YeT aGaIn...
 [Wait C8]
 [exit]
 
@@ -1807,7 +1807,7 @@ nARGA... yOU'VE rUINED eVERYTHING yET aGAIN...
 [TWinBtm][DlgOpn]['Julius' 026F]
 [TextSpd 0C]
 Urghhh...[n]
-nARGA... yOU'VE rUINED eVERYTHING yET aGAIN...
+NaRgA... yOu'Ve RuInEd EvErYtHiNg YeT aGaIn...
 [Wait C8]
 [exit]
 
@@ -1818,7 +1818,7 @@ nARGA... yOU'VE rUINED eVERYTHING yET aGAIN...
 [TWinBtm][DlgOpn]['Julius' 026F]
 [TextSpd 0C]
 Urrgghhhh...[n]
-Take note, Celice...!
+Take note, Serlis...!
 [Wait 60][cs]
 While greed exists in men's hearts...[n]
 ...I will return...!
@@ -1835,7 +1835,7 @@ Gaaahhh...
 [TWinBtm][DlgOpn]['Julius' 026F]
 [TextSpd 0C]
 Urrgghhhh...[n]
-Take note, Celice...!
+Take note, Serlis...!
 [Wait 60][cs]
 While greed exists in men's hearts...[n]
 ...I will return...!
@@ -1849,11 +1849,11 @@ Gaaahhh...
 # 0xee291
 # @@980672@@
 
-[TWinBtm][DlgOpn]['(null)' 02B4]
+[TWinBtm][DlgOpn]['Evil Julia' 02B4]
 Uuh...
 [Wait 40][cs]
-[TWinBtm][DlgOpn]['Yuria' 002B]
-Ahh... Sir Celice...[k]
+[TWinBtm][DlgOpn]['Julia' 002B]
+Ahh... Sir Serlis...[k]
 
 [exit]
 
@@ -1861,10 +1861,10 @@ Ahh... Sir Celice...[k]
 # 0xee291
 # @@3254816@@
 
-[TWinBtm][DlgOpn]['(null)' 02B4]
+[TWinBtm][DlgOpn]['Evil Julia' 02B4]
 Uuh...
 [Wait 40][cs]
-[TWinBtm][DlgOpn]['Yuria' 002B]
-Ahh... Sir Celice...[k]
+[TWinBtm][DlgOpn]['Julia' 002B]
+Ahh... Sir Serlis...[k]
 
 [exit]

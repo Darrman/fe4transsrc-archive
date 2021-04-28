@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 6.
 
@@ -36,10 +36,10 @@
 # 0x10c2e8:
 # @@1167528@@
 
-[TWinTop][DlgOpn]['(null)' 024D]
-[TWinBtm][DlgOpn]['(null)' 024E]
+[TWinTop][DlgOpn]['Dannan' 024D]
+[TWinBtm][DlgOpn]['Harold' 024E]
 
-[TWinTop] # (null)
+[TWinTop] # Dannan
 Harold, how's your investigation of the rebel army coming?[k]
 [cs]
 Don't tell me you haven't done anything yet.[k]
@@ -52,7 +52,7 @@ With them on the loose my position as King of Isaac is completely being undermin
 [cs]
 You tell me how to explain this to His Majesty the Emperor!
 
-[TWinBtm] # (null)
+[TWinBtm] # Harold
 [Wait 10]
 I thoroughly understand your concerns, but I have matters under control.[k]
 [dcs]
@@ -61,19 +61,19 @@ We've located the rebel army's hideout, and I have already dispatched forces to 
 They have nowhere to run now, so you can sit back and relax as we eliminate the threat.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Dannan
 Well, we'll see. But listen closely, Harold. Do not underestimate them![k]
 [cs]
 The problem isn't with the younger rebels, it's with Oifaye and Shanan.[k]
 [cs]
 You overlook those two and the complications will be far reaching!
 
-[TWinBtm] # (null)
+[TWinBtm] # Harold
 [Wait 10]
 Yes, I understand, but I have information that both Oifaye and Shanan are presently away from the rebel hideout in Tilnanogue.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Dannan
 What? Then what are you waiting for!? Order your men to attack![k]
 [cs]
 The Isaacian citizens have made the rebel army out to be some kind of liberation army.[k]
@@ -88,7 +88,7 @@ Harold, kill every last one of them! I'll be back in Rivough awaiting your good 
 # 0x10c5c0:
 # @@1167713@@
 
-[TWinBtm][DlgOpn]['Skasaha' 0032]
+[TWinBtm][DlgOpn]['Scathach' 0032]
 We've got trouble! They must have discovered our hideout![k]
 [cs]
 Subjugation forces have left Ganeishire and are heading this way!![k]
@@ -101,7 +101,7 @@ Let 'em come! At least we don't have to waste our time going to them.[k]
 [cs]
 We can confront the enemy and make an advance on Ganeishire all in one shot.
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 [$00$2C$3A$00], you're crazy![k]
 [dcs]
@@ -115,7 +115,7 @@ It's just us! How do you expect us to take them on!?[k]
 [cs]
 Shanan still thinks of us as kids. That's why we almost never get to fight, but we've had enough training!
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 But [$00$2C$3A$00]...[k]
 [dcs]
@@ -129,14 +129,14 @@ If it weren't for Prince Shanan rescuing me, I wouldn't be here now![k]
 [cs]
 I will never, ever forget what those girls had to go through!
 
-[TWinBtm] # Skasaha
+[TWinBtm] # Scathach
 [Wait 10]
 [$00$2C$3A$00], I know it was horrible, but we...[k]
 [dcs]
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 I think [$00$2C$32$00][sp]is holding back because of me.[k]
 [cs]
 I'm sure Shanan gave him strict orders to keep me out of danger.[k]
@@ -149,7 +149,7 @@ He is just itching to get into battle.[k]
 [TWinTop] # Lakche
 Oh, that's right. I completely forgot about you, sir.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 [$00$2C$3A$00], I'm not a kid anymore! I can fight just as well as any of you![k]
 [dcs]
@@ -162,15 +162,15 @@ The people here have done far too much for us already.[k]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Skasaha' 0032]
+[TWinTop][DlgOpn]['Scathach' 0032]
 Yes, but we can't just...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Look, we've no time to argue![k]
 [dcs]
 
-[TWinTop] # Skasaha
+[TWinTop] # Scathach
 
 [DlgCls][xChr]
 
@@ -184,7 +184,7 @@ Look, we've no time to argue![k]
 [Wait 10]
 Sir, I'm not staying behind!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I'm not going let you get yourself killed out there. Nuns and warfare DO NOT mix![k]
 [dcs]
@@ -198,7 +198,7 @@ It's dangerous just to be a girl anymore! But I don't plan to go down without a 
 [cs]
 I have my own means of warfare!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 I'm sorry, [$00$2C$3B$00]. You're right. This is everyone's battle.[k]
 [dcs]
@@ -210,7 +210,7 @@ But let's give it everything we've got![k]
 [TWinTop] # Lana
 Sorry if I got a little outta hand, sir.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Haha! No problem... Okay. [$00$2C$32$00], [$00$2C$3A$00], [$00$2C$3B$00]... Let's move![k]
 
@@ -250,7 +250,7 @@ Gosh... I hope everyone is alright.[k]
 [TWinBtm][DlgOpn]['Oifaye' 0027]
 
 [TWinTop] # Delmud
-Oifaye, we need to hurry. I'm worried about Sir Celice!
+Oifaye, we need to hurry. I'm worried about Sir Serlis!
 
 [TWinBtm] # Oifaye
 [Wait 10]
@@ -262,19 +262,19 @@ You're right. [$00$2C$36$00]... [$00$2C$37$00]... Let's catch up with them![k]
 # 0x10cc9d:
 # @@1168278@@
 
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 Geez! Ganeishire has been completely trashed![k]
 [cs]
 
-[TWinTop][DlgOpn]['(null)' 0280]
-Celice, haven't seen you around for a while.
+[TWinTop][DlgOpn]['Old Levin' 0280]
+Serlis, haven't seen you around for a while.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Hm? Ah! Levin!! Er, I mean... King Levin of Silesia![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Hey, drop the 'king' bit, okay?[k]
 [cs]
 Once the Battle of Barhara was over and the empire took control of Silesia, I just kinda...[k]
@@ -285,57 +285,57 @@ My mother may have perished with Silesia, but she at least kept her dignity to t
 [cs]
 While I'm just wasting away as a bard again...[k]
 [cs]
-Celice, I don't care what Oifaye may have told you. Don't EVER address me as 'King Levin' again. Got it?
+Serlis, I don't care what Oifaye may have told you. Don't ever address me as 'King Levin' again. Got it?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Geez... Sorry, Levin.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Haha! I'm just giving you a hard time. So it looks like you guys have finally made your move.[k]
 [cs]
 There's no better place than Isaac to raise an army to take on the empire.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yes, the Isaacian people are very strong. And their hatred for the empire is unparalleled.[k]
 [dcs]
 Of course, things would all be that much easier if Prince Shanan was with us.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Did Shanan take off and go to that shrine in Yied?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yes. He got word that his royal family's heirloom, the Divine Balmung, was there.[k]
 [dcs]
 But people say a dark bishop governs that region, so we're all a little worried.[k]
 [cs]
 
-[TWinTop] # (null)
-Sheesh... Right. He'll be just fine. That reminds me, Celice. I've got a favour to ask.
+[TWinTop] # Old Levin
+Sheesh... Right. He'll be just fine. That reminds me, Serlis. I've got a favour to ask.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Sure, anything! What's up?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Julia, come over here for a sec.[n]
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [$00$2B$E1]
 [Wait 28]
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
 [BGM 84]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 I found her in Barhara when she was real little. She was hurt pretty bad.[k]
 [cs]
 So I took her to a remote area of Silesia and have been taking care of her all this time.[k]
@@ -344,35 +344,35 @@ But things there got a little too hairy for my taste, so we made our way here.[k
 [cs]
 But now I have to go to Lenster and... well, she's slowing me down a bit.[k]
 [cs]
-Celice...[k]
+Serlis...[k]
 [cs]
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 I hate to burden you, but can you take her off my hands for a little while?[k]
 [cs]
 I think she's been through quite a bit.[k]
 [cs]
 She hasn't a single memory of what happened to her before I picked her up.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 That poor girl! You go on ahead and leave her with me, Levin.[k]
 [dcs]
 But please, try to hurry back. She probably won't feel right with you being gone.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Yeah, I suppose. Look, I'll be back once you get this country under control.[k]
 [cs]
-Good luck to you, Celice.
+Good luck to you, Serlis.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Levin, you too![k]
 
@@ -382,10 +382,10 @@ Levin, you too![k]
 # 0x10d179:
 # @@1168315@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Julia, I'm sure you'll be sad with Levin gone, but don't you worry.[k]
 [cs]
 I'll keep you safe till he gets back.[k]
@@ -396,9 +396,9 @@ But you'll see! I'll be strong enough to protect everybody here someday![k]
 [cs]
 And then I can save all the people from the empire! I'll be strong someday... just like my father was.
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
-Celice...[k]
+Serlis...[k]
 
 [exit]
 
@@ -530,7 +530,7 @@ Yep, I'm afraid so... Hahaha![k]
 # 0x10d6db:
 # @@1168579@@
 
-[TWinBtm][DlgOpn]['(null)' 024D]
+[TWinBtm][DlgOpn]['Dannan' 024D]
 Ganeishire has fallen into the hands of the rebels? Harold!![k]
 [cs]
 Where the hell were my sons!? Tell 'em to strike the rebel army at once![k]
@@ -541,7 +541,7 @@ Where the hell were my sons!? Tell 'em to strike the rebel army at once![k]
 # 0x10d73e:
 # @@1168750@@
 
-[TWinBtm][DlgOpn]['Jolaver' 0031]
+[TWinBtm][DlgOpn]['Johalva' 0031]
 My father wants me to attack? That'd be [$00$2C$3A$00]'s army. Damn, what should I do...[k]
 
 [exit]
@@ -550,7 +550,7 @@ My father wants me to attack? That'd be [$00$2C$3A$00]'s army. Damn, what should
 # 0x10d783:
 # @@1168760@@
 
-[TWinBtm][DlgOpn]['Johann' 001E]
+[TWinBtm][DlgOpn]['Johan' 001E]
 My father ordered us to attack Ganeishire?[k]
 [cs]
 I could never fight [$00$2C$3A$00]. Argh... What am I gonna do.[k]
@@ -561,10 +561,10 @@ I could never fight [$00$2C$3A$00]. Argh... What am I gonna do.[k]
 # 0x10d7df:
 # @@1168780@@
 
-[TWinTop][DlgOpn]['Jolaver' 0031]
+[TWinTop][DlgOpn]['Johalva' 0031]
 [TWinBtm][DlgOpn]['Lakche' 003A]
 
-[TWinTop] # Jolaver
+[TWinTop] # Johalva
 [$00$2C$3A$00]! So you finally broke down and came to see me.
 
 [TWinBtm] # Lakche
@@ -576,7 +576,7 @@ At least, I was relieved that you never hurt any of the women or children.[k]
 I wish we didn't have to fight...[k]
 [cs]
 
-[TWinTop] # Jolaver
+[TWinTop] # Johalva
 Yeah. Well, I was never into pushin' people around like my brothers.[k]
 [cs]
 And I've had about all I can handle of the Lopt Sect.[k]
@@ -594,7 +594,7 @@ Are you serious!? Johalva, you're wonderful![k]
 ...I definitely had it wrong about you all this time.[k]
 [cs]
 
-[TWinTop] # Jolaver
+[TWinTop] # Johalva
 Yeah, well, I'm no angel. This is my chance to make amends.[k]
 [cs]
 You lot! From this point forward we are an army of liberators fighting for love and justice!![k]
@@ -605,7 +605,7 @@ You lot! From this point forward we are an army of liberators fighting for love 
 # 0x10d9f5:
 # @@1168828@@
 
-[TWinBtm][DlgOpn]['Johann' 001E]
+[TWinBtm][DlgOpn]['Johan' 001E]
 Johalva's on the liberation army's side now? Grr! He beat me to her![k]
 [cs]
 Eiyah! Attack!![k]
@@ -616,10 +616,10 @@ Eiyah! Attack!![k]
 # 0x10da43:
 # @@1168873@@
 
-[TWinTop][DlgOpn]['Johann' 001E]
+[TWinTop][DlgOpn]['Johan' 001E]
 [TWinBtm][DlgOpn]['Lakche' 003A]
 
-[TWinTop] # Johann
+[TWinTop] # Johan
 [$00$2C$3A$00]... My beloved, how I've yearned for this day to come.
 
 [TWinBtm] # Lakche
@@ -627,7 +627,7 @@ Eiyah! Attack!![k]
 Johan, what in the world are you talking about? Did you whack your head or something?[k]
 [dcs]
 
-[TWinTop] # Johann
+[TWinTop] # Johan
 Your words soothe like a bird's song... You eyes sparkle like stars in the sky...[k]
 [cs]
 The thought of being without you I cannot bear.
@@ -637,7 +637,7 @@ The thought of being without you I cannot bear.
 Stop! You're grossing me out! You're on the battlefield, you know. Don't lose it here![k]
 [dcs]
 
-[TWinTop] # Johann
+[TWinTop] # Johan
 My unremitting love for you is strong enough to cross the bounds of insanity![k]
 [cs]
 Let our troops know we're taking sides with the liberation army![k]
@@ -650,7 +650,7 @@ From this day forward we'll be fighting for love, justice... and [$00$2C$3A$00]!
 # 0x10dbb4:
 # @@1168921@@
 
-[TWinBtm][DlgOpn]['Jolaver' 0031]
+[TWinBtm][DlgOpn]['Johalva' 0031]
 Damn it! Johan beat me to [$00$2C$3A$00]. He's sided with her, has he?[k]
 [cs]
 I'm gonna take him out! Men, stay alert![k]
@@ -661,39 +661,39 @@ I'm gonna take him out! Men, stay alert![k]
 # 0x10dc0e:
 # @@1168972@@
 
-[TWinTop][DlgOpn]['(null)' 02AB]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old villager' 02AB]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Ahhh... well, if it isn't Sir Celice. You've done a fine job, son.
+[TWinTop] # Old villager
+Ahhh... well, if it isn't Sir Serlis. You've done a fine job, son.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Sir, is everybody okay?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Yes, they're all ecstatic. They all believe that you're going to liberate the country.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Well, I couldn't have done any of this without the support of the people.[k]
 [dcs]
 They were the ones who helped me from the start...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 This sure is a strange twist of fate. The former king of Isaac often turned to your grandfather for advice.[k]
 [cs]
 Then your father rescued Prince Shanan only for the prince to turn around and save you. It's funny how fate works, isn't it?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Well, Isaac is like a second home to me. I hope the prince and I can remain friends forever.[k]
 [dcs]
 
-[TWinTop] # (null)
-Sir Celice, there isn't a soul alive who doubts that you are the rightful successor to Grandbell's royal house.[k]
+[TWinTop] # Old villager
+Sir Serlis, there isn't a soul alive who doubts that you are the rightful successor to Grandbell's royal house.[k]
 [cs]
 In the name of justice you must push on through to Barhara![k]
 
@@ -703,8 +703,8 @@ In the name of justice you must push on through to Barhara![k]
 # 0x10de01:
 # @@1168983@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
-Sir Celice has restored peace to our country. We're so appreciative![k]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
+Sir Serlis has restored peace to our country. We're so appreciative![k]
 
 [exit]
 
@@ -712,29 +712,29 @@ Sir Celice has restored peace to our country. We're so appreciative![k]
 # 0x10de35:
 # @@1169028@@
 
-[TWinTop][DlgOpn]['(null)' 02AB]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old villager' 02AB]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Are we ever obliged to you for freeing our town, Sir Celice!
+[TWinTop] # Old villager
+Are we ever obliged to you for freeing our town, Sir Serlis!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Sir, was anyone hurt?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Nope, we're all just fine. Everyone is very excited you're here!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Just give us a little more time. We WILL defeat King Dannan and regain control of Isaac.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Those sure are reassuring words. Do take care to not overdo yourselves.[k]
 [cs]
-Sir Celice, you're the last hope for all the peoples of the world.[k]
+Sir Serlis, you're the last hope for all the peoples of the world.[k]
 [cs]
 You are the only one who can free the world from darkness.[k]
 
@@ -744,8 +744,8 @@ You are the only one who can free the world from darkness.[k]
 # 0x10df57:
 # @@1169039@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
-Sir Celice has restored peace to our country. We're so appreciative![k]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
+Sir Serlis has restored peace to our country. We're so appreciative![k]
 
 [exit]
 
@@ -753,15 +753,15 @@ Sir Celice has restored peace to our country. We're so appreciative![k]
 # 0x10df8b:
 # @@1169088@@
 
-[TWinTop][DlgOpn]['(null)' 024D]
-[TWinBtm][DlgOpn]['(null)' 0245]
+[TWinTop][DlgOpn]['Dannan' 024D]
+[TWinBtm][DlgOpn]['Schmidt' 0245]
 
-[TWinTop] # (null)
+[TWinTop] # Dannan
 What the hell's going on!? Where'd those boys learn how to fight!?[k]
 [cs]
 Schmidt, you get out there. I want our castles back!
 
-[TWinBtm] # (null)
+[TWinBtm] # Schmidt
 [Wait 10]
 Yes sir. You can count on me.[k]
 
@@ -771,13 +771,13 @@ Yes sir. You can count on me.[k]
 # 0xee22e:
 # @@1169111@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Julia!? Oh my god! You're alright!
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k]
 
@@ -787,29 +787,29 @@ Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k
 # 0x10e00c:
 # @@1169123@@
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Celice, very well done! Isaac has been liberated thanks to you.
+[TWinTop] # Old Levin
+Serlis, very well done! Isaac has been liberated thanks to you.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Levin, you've made it back already?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Yeah, I just got back.[n]
 [$00$2B$E1]
-Celice, the world is at a very volatile stage right now.
+Serlis, the world is at a very volatile stage right now.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 Huh? What do you mean?[k]
 [Wait 0A]
 [BGM 86]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 15 years have passed since Lord Alvis unified the continent. The early days of the empire weren't actually all that bad.[k]
 [cs]
 Initially, Emperor Alvis applied constitutional law to govern the people.[k]
@@ -826,20 +826,20 @@ And anyone who attempts to rise up is either enslaved or executed...[k]
 [cs]
 It's obvious now that they're attempting to restore the Lopt Empire.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 You're serious? So the rumours I've heard are true after all.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Isaac is better off than most places. It sounds like Dannan's two sons didn't go through with any of the child hunts.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 ...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Uprisings have sprung up all over the continent, but not a one has gotten anywhere.[k]
 [cs]
 None of them stand a chance against the empire.[k]
@@ -847,61 +847,61 @@ None of them stand a chance against the empire.[k]
 [Wait 0F]
 [cs]
 [BGM 87]
-The world is in desperate need of a saviour. And I think that you're the one, Celice.[k]
+The world is in desperate need of a saviour. And I think that you're the one, Serlis.[k]
 [cs]
 You are the only one who has the power to pull it off.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Whoa! Wait a minute! I have nothing near what it takes![k]
 [dcs]
 
-[TWinTop] # (null)
-It's your duty, Celice. You are Empress Deirdre's firstborn son... the older brother to Prince Julius.[k]
+[TWinTop] # Old Levin
+It's your duty, Serlis. You are Empress Deirdre's firstborn son... the older brother to Prince Julius.[k]
 [cs]
 As a direct descendant of Saint Heim, you have an obligation to lead your crusaders and rid the world of darkness.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, but...[k]
 [dcs]
 
-[TWinTop] # (null)
-Celice, you DO have what it takes. You just don't realise it yet. You're of Baldo lineage.[k]
+[TWinTop] # Old Levin
+Serlis, you do have what it takes. You just don't realise it yet. You're also of Baldo lineage.[k]
 [cs]
-Once you get a hold of the Holy Tyrfing, you'll have enough power to reach the heavens.
+Once you get a hold of the Holy Tyrfing, you'll have enough power to breach the heavens.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 But...[k]
 [dcs]
 
-[TWinTop] # (null)
-Celice, it's the will of the gods.[k]
+[TWinTop] # Old Levin
+Serlis, it's the will of the gods.[k]
 [cs]
 Your father was a victim of foul play. And now you must finish what he started.[k]
 [cs]
-You need to stay focused, Celice. You got me?
+You need to stay focused, Serlis. You got me?
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 ...Yes, I do. If this is my destiny, I shall go forth wherever the gods lead me.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 You'll come to realise that fate is susceptible to change. It doesn't centre on one person.[k]
 [cs]
 Sigurd left much behind for you. Most importantly his friends... I being one of them.[k]
 [cs]
 You can credit your father's kindness for bringing so many good people to your side.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 My father was loved and trusted by so many. I just hope I can live up to that.[k]
 [dcs]
 
-[TWinTop] # (null)
-You'll be just fine, Celice. Okay, we need to make Lenster our next destination.[k]
+[TWinTop] # Old Levin
+You'll be just fine, Serlis. Okay, we need to make Lenster our next destination.[k]
 [cs]
 The son of your father's good friend Cuan took a stand against the government in Manster. But he is in dire need of some backup.[k]
 [cs]
@@ -909,7 +909,7 @@ We can leave Isaac in the hands of the people. We'd better get moving.[k]
 [cs]
 We'll meet up with Prince Shanan somewhere down the line.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Gotcha![k]
 
@@ -919,7 +919,7 @@ Gotcha![k]
 # 0x10e6a8:
 # @@1169146@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 King Dannan has 3 sons. Burian, his oldest, is in Grandbell. The other two are here in Isaac.[k]
 [cs]
 Johan is the lord at Isaac Castle, and Johalva is the lord at Sophara.[k]
@@ -934,7 +934,7 @@ But they're both basically good boys. I bet they'd even join up with you all.[k]
 # 0x10e785:
 # @@1169160@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 Hey, you're from the liberation army! Finally taken a stand, have you?[k]
 [cs]
 Yeah! We'll finally be able to get rid of those creeps from the empire![k]
@@ -945,8 +945,8 @@ Yeah! We'll finally be able to get rid of those creeps from the empire![k]
 # 0x10e8ce:
 # @@1169174@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
-We Isaacians are behind Sir Celice 100 percent![k]
+[TWinBtm][DlgOpn]['Villager' 02AD]
+We Isaacians are behind Sir Serlis 100 percent![k]
 [cs]
 We are forever indebted to his father for saving our Prince Shanan![k]
 
@@ -956,7 +956,7 @@ We are forever indebted to his father for saving our Prince Shanan![k]
 # 0x10e859:
 # @@1169188@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 Our hope lies with Prince Shanan. Once he gets his hands on the Divine Balmung those rats of the empire won't have a prayer![k]
 [cs]
 We're driving them outta here![k]
@@ -967,8 +967,8 @@ We're driving them outta here![k]
 # 0x10e7e0:
 # @@1169202@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
-Sir Celice is the rightful successor to Grandbell, am I right?[k]
+[TWinBtm][DlgOpn]['Villager' 02B0]
+Sir Serlis is the rightful successor to Grandbell, am I right?[k]
 [cs]
 That would sure make things easier on us if it were the case.[k]
 [cs]
@@ -980,12 +980,12 @@ Here's a Skill Ring for you. Good luck out there![k]
 # 0x10e935:
 # @@1169221@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 I heard there are child hunts taking place in other countries![k]
 [cs]
 Thanks to you we have Isaac back. But the rest of the world still looks pretty grim.[k]
 [cs]
-Everyone still suffering under the empire's rule is waiting for Sir Celice to come save them.[k]
+Everyone still suffering under the empire's rule is waiting for Sir Serlis to come save them.[k]
 [cs]
 Please... you must make your way to Grandbell as soon as possible![k]
 
@@ -996,7 +996,7 @@ Please... you must make your way to Grandbell as soon as possible![k]
 # @@1169237@@
 
 [TWinTop][DlgOpn]['Lakche' 003A]
-[TWinBtm][DlgOpn]['Jolaver' 0031][$00$2A$D3$D4$B2][$00$2A$47$D5$B2][$00$2A$6F$D5$B2]
+[TWinBtm][DlgOpn]['Johalva' 0031][$00$2A$D3$D4$B2][$00$2A$47$D5$B2][$00$2A$6F$D5$B2]
 [exit]
 
 
@@ -1004,55 +1004,55 @@ Please... you must make your way to Grandbell as soon as possible![k]
 # @@1169284@@
 
 [TWinTop][DlgOpn]['Lakche' 003A]
-[TWinBtm][DlgOpn]['Johann' 001E][$00$2A$D3$D4$B2][$00$2A$F7$D4$B2][$00$2A$6F$D5$B2]
+[TWinBtm][DlgOpn]['Johan' 001E][$00$2A$D3$D4$B2][$00$2A$F7$D4$B2][$00$2A$6F$D5$B2]
 [exit]
 
 
 # 0x32d778:
 # @@1169338@@
 
-[TWinTop][DlgOpn]['(null)' 02AB]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old villager' 02AB]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Hey, it's Sir Celice! Thanks for coming to our aid![k]
+[TWinTop] # Old villager
+Hey, it's Sir Serlis! Thanks for coming to our aid![k]
 [cs]
 As a little token of my appreciation I'd like ya t'take my granddaughter for yer wife.[k]
 [cs]
 We raised 'er well, and she's good-tempered t'boot. Ah, yes. When she was little...
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 Grandpa, quit it! You're embarrassing me![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 
 [DlgCls][xChr]
 
 [Wait 18]
 
-[TWinTop][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Serlis' 0019]
 
-[TWinBtm] # (null)
-I'm sorry, Sir Celice. I wish you didn't have to see that. But if you do find me attractive...[k]
+[TWinBtm] # Villager
+I'm sorry, Sir Serlis. I wish you didn't have to see that. But if you do find me attractive...[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 S, stop it! Th, that's not why I'm here!
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
-Hahaha! It's a joke, Sir Celice! J-O-K-E! You're gettin' red... How cute![k]
+Hahaha! It's a joke, Sir Serlis! J-O-K-E! You're gettin' red... How cute![k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 ...
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 
 [Wait 10]
 
@@ -1060,11 +1060,11 @@ Hahaha! It's a joke, Sir Celice! J-O-K-E! You're gettin' red... How cute![k]
 
 [Wait 10]
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 I'm bein' serious here.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 What am I going to do...[k]
 
 [exit]
@@ -1073,9 +1073,9 @@ What am I going to do...[k]
 # 0x32db2f:
 # @@1169357@@
 
-[TWinTop][DlgOpn]['(null)' 02A5]
+[TWinTop][DlgOpn]['Soldier' 02A5]
 [TWinBtm][DlgOpn][$00$24]
-[TWinTop] # (null)
+[TWinTop] # Soldier
 Geez, Johalva is blind. What could he see in a woman that headstrong?[k]
 [cs]
 If it were me, I'd go for someone a little more... Er!? Why am I telling you this!
@@ -1090,14 +1090,14 @@ If it were me, I'd go for someone a little more... Er!? Why am I telling you thi
 # 0x32db98:
 # @@1169371@@
 
-[TWinBtm][DlgOpn]['(null)' 02A5]
+[TWinBtm][DlgOpn]['Soldier' 02A5]
 What's up with Johan? He's such a pushover for women, yet he treats us like dogs.[k]
 [cs]
 
-[TWinTop][DlgOpn]['Johann' 001E]
+[TWinTop][DlgOpn]['Johan' 001E]
 You say something?
 
-[TWinBtm] # (null)
+[TWinBtm] # Soldier
 [Wait 10]
 Er! Ah... Nothing. Nothing at all, sir![k]
 
@@ -1107,91 +1107,91 @@ Er! Ah... Nothing. Nothing at all, sir![k]
 # 0x32f05f:
 # @@1169392@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 Huh? Dimna?[n]
 [Wait 19]
 Wow! Dimna, it is you![k]
 [cs]
 
-[TWinTop][DlgOpn]['Dimuna' 0023]
+[TWinTop][DlgOpn]['Dimna' 0023]
 Huh? Karen! Hey, how're you doing!
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 Talk about long time no see! How many years ago was it that you and Mana left here...[k]
 [dcs]
 Hey, I'm just glad to see you again. You look great![k]
 [cs]
 
-[TWinTop] # Dimuna
-Thanks. Sir Celice set out to liberate the world from the empire's tyranny and I've joined up with him.[k]
+[TWinTop] # Dimna
+Thanks. Sir Serlis set out to liberate the world from the empire's tyranny and I've joined up with him.[k]
 [cs]
 I can't say I've been of much help yet.
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 Hmhm! That's neat, Dimna. That's a big change from the crybaby I once knew.[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Hahaha... Don't you tell anyone that... I do still have a ways to go, though.[k]
 [cs]
 I want you and the rest of the world to be able to live again in peace.
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 Wow.[n]
 [Wait 19]
 That'd be great, Dimna...[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 What's wrong? Did I say something?
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 No, it's nothing. Here, I want you to have this necklace. I think you'll find it useful.[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Where did you get it?
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 It's a keepsake of my mothers. Wear it and you'll get a little boost of power.[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 I can't take this from you!
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 No, my mother wants you to have it. She said the time has come to utilise its power.[k]
 [dcs]
 Please, take it.[k]
 [cs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Thank you. I'll be sure to bring it back when this war is over.
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 I'm sure you will, Dimna.[k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 Well, I better get going. Everyone's waiting for me.
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 You take care now, Dimna![k]
 [dcs]
 
-[TWinTop] # Dimuna
+[TWinTop] # Dimna
 
 [DlgCls][xChr]
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 18]
 Dimna...[k]
 

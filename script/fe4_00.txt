@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering text from the Prologue.
 
@@ -371,7 +371,7 @@ Looks like we're not too late. I hope Sigurd is alright.
 [Wait 10]
 I'm sure my brother's fine, but he has no one around him that can use magic.[k]
 [dcs]
-I'm sure I can put my Live Staff to some use around here.[k]
+I'm sure I can put my Heal Staff to some use around here.[k]
 [cs]
 I'm sorry to pull you into this, Cuan.[k]
 [cs]
@@ -552,7 +552,7 @@ Sir, an envoy of His Majesty has just arrived from Barhara.[k]
 
 [xChr][DlgCls]
 
-[DlgOpn]['(null)' 027A]
+[DlgOpn]['Old man' 027A]
 Sir Sigurd, your efforts in this conflict have been quite impressive![k]
 [cs]
 His Majesty is exceedingly pleased and has ordained you a Holy Knight of the Kingdom.
@@ -562,7 +562,7 @@ His Majesty is exceedingly pleased and has ordained you a Holy Knight of the Kin
 I hardly deserve such a great honour! I pledge my allegiance to His Majesty.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 We gravely need your help in protecting these castles. You will be duly compensated.[k]
 [cs]
 Of course the sum will go down if the castles incur any damages.[k]
@@ -693,7 +693,7 @@ Azel... you fool...[k]
 # 0x319d9b:
 # @@3246067@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 You've come for us! Our village is saved![k]
 [cs]
 Here's a small sum of money we all pooled together. Use it how you see fit.[k]
@@ -706,7 +706,7 @@ Please help out the other villages if you can. They're sure to appreciate it.[k]
 # 0x319e32:
 # @@3246081@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Listen up, kid.[k]
 [cs]
 Swords are stronger than axes, axes are stronger than lances, and lances are stronger than swords.[k]
@@ -723,7 +723,7 @@ But it ain't free, mind you. The going rate is 5 gold for each hitpoint.[k]
 # 0x319eed:
 # @@3246095@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 The ruling family of this area has produced master swordsmen for generations.[k]
 [cs]
 It's no surprise as the Chalphys are all descended from Baldo, the God of Light.[k]
@@ -736,7 +736,7 @@ If we just had Lord Byron's Holy Tyrfing, those barbarians wouldn't have a praye
 # 0x319f8d:
 # @@3246109@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Jungby's ruling family of master archers are descended from Ulir, the God of Archery.[k]
 [cs]
 Duke Ring had himself twin daughters and a son.[k]
@@ -753,7 +753,7 @@ You didn't hear it from me, but there seems to be quite a bit of friction betwee
 # 0x31a087:
 # @@3246128@@
 
-[TWinBtm][DlgOpn]['(null)' 02AC]
+[TWinBtm][DlgOpn]['Villager' 02AC]
 You came to save us!? I thought we were doomed! I've got a ring for you in appreciation.[k]
 [cs]
 It's called the Speed Ring. Slip her on for a little boost in speed.[k]

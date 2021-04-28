@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-03-12
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 7.
 
@@ -58,11 +58,11 @@ Grr! I'll take that Blume on myself if I have to!
 [Wait 10]
 Prince Leaf, calm down. We're not through yet.[k]
 [dcs]
-Levin is sending Sir Celice's liberation army our way. We must hold out till they arrive.[k]
+Levin is sending Sir Serlis's liberation army our way. We must hold out till they arrive.[k]
 [cs]
 
 [TWinTop] # Leif
-The Imperial Prince Celice... They say he's the son of my father's good friend Sir Sigurd and Empress Deirdre.[k]
+The Imperial Prince Serlis... They say he's the son of my father's good friend Sir Sigurd and Empress Deirdre.[k]
 [cs]
 I must meet him... If we team up, there still may be hope for the oppressed masses.
 
@@ -79,7 +79,7 @@ We should abandon this castle at once and go find cover west of here near the ch
 [TWinTop] # Leif
 Yeah... That may just be our only option right now.[k]
 [cs]
-Alright. We need to hold out as long as we can. At least until Prince Celice arrives...[k]
+Alright. We need to hold out as long as we can. At least until Prince Serlis arrives...[k]
 
 [exit]
 
@@ -87,10 +87,10 @@ Alright. We need to hold out as long as we can. At least until Prince Celice arr
 # 0x31b096:
 # @@3312340@@
 
-[TWinTop][DlgOpn]['(null)' 0254]
+[TWinTop][DlgOpn]['Blume' 0254]
 [TWinBtm][DlgOpn]['Phillip' 005F]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 Now what? Why can't you take that small castle? Are you putting in any effort out there!?
 
 [TWinBtm] # Phillip
@@ -98,7 +98,7 @@ Now what? Why can't you take that small castle? Are you putting in any effort ou
 Yes sir! However, we are having great difficulties breaking their line of defense.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 I don't want to hear it! You capture Lenster Castle, and you do it now![k]
 [cs]
 Isaac's rebel army is going to be here before you know it!
@@ -146,25 +146,25 @@ Hey, wait![k]
 # 0x31b261:
 # @@3312638@@
 
-[TWinTop][DlgOpn]['(null)' 0250]
-[TWinBtm][DlgOpn]['Sandima' 0052]
+[TWinTop][DlgOpn]['Cutozov' 0250]
+[TWinBtm][DlgOpn]['Dark Mage (Sandima)' 0052]
 
-[TWinTop] # (null)
+[TWinTop] # Cutozov
 The treasure hall has been raided by thieves?[k]
 [cs]
 They got the Balmung!? Well, what are you doing here? Get after them!
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 But Cutozov...[k]
 [dcs]
 Shouldn't you be able to stop them in their tracks with your black magic?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Cutozov
 My Book of Fenrir is missing. I have some men looking for it, but it has yet to turn up.
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 I see... Well, I'll take my squad and a few mercenaries to go in pursuit then.[k]
 [dcs]
@@ -176,28 +176,28 @@ Cutozov... rest assured we will recover the stolen goods.[k]
 # 0x31b38d:
 # @@3312790@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 We have this huge desert to cross before we reach Lenster?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 That's right. And with the Yied Shrine falling under the Lopt Sect's jurisdiction, the desert is crawling with dark mages who'll attack without any provocation.[k]
 [dcs]
 It's no wonder people now refer to the Yied Desert as the desert of death.[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 That's got to make it tough for travelers. There must be some way to capture Yied Shrine...
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Hmph... I thought you'd say that. There is a way, but it'll involve some great sacrifices.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 I'm prepared for that. There's no other way around this. And Shanan's still out there, too.[k]
 [cs]
 Let's just focus on gaining control of Yied. Everything else'll start from there![k]
@@ -208,15 +208,15 @@ Let's just focus on gaining control of Yied. Everything else'll start from there
 # 0x31b502:
 # @@3312921@@
 
-[TWinTop][DlgOpn]['(null)' 02A5]
-[TWinBtm][DlgOpn]['(null)' 024F]
+[TWinTop][DlgOpn]['Soldier' 02A5]
+[TWinBtm][DlgOpn]['Bramsel' 024F]
 
-[TWinTop] # (null)
+[TWinTop] # Soldier
 Sir, Isaac's rebel army has began to move.
 
-[TWinBtm] # (null)
+[TWinBtm] # Bramsel
 [Wait 10]
-Rebel army? Oh... that little brat Celice, huh? Heh, heh... wonderful![k]
+Rebel army? Oh... that little brat Serlis, huh? Heh, heh... wonderful![k]
 [dcs]
 There's a nice bounty on that boy. Let's see to it that we are the ones who bring him in.[k]
 [cs]
@@ -272,13 +272,13 @@ We do what we do to survive! So don't hold a grudge over someone else's liveliho
 # 0x31b809:
 # @@3312977@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Geez... Yied Shrine is in ruins!
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 For ages, descendants of the Lopt Empire lived in hiding underneath the shrine.[k]
 [dcs]
@@ -287,7 +287,7 @@ They had no choice. They would've been persecuted and burned at the stake otherw
 I doubt they differed much from you or I at first, but over time the ways of evil took root.[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 It's like they're being punished just because their ancestors were a part of the empire![k]
 [cs]
 And people are always calling them the 'family of the devil' and whatnot.[k]
@@ -296,9 +296,9 @@ And people are always calling them the 'family of the devil' and whatnot.[k]
 [cs]
 ...Is Loputousu the only god they have?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
-Yeah... You have to be careful when placing labels on good and evil, Celice.[k]
+Yeah... You have to be careful when placing labels on good and evil, Serlis.[k]
 [dcs]
 Never waste your anger on individuals. Always focus it on the evil within all of us.[k]
 
@@ -308,17 +308,17 @@ Never waste your anger on individuals. Always focus it on the evil within all of
 # 0x31b9de:
 # @@3313039@@
 
-[TWinTop][DlgOpn]['(null)' 024F]
-[TWinBtm][DlgOpn]['(null)' 0251]
+[TWinTop][DlgOpn]['Bramsel' 024F]
+[TWinBtm][DlgOpn]['Jabarro' 0251]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 Yied has fallen? Heh, heh... How convenient. Go ahead and open the border![k]
 [cs]
 We'll usher them onto the narrow road to Melgen and strike from behind when they least expect it![k]
 [cs]
 Heh, heh... This is child's play. Isn't that right, Jabarro?
 
-[TWinBtm] # (null)
+[TWinBtm] # Jabarro
 [Wait 10]
 You never want to face the enemy up front, do you, Bramsel...[k]
 [dcs]
@@ -330,13 +330,13 @@ Well, I guess I can't complain. We'll show you what mercenaries'll do for gold.[
 # 0x31bd67:
 # @@3313178@@
 
-[TWinTop][DlgOpn]['(null)' 0252]
-[TWinBtm][DlgOpn]['(null)' 0253]
+[TWinTop][DlgOpn]['Ishtor' 0252]
+[TWinBtm][DlgOpn]['Liza' 0253]
 
-[TWinTop] # (null)
+[TWinTop] # Ishtor
 Yied has fallen to the rebel army? Liza, what do you make of this?
 
-[TWinBtm] # (null)
+[TWinBtm] # Liza
 [Wait 10]
 It would appear that their intention is to provide backup to Lenster.[k]
 [dcs]
@@ -347,18 +347,18 @@ Your father's so preoccupied with recapturing Lenster, he would never see them c
 I think we need to take our entire military and lay in a course to intercept.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Ishtor
 Yeah, anything to keep them out of Alster. Liza, can I have you command the troops into battle?
 
-[TWinBtm] # (null)
+[TWinBtm] # Liza
 [Wait 10]
 Yes, of course![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Ishtor
 Forgive me, Liza. I'd keep you from danger if I could, but you're the only one I can trust.
 
-[TWinBtm] # (null)
+[TWinBtm] # Liza
 [Wait 10]
 Ishtor, I'll be fine. I consider it an honour to go.[k]
 [dcs]
@@ -372,10 +372,10 @@ Okay, troops! Take your positions![k]
 # 0x31bac7:
 # @@3313266@@
 
-[TWinTop][DlgOpn]['(null)' 024F]
+[TWinTop][DlgOpn]['Bramsel' 024F]
 [TWinBtm][DlgOpn]['Leen' 003E]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 Hohoho... That was a lovely dance! [$00$2C$3E$00], come here. I have something for you.
 
 [TWinBtm] # Leen
@@ -383,7 +383,7 @@ Hohoho... That was a lovely dance! [$00$2C$3E$00], come here. I have something f
 Forget it! You come over here if you've got something so special.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 Heh, heh... I like them feisty, but her obstinacy I can do without.[n]
 [Wait 08]
 Bring her to me!
@@ -404,7 +404,7 @@ L..let go of me! You freaks!![k]
 Stop right there! Take your hands off her right now![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 Who the hell are you!? You worthless mercenary... How dare you challenge me!
 
 [TWinBtm] # Ares
@@ -412,7 +412,7 @@ Who the hell are you!? You worthless mercenary... How dare you challenge me!
 No one lays a hand on her. You got it?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 How dare you speak to me like that! Somebody, get him!!
 
 [TWinBtm] # Ares
@@ -422,7 +422,7 @@ Who of you doesn't recognise this sword? I must warn you the Mistoltin craves bl
 So who wants to be its first victim?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 That's... the Demon Mistoltin? You're Aless, the Black Knight!?
 
 [TWinBtm] # Ares
@@ -430,7 +430,7 @@ That's... the Demon Mistoltin? You're Aless, the Black Knight!?
 Yeah, that's me.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 Ulp... forgive me! I was merely having a little fun! Look, I'll never lay a hand on her again!
 
 [TWinBtm] # Ares
@@ -438,7 +438,7 @@ Ulp... forgive me! I was merely having a little fun! Look, I'll never lay a hand
 [$00$2C$3E$00], you okay?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 
 [DlgCls][xChr]
 
@@ -455,7 +455,7 @@ Yeah, I guess so. Thanks, Aless...[k]
 
 [Wait 20]
 
-[TWinBtm][DlgOpn]['(null)' 024F]
+[TWinBtm][DlgOpn]['Bramsel' 024F]
 Grr! They're going to wish they were never born![k]
 
 [exit]
@@ -464,38 +464,38 @@ Grr! They're going to wish they were never born![k]
 # 0x31bf20:
 # @@3313297@@
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Celice, you've made it to Melgen. Lenster is just up ahead.
+[TWinTop] # Old Levin
+Serlis, you've made it to Melgen. Lenster is just up ahead.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Levin, is this war ever going to end?[k]
 [dcs]
 I have a hard time believing Prince Ishtor or his general were bad people...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 Yeah, but don't forget that they both supported a ruthless tyrannical leader.[k]
 [cs]
 They were without a doubt the enemy in this scenario.[k]
 [cs]
-Celice, this is war! It's not just about hatred or resentment.[k]
+Serlis, this is war! It's not just about hatred or resentment.[k]
 [cs]
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 ...Yeah, I suppose.[k]
 [cs]
 
-[TWinTop] # (null)
-Haha! You've got a good heart, Celice. You just need to learn to let go sometimes.[k]
+[TWinTop] # Old Levin
+Haha! You've got a good heart, Serlis. You just need to learn to let go sometimes.[k]
 [cs]
 We've got a rescue mission in Lenster we need to focus on.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, that's right. We'd better start heading in that direction.[k]
 
@@ -505,17 +505,17 @@ Yeah, that's right. We'd better start heading in that direction.[k]
 # 0x31c0a3:
 # @@3313351@@
 
-[TWinTop][DlgOpn]['(null)' 024F]
-[TWinBtm][DlgOpn]['(null)' 0251]
+[TWinTop][DlgOpn]['Bramsel' 024F]
+[TWinBtm][DlgOpn]['Jabarro' 0251]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 Melgen has fallen? Damn it, we should've acted quicker![k]
 [cs]
 We need to move before they gear up again. Commander Jabarro, it's time.[k]
 [cs]
 Take them from behind. I want them dead... all of them!!
 
-[TWinBtm] # (null)
+[TWinBtm] # Jabarro
 [Wait 10]
 Yes sir![k]
 
@@ -562,7 +562,7 @@ Just forget we ever met![k]
 # 0x31c22f:
 # @@3313571@@
 
-[TWinBtm][DlgOpn]['(null)' 024F]
+[TWinBtm][DlgOpn]['Bramsel' 024F]
 Aless left, did he? Heh heh heh...[k]
 
 [exit]
@@ -571,42 +571,42 @@ Aless left, did he? Heh heh heh...[k]
 # 0x31c258:
 # @@3313675@@
 
-[TWinTop][DlgOpn]['(null)' 0254]
-[TWinBtm][DlgOpn]['(null)' 0255]
+[TWinTop][DlgOpn]['Blume' 0254]
+[TWinBtm][DlgOpn]['Vampa' 0255]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 Vampa, Fetra, Eliu! I want you to take out the enemy.[k]
 [cs]
 You show them what you're capable of!
 
-[TWinBtm] # (null)
+[TWinBtm] # Vampa
 [Wait 10]
 Yes, Your Majesty![k]
 [dcs]
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['(null)' 0256]
+[TWinBtm][DlgOpn]['Fetra' 0256]
 We won't let you down, Your Majesty.[k]
 [cs]
 
 [DlgCls][xChr]
 
-[TWinBtm][DlgOpn]['(null)' 0257]
+[TWinBtm][DlgOpn]['Eliu' 0257]
 We will eradicate the rebel army quickly and efficiently![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 I'm counting on you girls![k]
 [cs]
 
-[TWinBtm] # (null)
+[TWinBtm] # Eliu
 
 [DlgCls][xChr]
 
 [TWinBtm][DlgOpn]['Tinny' 003D]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 [$00$2C$3D$00], you'll fight for me, won't you?
 
 [TWinBtm] # Tinny
@@ -614,7 +614,7 @@ I'm counting on you girls![k]
 ...If that's what you wish.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 Hmph... And to think I raised you as my own when your mother passed away.[k]
 [cs]
 Don't tell me you've forgotten all I've done for you!
@@ -624,10 +624,10 @@ Don't tell me you've forgotten all I've done for you!
 Of course not, sir.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Blume
 Then get going. Those horrible people killed both my son and his sweetheart Liza.[k]
 [cs]
-YOU are to avenge their deaths![k]
+You're to avenge their deaths![k]
 
 [exit]
 
@@ -635,7 +635,7 @@ YOU are to avenge their deaths![k]
 # 0x31c3ff:
 # @@3313769@@
 
-[TWinBtm][DlgOpn]['(null)' 0254]
+[TWinBtm][DlgOpn]['Blume' 0254]
 The rest of you, get out there and fight! I want them all dead!![k]
 
 [exit]
@@ -644,10 +644,10 @@ The rest of you, get out there and fight! I want them all dead!![k]
 # 0x31c42c:
 # @@3313791@@
 
-[TWinTop][DlgOpn]['(null)' 024F]
+[TWinTop][DlgOpn]['Bramsel' 024F]
 [TWinBtm][DlgOpn]['Leen' 003E]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 You did a fine job of making me look like a fool the other day!
 
 [TWinBtm] # Leen
@@ -659,7 +659,7 @@ Look at you acting so tough now that Aless isn't around! You sick old man![k]
 You'd better just stay away from me![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Bramsel
 You insolent little bitch! You will regret this day... Throw her in the dungeon!
 
 [TWinBtm] # Leen
@@ -680,10 +680,10 @@ No! Aless...[k]
 # 0x31c521:
 # @@3313821@@
 
-[TWinTop][DlgOpn]['(null)' 0251]
+[TWinTop][DlgOpn]['Jabarro' 0251]
 [TWinBtm][DlgOpn]['Ares' 0025]
 
-[TWinTop] # (null)
+[TWinTop] # Jabarro
 Aless, why would you of all people get wrapped up in a girl like that?[k]
 [cs]
 Well, it's all behind us now, so I suppose we can let it rest.
@@ -693,7 +693,7 @@ Well, it's all behind us now, so I suppose we can let it rest.
 What's that supposed to mean?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Jabarro
 Heheh... Well, right about now I'd imagine Bramsel is...
 
 [TWinBtm] # Ares
@@ -701,7 +701,7 @@ Heheh... Well, right about now I'd imagine Bramsel is...
 How could... How could you know that and not tell me, Jabarro!?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Jabarro
 Stay out of relationships, Aless. You can have your fun with them, but leave it at that!
 
 [TWinBtm] # Ares
@@ -710,7 +710,7 @@ I see I've greatly misjudged you... I'm going back to Darna to get[n]
 [$00$2C$3E$00]![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Jabarro
 I don't think so, Aless. You know I don't take kindly to those who disobey my orders.[k]
 [cs]
 And that goes for you, too!
@@ -722,7 +722,7 @@ I know we've been through a lot together, Jabarro, but I'm cutting our ties here
 Anyone who tries to stop me can make acquaintance with the Mistoltin![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Jabarro
 You little ingrate! Don't push me, Aless!![k]
 
 [exit]
@@ -731,10 +731,10 @@ You little ingrate! Don't push me, Aless!![k]
 # 0x31c6f2:
 # @@3313860@@
 
-[TWinBtm][DlgOpn]['(null)' 0255]
+[TWinBtm][DlgOpn]['Vampa' 0255]
 Fetra and Eliu, we need to work together, so stay close.[k]
 [cs]
-Celice is ours. We can't let [$00$2C$3D$00]'s unit show us up![k]
+Serlis is ours. We can't let [$00$2C$3D$00]'s unit show us up![k]
 
 [exit]
 
@@ -742,13 +742,13 @@ Celice is ours. We can't let [$00$2C$3D$00]'s unit show us up![k]
 # 0x31c7bf:
 # @@3313880@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 So this is Darna...
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Yeah, this was the location of the liberation army's fortress during the Holy War.[k]
 [dcs]
@@ -763,20 +763,20 @@ Gods decended from the heavens and granted miraculous weapons and powers upon 12
 The soldiers came to be known as the 12 Crusaders as they led the liberation army back into battle.[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 That was the Miracle of Darna Fortress, wasn't it?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
-Yep, that's right. And now another miracle is taking place, Celice.[k]
+Yep, that's right. And now another miracle is taking place, Serlis.[k]
 [dcs]
 The Crusaders are once again beginning to emerge in the face of Loputousu's revival.[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 ...Huh?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Hahaha... You'll know what I mean someday.[k]
 
@@ -795,13 +795,13 @@ I hope [$00$2C$3E$00][sp]is still alright. I've got to hurry![k]
 # 0xee22e:
 # @@3314020@@
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['Yuria' 002B]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Julia' 002B]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Julia!? Oh my god! You're alright!
 
-[TWinBtm] # Yuria
+[TWinBtm] # Julia
 [Wait 10]
 Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k]
 
@@ -811,41 +811,41 @@ Yes, I'm fine. They locked me up in this castle, but I knew you'd come for me.[k
 # 0x31cd9a:
 # @@3314032@@
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-Well done, Celice. Alster's finally been liberated.
+[TWinTop] # Old Levin
+Well done, Serlis. Alster's finally been liberated.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, but it looks like King Blume slipped off to Conote.[k]
 [dcs]
 
-[TWinTop] # (null)
-Well, that's the way it goes sometimes, Celice. This war isn't over, you know.[k]
+[TWinTop] # Old Levin
+Well, that's the way it goes sometimes, Serlis. This war isn't over, you know.[k]
 [cs]
 We've only just gained a foothold in the Thracia Peninsula.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 But we have the total support of the people! They're always so happy to see us![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 That just goes to show how harsh the empire's rule has been on them.[k]
 [cs]
-The people are counting on you, Celice. But I think the worst is still ahead of us.
+The people are counting on you, Serlis. But I think the worst is still ahead of us.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Yeah, maybe so. But I'm surrounded with so much talent![k]
 [dcs]
 I can't imagine any obstacle being too great for us.[k]
 [cs]
 
-[TWinTop] # (null)
-Yeah, the sky's the limit, Celice.[k]
+[TWinTop] # Old Levin
+Yeah, the sky's the limit, Serlis.[k]
 
 [exit]
 
@@ -961,7 +961,7 @@ Oh, I don't know what to do. Mother... I wish you were here...[k]
 # 0x31cff9:
 # @@3314223@@
 
-[TWinBtm][DlgOpn]['(null)' 02AC]
+[TWinBtm][DlgOpn]['Villager' 02AC]
 Ahhh, the liberation army. I see Prince Leaf finally took a stand.[k]
 [cs]
 Cuan... Ethlin... You should be proud of your son.[k]
@@ -974,7 +974,7 @@ Here, I'd like you to have this Speed Ring.[k]
 # 0x31d07c:
 # @@3314242@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 We have had all we can take of the empire's rule... Please save us![k]
 
 [exit]
@@ -983,7 +983,7 @@ We have had all we can take of the empire's rule... Please save us![k]
 # 0x31d0bb:
 # @@3314256@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 King Blume subjugated this entire area just after the last war.[k]
 [cs]
 He's a horrible ruler. And to top that off, he's now conducting child hunts![k]
@@ -996,7 +996,7 @@ We have had all we can take of that man![k]
 # 0x31d14c:
 # @@3314270@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 King Blume and Queen Hilda have two children named Ishtor and Ishtar.[k]
 [cs]
 Blume's got Ishtar at Manster and Ishtor at Melgen. They're both decent kids unlike their father.[k]
@@ -1009,7 +1009,7 @@ I'm sure you'll be facing them on the battlefield in due course, so keep your gu
 # 0x31d1fb:
 # @@3314284@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 Blume has some fierce warriors backing him up. There's the 3 sisters, Vampa, Fetra, and Eliu, and also a mage named [$00$2C$3D$00].[k]
 [cs]
 But [$00$2C$3D$00][sp]has a good heart... even if she is Blume's niece.[k]
@@ -1022,19 +1022,19 @@ She's helped us out on numerous occasions... Yep, she's just not like the rest o
 # 0x31d28a:
 # @@3314298@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 Count Bramsel over there at Darna Castle is the worst![k]
 [cs]
-He prances around like some king, as long as there's no Grandbell official's butt to kiss.[k]
+He prances about like some king, as long as there's no Grandbell official's butt to kiss around.[k]
 [cs]
-Oh, how I wish somebody would put that disgusting man out of his misery![k]
+Oh, how I wish somebody would put that disgusting man out of my misery![k]
 [cs]
 
 [DlgCls][xChr]
 
 [Wait 20]
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 However, Bramsel's mercenary knights are a tough bunch.[k]
 [cs]
 Especially that Aless. I wouldn't want to meet him in a dark alley.[k]
@@ -1053,13 +1053,13 @@ Not to dash your hopes or anything. Here, this Shield Ring may be of some use to
 # 0x31ceff:
 # @@3314424@@
 
-[TWinTop][DlgOpn]['Sandima' 0052]
-[TWinBtm][DlgOpn]['(null)' 0250]
+[TWinTop][DlgOpn]['Dark Mage (Sandima)' 0052]
+[TWinBtm][DlgOpn]['Cutozov' 0250]
 
-[TWinTop] # Sandima
+[TWinTop] # Dark Mage (Sandima)
 Cutozov, the Book of Fenrir has been located.
 
-[TWinBtm] # (null)
+[TWinBtm] # Cutozov
 [Wait 10]
 It has? Wonderful! Heh heh... this shall mark the end of the rebels![k]
 [dcs]
@@ -1071,7 +1071,7 @@ Now to unleash the devastating power of Fenrir![k]
 # 0x31cd51:
 # @@3314459@@
 
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 Good, we got Lenster Castle back. Now on to Alster.[k]
 [cs]
 Okay, everybody. Hang tight and stay focused![k]
@@ -1082,7 +1082,7 @@ Okay, everybody. Hang tight and stay focused![k]
 # 0x32dc08:
 # @@3314480@@
 
-[TWinBtm][DlgOpn]['(null)' 02A5]
+[TWinBtm][DlgOpn]['Soldier' 02A5]
 We're under orders from Bramsel not to let anyone pass. Now be on your way.[k]
 
 [exit]
@@ -1091,10 +1091,10 @@ We're under orders from Bramsel not to let anyone pass. Now be on your way.[k]
 # 0x32dc44:
 # @@3314501@@
 
-[TWinTop][DlgOpn]['(null)' 02B3]
-[TWinBtm][DlgOpn]['Leilia' 002F]
+[TWinTop][DlgOpn]['Anna' 02B3]
+[TWinBtm][DlgOpn]['Laylea' 002F]
 
-[TWinTop] # (null)
+[TWinTop] # Anna
 My boyfriend left to join the war.[n]
 [Wait 1E]
 I'd guess you're fighting for someone you care for, too.[k]
@@ -1105,17 +1105,17 @@ Oh, here. I have something for you. This holy sword will increase your resistanc
 [cs]
 Get in a few swings for me, will you?
 
-[TWinBtm] # Leilia
+[TWinBtm] # Laylea
 [Wait 10]
 Thank you, I'll do my best. By the way, what's your name?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Anna
 Me? I'm Anna and my boyfriend's name is Jake.[k]
 [cs]
-If you run across him you tell him I'm thinking about him...
+If you run across him, you tell him I'm thinking about him.
 
-[TWinBtm] # Leilia
+[TWinBtm] # Laylea
 [Wait 10]
 Jake... Got it.[k]
 
@@ -1195,11 +1195,11 @@ Oh... it's you. What?[k]
 [TWinTop] # Rodolban
 Hey, show a guy a little respect, would ya?[k]
 [cs]
-Anyway, I was just thinking. Do you think we're holding Sir Celice back any?
+Anyway, I was just thinking. Do you think we're holding Sir Serlis back any?
 
 [TWinBtm] # Tristan
 [Wait 14]
-We? Don't you mean YOU? I'm holding up my own out here.[k]
+We? Don't include me in this. I'm holding up my own out here.[k]
 [dcs]
 
 [TWinTop] # Rodolban
@@ -1211,7 +1211,7 @@ Ah, well... You know, I've... um...[k]
 [dcs]
 
 [TWinTop] # Rodolban
-See there?[n]
+See?[n]
 [Wait 0F]
 That's just what I'm saying. You can't think of anything, can ya?
 

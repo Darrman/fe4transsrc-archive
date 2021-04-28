@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 14/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-06
+# This file was added by Twilkitri
 
 # This file contains the 2A-type scripts for
 # the Epilogue
@@ -16,9 +16,9 @@
 
 [TWinTop]
 [dcs]
-[sp][sp][sp]I blame [$00$2D$C3$B0$91].[k]
+Yes, [$00$2D$C3$B0$91].[k]
 [cs]
-[sp][sp][sp]In any case, let's check back once it's translated.[k]
+I think Edda will be able to recover swiftly under their leadership once this is over, and I don't think the citizens would have it any other way.[k]
 
 [exit]
 
@@ -31,9 +31,9 @@
 
 [TWinTop]
 [dcs]
-[sp][sp][sp]Dayum. All our Edda people are dead or nonexistant. No-one to blame.[k]
+It's terrible, but it seems that the House of Edda may well be extinct.[k]
 [cs]
-[sp][sp][sp]In any case, let's check back once it's translated.[k]
+Serlis, you're going to have to take Edda under your wing unless an unknown heir turns up.[k]
 
 [exit]
 
@@ -42,14 +42,16 @@
 # @@0@@
 [block b001]
 
-[TWinTop][DlgOpn]['Levin' 0280]
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop]
-[sp][sp][sp]Holy Holepunch, Celice! We've reached EDDA!
+We've reclaimed Edda.[n]
+I wonder how happy this would make Claude.
 
 [TWinBtm]
-[sp][sp][sp]This is the place known for causing black screens, is it not?[k]
+Yet another life lost to the treachery against my father...[n]
+Does Father Claude have any heirs?[k]
 
 [exit]
 

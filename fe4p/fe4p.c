@@ -2,9 +2,9 @@
    $Id: fe4p.c,v 1.11 2002/02/05 05:13:54 j10 Exp $
    Fe4 Script Parser
 */
-
-/* Last modified: 22/08/04
-   This file was modified by Dark Twilkitri */
+/* Last modified: 2012-04-15
+   This file was modified by Twilkitri */
+#include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -503,7 +503,7 @@ emittext:
 
          for(j = 0; j < (int)strlen((char *)buffer); j++) {
 				if(!isascii(buffer[j])) {
-               fprintf(stderr,"Warning %d: Jap characters found in script! Skipping block.\n",linecount);
+               fprintf(stderr,"Warning %d: JP characters found in script! Skipping block.\n",linecount);
 					while(!feof(script)) {
 						param = getNext((char *)buffer);
 						if(param && !strcmp((char *)buffer,"exit")) {

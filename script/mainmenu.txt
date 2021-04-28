@@ -2,13 +2,10 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-16
+# This file was added by Twilkitri
 
 # This file is used for altering the text in the main menu.
-# There were several unused options (copying, et al) and Linux has corrupted them.
-# It doesn't really matter since they're not used, but they're in the file for completeness.
-# It's probably best to leave them commented out.
 
 [section mainmenu]
 [map 10]
@@ -16,65 +13,81 @@
 
 
 # 0xd9d7b
-# 892261
-#�ۤ�� 
-#[exit]
+# @@892261@@
+# Start from quicksave
+# Unused
+SQ
+[exit]
 
 
 # 0xd9d7b
-# 892263
-#�ۤ�� 
-#[exit]
+# @@892263@@
+# Start from quicksave (again)
+# Unused
+[Merge d9d65]
+SQ
+[exit]
 
 
 # 0xd9d89
 # @@892265@@
+# Save data
 [sp][sp]Save Data[sp]
 [exit]
 
 
 # 0xd9d95
 # @@892267@@
+# Start from regular save
 [sp]Continue[sp][sp][sp][sp][sp]
 [exit]
 
 
 # 0xd9da2
 # @@892269@@
+# Start from the beginning
 [sp]New Record[sp][sp]
 [exit]
 
 
 # 0xd9db0
-# 892271
-#Ͽ̤      
-#[exit]
+# @@892271@@
+# Copy save
+# Unused
+CS
+[exit]
 
 
 # 0xd9dbd
 # @@892273@@
+# Delete save
 [sp]Erase Data[sp]
 [exit]
 
 
 # 0xd9dca
-# 892275
-# Some debugging thing? 
-#[exit]
+# @@892275@@
+# Save
+Save
+[exit]
 
 
 # 0xd9dd1
 # @@892277@@
+# Delete
 Delete
 [exit]
 
 
 # 0xd9dd8
 # @@892279@@
+# Cancel
 No[sp][sp]
 [exit]
 
 
 # 0xd9dde
 # @@892281@@
-[sp][sp][sp][sp][sp][sp][sp][sp][sp][sp]-No Record-[sp][sp][sp][sp][sp][sp][sp][sp][sp][exit]
+# Empty slot
+[sp][sp][sp][sp][sp][sp][sp][sp][sp][sp]-No Record-[sp][sp][sp][sp][sp][sp][sp][sp][sp]
+[exit]

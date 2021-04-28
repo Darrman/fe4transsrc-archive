@@ -1,6 +1,6 @@
 .rat
-# Last modified: 02/05/04
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-05-06
+# This file was modified by Twilkitri
 
 # This lists most of the blank spaces in the rom
 # which are usually the areas with FF FF FF FF ...
@@ -74,7 +74,7 @@ SECTION weap
         03DF26-03E4E7           # 1474 bytes
 SECTION city
         03F773-03F9C0           # 590 bytes
-COMMON itemex enm1 knight chrnam army weap city
+COMMON itemex enm1 knight army weap city
         03F9D0-0401FF           # 2096 bytes
 END
 # 101892 bytes remaining.

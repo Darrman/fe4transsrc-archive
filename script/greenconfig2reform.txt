@@ -1,7 +1,7 @@
-# Last Modified: 06/07/04
-# This file was added by Dark Twilkitri
+# Last Modified: 2012-03-11
+# This file was added by Twilkitri
 
-# Yeah, this requires reformatting too :P
+# Yeah, this requires reformatting too
 # Only the one option, though...
 
 [noptr]

@@ -1,3 +1,12 @@
+# Fontcheck: Reformatted
+
+# Last modified: 2012-03-12
+# This file was added by Twilkitri
+
+# These scripts are called up dynamically when Edda is taken over according to how many of
+# Claude's children are alive (or exist) for inclusion of their names in dialogue regarding
+# it.
+
 
 [ASMPTR]
 

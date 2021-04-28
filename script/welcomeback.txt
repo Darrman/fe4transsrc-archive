@@ -1,0 +1,1159 @@
+
+
+# 0xcf2f1
+# @@848104@@
+
+[TWinTop]
+Sigurd to Deirdre
+
+[exit]
+
+
+# 0xcf302
+# @@848107@@
+
+[TWinTop]
+Noish to spouse
+
+[exit]
+
+
+# 0xcf31a
+# @@848110@@
+
+[TWinTop]
+Alec to spouse
+
+[exit]
+
+
+# 0xcf331
+# @@848113@@
+
+[TWinTop]
+Ardan to spouse
+
+[exit]
+
+
+# 0xcf34d
+# @@848116@@
+
+[TWinTop]
+Young Fin to spouse
+
+[exit]
+
+
+# 0xcf368
+# @@848119@@
+
+[TWinTop]
+Cuan to Ethlin
+
+[exit]
+
+
+# 0xcf386
+# @@848122@@
+
+[TWinTop]
+Midir to spouse
+
+[exit]
+
+
+# 0xcf3a2
+# @@848125@@
+
+[TWinTop]
+Levin to spouse
+
+[exit]
+
+
+# 0xcf3bb
+# @@848128@@
+
+[TWinTop]
+Holyn to spouse
+
+[exit]
+
+
+# 0xcf3cc
+# @@848131@@
+
+[TWinTop]
+Azel to spouse
+
+[exit]
+
+
+# 0xcf3ea
+# @@848134@@
+
+[TWinTop]
+Jamka to spouse
+
+[exit]
+
+
+# 0xcf401
+# @@848137@@
+
+[TWinTop]
+Claude to spouse
+
+[exit]
+
+
+# 0xcf41f
+# @@848140@@
+
+[TWinTop]
+Beowulf to spouse
+
+[exit]
+
+
+# 0xcf438
+# @@848143@@
+
+[TWinTop]
+Lex to spouse
+
+[exit]
+
+
+# 0xcf453
+# @@848146@@
+
+[TWinTop]
+Dew to spouse[k]
+[cs]
+More Dew to spouse
+
+[exit]
+
+
+# 0xcf484
+# @@848149@@
+
+[TWinTop]
+Deirdre to Sigurd
+
+[exit]
+
+
+# 0xcf49e
+# @@848152@@
+
+[TWinTop]
+Ethlin to Cuan
+
+[exit]
+
+
+# 0xcf4bb
+# @@848155@@
+
+[TWinTop]
+Lachesis to spouse
+
+[exit]
+
+
+# 0xcf4d2
+# @@848158@@
+
+[TWinTop]
+Aira to spouse
+
+[exit]
+
+
+# 0xcf4ed
+# @@848161@@
+
+[TWinTop]
+Fury to spouse
+
+[exit]
+
+
+# 0xcf50e
+# @@848164@@
+
+[TWinTop]
+Tiltyu to spouse
+
+[exit]
+
+
+# 0xcf53d
+# @@848167@@
+
+[TWinTop]
+Sylvia to spouse
+
+[exit]
+
+
+# 0xcf561
+# @@848170@@
+
+[TWinTop]
+Aideen to spouse
+
+[exit]
+
+
+# 0xcf57b
+# @@848173@@
+
+[TWinTop]
+Brigid to spouse
+
+[exit]
+
+
+# 0xcf591
+# @@848176@@
+
+[TWinTop]
+Serlis to spouse
+
+[exit]
+
+
+# 0xcf5ad
+# @@848179@@
+
+[TWinTop]
+Shanan to spouse
+
+[exit]
+
+
+# 0xcf5be
+# @@848182@@
+
+[TWinTop]
+Rodolban to spouse
+
+[exit]
+
+
+# 0xcf5dc
+# @@848185@@
+
+[TWinTop]
+Asaello to spouse
+
+[exit]
+
+
+# 0xcf5f6
+# @@848188@@
+
+[TWinTop]
+Leaf to spouse
+
+[exit]
+
+
+# 0xcf61a
+# @@848191@@
+
+[TWinTop]
+Johan to spouse
+
+[exit]
+
+
+# 0xcf638
+# @@848194@@
+
+[TWinTop]
+Sharlow to spouse
+
+[exit]
+
+
+# 0xcf656
+# @@848197@@
+
+[TWinTop]
+Hawk to spouse
+
+[exit]
+
+
+# 0xcf669
+# @@848200@@
+
+[TWinTop]
+Tristan to spouse
+
+[exit]
+
+
+# 0xcf687
+# @@848203@@
+
+[TWinTop]
+Adult Fin to spouse
+
+[exit]
+
+
+# 0xcf69c
+# @@848206@@
+
+[TWinTop]
+Dimna to spouse
+
+[exit]
+
+
+# 0xcf6bb
+# @@848209@@
+
+[TWinTop]
+Hanibal to spouse
+
+[exit]
+
+
+# 0xcf6cf
+# @@848212@@
+
+[TWinTop]
+Aless to spouse
+
+[exit]
+
+
+# 0xcf6e4
+# @@848215@@
+
+[TWinTop]
+Amid to spouse
+
+[exit]
+
+
+# 0xcf6fb
+# @@848218@@
+
+[TWinTop]
+Oifaye to spouse
+
+[exit]
+
+
+# 0xcf710
+# @@848221@@
+
+[TWinTop]
+Daisy to spouse
+
+[exit]
+
+
+# 0xcf745
+# @@848224@@
+
+[TWinTop]
+Radnay to spouse
+
+[exit]
+
+
+# 0xcf76e
+# @@848227@@
+
+[TWinTop]
+Mana to spouse
+
+[exit]
+
+
+# 0xcf795
+# @@848230@@
+
+[TWinTop]
+Julia to spouse
+
+[exit]
+
+
+# 0xcf7af
+# @@848233@@
+
+[TWinTop]
+Altenna to spouse
+
+[exit]
+
+
+# 0xcf7ce
+# @@848236@@
+
+[TWinTop]
+Femina to spouse
+
+[exit]
+
+
+# 0xcf7fd
+# @@848239@@
+
+[TWinTop]
+Linda to spouse
+
+[exit]
+
+
+# 0xcf826
+# @@848242@@
+
+[TWinTop]
+Laylea to spouse
+
+[exit]
+
+
+# 0xcf851
+# @@848245@@
+
+[TWinTop]
+Janne to spouse
+
+[exit]
+
+
+# 0xcf871
+# @@848248@@
+
+[TWinTop]
+Johalva to spouse
+
+[exit]
+
+
+# 0xcf894
+# @@848251@@
+
+[TWinTop]
+Scathach to spouse
+
+[exit]
+
+
+# 0xcf8b2
+# @@848254@@
+
+[TWinTop]
+Faval to spouse
+
+[exit]
+
+
+# 0xcf8cc
+# @@848257@@
+
+[TWinTop]
+Corple to spouse
+
+[exit]
+
+
+# 0xcf8ea
+# @@848260@@
+
+[TWinTop]
+Sety to spouse
+
+[exit]
+
+
+# 0xcf8fd
+# @@848263@@
+
+[TWinTop]
+Delmud to spouse
+
+[exit]
+
+
+# 0xcf91b
+# @@848266@@
+
+[TWinTop]
+Lester to spouse
+
+[exit]
+
+
+# 0xcf93a
+# @@848269@@
+
+[TWinTop]
+Arthur to spouse
+
+[exit]
+
+
+# 0xcf950
+# @@848272@@
+
+[TWinTop]
+Patty to spouse
+
+[exit]
+
+
+# 0xcf986
+# @@848275@@
+
+[TWinTop]
+Lakche to spouse
+
+[exit]
+
+
+# 0xcf9ae
+# @@848278@@
+
+[TWinTop]
+Lana to spouse
+
+[exit]
+
+
+# 0xcf9d5
+# @@848281@@
+
+[TWinTop]
+Fee to spouse
+
+[exit]
+
+
+# 0xcfa04
+# @@848284@@
+
+[TWinTop]
+Tinny to spouse
+
+[exit]
+
+
+# 0xcfa2d
+# @@848287@@
+
+[TWinTop]
+Leen to spouse
+
+[exit]
+
+
+# 0xcfa58
+# @@848290@@
+
+[TWinTop]
+Nanna to spouse
+
+[exit]
+
+
+# 0xcfa78
+# @@848293@@
+
+[TWinBtm]
+Sigurd response to spouse[k]
+
+[exit]
+
+
+# 0xcfa78
+# @@848296@@
+[Merge cf1a5]
+
+[TWinBtm]
+Sigurd response to spouse[k]
+
+[exit]
+
+
+# 0xcfa91
+# @@848299@@
+
+[TWinBtm]
+Noish response to spouse[k]
+
+[exit]
+
+
+# 0xcfaa9
+# @@848302@@
+
+[TWinBtm]
+Alec response to spouse[k]
+
+[exit]
+
+
+# 0xcfabf
+# @@848305@@
+
+[TWinBtm]
+Ardan response to spouse[k]
+
+[exit]
+
+
+# 0xcfad5
+# @@848308@@
+
+[TWinBtm]
+Young Fin response to spouse[k]
+
+[exit]
+
+
+# 0xcfaef
+# @@848311@@
+
+[TWinBtm]
+Cuan response to Ethlin[k]
+
+[exit]
+
+
+# 0xcfb08
+# @@848314@@
+
+[TWinBtm]
+Midir response to spouse[k]
+
+[exit]
+
+
+# 0xcfb32
+# @@848317@@
+
+[TWinBtm]
+Levin response to spouse[k]
+
+[exit]
+
+
+# 0xcfb54
+# @@848320@@
+
+[TWinBtm]
+Holyn response to spouse[k]
+
+[exit]
+
+
+# 0xcfb6c
+# @@848323@@
+
+[TWinBtm]
+Azel response to spouse[k]
+
+[exit]
+
+
+# 0xcfb81
+# @@848326@@
+
+[TWinBtm]
+Jamka response to spouse[k]
+
+[exit]
+
+
+# 0xcfb9a
+# @@848329@@
+
+[TWinBtm]
+Claude response to spouse[k]
+
+[exit]
+
+
+# 0xcfbca
+# @@848332@@
+
+[TWinBtm]
+Beowulf response to spouse[k]
+
+[exit]
+
+
+# 0xcfbe1
+# @@848335@@
+
+[TWinBtm]
+Lex response to spouse[k]
+
+[exit]
+
+
+# 0xcfbf8
+# @@848338@@
+
+[TWinBtm]
+Dew response to spouse[k]
+
+[exit]
+
+
+# 0xcfc1a
+# @@848341@@
+
+[TWinBtm]
+Deirdre response to Sigurd[k]
+
+[exit]
+
+
+# 0xcfc2d
+# @@848344@@
+
+[TWinBtm]
+Ethlin response to Cuan[k]
+
+[exit]
+
+
+# 0xcfc42
+# @@848347@@
+
+[TWinBtm]
+Lachesis response to spouse[k]
+
+[exit]
+
+
+# 0xcfc5e
+# @@848350@@
+
+[TWinBtm]
+Aira response to spouse[k]
+
+[exit]
+
+
+# 0xcfc7e
+# @@848353@@
+
+[TWinBtm]
+Fury response to spouse[k]
+
+[exit]
+
+
+# 0xcfc98
+# @@848356@@
+
+[TWinBtm]
+Tiltyu response to spouse[k]
+
+[exit]
+
+
+# 0xcfcbc
+# @@848359@@
+
+[TWinBtm]
+Sylvia response to spouse[k]
+
+[exit]
+
+
+# 0xcfce1
+# @@848362@@
+
+[TWinBtm]
+Aideen response to spouse[k]
+
+[exit]
+
+
+# 0xcfd00
+# @@848365@@
+
+[TWinBtm]
+Brigid response to spouse[k]
+
+[exit]
+
+
+# 0xcfd18
+# @@848368@@
+
+[TWinBtm]
+Serlis response to spouse[k]
+
+[exit]
+
+
+# 0xcfd35
+# @@848371@@
+
+[TWinBtm]
+Shanan response to spouse[k]
+
+[exit]
+
+
+# 0xcfd4a
+# @@848374@@
+
+[TWinBtm]
+Rodolban response to spouse[k]
+
+[exit]
+
+
+# 0xcfd68
+# @@848377@@
+
+[TWinBtm]
+Asaello response to spouse[k]
+
+[exit]
+
+
+# 0xcfd75
+# @@848380@@
+
+[TWinBtm]
+Leaf response to spouse[k]
+
+[exit]
+
+
+# 0xcfd96
+# @@848383@@
+
+[TWinBtm]
+Johan response to spouse[k]
+
+[exit]
+
+
+# 0xcfdb5
+# @@848386@@
+
+[TWinBtm]
+Sharlow response to spouse[k]
+
+[exit]
+
+
+# 0xcfddc
+# @@848389@@
+
+[TWinBtm]
+Hawk response to spouse[k]
+
+[exit]
+
+
+# 0xcfdf5
+# @@848392@@
+
+[TWinBtm]
+Tristan response to spouse[k]
+
+[exit]
+
+
+# 0xcfe0b
+# @@848395@@
+
+[TWinBtm]
+Adult Fin response to spouse[k]
+
+[exit]
+
+
+# 0xcfe35
+# @@848398@@
+
+[TWinBtm]
+Dimna response to spouse[k]
+
+[exit]
+
+
+# 0xcfe49
+# @@848401@@
+
+[TWinBtm]
+Hanibal response to spouse[k]
+
+[exit]
+
+
+# 0xcfe70
+# @@848404@@
+
+[TWinBtm]
+Aless response to spouse[k]
+
+[exit]
+
+
+# 0xcfe8f
+# @@848407@@
+
+[TWinBtm]
+Amid response to spouse[k]
+
+[exit]
+
+
+# 0xcfeaa
+# @@848410@@
+
+[TWinBtm]
+Oifaye response to spouse[k]
+
+[exit]
+
+
+# 0xcfecc
+# @@848413@@
+
+[TWinBtm]
+Daisy response to spouse[k]
+
+[exit]
+
+
+# 0xcfef6
+# @@848416@@
+
+[TWinBtm]
+Radnay response to spouse
+[k]
+
+[exit]
+
+
+# 0xcff11
+# @@848419@@
+
+[TWinBtm]
+Mana response to spouse[k]
+
+[exit]
+
+
+# 0xcff29
+# @@848422@@
+
+[TWinBtm]
+Julia response to spouse[k]
+
+[exit]
+
+
+# 0xcff4a
+# @@848425@@
+
+[TWinBtm]
+Altenna response to spouse[k]
+
+[exit]
+
+
+# 0xcff66
+# @@848428@@
+
+[TWinBtm]
+Femina response to spouse[k]
+
+[exit]
+
+
+# 0xcff8a
+# @@848431@@
+
+[TWinBtm]
+Linda response to spouse[k]
+
+[exit]
+
+
+# 0xcffb5
+# @@848434@@
+
+[TWinBtm]
+Laylea response to spouse[k]
+
+[exit]
+
+
+# 0xcffd6
+# @@848437@@
+
+[TWinBtm]
+Janne response to spouse[k]
+
+[exit]
+
+
+# 0xcfffa
+# @@848440@@
+
+[TWinBtm]
+Johalva response to spouse[k]
+
+[exit]
+
+
+# 0xd0015
+# @@848443@@
+
+[TWinBtm]
+Scathach response to spouse[k]
+
+[exit]
+
+
+# 0xd0033
+# @@848446@@
+
+[TWinBtm]
+Faval response to spouse[k]
+
+[exit]
+
+
+# 0xd0040
+# @@848449@@
+
+[TWinBtm]
+Corple response to spouse[k]
+
+[exit]
+
+
+# 0xd0066
+# @@848452@@
+
+[TWinBtm]
+Sety response to spouse[k]
+
+[exit]
+
+
+# 0xd007f
+# @@848455@@
+
+[TWinBtm]
+Delmud response to spouse[k]
+
+[exit]
+
+
+# 0xd0095
+# @@848458@@
+
+[TWinBtm]
+Lester response to spouse[k]
+
+[exit]
+
+
+# 0xd00a9
+# @@848461@@
+
+[TWinBtm]
+Arthur response to spouse[k]
+
+[exit]
+
+
+# 0xd00c4
+# @@848464@@
+
+[TWinBtm]
+Patty response to spouse[k]
+
+[exit]
+
+
+# 0xd00ee
+# @@848467@@
+
+[TWinBtm]
+Lakche response to spouse[k]
+
+[exit]
+
+
+# 0xd0109
+# @@848470@@
+
+[TWinBtm]
+Lana response to spouse[k]
+
+[exit]
+
+
+# 0xd0121
+# @@848473@@
+
+[TWinBtm]
+Fee response to spouse[k]
+
+[exit]
+
+
+# 0xd0145
+# @@848476@@
+
+[TWinBtm]
+Tinny response to spouse[k]
+
+[exit]
+
+
+# 0xd0170
+# @@848479@@
+
+[TWinBtm]
+Leen response to spouse[k]
+
+[exit]
+
+
+# 0xd0191
+# @@848482@@
+
+[TWinBtm]
+Nanna response to spouse[k]
+
+[exit]
+
+
+# 0xd01b5
+# @@848485@@
+# Is this why all the female entries used ASM calls rather than
+# the spouse control? If so we can remove them and use the
+# spouse control directly rather than running with this chicanery,
+# perhaps.
+Lord [$00$22]
+
+[exit]
+

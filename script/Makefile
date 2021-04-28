@@ -26,7 +26,7 @@ $(DLMAP): fe4map.c fe4map.def
 ifeq ($(HOST),cygwin)
 	$(CC) -mdll fe4map.c fe4map.def -o $@
 else
-	$(CC) -shared -Wl,-soname,fe4map.so fe4map.c -o $@
+	$(CC) -shared -Wl,--soname,fe4map.so fe4map.c -o $@
 endif
 ifndef NOCOMPRESS
 $(TABLE) $(TBLSIF): $(FE4S) $(COMPRESSABLESCRIPT)

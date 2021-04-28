@@ -1,7 +1,7 @@
 # Fontcheck: Tiled
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-26
+# This file was added by Twilkitri
 
 # This file is for altering text in the Data Screen Sub Window.
 
@@ -9,19 +9,27 @@
 [nospaces]
 [mode-sjis]
 
+# ------
+# Replacing with ------[sp][sp] because for some reason Lachesis is being
+# printed behind it when you view leader and back, resulting in '------is'.
+# Better would be to stop that from being done in the first place.
+# @@775127@@
+------[spx][spx]
+[exit]
+
 # Home Castle
 # @@775424@@
 Home
 [exit]
 
-# No leader in army
+# No army
 # @@775523@@
-No[spx]Leader
+No[spx]army
 [exit]
 
-# No army
+# No leader in army
 # @@775544@@
-No[spx]Army
+No[spx]leader
 [exit]
 
 # Leader Unit

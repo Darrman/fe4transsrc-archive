@@ -2,8 +2,8 @@
 
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-06
+# This file was added by Twilkitri
 
 # This file is used for altering the names of weapons whereever they are used in
 # a dialogue sense.
@@ -54,7 +54,7 @@ Silver[spx]Blade
 
 # 0xd9743
 # @@890382@@
-Prayer[spx]Sword
+Miracle[spx]Sword
 [exit]
 
 
@@ -78,7 +78,7 @@ Berserk[spx]Sword
 
 # 0xd9765
 # @@890390@@
-Hero[spx]Sword
+Brave[spx]Sword
 [exit]
 
 
@@ -217,7 +217,7 @@ Horseslayer
 
 # 0xd9813
 # @@890436@@
-Hero[spx]Lance
+Brave[spx]Lance
 [exit]
 
 
@@ -278,7 +278,7 @@ Silver[spx]Axe
 
 # 0xd9850
 # @@890456@@
-Hero[spx]Axe
+Brave[spx]Axe
 [exit]
 
 
@@ -333,7 +333,7 @@ Silver[spx]Bow
 
 # 0xd9883
 # @@890474@@
-Hero[spx]Bow
+Brave[spx]Bow
 [exit]
 
 
@@ -367,21 +367,21 @@ Ichival
 [exit]
 
 
-# Long Arch
+# Long Ballista
 # 0xd98a2
 # @@890486@@
 
 [exit]
 
 
-# Iron Arch
+# Iron Ballista
 # 0xd98aa
 # @@890488@@
 
 [exit]
 
 
-# Killer Arch
+# Killer Ballista
 # 0xd98b3
 # @@890490@@
 
@@ -409,18 +409,18 @@ Elfire
 
 # 0xd98d4
 # @@890498@@
-Volcanon
+Bolganone
 [exit]
 
 
-# Fala Flamce
+# Fala Flame
 # 0xd98db
 # @@890500@@
 
 [exit]
 
 
-# Meteo
+# Meteor
 # 0xd98e4
 # @@890502@@
 
@@ -441,7 +441,7 @@ Elthunder
 
 # 0xd98fe
 # @@890508@@
-Tron
+Thoron
 [exit]
 
 
@@ -452,7 +452,7 @@ Tron
 [exit]
 
 
-# Thunderstorm
+# Bolting
 # 0xd990d
 # @@890512@@
 
@@ -498,7 +498,7 @@ Lightning
 
 # 0xd9942
 # @@890526@@
-Rezire
+Nosferatu
 [exit]
 
 
@@ -562,13 +562,13 @@ Narga
 
 # 0xd9977
 # @@890546@@
-Live
+Heal
 [exit]
 
 
 # 0xd997f
 # @@890548@@
-Relive
+Mend
 [exit]
 
 
@@ -580,13 +580,13 @@ Recover
 
 # 0xd9991
 # @@890552@@
-Libro
+Physic
 [exit]
 
 
 # 0xd999a
 # @@890554@@
-Reserve
+Fortify
 [exit]
 
 
@@ -672,13 +672,13 @@ Berserk
 
 # 0xd9a07
 # @@890582@@
-Live[spx]Bracelet
+Renewal[spx]Bracelet
 [exit]
 
 
 # 0xd9a10
 # @@890584@@
-Elite[spx]Ring
+Paragon[spx]Ring
 [exit]
 
 
@@ -690,7 +690,7 @@ Thief[spx]Bracelet
 
 # 0xd9a22
 # @@890588@@
-Prayer[spx]Bracelet
+Miracle[spx]Bracelet
 [exit]
 
 

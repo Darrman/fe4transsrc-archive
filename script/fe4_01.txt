@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 1.
 
@@ -37,12 +37,12 @@
 # @@1082595@@
 
 [TWinTop][DlgOpn]['Eltshan' 005A]
-[TWinBtm][DlgOpn]['(null)' 02A5]
+[TWinBtm][DlgOpn]['Soldier' 02A5]
 
 [TWinTop] # Eltshan
 Good work. You've got the border.
 
-[TWinBtm] # (null)
+[TWinBtm] # Soldier
 [Wait 10]
 Yes, my lord![k]
 
@@ -105,7 +105,7 @@ You pull any stunts and that little brat's history![k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0281]
+[TWinTop][DlgOpn]['Young Shanan' 0281]
 These guys don't scare me, Aira. Don't you let them push you around!
 
 [TWinBtm] # Ira
@@ -113,7 +113,7 @@ These guys don't scare me, Aira. Don't you let them push you around!
 Shanan...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 
 [xChr][DlgCls]
 
@@ -141,26 +141,26 @@ Even if it takes me to the ends of hell! Got it!?[k]
 Whoa-woa!![n]
 Fer such a pretty face, you sure can spew some filth![k]
 [cs]
-Just relax. I've no plans of making an enemy with someone of your swordsmanship.[k]
+Just relax. I've no plans of making an enemy of someone with your swordsmanship.[k]
 [cs]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0281]
+[TWinTop][DlgOpn]['Young Shanan' 0281]
 
 [TWinBtm] # Ira
 Shanan, stay strong.[n]
 It'll only be for a little while.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Aira, forget it![n]
 
 [TWinBtm] # Ira
 
 [xChr][DlgCls]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 [Wait 0C]
 Don't go!![k]
 
@@ -181,14 +181,14 @@ We WILL get Evans back![k]
 # @@1083090@@
 
 [TWinTop][DlgOpn]['Jamka' 000B]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Jamka
 Aideen, grab the kid and get out of here![k]
 [cs]
 Gandolf is going to find you guys. Now move it!
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Prince Jamka, you're not joining us?[k]
 [dcs]
@@ -198,7 +198,7 @@ No. I can't go against my father... even with all the mayhem my brothers are cau
 [cs]
 I'm going to Verdane to see my father. I have to get him to see the wrong in all this.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Yes, indeed. This war has gone on long enough.[k]
 [dcs]
@@ -214,7 +214,7 @@ Aideen, we gotta move now![k]
 [cs]
 It's gettin' too hairy 'round here. Gandolf'll rip out my tongue next time they find me!
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 
 [xChr][DlgCls]
 
@@ -270,7 +270,7 @@ Sir, there was a small child locked up in the castle's dungeon.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0281]
+[TWinTop][DlgOpn]['Young Shanan' 0281]
 ......
 
 [TWinBtm] # Sigurd
@@ -279,7 +279,7 @@ What's up? Why aren't you talking?[n]
 Who locked you up in there?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 ...Aren't you Kinbois' men?
 
 [TWinBtm] # Sigurd
@@ -288,7 +288,7 @@ We took care of Kinbois.[n]
 You're safe with us.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Really?[n]
 Then Aira doesn't have to fight anymore![k]
 [cs]
@@ -303,19 +303,19 @@ I'll go let her know you're alright.[n]
 So what's your name?[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Shanan. I'm... er..  prince of the Kingdom of Isaac.
 
 [TWinBtm] # Sigurd
 [Wait 10]
-YOU are the prince of Isaac? You're serious, aren't you?[k]
+The prince of Isaac? ...you're serious, aren't you?[k]
 [dcs]
 I bet you've been through a lot. You'd do best to stay with our troops for now.[k]
 [cs]
 Just be patient for the time being. You'll make it back to your country someday.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 
 [xChr][DlgCls]
 
@@ -358,27 +358,27 @@ Sir, there was a small child locked up in the castle's dungeon.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 0281]
+[TWinTop][DlgOpn]['Young Shanan' 0281]
 
 [TWinBtm] # Sigurd
 Who are you?[n]
 Do you have a name?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 I'm Shanan... prince of Isaac.[n]
 ...Aren't you Kinbois' men?
 
 [TWinBtm] # Sigurd
 [Wait 10]
-YOU are the prince of Isa-!?[n]
+The prince of Isa-!?[n]
 Forgive me. I'm Sigurd, Holy Knight of Grandbell.[k]
 [dcs]
 We took care of Kinbois.[n]
 You're safe with us.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Really?[n]
 Then Aira doesn't have to fight anymore![k]
 [cs]
@@ -391,7 +391,7 @@ Aira!? You mean that swordfighter?[n]
 But she um.. well...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Wha-?[n]
 She's dead? You guys killed her!?
 
@@ -401,7 +401,7 @@ Geez, I'm sorry![n]
 I had no idea![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Young Shanan
 Aaaaagh... Aira![k]
 [cs]
 
@@ -498,10 +498,10 @@ War sure can be cruel. Aira, warrior of Isaac... I pray that day never comes.[k]
 # 0x10bb3d:
 # @@1083606@@
 
-[TWinTop][DlgOpn]['Etain' 0017]
+[TWinTop][DlgOpn]['Aideen' 0017]
 [TWinBtm][DlgOpn]['Jamka' 000B]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Prince Jamka! Wait!!
 
 [TWinBtm] # Jamka
@@ -509,7 +509,7 @@ Prince Jamka! Wait!!
 Aideen, is that you?[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 I thought you went to talk to your father! Now you're fighting? What is going on!?
 
 [TWinBtm] # Jamka
@@ -522,7 +522,7 @@ Everything's been upside-down since that Sandima showed up.[k]
 My father and brothers have done anything he has asked them to.[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 So why does that bring you into battle? Please, Jamka, don't do this![k]
 [cs]
 Let's return to Verdane and speak with the king once more. We're stopping this war![k]
@@ -538,7 +538,7 @@ Alright, let's give it one more try. And I'm exposing that traitor once and for 
 But no one lays a finger on my father. That's my one condition.[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 I'll see to it no one does.[n]
 Thank you, Jamka. You really are a good person.
 
@@ -563,7 +563,7 @@ Ok, here's our chance. First we take Evans, then we'll shoot straight for the bo
 # 0x109f2d:
 # @@1083787@@
 
-[TWinBtm][DlgOpn]['(null)' 02A5]
+[TWinBtm][DlgOpn]['Soldier' 02A5]
 Is that... That's Heirhein's troops! King Eltshan must be informed immediately![k]
 
 [exit]
@@ -577,7 +577,7 @@ What? Heirhein has troops heading for Evans!?[k]
 [cs]
 Hmm... Elliot just couldn't stay out of this, could he... Lachesis, watch the castle.
 
-[TWinTop][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Lachesis' 0012]
 
 [TWinBtm] # Eltshan
 [k]
@@ -585,7 +585,7 @@ Hmm... Elliot just couldn't stay out of this, could he... Lachesis, watch the ca
 I'm going to backup Sigurd.[k]
 [cs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Do what you can for him, Eltshan.
 
 [TWinBtm] # Eltshan
@@ -760,10 +760,10 @@ Sheesh![k]
 # 0x10a637:
 # @@1084112@@
 
-[TWinTop][DlgOpn]['(null)' 02AB]
+[TWinTop][DlgOpn]['Old villager' 02AB]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Sigurd, what seems to be troubling you?
 
 [TWinBtm] # Sigurd
@@ -771,7 +771,7 @@ Sigurd, what seems to be troubling you?
 Sir, that woman who was just here... Do you know who she is?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 Ahh, yes. That'd be Deirdre. She's a shaman of the Spirit Forest.
 
 [TWinBtm] # Sigurd
@@ -779,7 +779,7 @@ Ahh, yes. That'd be Deirdre. She's a shaman of the Spirit Forest.
 Deirdre... She's so beautiful.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 A-ha! Even a man of your calibre falls readily fer a pretty woman. Perhaps it's love at first sight!
 
 [TWinBtm] # Sigurd
@@ -787,7 +787,7 @@ A-ha! Even a man of your calibre falls readily fer a pretty woman. Perhaps it's 
 Sir, please. I'm serious. There was something about her... I hope to meet her again.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old villager
 That might be a tad difficult.[k]
 [cs]
 You see, the villagers of the Spirit Forest do not involve themselves with the outside world.[k]
@@ -811,7 +811,7 @@ Deirdre... we must meet again.[k]
 # @@1084210@@
 
 [TWinTop][DlgOpn]['Jamka' 000B]
-[TWinBtm][DlgOpn]['(null)' 0279]
+[TWinBtm][DlgOpn]['Batou' 0279]
 
 [TWinTop] # Jamka
 Father, you still won't listen after all I've told you!?[k]
@@ -820,7 +820,7 @@ Gandolf and Kinbois have failed, and the enemy'll be striking here before you kn
 [cs]
 Commander Sigurd of Grandbell is by no means a bad person. Please, withdraw the troops!
 
-[TWinBtm] # (null)
+[TWinBtm] # Batou
 [Wait 10]
 Originally, Grandbell was preparing to strike us! That's why I allowed Gandolf's raid.[k]
 [dcs]
@@ -834,11 +834,11 @@ You, Gandolf and Kinbois have trusted him far too much.[n]
 He has deceived all of you![k]
 [cs]
 
-[TWinBtm] # (null)
+[TWinBtm] # Batou
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['Sandima' 0052]
+[TWinBtm][DlgOpn]['Dark Mage (Sandima)' 0052]
 Well, well... Prince Jamka. I think we've said enough, haven't we?[k]
 [cs]
 I believe you, as prince, have an obligation to command an attack on the enemy.[k]
@@ -850,11 +850,11 @@ Your negligence to do so could have grave consequences on the kingdom's future.[
 Sandima![n]
 You bastard!!
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['(null)' 0279]
+[TWinBtm][DlgOpn]['Batou' 0279]
 Jamka, Sandima's right. Now go and lead our troops into battle.[k]
 [dcs]
 
@@ -870,15 +870,15 @@ But if I make it back alive, Sandima, I'm taking you out!![k]
 # 0x10aaa9:
 # @@1084275@@
 
-[TWinTop][DlgOpn]['(null)' 0279]
-[TWinBtm][DlgOpn]['Sandima' 0052]
+[TWinTop][DlgOpn]['Batou' 0279]
+[TWinBtm][DlgOpn]['Dark Mage (Sandima)' 0052]
 
-[TWinTop] # (null)
+[TWinTop] # Batou
 Sandima, have you been forthright with me all this time?[k]
 [cs]
 It was you who said that Grandbell was conspiring to take my kingdom.
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 What's that? Here I thought Verdane would work out somehow... But you're just a bunch of savages.[k]
 [dcs]
@@ -888,7 +888,7 @@ I've no longer any use for you. I'll be taking command of the troops from here o
 [Wait 78]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Batou
 What're you doing!?[n]
 [$00$33$69]
 [Wait 3C]
@@ -903,7 +903,7 @@ Uuaaaaahhh...![k]
 
 [Wait 20]
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 Hrmph... wretched old fool.[k]
 [cs]
 
@@ -913,36 +913,36 @@ Hrmph... wretched old fool.[k]
 [BGM 7A]
 [Wait 40]
 
-[DlgOpn]['(null)' 026C]
+[DlgOpn]['Manfloy' 026C]
 You've killed King Batou, I see. Do you expect Verdane's soldiers will listen to you?
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 Archbishop Manfloy! When did you arrive? The soldiers won't pose a problem.[k]
 [dcs]
 I can just tell them the king has fallen ill.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Manfloy
 So be it.[n]
 How are things otherwise? Is everything running as planned?
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 My humblest apologies. Our invasion of Grandbell has met with unexpected difficulties.[k]
 [dcs]
 A nuisance by the name of Sigurd keeps stirring up trouble.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Manfloy
 Well, how about the Lopt blood link?  Have you located Sigyn's daughter yet?
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 Well, as of yet nothing, but I...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Manfloy
 You imbecile![n]
 Well, the boy... Sigyn's son is in Barhara at the moment.[k]
 [cs]
@@ -955,12 +955,12 @@ In short, Sigyn was the only surviving descendant of the Lopt Clan.[k]
 [cs]
 Now, Sigyn broke the Myra Decree by bearing two children. You follow me, Sandima?
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 Yes. By uniting the blood of her offspring, the Dark Lord Loputousu shall be revived![k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Manfloy
 Precisely. Now in order for us, the remnants of the Lopt Empire, to once again enter the world stage, we must awaken the Dark Lord at any cost.[k]
 [cs]
 Sandima, you know as well as I what we've been through.[k]
@@ -969,7 +969,7 @@ We've spent the last hundred years in hiding deep within the Yied Desert, suffer
 [cs]
 Well, that day is now upon us!
 
-[TWinBtm] # Sandima
+[TWinBtm] # Dark Mage (Sandima)
 [Wait 10]
 Understood. I will see my mission through, even if it takes my last breath![k]
 
@@ -1155,14 +1155,14 @@ He has sustained heavy injuries. He's very likely beyond our help.[k]
 
 [Wait 0C]
 
-[TWinTop][DlgOpn]['(null)' 0279]
+[TWinTop][DlgOpn]['Batou' 0279]
 
 [TWinBtm] # Sigurd
 King Batou, what happened to you?![n]
 Please... hold on![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Batou
 Urgh... Sigurd, my apologies for all you had to go through. This was all Sandima's doing.[k]
 [cs]
 He deceived me while conning my two sons in an attempt to take control of the country.
@@ -1172,7 +1172,7 @@ He deceived me while conning my two sons in an attempt to take control of the co
 Yes, I'm aware of that. Please, don't overexert yourself. You just need some rest.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Batou
 No, I'm already done for. But before I die, I have one last thing I must tell you.[k]
 [cs]
 The evil that's rearing its head across the continent is all the work of the Dark Sect.[k]
@@ -1191,7 +1191,7 @@ Please absolve my failure to keep my citizens from harm's way. S... Sigurd, I be
 [TWinBtm] # Sigurd
 King Batou... No...[n]
 [Wait 30]
-What IS this Dark Sect anyway...[k]
+What is this Dark Sect anyway...[k]
 
 [exit]
 
@@ -1199,7 +1199,7 @@ What IS this Dark Sect anyway...[k]
 # 0x10bd5a:
 # @@1084549@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 The lord of Genoa, Kinbois, is a downright terrible man.[k]
 [cs]
 He has attacked our village on numerous occasions. It's been dreadful.[k]
@@ -1215,7 +1215,7 @@ Anyway, we're all so glad that you've come!
 # 0x10bdfa:
 # @@1084563@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 The king of this country is very kind. He would've been the last person to wage a war.[k]
 [cs]
 That sorcerer, Sandima, is behind all of this.[k]
@@ -1232,7 +1232,7 @@ Please, I beg of you... save our kingdom![k]
 # 0x10bed6:
 # @@1084584@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 There's a dense forest jus' north of this village. T'is called th' 'Spirit Forest'.[k]
 [cs]
 I used t'live there once upon a time in a village hidden deep within th' forest.[k]
@@ -1355,7 +1355,7 @@ I dropped my axe!![k]
 [BGM 90]
 [Wait 3C]
 
-[TWinTop][DlgOpn]['(null)' 0284]
+[TWinTop][DlgOpn]['Rahna' 0284] # Not the actual Rahna obv
 Was the axe you dropped this gold axe? Or perhaps this silver one?
 
 [TWinBtm] # Lex
@@ -1363,8 +1363,8 @@ Was the axe you dropped this gold axe? Or perhaps this silver one?
 Naw, it was nothing as nice as either of them. It was just an old iron axe.[k]
 [dcs]
 
-[TWinTop] # (null)
-You are very honest! As a reward for your honesty I present you with the Hero Axe.[k]
+[TWinTop] # Rahna
+You are very honest! As a reward for your honesty I present you with the Brave Axe.[k]
 [cs]
 Farewell, Lex...
 
@@ -1378,7 +1378,7 @@ Farewell, Lex...
 # 0x32dad3:
 # @@1085182@@
 
-[TWinBtm][DlgOpn]['(null)' 02A5]
+[TWinBtm][DlgOpn]['Soldier' 02A5]
 We'll take care of everything beyond this point.[k]
 
 [exit]

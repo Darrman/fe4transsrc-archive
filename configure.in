@@ -121,6 +121,9 @@ case "$host" in
    *-*-*djgpp*)
       HOST=djgpp
       ;;
+   *-*-interix*)
+      HOST=sua
+      ;;
 esac
 
 dnl Checks for programs.
@@ -130,10 +133,13 @@ if test -z $CC; then
    exit 1
 fi
 
-AC_CHECK_PROGS(MAKE,make gmake)
+AC_CHECK_PROGS(MAKE,gmake)
 if test -z $MAKE; then
-   echo "Error: GNU Make is required to build this project."
-   exit 1
+   AC_CHECK_PROGS(MAKE,make)
+   if test -z $MAKE; then
+       echo "Error: GNU Make is required to build this project."
+       exit 1
+   fi
 fi
 
 AC_CHECK_PROGS(CP,cp)
@@ -166,12 +172,12 @@ AC_OBJEXT
 
 dnl Attempt to build packages 
 
-if test "$HOST" = "cygwin" -o "$HOST" = "mingw32"; then
+if test "$HOST" = "cygwin" -o "$HOST" = "mingw32" -o "$HOST" = "sua"; then
 	mv packages/sif/Makefile packages/sif/Makefile.bak && \
 	sed -e "s/LDFLAGS=.*/LDFLAGS=/" packages/sif/Makefile.bak > packages/sif/Makefile
 fi
-make -C packages
-make -C packages DESTDIR=$PWD install
+$MAKE -C packages
+$MAKE -C packages DESTDIR="$PWD" install
 
 dnl FE4 project specific checks
 AC_PATH_PROGS(SIF,sif${EXEEXT},,bin)

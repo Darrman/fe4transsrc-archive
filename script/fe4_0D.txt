@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-06
+# This file was modified by Twilkitri
 
 # This file is for altering conversations from Chapter 3 to Chapter 5.
 
@@ -72,11 +72,11 @@ Whoa! Where did you get that!?[k]
 [dcs]
 
 [TWinTop] # Lex
-The infamous Hero Sword? So I take it you've heard of them before.
+One of the infamous Brave Swords? I take it you've heard of them before.
 
 [TWinBtm] # Aira
 [Wait 10]
-This is... a Hero Sword!? It's fantastic![k]
+This is... a Brave Sword!? It's fantastic![k]
 [dcs]
 
 [TWinTop] # Lex
@@ -109,7 +109,7 @@ Ira, here. I've got something for you.
 
 [TWinBtm] # Aira
 [Wait 10]
-This is a Hero Sword, isn't it?[k]
+This is a Brave Sword, isn't it?[k]
 [dcs]
 Why me? You should be using this.[k]
 [cs]
@@ -130,12 +130,12 @@ Holyn, thank you. I'll cherish this sword![k]
 # @@3198393@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinBtm][DlgOpn]['Brigid' 0018]
 
 [TWinTop] # Sigurd
 Brigid, are you okay?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Who are you? How do you know my name?[k]
 [dcs]
@@ -145,7 +145,7 @@ Well, one of the villagers was telling me about the leader of the Orgahil Pirate
 [cs]
 That's you, isn't it?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Ah, I see. You're Sigurd from Grandbell, right? If you must kill me, go on. Get it over with.[k]
 [dcs]
@@ -155,7 +155,7 @@ Hahaha! No, no. I merely came to talk to you![k]
 [cs]
 We'd like you to team up with us. What do you say?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 You want me to fight with you!?[k]
 [dcs]
@@ -163,7 +163,7 @@ You want me to fight with you!?[k]
 [TWinTop] # Sigurd
 Yep, we need you.
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 You're a strange one...[k]
 
@@ -258,12 +258,12 @@ It's in the Lord's hands now, Sir Sigurd.[k]
 # @@3198445@@
 
 [TWinTop][DlgOpn]['Midir' 0007]
-[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinBtm][DlgOpn]['Brigid' 0018]
 
 [TWinTop] # Midir
 My lady?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Huh? Who the hell are you?[k]
 [dcs]
@@ -271,7 +271,7 @@ Huh? Who the hell are you?[k]
 [TWinTop] # Midir
 I'm sorry, you aren't Lady Aideen, are you. So you must be...
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 You mad? What in the world are you mumbling about?[k]
 [dcs]
@@ -279,7 +279,7 @@ You mad? What in the world are you mumbling about?[k]
 [TWinTop] # Midir
 What's your name?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Brigid.[k]
 [dcs]
@@ -287,7 +287,7 @@ Brigid.[k]
 [TWinTop] # Midir
 Brigid... you're beautiful!
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 What did you say? You tryin' to be funny!?[k]
 [dcs]
@@ -295,7 +295,7 @@ What did you say? You tryin' to be funny!?[k]
 [TWinTop] # Midir
 To think there's another... one that's even more beautiful. You're like a dream!
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 I... I'm leaving![k]
 
@@ -383,35 +383,35 @@ Ethlin...[k]
 # 0x2eb2d3:
 # @@3198518@@
 
-[TWinTop][DlgOpn]['Etain' 0017]
-[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinTop][DlgOpn]['Aideen' 0017]
+[TWinBtm][DlgOpn]['Brigid' 0018]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Hey, you're... Yes, I knew it! Brigid! I'm your sister, Aideen![k]
 [cs]
 Please, try to remember!
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 How come you know my name? ...Wow, you look just like me.[k]
 [dcs]
 ...Aideen, you say? Actually does sound kinda familiar...[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Yes! I'm your twin sister! You were taken by pirates when you were just 5 years old![k]
 [cs]
 I've been looking for you for such a long time.
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 I don't know. You're going to have to prove this to me somehow.[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Okay. Take this bow. Then draw.
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Hm? Wow! Now that's a nice bow![n]
 Just draw it, right?[k]
@@ -423,7 +423,7 @@ Some strange power is bubbling up inside me. I... I have some recollection...[k]
 Ah... my heart is burning... Aideen. Your are my sister, Aideen![k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Wonderful! You remember![k]
 [cs]
 That bow is the holy Ichival... It's been handed down through our family for generations.[k]
@@ -432,14 +432,14 @@ It is said that only one direct descendant of a crusader is able to handle their
 [cs]
 And in our family, that appears to be you! Now is that enough proof for you?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Aideen... Let me see your face. How's our father?[k]
 [dcs]
 And our brother... Andre?[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Oh! I have so many things to ask you, too![k]
 
 [exit]
@@ -560,18 +560,18 @@ Will do! Thanks, Azel![k]
 # 0x2eb9ad:
 # @@3198635@@
 
-[TWinTop][DlgOpn]['Etain' 0017]
+[TWinTop][DlgOpn]['Aideen' 0017]
 [TWinBtm][DlgOpn]['Jamka' 000B]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Jamka, please have this bow.
 
 [TWinBtm] # Jamka
 [Wait 10]
-Wow, this is a... Hero Bow, right? You're sure I can have it?[k]
+Wow, this is a... Brave Bow, right? You're sure I can have it?[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 I want you to have it, Jamka.[k]
 [cs]
 Silesia's Pegasus Knights are fierce.  Now you'll be able to properly defend yourself.
@@ -581,7 +581,7 @@ Silesia's Pegasus Knights are fierce.  Now you'll be able to properly defend you
 Thank you, Aideen. I'll take good care of this. Let's catch up when this fighting is all over.[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Jamka... I'll be praying for you.[k]
 [exit]
 
@@ -589,18 +589,18 @@ Jamka... I'll be praying for you.[k]
 # 0x2ebaa6:
 # @@3198666@@
 
-[TWinTop][DlgOpn]['Etain' 0017]
+[TWinTop][DlgOpn]['Aideen' 0017]
 [TWinBtm][DlgOpn]['Midir' 0007]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Midir, I have something for you.
 
 [TWinBtm] # Midir
 [Wait 10]
-...This is a Hero Bow, right? It's okay for me to have this?[k]
+...This is a Brave Bow, right? It's okay for me to have this?[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Yes. I bought it specifically for you. Silesia's Pegasus Knights are fierce opponents.[k]
 [cs]
 Now you'll be able to properly defend yourself.
@@ -612,7 +612,7 @@ My lady... I still feel like I'm in a dream or something.[k]
 Being with you is all I ever wanted in life...[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 I've also felt the same way, Midir. I had wanted to say something to you for so long.[k]
 [cs]
 Just call me Aideen, okay? Now, don't get yourself hurt out here. I'll be praying for you.[k]
@@ -623,10 +623,10 @@ Just call me Aideen, okay? Now, don't get yourself hurt out here. I'll be prayin
 # 0x2ebbf0:
 # @@3198697@@
 
-[TWinTop][DlgOpn]['Etain' 0017]
+[TWinTop][DlgOpn]['Aideen' 0017]
 [TWinBtm][DlgOpn]['Azel' 000A]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Azel, be careful out here, okay?
 
 [TWinBtm] # Azel
@@ -634,7 +634,7 @@ Azel, be careful out here, okay?
 Yeah, you too, Aideen.[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 This is so strange. I would never have imagined we'd end up together.
 
 [TWinBtm] # Azel
@@ -642,7 +642,7 @@ This is so strange. I would never have imagined we'd end up together.
 Why? Because I'm younger than you?[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 No, I don't know... It's just strange.
 
 [TWinBtm] # Azel
@@ -652,7 +652,7 @@ Yeah, well, I'm pretty shocked myself.[k]
 To think that you'd become my wife. This is like a dream![k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Really? How come? Don't you think we were meant for each other?
 
 [TWinBtm] # Azel
@@ -664,7 +664,7 @@ The first time I saw you my heart started beating so fast! I was just a kid, too
 But ever since that day you were the only one for me.[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Oh, Azel!
 
 [TWinBtm] # Azel
@@ -677,7 +677,7 @@ This is called a Rescue Staff. You can use it to bring someone to you if they ne
 I'm sure you'll find a use for it.[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Azel, I'm so happy to be with you! There's no one in this world I'd rather be with.[k]
 
 [exit]
@@ -876,40 +876,40 @@ I love you, Fury...[k]
 # 0x2ec3e7:
 # @@3198834@@
 
-[TWinTop][DlgOpn]['Etain' 0017]
-[TWinBtm][DlgOpn]['Bridget' 0018]
+[TWinTop][DlgOpn]['Aideen' 0017]
+[TWinBtm][DlgOpn]['Brigid' 0018]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Brigid, what's wrong?
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Aideen, you heard what Andre did, didn't you!?[k]
 [dcs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Yes, he killed our dear father, and Mahnya as well.[k]
 [cs]
 He must have been possessed by something evil to do such unthinkable things.
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 Well, that doesn't matter 'cause I'm going to kill him! His little killing spree is over.[k]
 [dcs]
 Aideen, you're with me on this, aren't you?[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Brigid...
 
-[TWinBtm] # Bridget
+[TWinBtm] # Brigid
 [Wait 10]
 I wish there was another way, but the crimes he has committed weigh heavily on us as well.[k]
 [dcs]
 Look, I may go down for what I'm about to do. I just wanted you to understand my reasons.[k]
 [cs]
 
-[TWinTop] # Etain
+[TWinTop] # Aideen
 Yes, Brigid.[k]
 
 [exit]
@@ -919,12 +919,12 @@ Yes, Brigid.[k]
 # @@3198860@@
 
 [TWinTop][DlgOpn]['Claude' 000C]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Claude
 Aideen, this is to be our last battle.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Yes, that's what everyone's saying.[k]
 [dcs]
@@ -932,7 +932,7 @@ Yes, that's what everyone's saying.[k]
 [TWinTop] # Claude
 Here, you should have this. Help our young soldiers with it.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Oh, this is a Rescue Staff. Why me?[k]
 [dcs]
@@ -942,7 +942,7 @@ I have yet to speak a word of this, but you being my wife, well... I should prob
 [cs]
 This war will end in our defeat. All that is important to us will be lost.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 ...What!?[k]
 [dcs]
@@ -952,7 +952,7 @@ I, too, had a difficult time believing the Lord's words when I was at Blagi Towe
 [cs]
 But this is how fate will have it. I also will not likely survive. That's why I'm entrusting this staff to you.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 That can't be true! I don't believe any of what you're saying!![k]
 [dcs]
@@ -966,7 +966,7 @@ As life embraces death, that with form is lost, yet something still remains.[k]
 [cs]
 There's nothing to fear in death. It is merely a transition to a more perfect form.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 But Claude...![k]
 [dcs]
@@ -978,7 +978,7 @@ Look, inside of you is a brand new life and I am a part of it.[k]
 [cs]
 And that is why you must keep living.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 How could you! You tell me to keep living while you...[k]
 [dcs]
@@ -986,7 +986,7 @@ How could you! You tell me to keep living while you...[k]
 [TWinTop] # Claude
 Aideen, I have been blessed to have met you. Forgive me if I have sounded insensitive.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Claude...[k]
 
@@ -1525,10 +1525,10 @@ Yeah, I promise. I'll come for you.[k]
 # 0x2ed6e4:
 # @@3199231@@
 
-[TWinTop][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Lachesis' 0012]
 [TWinBtm][DlgOpn]['Beowulf' 000D]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Beowulf...
 
 [TWinBtm] # Beowulf
@@ -1538,7 +1538,7 @@ Lachesis, if anything were to happen to me, I want you to go to Lenster.[k]
 Fin is there with Cuan's children. Give him a hand, okay?[k]
 [cs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 How could you say that? When we go, we'll go together!
 
 [TWinBtm] # Beowulf
@@ -1546,7 +1546,7 @@ How could you say that? When we go, we'll go together!
 Lachesis, I've got a confession to make.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Hm?
 
 [TWinBtm] # Beowulf
@@ -1554,7 +1554,7 @@ Hm?
 I've known your true feelings all along.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 What...!
 
 [TWinBtm] # Beowulf
@@ -1562,7 +1562,7 @@ What...!
 Take good care of yourself. It was mighty nice while it lasted.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Wait! Beowolf![k]
 
 [exit]
@@ -1571,10 +1571,10 @@ Wait! Beowolf![k]
 # 0x2ed811:
 # @@3199257@@
 
-[TWinTop][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Lachesis' 0012]
 [TWinBtm][DlgOpn]['Noish' 0002]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Noish, wait!
 
 [TWinBtm] # Noish
@@ -1582,7 +1582,7 @@ Noish, wait!
 Lachesis? You're still here!? I told you to leave for Lenster.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 I sent the kids already, but I'm staying to fight.
 
 [TWinBtm] # Noish
@@ -1594,8 +1594,8 @@ The kids need their mother. What if something were to happen to you?[k]
 And you have King Eltshan's child to consider, too.[k]
 [cs]
 
-[TWinTop] # Laches
-I don't know where Aless is anymore.
+[TWinTop] # Lachesis
+I don't even know where Aless is any more.
 
 [TWinBtm] # Noish
 [Wait 10]
@@ -1604,7 +1604,7 @@ Well, Sir Sigurd is very concerned about Prince Aless. That boy has lost both of
 Aless must mean something to you, as well.[k]
 [cs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 No, it's just... Ah, nevermind. Look, I am your wife.
 
 [TWinBtm] # Noish
@@ -1612,7 +1612,7 @@ No, it's just... Ah, nevermind. Look, I am your wife.
 I know you are, and I love you dearly. Don't you ever forget it.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 I won't. Sorry.[k]
 
 [exit]
@@ -1621,10 +1621,10 @@ I won't. Sorry.[k]
 # 0x2ed999:
 # @@3199283@@
 
-[TWinTop][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Lachesis' 0012]
 [TWinBtm][DlgOpn]['Dew' 000F]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Dew, what are you doing here!?
 
 [TWinBtm] # Dew
@@ -1632,7 +1632,7 @@ Dew, what are you doing here!?
 What gives? I can handle bein' here now. I'm not the same Dew anymore.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 I know. But this next battle isn't going to be like the others![k]
 [cs]
 It'll be way out of your league, Dew.
@@ -1642,7 +1642,7 @@ It'll be way out of your league, Dew.
 Everyone's been sayin' that crap. I'm not a kid anymore![k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 I can definitely vouch for that, Dew. Heheh... Especially after what we...
 
 [TWinBtm] # Dew
@@ -1650,7 +1650,7 @@ I can definitely vouch for that, Dew. Heheh... Especially after what we...
 H, hey! You're gettin' red there, girl![k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Oh, Dew!
 
 [TWinBtm] # Dew
@@ -1658,7 +1658,7 @@ Oh, Dew!
 Lachesis, it's been great bein' with you. You're always nice to me.[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Same goes to you, Dew.[k]
 
 [exit]
@@ -1797,10 +1797,10 @@ What's that!?[k]
 # 0x2ede86:
 # @@3199387@@
 
-[TWinTop][DlgOpn]['Bridget' 0018]
+[TWinTop][DlgOpn]['Brigid' 0018]
 [TWinBtm][DlgOpn]['Alec' 0003]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Alec, we're almost to Barhara.
 
 [TWinBtm] # Alec
@@ -1808,7 +1808,7 @@ Alec, we're almost to Barhara.
 Yeah. This is our grand return, huh.[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 I wonder if I'll be okay returning to the country I was born in. What is Jungby like?
 
 [TWinBtm] # Alec
@@ -1816,7 +1816,7 @@ I wonder if I'll be okay returning to the country I was born in. What is Jungby 
 Ahh... it's a beautiful place with loads of beautiful women.[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Alec! I better not catch you cheating on me!
 
 [TWinBtm] # Alec
@@ -1824,7 +1824,7 @@ Alec! I better not catch you cheating on me!
 No way! You'd kill me if I did! Haha...[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 That's right! Besides, I want to keep you alive now. Your work with me has just begun![k]
 [cs]
 And for our children as well... I can't let you die!
@@ -1834,7 +1834,7 @@ And for our children as well... I can't let you die!
 Don't worry, I've got luck on my side. How else could I get such a beautiful bride![k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Alec...[k]
 
 [exit]
@@ -1843,10 +1843,10 @@ Alec...[k]
 # 0x2edfc9:
 # @@3199413@@
 
-[TWinTop][DlgOpn]['Bridget' 0018]
+[TWinTop][DlgOpn]['Brigid' 0018]
 [TWinBtm][DlgOpn]['Jamka' 000B]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Jamka, you okay? You must be beat.
 
 [TWinBtm] # Jamka
@@ -1854,7 +1854,7 @@ Jamka, you okay? You must be beat.
 Ah... I'm alright. How about you?[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 I'm fine as long as you're with me.
 
 [TWinBtm] # Jamka
@@ -1862,7 +1862,7 @@ I'm fine as long as you're with me.
 Brigid, you know I don't want you fighting. You won't consider calling it quits?[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 No! I will not call it quits! And it's too late to turn back now, anyway.
 
 [TWinBtm] # Jamka
@@ -1870,7 +1870,7 @@ No! I will not call it quits! And it's too late to turn back now, anyway.
 Alright... alright.[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Jamka, are you happy with me?
 
 [TWinBtm] # Jamka
@@ -1878,7 +1878,7 @@ Jamka, are you happy with me?
 Huh?[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Are you happy with me? Because I know Aideen meant something...
 
 [TWinBtm] # Jamka
@@ -1886,7 +1886,7 @@ Are you happy with me? Because I know Aideen meant something...
 Brigid! Would you quit it!? I fell in love with you! And that'll never change![k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Ah... S, sorry, Jamka.[n]
 But I'm glad I asked...[k]
 
@@ -1896,10 +1896,10 @@ But I'm glad I asked...[k]
 # 0x2ee11e:
 # @@3199439@@
 
-[TWinTop][DlgOpn]['Bridget' 0018]
+[TWinTop][DlgOpn]['Brigid' 0018]
 [TWinBtm][DlgOpn]['Midir' 0007]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Midir, are you alright?
 
 [TWinBtm] # Midir
@@ -1907,7 +1907,7 @@ Midir, are you alright?
 Yes, I'm fine. How are you doing, Brigid?[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 I'm fine as long as you're with me.
 
 [TWinBtm] # Midir
@@ -1915,7 +1915,7 @@ I'm fine as long as you're with me.
 Brigid, I'm very happy I met you and I appreciate everything you've done for me.[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Midir, you sound like you want to break up or something.
 
 [TWinBtm] # Midir
@@ -1923,15 +1923,15 @@ Midir, you sound like you want to break up or something.
 Ah, forgive me. Brigid, I wanted you to understand something.[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Look, Midir. I know you used to like Aideen. Do you think you'll be happy with me?
 
 [TWinBtm] # Midir
 [Wait 10]
-Of course! Yes, I used to like Etain... Like. But you are the only one I've ever loved.[k]
+Of course! Yes, I used to like Aideen... Like. But you are the only one I've ever loved.[k]
 [dcs]
 
-[TWinTop] # Bridget
+[TWinTop] # Brigid
 Midir, thanks! Don't ever leave me.[k]
 
 [exit]

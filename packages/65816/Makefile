@@ -1,6 +1,6 @@
 # 65816 cross assembler v2.0 (c)1994 Jeremy Gordon (jgordon@animator.slip.umd.edu)
-#CC = gcc
-#CFLAGS = -ansi $(DEFINES)
+CC = gcc
+CFLAGS = -ansi $(DEFINES)
 
 # Uncomment these for Amiga (SAS C)
 #CC=sc

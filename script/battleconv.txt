@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-06
+# This file was added by Twilkitri
 
 # This file contains the battle comversations
 # held between certain people if they fight each
@@ -19,7 +19,7 @@ You're using arrows, you coward!
 
 [TWinBtm]
 Shut up![n]
-Where's Lady Etain!?[n]
+Where's Lady Aideen!?[n]
 Bring her back, now!![k]
 
 [exit]
@@ -54,7 +54,7 @@ Who're you? Ya got a lot of nerve to attack me, ya little brat!
 
 [TWinBtm]
 So you're Gandolf...[n]
-How dare you take Etain![k]
+How dare you kidnap Aideen![k]
 
 [exit]
 
@@ -62,7 +62,7 @@ How dare you take Etain![k]
 # 0x30d2eb
 # @@445430@@
 
-[TWinBtm][DlgOpn]['Sandima' 0052]
+[TWinBtm][DlgOpn]['Dark Mage (Sandima)' 0052]
 What?[n]
 You're a shaman...?[k]
 [cs]
@@ -75,7 +75,7 @@ The cursed maiden...[k]
 # 0x30d328
 # @@445446@@
 
-[TWinTop][DlgOpn]['Sandima' 0052]
+[TWinTop][DlgOpn]['Dark Mage (Sandima)' 0052]
 [TWinBtm][DlgOpn]['Jamka' 000B]
 
 [TWinTop]
@@ -386,7 +386,7 @@ Heh, you're the bad guy in all this, Lord Levin...[k]
 # 0x30da3c
 # @@451265@@
 
-[TWinTop][DlgOpn]['Langobalt' 00DB]
+[TWinTop][DlgOpn]['Langbart' 00DB]
 [TWinBtm][DlgOpn]['Lex' 000E]
 
 [TWinTop]
@@ -446,7 +446,7 @@ Hahaha... you're pathetic...[k]
 # 0x30baae
 # @@451315@@
 
-[TWinTop][DlgOpn]['Langobalt' 00DB]
+[TWinTop][DlgOpn]['Langbart' 00DB]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
 [TWinTop]
@@ -502,7 +502,7 @@ Mwahaha...[k]
 # @@451349@@
 
 [TWinTop][DlgOpn]['Reptor' 00F5]
-[TWinBtm][DlgOpn]['Aida' 00F3]
+[TWinBtm][DlgOpn]['Ida' 00F3]
 
 [TWinTop]
 Ida...[n]
@@ -521,7 +521,7 @@ You might as well just give up.[k]
 # @@451366@@
 
 [TWinTop][DlgOpn]['Andre' 00E9]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop]
 Hah, it's my treacherous big sister. Fancy meeting you here.[k]
@@ -551,9 +551,9 @@ I'll have to kill you.
 
 [TWinBtm]
 Shut up!
-You killed father, you patricide![k]
+You killed our father, you ingrate![k]
 [dcs]
-You're the disgrace to Jungby House, AND you've tarnished the reputation of the Crusader Ulir!![k]
+You're the disgrace to Jungby House, and you've tarnished the reputation of the Crusader Ulir!![k]
 
 [exit]
 
@@ -668,7 +668,7 @@ It's not possible for me to fight you![k]
 # @@3310610@@
 
 [TWinTop][DlgOpn]['Danan' 0111]
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop]
 Y, you're the son of that Sigurd![k]
@@ -1006,7 +1006,7 @@ D, damn it...[k]
 # @@455440@@
 
 [TWinTop][DlgOpn]['Blume' 011D]
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop]
 Y, you're Sigurd's...[n]
@@ -1088,7 +1088,7 @@ It really is you...[k]
 # 0x30e5ec
 # @@456902@@
 
-[TWinTop][DlgOpn]['Torabant' 0161]
+[TWinTop][DlgOpn]['Trabant' 0161]
 [TWinBtm][DlgOpn]['Leif' 001D]
 
 [TWinTop]
@@ -1117,7 +1117,7 @@ I'll do to you what I did to Cuan![k]
 # 0x30e6f7
 # @@456919@@
 
-[TWinTop][DlgOpn]['Torabant' 0161]
+[TWinTop][DlgOpn]['Trabant' 0161]
 [TWinBtm][DlgOpn]['Adult Fin' 0022]
 
 [TWinTop]
@@ -1142,10 +1142,10 @@ You're the one who's gonna die!![k]
 # @@456936@@
 
 [TWinTop][DlgOpn]['Arion' 0166]
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop]
-You're the Imperial Prince Celice, aren't you? Hm, you should make an admirable adversary.[k]
+You're the Imperial Prince Serlis, aren't you? Hm, you should make an admirable adversary.[k]
 [cs]
 Care for a match?
 
@@ -1155,7 +1155,7 @@ We can still work this out!![k]
 [dcs]
 
 [TWinTop]
-I have nothing else to say! Let's do this, Celice.[n]
+I have nothing else to say! Let's do this, Serlis.[n]
 Have a taste of my Gungnir![k]
 
 [exit]
@@ -1164,15 +1164,15 @@ Have a taste of my Gungnir![k]
 # 0x33cc04
 # @@3179503@@
 
-[TWinTop][DlgOpn]['Celice' 0019]
-[TWinBtm][DlgOpn]['Alvis' 026E]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Emperor Alvis' 026E]
 
 [TWinTop]
 Emperor Alvis![n]
 Why did you kill my father...
 
 [TWinBtm]
-Celice... So you made it. I commend your bravery. But you will, nonetheless, be incinerated by my fire.[k]
+Serlis... So you made it. I commend your bravery. But you will, nonetheless, be incinerated by my fire.[k]
 [dcs]
 You're just as pathetic as your father was...[k]
 
@@ -1250,7 +1250,7 @@ I'll send you to hell, just as I did her![k]
 # @@3254173@@
 
 [TWinBtm][DlgOpn]['Julius' 026F]
-Hmph. Celice. So you're the supposed 'Imperial Prince of Light'?[k]
+Hmph. Serlis. So you're the supposed 'Imperial Prince of Light'?[k]
 [cs]
 Don't make me laugh.[k]
 [cs]
@@ -1480,7 +1480,7 @@ Please forgive me, [$00$2C$3D$00]...[k]
 # @@3254360@@
 
 [TWinTop][DlgOpn]['Manfloy' 01C4]
-[TWinBtm][DlgOpn]['Celice' 0019]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
 [TWinTop]
 Mwahaha...[n]

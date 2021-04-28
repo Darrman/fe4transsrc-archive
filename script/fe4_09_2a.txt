@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 13/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file contains the 2A-type scripts for
 # Chapter 9
@@ -23,24 +23,24 @@ Arion! Don't you understand what you're causing Altenna to go through?[k]
 # @@3267499@@
 [block b001]
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Levin, does Arion still intend to fight?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 We've sent several messengers calling for a truce already, but he won't listen.[k]
 [dcs]
-I guess the pride of being a Dragon Knight leaves no allowances for conceding in battle.[k]
+I guess the pride of being a Wyvern Knight leaves no allowances for conceding in battle.[k]
 [cs]
 I truly believed Arion of Thracia would have been a more reasonable man...[k]
 [cs]
-Celice, you know we can't turn around now. We MUST engage this final battle.[k]
+Serlis, you know we can't turn around now. We must engage this final battle.[k]
 [cs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Grr... Why!? Why must Arion be so stubborn about this?[k]
 
 [exit]
@@ -56,23 +56,23 @@ Grr... Why!? Why must Arion be so stubborn about this?[k]
 [DlgCls][xChr]
 
 [TWinBtm][DlgOpn]['Oifaye' 0027]
-[sp][sp][sp]I'd like to say something here, if I'm alive, but it isn't translated yet![k]
+Levin, there's no call for speaking to His Highness like that. He's obviously exhausted.[k]
 [cs]
 
 [TWinTop]
-[sp][sp][sp]But leaving it out makes the game black-screen, Oifaye![k]
+You can say the same for everybody here, but we don't have time to try and broker peace with an unwilling enemy.[k]
 [cs]
-[sp][sp][sp]What should we do![k]
+We have to get back to Grandbell and stop the resurrection of Loputousu as soon as possible if we're to have any hope of saving the world.[k]
 [cs]
 
 [DlgCls][xChr]
 
-[TWinTop][DlgOpn]['Celice' 0019]
-[sp][sp][sp]We could just spout random filler in the meantime...[k]
+[TWinTop][DlgOpn]['Serlis' 0019]
+Oifaye, Levin's right. There's no stopping this battle.[k]
 [cs]
-[sp][sp][sp]Oh right...[k]
+If we don't want it to be meaningless, we'll just have to force our own meaning into it through our actions.[k]
 [cs]
-[sp][sp][sp]We just did, didn't we.[k]
+Let's get moving. No more looking back![k]
 
 [exit]
 
@@ -81,35 +81,35 @@ Grr... Why!? Why must Arion be so stubborn about this?[k]
 # @@3266414@@
 [block b003]
 
-[TWinTop][DlgOpn]['(null)' 0280]
-[TWinBtm][DlgOpn]['Selis' 0019]
+[TWinTop][DlgOpn]['Old Levin' 0280]
+[TWinBtm][DlgOpn]['Serlis' 0019]
 
-[TWinTop] # (null)
-A battalion of Dragon Knights just left Thracia. Get ready, Celice. We're going back in.
+[TWinTop] # Old Levin
+A battalion of Wyvern Knights just left Thracia. Get ready, Serlis. We're going back in.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 But Levin, the empire is our enemy. Is there any reason we should take on Thracia, too?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old Levin
 The reasons'll become apparent if you handle this properly.[k]
 [cs]
-This battle is already well underway, Celice. There's no going back.
+This battle is already well underway, Serlis. There's no going back.
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
-But the dragon knight on that mountain top back there... She looked so sad.[k]
+But the wyvern knight on that mountain top back there... She looked so sad.[k]
 [dcs]
 The thought of having to fight her as well...[k]
 [cs]
 
-[TWinTop] # (null)
-Celice! Get over it!! This is war.[k]
+[TWinTop] # Old Levin
+Serlis! Get over it!! This is war.[k]
 [cs]
 If you can't handle the heat, then you belong back at Tilnanogue!
 
-[TWinBtm] # Selis
+[TWinBtm] # Serlis
 [Wait 10]
 Levin...[k]
 

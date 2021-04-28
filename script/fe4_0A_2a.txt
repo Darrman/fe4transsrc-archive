@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 13/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-03-12
+# This file was added by Twilkitri
 
 # This file contains the 2A-type scripts for
 # Chapter 10
@@ -29,7 +29,7 @@ Got it. Our next goal is to take Rados Castle.[k]
 
 [resolve b003]
 [cs]
-It seems that the gate to Miletos will be open soon. What do you want to do, Celice?[k]
+It seems that the gate to Miletos will be open soon. What do you want to do, Serlis?[k]
 [cs]
 
 [TWinTop]
@@ -45,13 +45,13 @@ And then, on to Grandbell![k]
 # @@887429@@
 [block b001]
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Levin, did you find the children?
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 No. I'm guessing they were moved to Miletos. We need to move. Their lives are in danger.[k]
 
@@ -62,24 +62,24 @@ No. I'm guessing they were moved to Miletos. We need to move. Their lives are in
 # @@887479@@
 [block b003]
 
-[TWinTop][DlgOpn]['Selis' 0019]
-[TWinBtm][DlgOpn]['(null)' 0280]
+[TWinTop][DlgOpn]['Serlis' 0019]
+[TWinBtm][DlgOpn]['Old Levin' 0280]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 Geez, it's like a ghost town here.
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
 Yeah, Morigan's mages massacred all those who tried to resist.[k]
 [dcs]
 
-[TWinTop] # Selis
+[TWinTop] # Serlis
 That's horrible![n]
 I can't believe it...
 
-[TWinBtm] # (null)
+[TWinBtm] # Old Levin
 [Wait 10]
-Celice, now you know why we must fight.[k]
+Serlis, now you know why we must fight.[k]
 [dcs]
 There's just no room for good people to exist in the Lopt Empire.[k]
 

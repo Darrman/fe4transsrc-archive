@@ -2,8 +2,8 @@
 
 # Fontcheck: Tiled
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-06
+# This file was modified by Twilkitri
 
 # This file is used for altering the weapon names.
 
@@ -39,8 +39,8 @@
 # 0x03DF26:
 # P: 0114
 # @@253458@@
+# Iron Sword
 
-#????????
 Iron
 
 #*# [exit]
@@ -48,8 +48,8 @@ Iron
 # 0x03DF30:
 # P: 011E
 # @@253460@@
+# Steel Sword
 
-#??????????
 Steel
 
 #*# [exit]
@@ -57,8 +57,8 @@ Steel
 # 0x03DF3C:
 # P: 012A
 # @@253462@@
+# Silver Sword
 
-#????????
 Silver
 
 #*# [exit]
@@ -66,8 +66,8 @@ Silver
 # 0x03DF46:
 # P: 0134
 # @@253464@@
+# Iron Blade
 
-#??????????
 Iron
 
 #*# [exit]
@@ -75,8 +75,8 @@ Iron
 # 0x03DF52:
 # P: 0140
 # @@253466@@
+# Steel Blade
 
-#????????????
 Steel
 
 #*# [exit]
@@ -84,8 +84,8 @@ Steel
 # 0x03DF60:
 # P: 014E
 # @@253468@@
+#Silver Blade
 
-#??????????
 Silver
 
 #*# [exit]
@@ -93,17 +93,17 @@ Silver
 # 0x03DF6C:
 # P: 015A
 # @@253470@@
+# Miracle Sword (Prayer Sword)
 
-#??????????
-Prayer
+Miracle
 
 #*# [exit]
 
 # 0x03DF78:
 # P: 0166
 # @@253472@@
+# Thief Sword
 
-#????????????
 Thief
 
 #*# [exit]
@@ -111,8 +111,8 @@ Thief
 # 0x03DF86:
 # P: 0174
 # @@253474@@
+# Barrier Sword
 
-#?o???A????
 Barrier
 
 #*# [exit]
@@ -120,8 +120,8 @@ Barrier
 # 0x03DF92:
 # P: 0180
 # @@253476@@
+# Berserk Sword
 
-#?o?T?[?N????
 Berserk
 
 #*# [exit]
@@ -129,17 +129,17 @@ Berserk
 # 0x03DFA0:
 # P: 018E
 # @@253478@@
+# Brave Sword (Hero Sword)
 
-#????????????
-Hero
+Brave
 
 #*# [exit]
 
 # 0x03DFAE:
 # P: 019C
 # @@253480@@
+# Silence Sword
 
-#?T?C???X????
 Silence
 
 #*# [exit]
@@ -147,8 +147,8 @@ Silence
 # 0x03DFBC:
 # P: 01AA
 # @@253482@@
+# Sleep sword
 
-#?X???[?v????
 Sleep
 
 #*# [exit]
@@ -156,8 +156,8 @@ Sleep
 # 0x03DFCA:
 # P: 01B8
 # @@253484@@
+# Slim Sword
 
-#??????????
 Slim
 
 #*# [exit]
@@ -165,8 +165,8 @@ Slim
 # 0x03DFD6:
 # P: 01C4
 # @@253486@@
+# Defence Sword
 
-#??????????
 Defence
 
 #*# [exit]
@@ -174,8 +174,8 @@ Defence
 # 0x03DFE2:
 # P: 01D0
 # @@253488@@
+# Fire Sword
 
-#??????????
 Fire
 
 #*# [exit]
@@ -183,8 +183,8 @@ Fire
 # 0x03DFEE:
 # P: 01DC
 # @@253490@@
+# Earth Sword
 
-#??????????
 Earth
 
 #*# [exit]
@@ -192,8 +192,8 @@ Earth
 # 0x03DFFA:
 # P: 01E8
 # @@253492@@
+# Thunder Sword
 
-#????????????
 Thunder
 
 #*# [exit]
@@ -201,8 +201,8 @@ Thunder
 # 0x03E008:
 # P: 01F6
 # @@253494@@
+# Wind Sword
 
-#????????
 Wind
 
 #*# [exit]
@@ -210,8 +210,8 @@ Wind
 # 0x03E012:
 # P: 0200
 # @@253496@@
+# Light Sword
 
-#??????????
 Light
 
 #*# [exit]
@@ -219,8 +219,8 @@ Light
 # 0x03E01E:
 # P: 020C
 # @@253498@@
+# Mistoltin
 
-#?~?X?g???e?B??
 Mistoltn
 
 #*# [exit]
@@ -228,8 +228,8 @@ Mistoltn
 # 0x03E02E:
 # P: 021C
 # @@253500@@
+# Tyrfing
 
-#?e?B???t?B???O
 Tyrfing
 
 #*# [exit]
@@ -237,8 +237,8 @@ Tyrfing
 # 0x03E03E:
 # P: 022C
 # @@253502@@
+# Balmung
 
-#?o???????N
 Balmung
 
 #*# [exit]
@@ -246,8 +246,8 @@ Balmung
 # 0x03E04A:
 # P: 0238
 # @@253504@@
+# Armourslayer (Iron Cutter)
 
-#????????????
 Cutter
 
 #*# [exit]
@@ -255,8 +255,8 @@ Cutter
 # 0x03E058:
 # P: 0246
 # @@253506@@
+# Wing Clipper/Swallow Counter
 
-#????????????
 Clipper
 
 #*# [exit]
@@ -264,8 +264,8 @@ Clipper
 # 0x03E066:
 # P: 0254
 # @@253508@@
+# Broken Sword
 
-#??????????
 Broken
 
 #*# [exit]
@@ -273,8 +273,8 @@ Broken
 # 0x03E066:
 # P: 0254
 # @@253510@@
+# Broken Sword
 
-#??????????
 Broken
 
 #*# [exit]
@@ -282,8 +282,8 @@ Broken
 # 0x03E066:
 # P: 0254
 # @@253512@@
+# Broken Sword
 
-#??????????
 Broken
 
 #*# [exit]
@@ -291,8 +291,8 @@ Broken
 # 0x03E072:
 # P: 0260
 # @@253514@@
+# Iron Lance
 
-#??????????
 Iron
 
 #*# [exit]
@@ -300,8 +300,8 @@ Iron
 # 0x03E07E:
 # P: 026C
 # @@253516@@
+# Steel Lance
 
-#????????????
 Steel
 
 #*# [exit]
@@ -309,8 +309,8 @@ Steel
 # 0x03E08C:
 # P: 027A
 # @@253518@@
+# Silver Lance
 
-#??????????
 Silver
 
 #*# [exit]
@@ -318,8 +318,8 @@ Silver
 # 0x03E098:
 # P: 0286
 # @@253520@@
+# Javelin
 
-#??????
 Javelin
 
 #*# [exit]
@@ -327,8 +327,8 @@ Javelin
 # 0x03E0A0:
 # P: 028E
 # @@253522@@
+# Horseslayer (Knight Killer)
 
-#?i?C?g?L???[
 Slayer
 
 #*# [exit]
@@ -336,17 +336,17 @@ Slayer
 # 0x03E0AE:
 # P: 029C
 # @@253524@@
+# Brave Lance (Hero Lance)
 
-#??????????????
-Hero
+Brave
 
 #*# [exit]
 
 # 0x03E0BE:
 # P: 02AC
 # @@253526@@
+# Slim Lance
 
-#????????????
 Slim
 
 #*# [exit]
@@ -354,8 +354,8 @@ Slim
 # 0x03E0CC:
 # P: 02BA
 # @@253528@@
+# Gungnir
 
-#?O???O?j??
 Gungnir
 
 #*# [exit]
@@ -363,8 +363,8 @@ Gungnir
 # 0x03E0D8:
 # P: 02C6
 # @@253530@@
+# Gae Bolg
 
-#?Q?C?{???O
 GaeBolg
 
 #*# [exit]
@@ -372,8 +372,8 @@ GaeBolg
 # 0x03E0E4:
 # P: 02D2
 # @@253532@@
+# Broken Lance
 
-#????????????
 Broken
 
 #*# [exit]
@@ -381,8 +381,8 @@ Broken
 # 0x03E0E4:
 # P: 02D2
 # @@253534@@
+# Broken Lance
 
-#????????????
 Broken
 
 #*# [exit]
@@ -390,8 +390,8 @@ Broken
 # 0x03E0E4:
 # P: 02D2
 # @@253536@@
+# Broken Lance
 
-#????????????
 Broken
 
 #*# [exit]
@@ -399,8 +399,8 @@ Broken
 # 0x03E0F2:
 # P: 02E0
 # @@253538@@
+# Iron Axe
 
-#??????????
 Iron
 
 #*# [exit]
@@ -408,8 +408,8 @@ Iron
 # 0x03E0FE:
 # P: 02EC
 # @@253540@@
+# Steel Axe
 
-#????????????
 Steel
 
 #*# [exit]
@@ -417,8 +417,8 @@ Steel
 # 0x03E10C:
 # P: 02FA
 # @@253542@@
+# Silver Axe
 
-#??????????
 Silver
 
 #*# [exit]
@@ -426,17 +426,17 @@ Silver
 # 0x03E118:
 # P: 0306
 # @@253544@@
+# Brave Axe (Hero Axe)
 
-#??????????????
-Hero
+Brave
 
 #*# [exit]
 
 # 0x03E128:
 # P: 0316
 # @@253546@@
+# Swanchika
 
-#?X?????`?J
 Swanchik
 
 #*# [exit]
@@ -444,8 +444,8 @@ Swanchik
 # 0x03E134:
 # P: 0322
 # @@253548@@
+# Hand Axe
 
-#??????
 Hand
 
 #*# [exit]
@@ -453,8 +453,8 @@ Hand
 # 0x03E13C:
 # P: 032A
 # @@253550@@
+# Broken Axe
 
-#????????????
 Broken
 
 #*# [exit]
@@ -462,8 +462,8 @@ Broken
 # 0x03E13C:
 # P: 032A
 # @@253552@@
+# Broken Axe
 
-#????????????
 Broken
 
 #*# [exit]
@@ -471,8 +471,8 @@ Broken
 # 0x03E13C:
 # P: 032A
 # @@253554@@
+# Broken Axe
 
-#????????????
 Broken
 
 #*# [exit]
@@ -480,8 +480,8 @@ Broken
 # 0x03E14A:
 # P: 0338
 # @@253556@@
+# Iron Bow
 
-#??????????
 Iron
 
 #*# [exit]
@@ -489,8 +489,8 @@ Iron
 # 0x03E156:
 # P: 0344
 # @@253558@@
+# Steel Bow
 
-#????????????
 Steel
 
 #*# [exit]
@@ -498,8 +498,8 @@ Steel
 # 0x03E164:
 # P: 0352
 # @@253560@@
+# Silver Bow
 
-#??????????
 Silver
 
 #*# [exit]
@@ -507,17 +507,17 @@ Silver
 # 0x03E170:
 # P: 035E
 # @@253562@@
+# Brave Bow (Hero Bow)
 
-#??????????????
-Hero
+Brave
 
 #*# [exit]
 
 # 0x03E180:
 # P: 036E
 # @@253564@@
+# Killer Bow
 
-#?L???[?{?E
 Killer
 
 #*# [exit]
@@ -525,8 +525,8 @@ Killer
 # 0x03E18C:
 # P: 037A
 # @@253566@@
+# Ichival
 
-#?C?`?C?o??
 Ichival
 
 #*# [exit]
@@ -534,8 +534,8 @@ Ichival
 # 0x03E198:
 # P: 0386
 # @@253568@@
+# Broken Bow
 
-#????????????
 Broken
 
 #*# [exit]
@@ -543,8 +543,8 @@ Broken
 # 0x03E198:
 # P: 0386
 # @@253570@@
+# Broken Bow
 
-#????????????
 Broken
 
 #*# [exit]
@@ -552,8 +552,8 @@ Broken
 # 0x03E198:
 # P: 0386
 # @@253572@@
+# Broken Bow
 
-#????????????
 Broken
 
 #*# [exit]
@@ -561,8 +561,8 @@ Broken
 # 0x03E1A6:
 # P: 0394
 # @@253574@@
+# Long Ballista (Long Arch)
 
-#?????O?A?[?`
 Long
 
 #*# [exit]
@@ -570,8 +570,8 @@ Long
 # 0x03E1B4:
 # P: 03A2
 # @@253576@@
+# Iron Ballista (Iron Arch)
 
-#?A?C?A???A?[?`
 Iron
 
 #*# [exit]
@@ -579,8 +579,8 @@ Iron
 # 0x03E1C4:
 # P: 03B2
 # @@253578@@
+# Killer Ballista (Killer Arch)
 
-#?L???[?A?[?`
 Killer
 
 #*# [exit]
@@ -588,8 +588,8 @@ Killer
 # 0x03E1D2:
 # P: 03C0
 # @@253580@@
+# Great Ballista (Great Arch)
 
-#?O???[?g?A?[?`
 Great
 
 #*# [exit]
@@ -597,8 +597,8 @@ Great
 # 0x03E1E2:
 # P: 03D0
 # @@253582@@
+# Fire
 
-#?t?@?C?A?[
 Fire
 
 #*# [exit]
@@ -606,8 +606,8 @@ Fire
 # 0x03E1EE:
 # P: 03DC
 # @@253584@@
+# Elfire
 
-#?G???t?@?C?A?[
 Elfire
 
 #*# [exit]
@@ -615,17 +615,17 @@ Elfire
 # 0x03E1FE:
 # P: 03EC
 # @@253586@@
+# Bolganone
 
-#?{???K?m??
-Volcanon
+Bolganon
 
 #*# [exit]
 
 # 0x03E20A:
 # P: 03F8
 # @@253588@@
+# Fala Flame
 
-#?t?@???t???C??
 FFlame
 
 #*# [exit]
@@ -633,17 +633,17 @@ FFlame
 # 0x03E21A:
 # P: 0408
 # @@253590@@
+# Meteor
 
-#???e?B?I
-Meteo
+Meteor
 
 #*# [exit]
 
 # 0x03E224:
 # P: 0412
 # @@253592@@
+# Thunder
 
-#?T???_?[
 Thunder
 
 #*# [exit]
@@ -651,8 +651,8 @@ Thunder
 # 0x03E22E:
 # P: 041C
 # @@253594@@
+# Elthunder
 
-#?G???T???_?[
 Elthund
 
 #*# [exit]
@@ -660,17 +660,17 @@ Elthund
 # 0x03E23C:
 # P: 042A
 # @@253596@@
+# Thoron
 
-#?g???[??
-Tron
+Thoron
 
 #*# [exit]
 
 # 0x03E246:
 # P: 0434
 # @@253598@@
+# Tor Hammer
 
-#?g?[???n???}?[
 THammer
 
 #*# [exit]
@@ -678,17 +678,17 @@ THammer
 # 0x03E256:
 # P: 0444
 # @@253600@@
+# Bolting (Thunderstorm))
 
-#?T???_?X?g?[??
-Storm
+Bolting
 
 #*# [exit]
 
 # 0x03E266:
 # P: 0454
 # @@253602@@
+# Wind
 
-#?E?C???h
 Wind
 
 #*# [exit]
@@ -696,8 +696,8 @@ Wind
 # 0x03E270:
 # P: 045E
 # @@253604@@
+# Elwind
 
-#?G???E?C???h
 Elwind
 
 #*# [exit]
@@ -705,8 +705,8 @@ Elwind
 # 0x03E27E:
 # P: 046C
 # @@253606@@
+# Tornado
 
-#?g???l?[?h
 Tornado
 
 #*# [exit]
@@ -714,8 +714,8 @@ Tornado
 # 0x03E28A:
 # P: 0478
 # @@253608@@
+# Holsety
 
-#?t?H???Z?e?B
 Holsety
 
 #*# [exit]
@@ -723,8 +723,8 @@ Holsety
 # 0x03E298:
 # P: 0486
 # @@253610@@
+# Blizzard
 
-#?u???U?[?h
 Blizzrd
 
 #*# [exit]
@@ -732,8 +732,8 @@ Blizzrd
 # 0x03E2A4:
 # P: 0492
 # @@253612@@
+# Lightning
 
-#???C?g?j???O
 Lghtning
 
 #*# [exit]
@@ -741,17 +741,17 @@ Lghtning
 # 0x03E2B2:
 # P: 04A0
 # @@253614@@
+# Nosferatu (Rezire)
 
-#???U?C?A
-Rezire
+Nosfratu
 
 #*# [exit]
 
 # 0x03E2BC:
 # P: 04AA
 # @@253616@@
+# Aura
 
-#?I?[??
 Aura
 
 #*# [exit]
@@ -759,8 +759,8 @@ Aura
 # 0x03E2C4:
 # P: 04B2
 # @@253618@@
+# Narga
 
-#?i?[?K
 Narga
 
 #*# [exit]
@@ -768,8 +768,8 @@ Narga
 # 0x03E2CC:
 # P: 04BA
 # @@253620@@
+# Jormungand
 
-#???c?????K???h
 Jormung
 
 #*# [exit]
@@ -777,8 +777,8 @@ Jormung
 # 0x03E2DC:
 # P: 04CA
 # @@253622@@
+# Fenrir
 
-#?t?F??????
 Fenrir
 
 #*# [exit]
@@ -786,8 +786,8 @@ Fenrir
 # 0x03E2E8:
 # P: 04D6
 # @@253624@@
+# Hel
 
-#?w??
 Hel
 
 #*# [exit]
@@ -795,8 +795,8 @@ Hel
 # 0x03E2EE:
 # P: 04DC
 # @@253626@@
+# Lopt (Loputousu)
 
-#???v?g?E?X
 Lopt
 
 #*# [exit]
@@ -804,8 +804,8 @@ Lopt
 # 0x03E2FA:
 # P: 04E8
 # @@253628@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -813,8 +813,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253630@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -822,8 +822,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253632@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -831,26 +831,26 @@ Empty
 # 0x03E30A:
 # P: 04F8
 # @@253634@@
+# Heal Staff (Live Staff)
 
-#???C?u???
-Live
+Heal
 
 #*# [exit]
 
 # 0x03E316:
 # P: 0504
 # @@253636@@
+# Mend Staff (Relive Staff)
 
-#?????C?u???
-Relive
+Mend
 
 #*# [exit]
 
 # 0x03E324:
 # P: 0512
 # @@253638@@
+# Recover Staff
 
-#???J?o?[???
 Recover
 
 #*# [exit]
@@ -858,26 +858,26 @@ Recover
 # 0x03E332:
 # P: 0520
 # @@253640@@
+# Physic Staff (Libro Staff))
 
-#???u???[???
-Libro
+Physic
 
 #*# [exit]
 
 # 0x03E340:
 # P: 052E
 # @@253642@@
+# Fortify Staff (Reserve Staff)
 
-#???U?[?u???
-Reserve
+Fortify
 
 #*# [exit]
 
 # 0x03E34E:
 # P: 053C
 # @@253644@@
+# Return Staff
 
-#???^?[?????
 Return
 
 #*# [exit]
@@ -885,8 +885,8 @@ Return
 # 0x03E35C:
 # P: 054A
 # @@253646@@
+# Warp Staff
 
-#???[?v???
 Warp
 
 #*# [exit]
@@ -894,8 +894,8 @@ Warp
 # 0x03E368:
 # P: 0556
 # @@253648@@
+# Rescue Staff
 
-#???X?L???[???
 Rescue
 
 #*# [exit]
@@ -903,8 +903,8 @@ Rescue
 # 0x03E378:
 # P: 0566
 # @@253650@@
+# Charm Staff
 
-#?`???[?????
 Charm
 
 #*# [exit]
@@ -912,8 +912,8 @@ Charm
 # 0x03E386:
 # P: 0574
 # @@253652@@
+# Restore Staff
 
-#???X?g???
 Restore
 
 #*# [exit]
@@ -921,17 +921,17 @@ Restore
 # 0x03E392:
 # P: 0580
 # @@253654@@
+# Valkyrie Staff
 
-#?o???L???[???
-Valkyre
+Valkyrie
 
 #*# [exit]
 
 # 0x03E3A2:
 # P: 0590
 # @@253656@@
+# Silence Staff
 
-#?T?C???X???
 Silence
 
 #*# [exit]
@@ -939,8 +939,8 @@ Silence
 # 0x03E3B0:
 # P: 059E
 # @@253658@@
+# Sleep Staff
 
-#?X???[?v???
 Sleep
 
 #*# [exit]
@@ -948,8 +948,8 @@ Sleep
 # 0x03E3BE:
 # P: 05AC
 # @@253660@@
+# Berserk Staff
 
-#?o?T?[?N???
 Berserk
 
 #*# [exit]
@@ -957,8 +957,8 @@ Berserk
 # 0x03E3CC:
 # P: 05BA
 # @@253662@@
+# Thief Staff
 
-#?V?[?t???
 Thief
 
 #*# [exit]
@@ -966,8 +966,8 @@ Thief
 # 0x03E3D8:
 # P: 05C6
 # @@253664@@
+# Broken Staff
 
-#?????????
 Broken
 
 #*# [exit]
@@ -975,8 +975,8 @@ Broken
 # 0x03E3D8:
 # P: 05C6
 # @@253666@@
+# Broken Staff
 
-#?????????
 Broken
 
 #*# [exit]
@@ -984,8 +984,8 @@ Broken
 # 0x03E3D8:
 # P: 05C6
 # @@253668@@
+# Broken Staff
 
-#?????????
 Broken
 
 #*# [exit]
@@ -993,26 +993,26 @@ Broken
 # 0x03E3E4:
 # P: 05D2
 # @@253670@@
+# Renewal Bracelet (Live Bracelet)
 
-#???C?u????????
-Life
+Renewal
 
 #*# [exit]
 
 # 0x03E3F4:
 # P: 05E2
 # @@253672@@
+# Paragon Ring (Elite Ring)
 
-#?G???[?g?????O
-Elite
+Paragon
 
 #*# [exit]
 
 # 0x03E404:
 # P: 05F2
 # @@253674@@
+# Thief Bracelet
 
-#?V?[?t????????
 Thief
 
 #*# [exit]
@@ -1020,17 +1020,17 @@ Thief
 # 0x03E414:
 # P: 0602
 # @@253676@@
+# Miracle Bracelet (Prayer Bracelet)
 
-#??????????????
-Prayer
+Miracle
 
 #*# [exit]
 
 # 0x03E424:
 # P: 0612
 # @@253678@@
+# Pursuit Bracelet
 
-#?????????????O
 Pursuit
 
 #*# [exit]
@@ -1038,8 +1038,8 @@ Pursuit
 # 0x03E434:
 # P: 0622
 # @@253680@@
+# Recover Ring
 
-#???J?o?[?????O
 Recover
 
 #*# [exit]
@@ -1047,8 +1047,8 @@ Recover
 # 0x03E444:
 # P: 0632
 # @@253682@@
+# Bargain Bracelet
 
-#??????????????
 Bargain
 
 #*# [exit]
@@ -1056,8 +1056,8 @@ Bargain
 # 0x03E454:
 # P: 0642
 # @@253684@@
+# Knight Ring
 
-#?i?C?g?????O
 Knight
 
 #*# [exit]
@@ -1065,8 +1065,8 @@ Knight
 # 0x03E462:
 # P: 0650
 # @@253686@@
+# Return Ring
 
-#???^?[???????O
 Return
 
 #*# [exit]
@@ -1074,8 +1074,8 @@ Return
 # 0x03E472:
 # P: 0660
 # @@253688@@
+# Speed Ring
 
-#?X?s?[?h?????O
 Speed
 
 #*# [exit]
@@ -1083,8 +1083,8 @@ Speed
 # 0x03E482:
 # P: 0670
 # @@253690@@
+# Magic Ring
 
-#?}?W?b?N?????O
 Magic
 
 #*# [exit]
@@ -1092,8 +1092,8 @@ Magic
 # 0x03E492:
 # P: 0680
 # @@253692@@
+# Power Ring
 
-#?p???[?????O
 Power
 
 #*# [exit]
@@ -1101,8 +1101,8 @@ Power
 # 0x03E4A0:
 # P: 068E
 # @@253694@@
+# Shield Ring
 
-#?V?[???h?????O
 Shield
 
 #*# [exit]
@@ -1110,8 +1110,8 @@ Shield
 # 0x03E4B0:
 # P: 069E
 # @@253696@@
+# Barrier Ring
 
-#?o???A?????O
 Barrier
 
 #*# [exit]
@@ -1119,8 +1119,8 @@ Barrier
 # 0x03E4BE:
 # P: 06AC
 # @@253698@@
+# Leg Ring
 
-#???b?O?????O
 Leg
 
 #*# [exit]
@@ -1128,8 +1128,8 @@ Leg
 # 0x03E4CC:
 # P: 06BA
 # @@253700@@
+# Skill Ring
 
-#?X?L???????O
 Skill
 
 #*# [exit]
@@ -1137,8 +1137,8 @@ Skill
 # 0x03E066:
 # P: 0254
 # @@253702@@
+# Broken Sword (Star)
 
-#??????????
 Broken
 
 #*# [exit]
@@ -1146,8 +1146,8 @@ Broken
 # 0x03E0E4:
 # P: 02D2
 # @@253704@@
+# Broken Lance (Star))
 
-#????????????
 Broken
 
 #*# [exit]
@@ -1155,8 +1155,8 @@ Broken
 # 0x03E198:
 # P: 0386
 # @@253706@@
+# Broken Box (Star)
 
-#????????????
 Broken
 
 #*# [exit]
@@ -1164,8 +1164,8 @@ Broken
 # 0x03E2FA:
 # P: 04E8
 # @@253708@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1173,8 +1173,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253710@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1182,8 +1182,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253712@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1191,8 +1191,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253714@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1200,8 +1200,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253716@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1209,8 +1209,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253718@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1218,8 +1218,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253720@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1227,8 +1227,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253722@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1236,8 +1236,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253724@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1245,8 +1245,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253726@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1254,8 +1254,8 @@ Empty
 # 0x03E2FA:
 # P: 04E8
 # @@253728@@
+# Exhausted Tome
 
-#??????????????
 Empty
 
 #*# [exit]
@@ -1263,8 +1263,8 @@ Empty
 # 0x03E3D8:
 # P: 05C6
 # @@253730@@
+# Broken Staff (Star)
 
-#?????????
 Broken
 
 #*# [exit]
@@ -1272,8 +1272,8 @@ Broken
 # 0x03E4DA:
 # P: 06C8
 # @@253732@@
+# Circlet
 
-#?T?[?N???b?g
 Circlet
 
 #*# [exit]

@@ -1,7 +1,7 @@
 # Fontcheck: Tiled
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file is used for filling in the descriptions of the skills.
 
@@ -32,7 +32,7 @@ more[spx]agile
 [exit]
 
 
-# Continue
+# Adept (Continue)
 # @@634376@@
 May[spx]attack
 again[spx]if[spx][spx]
@@ -64,7 +64,7 @@ support
 [exit]
 
 
-# Awareness
+# Nihil (Awareness)
 # @@634403@@
 Nullifies[spx]
 special[spx][spx][spx]
@@ -72,7 +72,7 @@ attacks
 [exit]
 
 
-# Prayer
+# Miracle
 # @@634406@@
 Ups[spx]evade[spx]
 when[spx]low[spx][spx]
@@ -88,7 +88,7 @@ high[spx]skill
 [exit]
 
 
-# Ambush
+# Vantage (Ambush)
 # @@634412@@
 Attack[spx][spx][spx][spx]
 first[spx]when
@@ -104,7 +104,7 @@ if[spx]agile
 [exit]
 
 
-# Meteor Hit
+# Astrasword
 # @@634418@@
 May[spx]attack
 5[spx]times[spx]in
@@ -112,14 +112,14 @@ a[spx]row
 [exit]
 
 
-# Moonlight Hit
+# Lunasword
 # @@634421@@
 May[spx]negate
 defence
 [exit]
 
 
-# Solar Hit
+# Solsword
 # @@634424@@
 May[spx]leech[spx]
 health[spx][spx][spx][spx]
@@ -127,7 +127,7 @@ from[spx]enemy
 [exit]
 
 
-# Live
+# Renewal (Live)
 # @@634433@@
 Restore[spx]5[spx]
 to[spx]10[spx]HP[spx][spx]
@@ -135,7 +135,7 @@ every[spx]turn
 [exit]
 
 
-# Elite
+# Paragon (Elite)
 # @@634436@@
 Receive[spx][spx][spx]
 double[spx]EXP
@@ -168,9 +168,9 @@ Pursuit
 [exit]
 
 
-# Continue
+# Adept (Continue)
 # @@634469@@
-Continue
+Adept
 [exit]
 
 
@@ -192,15 +192,15 @@ Charisma
 [exit]
 
 
-# Awareness
+# Nihil (Awareness)
 # @@634496@@
 Nihil
 [exit]
 
 
-# Prayer
+# Miracle (Prayer)
 # @@634499@@
-Prayer
+Miracle
 [exit]
 
 
@@ -210,9 +210,9 @@ Critical
 [exit]
 
 
-# Ambush
+# Vantage (Ambush)
 # @@634505@@
-Ambush
+Vantage
 [exit]
 
 
@@ -222,33 +222,33 @@ Duel
 [exit]
 
 
-# Meteor Sword
+# Astrasword
 # @@634511@@
-Meteor
+Astra
 [exit]
 
 
-# Moonlight Sword
+# Lunasword
 # @@634514@@
-Lunar
+Luna
 [exit]
 
 
-# Solar Sword
+# Solsword
 # @@634517@@
-Solar
+Sol
 [exit]
 
 
-# Live
+# Renewal (Live)
 # @@634526@@
-Live
+Renewal
 [exit]
 
 
-# Elite
+# Paragon (Elite)
 # @@634529@@
-Elite
+Paragon
 [exit]
 
 

@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was modified by Twilkitri
 
 # This file is for altering text from Chapter 2.
 
@@ -37,14 +37,14 @@
 # @@950802@@
 
 [TWinTop][DlgOpn]['Eltshan' 005A]
-[TWinBtm][DlgOpn]['Laches' 0012]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
 
 [TWinTop] # Eltshan
 Lachesis,
 [Wait 04]
 I'm off to Agusty. I must get King Shagaal to end the military buildup.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Eltshan, wait! King Shagaal killed his own father. He's not about to listen to you![k]
 [dcs]
@@ -57,7 +57,7 @@ Nonsense. Look... I've heard all about Shagaal supposedly killing his father.[k]
 But there's no proof![n]
 If I can just speak with him, I know I'll get through to him.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 0C]
 But...[k]
 [dcs]
@@ -69,7 +69,7 @@ I'm leaving three of my best men behind for your protection just to be on the sa
 [cs]
 Lachesis, don't be so down! I promise I'll make it back. I've no intention of dying out there!
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Eltshan...[k]
 
@@ -121,7 +121,7 @@ Hmph... Such a pain he is. Give my order to Boldo to seize Nodion.[k]
 Once we're through there, I'm taking the whole show to Grandbell![k]
 [cs]
 
-[TWinTop][DlgOpn]['(null)' 026C]
+[TWinTop][DlgOpn]['Manfloy' 026C]
 Your Majesty...[n]
 You have made your decision, I see.
 
@@ -134,7 +134,7 @@ There's no going back.[n]
 I just wonder if we really have a chance here...[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Manfloy
 Well, Grandbell still honours the Anti-War Pact with Agustria.[k]
 [cs]
 Their entire military is still in Isaac. If we strike now we cannot lose!
@@ -146,7 +146,7 @@ Hmm... If we can just overthrow Grandbell, Agustria will become the new world le
 And I'll be emperor of the world![k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Manfloy
 Hmhm...[n]
 Yes, consider that a possibility.[k]
 
@@ -156,19 +156,19 @@ Yes, consider that a possibility.[k]
 # 0xf8743:
 # @@950894@@
 
-[TWinTop][DlgOpn]['(null)' 0264]
-[TWinBtm][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Eve' 0264]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
 
-[TWinTop] # (null)
+[TWinTop] # Eve
 Your Highness, we've received word that King Eltshan was apprehended in Agusty!
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 He was what!?[n]
 No! I knew I shouldn't have let him go...[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Eve
 There's more.[n]
 We'll need to keep a close eye on Heirhein.[k]
 [cs]
@@ -176,7 +176,7 @@ If they learn of the king's disappearance, they'll attack without a moment's not
 [cs]
 I'm sure they're not pleased with what happened in Verdane, especially Prince Elliot.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 That Elliot just can't handle the fact that I'll have nothing to do with him.[k]
 [dcs]
@@ -185,21 +185,21 @@ God, I can't stand conceited men like him. I need a man the calibre of my dear b
 That's why I'll never marry.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Eve
 His Majesty's Cross Knights are stationed well north at Fort Silvail.[k]
 [cs]
 There are just the few of us soldiers left here.[k]
 [cs]
 But my brothers and I will do our best to hold the castle. Just be ready for the worst.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Understood. Eve, thank you so much. Now don't you overdo it, or worse, get yourself killed![k]
 [dcs]
 Please let Eva and Alva know how sorry I am for all this.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Eve
 Uh, no need to apologise, Your Highness.[k]
 [cs]
 King Eltshan left us behind for your protection in good conscious.[k]
@@ -341,12 +341,12 @@ Defend to the death![k]
 # @@951287@@
 
 [TWinTop][DlgOpn]['Levin' 0008]
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 
 [TWinTop] # Levin
 Sir, what's all the turmoil?
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 Well, if it isn't our little traveling bard. Best get a movin'. Bandits are headin' this way.[k]
 [dcs]
@@ -355,7 +355,7 @@ Well, if it isn't our little traveling bard. Best get a movin'. Bandits are head
 Bandits?[n]
 Where's the Agustrian army at a time like this?
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 There's mutiny in th' streets, m'boy. Ain't no-one got time t'worry about us![k]
 [dcs]
@@ -369,7 +369,7 @@ Whoa... he's gotta go. Look, I'll see what I can do. I'll take care of that scum
 [cs]
 And you can all whip up a nice reward for me when I get back.
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 [Wait 10]
 There you go again with that big talk of yours. You best just get a move on.[k]
 [dcs]
@@ -380,7 +380,7 @@ We ain't got time to be gettin' cosy with ya.[k]
 Sheesh... give me a little credit, would ya?[n]
 Ahh... screw it.
 
-[TWinBtm] # (null)
+[TWinBtm] # Villager
 
 [xChr][DlgCls]
 
@@ -518,10 +518,10 @@ It's show time, boys. 'Retreat' ain't on the books. Now show 'em what our corps 
 # 0xf9678:
 # @@951620@@
 
-[TWinTop][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Lachesis' 0012]
 [TWinBtm][DlgOpn]['Sigurd' 0001]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 Sir Sigurd! Thank you so much for coming![n]
 For a moment there, I...
 
@@ -531,7 +531,7 @@ I'm glad you're not hurt, Lachesis.[n]
 Any word from Eltshan?[k]
 [dcs]
 
-[TWinTop] # Laches
+[TWinTop] # Lachesis
 No, he's still being held in Agusty. It seems all of Agustria has turned against us.[k]
 [cs]
 Sir Sigurd, please...[n]
@@ -562,7 +562,7 @@ I promise we'll get Eltshan out.[k]
 [TWinBtm][DlgOpn][$00$24]
 
 [TWinTop] # Beowulf
-Ya need to cough up 10,000 gold if ya intend t'hire my services.[k]
+You'll need to cough up 10,000 gold if you intend t'hire my services.[k]
 
 [exit]
 
@@ -686,7 +686,7 @@ Stop your nitpicking and go!
 
 [xChr][DlgCls]
 
-[TWinBtm][DlgOpn]['(null)' 026C]
+[TWinBtm][DlgOpn]['Manfloy' 026C]
 Pull yourself together, Shagaal! All is not lost.[k]
 [dcs]
 
@@ -695,7 +695,7 @@ You! Manfloy!![k]
 [cs]
 Y... You're the one who told us what to do and it's all backfired! How are you going to fix this!?
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 I merely advised the removal of the king. He was getting in the way.[k]
 [dcs]
@@ -707,7 +707,7 @@ Damn. I just never imagined Sigurd's army would be this strong.[k]
 [cs]
 Manfloy, help me... What should I do?
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 There's still hope. If necessary we can make use of that rascal you're holding in the dungeon... Eltshan.[k]
 [dcs]
@@ -722,7 +722,7 @@ Er... okay. Yeah. I'll do that. Let's put him to some use.[k]
 
 [xChr][DlgCls]
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [$00$2B$E0]
 [Wait 1E]
 [BGM 7A]
@@ -730,10 +730,10 @@ Er... okay. Yeah. I'll do that. Let's put him to some use.[k]
 Sheesh...  Fool.[k]
 [cs]
 
-[TWinTop][DlgOpn]['Sandima' 0052]
+[TWinTop][DlgOpn]['Dark Mage (Sandima)' 0052]
 Archbishop Manfloy, I just witnessed the assassination of Prince Kurth.
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 Is that so? This is getting interesting.[k]
 [dcs]
@@ -742,10 +742,10 @@ Only one descendant remains of our old foe Narga, and he will die before long.[k
 Then all that's left is the revival of our Dark Lord. Then the world will be ours![k]
 [cs]
 
-[TWinTop] # Sandima
+[TWinTop] # Dark Mage (Sandima)
 Has Alvis consented to your proposal?
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 Of course he did. He's got Loputousu's blood flowing in his veins.[k]
 [dcs]
@@ -754,10 +754,10 @@ And if that ever got out, they would burn him at the stake for being of Loptian 
 I just wonder if someone as arrogant as Alvis can keep quiet.[k]
 [cs]
 
-[TWinTop] # Sandima
+[TWinTop] # Dark Mage (Sandima)
 Alright. Next we betray the king and once you become emperor...
 
-[TWinBtm] # (null)
+[TWinBtm] # Manfloy
 [Wait 10]
 There's a bit more to it than that.[k]
 [dcs]
@@ -912,13 +912,13 @@ Yes, I'm fine. They tried keeping me locked away, but I just knew you'd come.[k]
 # 0xfb97f:
 # @@952436@@
 
-[TWinTop][DlgOpn]['(null)' 0264]
-[TWinBtm][DlgOpn]['Laches' 0012]
+[TWinTop][DlgOpn]['Eve' 0264]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
 
-[TWinTop] # (null)
+[TWinTop] # Eve
 Your Highness, before we head back to Nodion, I have something for you.[k]
 [cs]
-It's a magical bracelet called the Knight Ring. It bestows repeated movement on the wearer.[k]
+It's a magical trinket called the Knight Ring. You won't need to rest straight after a fight with this on.[k]
 [cs]
 I'm sure it'll come in handy. Take care of yourself![k]
 
@@ -1003,7 +1003,7 @@ Eltshan, trust me![k]
 # 0xfb4d7:
 # @@952484@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 Women and children are th' real victims in this war. Now go on... get back t'yer loved ones![k]
 
 [exit]
@@ -1012,7 +1012,7 @@ Women and children are th' real victims in this war. Now go on... get back t'yer
 # 0xfb51a:
 # @@952503@@
 
-[TWinBtm][DlgOpn]['(null)' 02B0]
+[TWinBtm][DlgOpn]['Villager' 02B0]
 Thanks for comin' for us![n]
 Here, I want you to have this.[k]
 [cs]
@@ -1025,7 +1025,7 @@ Wear it at the shops for a little discount, ok?[k]
 # 0xfb579:
 # @@952522@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 A thousand thanks to y'all for comin'![n]
 Here, I've a sword for ya.[k]
 [cs]
@@ -1039,7 +1039,7 @@ If ya can't use it, try sellin' it at the pawn shop. It should fetch a good pric
 # 0xfb60d:
 # @@952536@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 Lord Macbeth of Anphony sure is a greedy cur. He makes life downright miserable for us.[k]
 [cs]
 I wish he were dead![k]
@@ -1050,7 +1050,7 @@ I wish he were dead![k]
 # 0xfb661:
 # @@952550@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 King Imuka was a great soul. His passing has been an enormous loss for us all.[k]
 [cs]
 That son of his, Prince Shagaal, is bound t'ruin the country before too long.[k]
@@ -1064,7 +1064,7 @@ Ahh... if only King Eltshan could've succeeded Agustria's throne somehow.
 # 0xfb6fe:
 # @@952564@@
 
-[TWinBtm][DlgOpn]['(null)' 02AF]
+[TWinBtm][DlgOpn]['Villager' 02AF]
 I wonder if there still are any blood relatives of the Dark Lord Loputousu around...[k]
 [cs]
 Each year big towns like Agusty and Mackily hold witch hunts and arrest a ton of people.[k]
@@ -1078,7 +1078,7 @@ Is that nuts or what!?[k]
 # 0xfb79b:
 # @@952578@@
 
-[TWinBtm][DlgOpn]['(null)' 02AD]
+[TWinBtm][DlgOpn]['Villager' 02AD]
 King Eltshan of Nodion draws lineage from Hezul the Brave, one of the legendary 12 Crusaders.[k]
 [cs]
 Eltshan's demon sword Mistoltin, along with the Tyrfing of Chalphy and Isaac's Balmung, are the strongest swords in all creation.[k]
@@ -1089,7 +1089,7 @@ Eltshan's demon sword Mistoltin, along with the Tyrfing of Chalphy and Isaac's B
 # 0xfb823:
 # @@952592@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 Hey, you there. Lend me yer ear fer a sec.[k]
 [cs]
 Wouldn't ya say King Eltshan and th' princess are a wee bit too cosy for siblings?[k]
@@ -1239,13 +1239,13 @@ Sir, Lord Filat of Barhara is here to see you.[k]
 
 [xChr][DlgCls]
 
-[TWinTop][DlgOpn]['(null)' 027A]
+[TWinTop][DlgOpn]['Old man' 027A]
 
 [TWinBtm] # Sigurd
 Lord Filat, it's good of you to come.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Sir Sigurd, looks like we've reached full-scale war with Agustria. What's the prognosis?
 
 [TWinBtm] # Sigurd
@@ -1253,7 +1253,7 @@ Sir Sigurd, looks like we've reached full-scale war with Agustria. What's the pr
 We seem to be holding up alright, but it's been no easy fight.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Incidentally, I've come with a bit of bad news.
 
 [TWinBtm] # Sigurd
@@ -1261,7 +1261,7 @@ Incidentally, I've come with a bit of bad news.
 Sir?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 There's been some nasty rumours making the rounds in the Royal Court.[k]
 [cs]
 It's going around that Prince Cuan of Lenster, King Eltshan of Nodion, and yourself are conspiring against His Majesty.[k]
@@ -1274,7 +1274,7 @@ That's absurd![n]
 Who could've started such a story!?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Duke Reptor and Lord Langbart.
 
 [TWinBtm] # Sigurd
@@ -1282,7 +1282,7 @@ Duke Reptor and Lord Langbart.
 I see... Those two have had it in for my father for some time, but this has gone far enough.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 I believe they're put off by the way Prince Kurth goes to Lord Byron for everything.[k]
 [cs]
 Once the prince ascends the throne, those two are sure to be ousted from their posts, and that has them worried.[k]
@@ -1295,7 +1295,7 @@ Thanks, I'll do that.[n]
 Tell me, how are we faring in the Isaacian conflict?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 We expect Prince Kurth and your father's triumphant return any day now.
 
 [TWinBtm] # Sigurd
@@ -1305,7 +1305,7 @@ I'm glad to hear His Highness made it through alright. My father sure worries ab
 He fears the Royal Family's blood would be lost forever if anything were to happen to him.[k]
 [cs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Indeed.[n]
 We've been trying to hasten his search for a bride as of late.
 
@@ -1315,7 +1315,7 @@ Huh?[n]
 Is there any special reason for that?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Er...[n]
 Well, only a select few at the Royal Court know this but...[k]
 [cs]
@@ -1327,7 +1327,7 @@ Really?[n]
 Any reason the two never married?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Oh, I may as well tell you the whole story. This all took place nearly 20 years ago.
 [$00$2B$E4][k]
 [BGM 62]
@@ -1349,7 +1349,7 @@ I believe her name was Sigyn.
 Geez... I never knew. The duchess would have been Lord Alvis' mother, correct?[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Precisely. Oh, what a pity...[n]
 To lose both parents like that at the age of seven...
 
@@ -1358,7 +1358,7 @@ To lose both parents like that at the age of seven...
 Poor Prince Kurth... and the duchess.[k]
 [dcs]
 
-[TWinTop] # (null)
+[TWinTop] # Old man
 Oh, I'm sorry to run on and on. Soldiers like yourself have no time for Royal Court gossip.[k]
 [cs]
 Just forget I said anything. I'm sure this conflict is keeping you plenty busy.[k]
@@ -1383,7 +1383,7 @@ I'm not lifting a finger till the dust settles. Keep our soldiers put for the mo
 # 0xfb8ad:
 # @@953111@@
 
-[TWinBtm][DlgOpn]['(null)' 02AB]
+[TWinBtm][DlgOpn]['Old villager' 02AB]
 Keep an eye out fer th' lord of Mackily, Bishop Clement.[k]
 [cs]
 He's got a magical staff called th' Sleep Staff.[k]
@@ -1396,7 +1396,7 @@ Get too close an' he'll put yer lights out an' freeze every muscle in yer body![
 # 0xfb928:
 # @@953125@@
 
-[TWinBtm][DlgOpn]['(null)' 02AE]
+[TWinBtm][DlgOpn]['Villager' 02AE]
 King Eltshan is too honest for his own good.[k]
 [cs]
 Why else would King Shagall have him put away?[k]

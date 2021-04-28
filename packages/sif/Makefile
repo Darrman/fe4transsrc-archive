@@ -4,9 +4,8 @@
 # Options
 CC=gcc
 CFLAGS=-D__DEBUG__ -Wall -W -O2 -ansi -pedantic -g
-LDFLAGS=
-MAKE=make
 RM=rm -f
+override LDFLAGS += -ldl
 
 # Objects
 SRC=main.c cmdline.c parse.c rat.c sif.c ips.c section.c hash.c map.c merge.c

@@ -18,8 +18,8 @@
 */
 /* $Id: sif.c,v 1.6 2003/04/25 08:26:40 j10 Exp $ */
 
-/* Last modified: 23/06/2006
-   This file was modified by Dark Twilkitri */
+/* Last modified: 2012-04-15
+   This file was modified by Twilkitri */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -179,10 +179,10 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
       {
         blocked = 1;
         strcpy(name, filename);
-	name[strlen(name)-3] = 0;
-	strcat(name, "bim");
-	bim = fopen(name, "wb");
-	if(!bim) goto error_3;
+        name[strlen(name)-3] = 0;
+        strcat(name, "bim");
+        bim = fopen(name, "wb");
+        if(!bim) goto error_3;
       }
 
       /* process extensions */
@@ -207,9 +207,9 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
       /* do merge */
       /* All merging with Block Format is taken care of already.
          Don't send Block Format sifs through here because the dummy values may confuse it.
-	 And that would be a Bad Thing (TM) */
+         And that would be a Bad Thing (TM) */
 	 
-	 /*  && !h.flag.blocked */
+      /*  && !h.flag.blocked */
       if(mergedb && !h.flag.nomerge && !h.flag.noptr) {
          if(FindMerge(mergedb,buffer,h.size,h.flag.use16 ? scnmap[h.flag.section] : -1,&address) == 0) {
 #ifdef __DEBUG__
@@ -218,36 +218,36 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
 #endif
             if(h.flag.asmptrs)
             {
-               asmaddr = address & 0xFF0000;
-	       asmaddr = asmaddr >> 16;
-               ips_write(&asmaddr, h.address + 2, 1, ips);
-	       asmaddr = address & 0x00FF00;
-	       asmaddr = asmaddr >> 8;
-	       ips_write(&asmaddr, h.address + 7, 1, ips);
-	       asmaddr = address & 0x0000FF;
-	       ips_write(&asmaddr, h.address + 6, 1, ips);
+                asmaddr = address & 0xFF0000;
+                asmaddr = asmaddr >> 16;
+                ips_write(&asmaddr, h.address + 2, 1, ips);
+                asmaddr = address & 0x00FF00;
+                asmaddr = asmaddr >> 8;
+                ips_write(&asmaddr, h.address + 7, 1, ips);
+                asmaddr = address & 0x0000FF;
+                ips_write(&asmaddr, h.address + 6, 1, ips);
             }
             else if(h.flag.asmptrs3)
             {
-               asmaddr = address & 0xFF0000;
-	       asmaddr = asmaddr >> 16;
-               ips_write(&asmaddr, h.address + 2, 1, ips);
-	       asmaddr = address & 0x00FF00;
-	       asmaddr = asmaddr >> 8;
-	       ips_write(&asmaddr, h.address + 9, 1, ips);
-	       asmaddr = address & 0x0000FF;
-	       ips_write(&asmaddr, h.address + 8, 1, ips);
+                asmaddr = address & 0xFF0000;
+                asmaddr = asmaddr >> 16;
+                ips_write(&asmaddr, h.address + 2, 1, ips);
+                asmaddr = address & 0x00FF00;
+                asmaddr = asmaddr >> 8;
+                ips_write(&asmaddr, h.address + 9, 1, ips);
+                asmaddr = address & 0x0000FF;
+                ips_write(&asmaddr, h.address + 8, 1, ips);
             }
-		else if(h.flag.halfasm)
-		{
-			asmaddr = (address & 0x00FFFF);
-			ips_write(&asmaddr, h.address + 1, 2, ips);
-		}
+            else if(h.flag.halfasm)
+            {
+                asmaddr = (address & 0x00FFFF);
+                ips_write(&asmaddr, h.address + 1, 2, ips);
+            }
             else
             {
-               ips_write(&address,h.address,h.flag.use16 ? 2 : 3,ips);
+                ips_write(&address, h.address, h.flag.use16 ? 2 : 3, ips);
             }
-	    
+
 	    /* Write address to BIM */
 	    if(h.flag.blocked)
 	    {
@@ -271,35 +271,36 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
 
       if(h.flag.asmptrs)
       {
-         asmaddr = snesaddr & 0xFF0000;
-	 asmaddr = asmaddr >> 16;
-         ips_write(&asmaddr, h.address + 2, 1, ips);
-	 asmaddr = snesaddr & 0x00FF00;
-	 asmaddr = asmaddr >> 8;
-	 ips_write(&asmaddr, h.address + 7, 1, ips);
-	 asmaddr = snesaddr & 0x0000FF;
-	 ips_write(&asmaddr, h.address + 6, 1, ips);
+          asmaddr = snesaddr & 0xFF0000;
+          asmaddr = asmaddr >> 16;
+          ips_write(&asmaddr, h.address + 2, 1, ips);
+          asmaddr = snesaddr & 0x00FF00;
+          asmaddr = asmaddr >> 8;
+          ips_write(&asmaddr, h.address + 7, 1, ips);
+          asmaddr = snesaddr & 0x0000FF;
+          ips_write(&asmaddr, h.address + 6, 1, ips);
       }
       else if(h.flag.asmptrs3)
       {
-         asmaddr = snesaddr & 0xFF0000;
-	 asmaddr = asmaddr >> 16;
-         ips_write(&asmaddr, h.address + 2, 1, ips);
-	 asmaddr = snesaddr & 0x00FF00;
-	 asmaddr = asmaddr >> 8;
-	 ips_write(&asmaddr, h.address + 9, 1, ips);
-	 asmaddr = snesaddr & 0x0000FF;
-	 ips_write(&asmaddr, h.address + 8, 1, ips);
+          asmaddr = snesaddr & 0xFF0000;
+          asmaddr = asmaddr >> 16;
+          ips_write(&asmaddr, h.address + 2, 1, ips);
+          asmaddr = snesaddr & 0x00FF00;
+          asmaddr = asmaddr >> 8;
+          ips_write(&asmaddr, h.address + 9, 1, ips);
+          asmaddr = snesaddr & 0x0000FF;
+          ips_write(&asmaddr, h.address + 8, 1, ips);
       }
-	else if(h.flag.halfasm)
-	{
-		asmaddr = (snesaddr & 0x00FFFF);
-		ips_write(&asmaddr, h.address + 1, 2, ips);
-	}
+      else if(h.flag.halfasm)
+      {
+          asmaddr = (snesaddr & 0x00FFFF);
+          ips_write(&asmaddr, h.address + 1, 2, ips);
+      }
       else if(!h.flag.noptr && h.address)
       {
-         ips_write(&snesaddr,h.address,h.flag.use16 ? 2 : 3,ips);
+          ips_write(&snesaddr, h.address, h.flag.use16 ? 2 : 3, ips);
       }
+
       /* Write address to BIM */
       if(h.flag.blocked)
       {
@@ -348,7 +349,6 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
        fscanf(bls, "%u\n", &addrbloc);
        /* Get next address */
        fscanf(bim, "%lu\n", &tempaddr);
-       if(tempaddr >= 0xC00000) tempaddr -= 0x400000;
        addresss[addrbloc] = tempaddr;
      } while(!feof(bls));
      /* Iterate through Block Preliminary Entries */
@@ -357,7 +357,14 @@ int ParseSif(const char *filename,Rat *rat,Section *s,MergeDB *mergedb,Ips *ips)
        fscanf(bpr, "%4u|%4u|%6u\n", &callbloc, &targbloc, &calloffs);
        if(callbloc == targbloc) continue; /* Don't really want an infinite loop */
        calladdr = addresss[callbloc];
-       calladdr -= 0x800000;
+       if(calladdr >= 0xC00000)
+       {
+         calladdr -= 0xC00000;
+       }
+       else
+       {
+         calladdr -= 0x800000;
+       }
        calladdr += 0x000200;
        calladdr += calloffs;
        targaddr = addresss[targbloc];

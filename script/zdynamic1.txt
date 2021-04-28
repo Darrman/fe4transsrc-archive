@@ -2,12 +2,16 @@
 
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was added by Dark Twilkitri
+# Last modified: 2012-04-15
+# This file was added by Twilkitri
 
 # This file is for altering class names whereever they are used in a dialogue sense.
 # Eg: Class Change dialogue
 # Not: Character Status Screen
+
+# Classes which can't be promoted to have been heavily abbreviated (no point in
+# wiping them completely as this file's text area is for its own exclusive use
+# anyway).
 
 [section dynaclasses]
 [map 10]
@@ -18,364 +22,437 @@
 
 # 0xd9b22
 # @@891538@@
-SKt[exit]
+# Cavalier
+Cav[exit]
 
 
 # 0xd9b2b
 # @@891540@@
+# Lance Knight
 LKt[exit]
 
 
 # 0xd9b33
 # @@891542@@
+# Arch Knight
 ArKt[exit]
 
 
 # 0xd9b3b
 # @@891544@@
+# Axe Knight
 AxKt[exit]
 
 
 # 0xd9b43
 # @@891546@@
+# Free Knight
 FrKt[exit]
 
 
 # 0xd9b4b
 # @@891548@@
+# Troubadour
 Tbdr[exit]
 
 
 # 0xd9b53
 # @@891550@@
+# Lord Knight
 Lord[spx]Knight[exit]
 
 
 # 0xd9b5b
 # @@891552@@
+# Duke Knight
 Duke[spx]Knight[exit]
 
 
 # 0xd9b64
 # @@891554@@
+# Master Knight
 Master[spx]Knight[exit]
 
 
 # 0xd9b6d
 # @@891556@@
+# Paladin
 Paladin[exit]
 
 
 # 0xd9b6d
 # @@891558@@
+# Paladin
 Paladin[exit]
 
 
 # 0xd9b74
 # @@891560@@
+# Bow Knight
 Bow[spx]Knight[exit]
 
 
 # 0xd9b7b
 # @@891562@@
-Forest[spx]Knight[exit]
+# Ranger
+Ranger[exit]
 
 
 # 0xd9b85
 # @@891564@@
+# Mage Knight
 Mage[spx]Knight[exit]
 
 
 # 0xd9b8d
 # @@891566@@
+# Great Knight
 Great[spx]Knight[exit]
 
 
 # 0xd9b96
 # @@891568@@
+# Pegasus Rider
 PgRd[exit]
 
 
 # 0xd9ba0
 # @@891570@@
+# Pegasus Knight
 PgKt[exit]
 
 
 # 0xd9ba9
 # @@891572@@
+# Falcon Knight
 Falcon[spx]Knight[exit]
 
 
 # 0xd9bb3
 # @@891574@@
-DgRd[exit]
+# Wyvern Rider
+WvRd[exit]
 
 
 # 0xd9bbd
 # @@891576@@
-DgKt[exit]
+# Wyvern Knight
+WvKt[exit]
 
 
 # 0xd9bc6
 # @@891578@@
-Dragon[spx]Master[exit]
+# Wyvern Lord
+Wyvern[spx]Lord[exit]
 
 
 # 0xd9bd0
 # @@891580@@
-Bwft[exit]
+# Bowfighter
+Arcr[exit]
 
 
 # 0xd9bd9
 # @@891582@@
-Swft[exit]
+# Swordfighter
+Myrm[exit]
 
 
 # 0xd9be3
 # @@891584@@
+# Swordmaster
 Swordmaster[exit]
 
 
 # 0xd9bec
 # @@891586@@
+# Sniper
 Sniper[exit]
 
 
 # 0xd9bf3
 # @@891588@@
-Forrest[exit]
+# Hero
+Hero[exit]
 
 
 # 0xd9bfb
 # @@891590@@
+# General
 General[exit]
 
 
 # 0xd9c02
 # @@891592@@
+# Emperor
 Emperor[exit]
 
 
 # 0xd9c09
 # @@891594@@
+# Baron
 Baron[exit]
 
 
 # 0xd9c0e
 # @@891596@@
+# Soldier
 
 [exit]
 
 
 # 0xd9c15
 # @@891598@@
+# Lance Soldier
 
 [exit]
 
 
 # 0xd9c1f
 # @@891600@@
+# Axe Soldier
 
 [exit]
 
 
 # 0xd9c29
 # @@891602@@
+# Archer
 
 [exit]
 
 
 # 0xd9c30
 # @@891604@@
+# Sword Soldier
 
 [exit]
 
 
 # 0xd9c3a
 # @@891606@@
-Ar[exit]
+# Lance Armour
+LnAr[exit]
 
 
 # 0xd9c40
 # @@891608@@
+# Axe Armour
 AxAr[exit]
 
 
 # 0xd9c49
 # @@891610@@
+# Bow Armour
 BwAr[exit]
 
 
 # 0xd9c51
 # @@891612@@
+# Sword Armour
 SwAr[exit]
 
 
 # 0xd9c5a
 # @@891614@@
+# Brigand
 Brigand[exit]
 
 
 # 0xd9c62
 # @@891616@@
-Axft[exit]
+# Axefighter
+Fgtr[exit]
 
 
 # 0xd9c6c
 # @@891618@@
+# Mountain Thief
 MThf[exit]
 
 
 # 0xd9c76
 # @@891620@@
+# Warrior
 Warrior[exit]
 
 
 # 0xd9c7d
 # @@891622@@
+# Hunter
 Hntr[exit]
 
 
 # 0xd9c83
 # @@891624@@
+# Pirate
 Pirt[exit]
 
 
 # 0xd9c8a
 # @@891626@@
+# Junior Lord
 JrLd[exit]
 
 
 # 0xd9c93
 # @@891628@@
-Magefighter[exit]
+# Magefighter
+Mage Hero[exit]
 
 
 # 0xd9c9d
 # @@891630@@
+# Prince
 Prnc[exit]
 
 
 # 0xd9ca3
 # @@891632@@
+# Princess
 Prncs[exit]
 
 
 # 0xd9caa
 # @@891634@@
-Magefighter[exit]
+# Magefighter
+Mage Hero[exit]
 
 
 # 0xd9cb4
 # @@891636@@
+# Queen
 Queen[exit]
 
 
 # 0xd9cba
 # @@891638@@
+# Dancer
 Dncr[exit]
 
 
 # 0xd9cc3
 # @@891640@@
+# Priest
 Prst[exit]
 
 
 # 0xd9cca
 # @@891642@@
+# Mage
 Mage[exit]
 
 
 # 0xd9ccf
 # @@891644@@
+# Fire Mage
 FiMg[exit]
 
 
 # 0xd9cd8
 # @@891646@@
+# Thunder Mage
 ThMg[exit]
 
 
 # 0xd9ce4
 # @@891648@@
+# Wind Mage
 WiMg[exit]
 
 
 # 0xd9ced
 # @@891650@@
+# High Priest
 High[spx]Priest[exit]
 
 
 # 0xd9cf6
 # @@891652@@
+# Bishop
 Bshp[exit]
 
 
 # 0xd9cfd
 # @@891654@@
+# Sage
 Sage[exit]
 
 
 # 0xd9d02
 # @@891656@@
+# Bard
 Bard[exit]
 
 
 # 0xd9d07
 # @@891658@@
+# Shaman
 Shmn[exit]
 
 
 # 0xd9d0e
 # @@891660@@
+# Dark Mage
 DkMg[exit]
 
 
 # 0xd9d16
 # @@891662@@
+# Dark Bishop
 DkBs[exit]
 
 
 # 0xd9d1d
 # @@891664@@
+# Thief
 Thf[exit]
 
 
 # 0xd9d22
 # @@891666@@
-Thieffighter[exit]
+# Thieffighter
+Rogue[exit]
 
 
 # 0xd9d2c
 # @@891668@@
+# Civilian
 Civi[exit]
 
 
 # 0xd9d33
 # @@891670@@
+# Civilian
 Civi[exit]
 
 
 # 0xd9d3a
 # @@891672@@
-Long[exit]
+# Long Ballista
+Ball[exit]
 
 
 # 0xd9d42
 # @@891674@@
+# Iron Ballista
 Iron[exit]
 
 
 # 0xd9d4b
 # @@891676@@
+# Killer Ballista
 Kill[exit]
 
 
 # 0xd9d53
 # @@891678@@
-Grt[exit]
+# Great Ballista
+
+[exit]
 
 
 # 0xd9d5c
 # @@891680@@
+# Dark Prince
 DkPrnc[exit]

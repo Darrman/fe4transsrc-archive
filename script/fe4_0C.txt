@@ -1,7 +1,7 @@
 # Fontcheck: Reformatted
 
-# Last modified: 22/06/2006
-# This file was modified by Dark Twilkitri
+# Last modified: 2012-04-06
+# This file was modified by Twilkitri
 
 # This file is for altering conversations from the Prologue to Chapter 2.
 
@@ -330,7 +330,7 @@ Thank you very much, Your Highness![k]
 # @@3340997@@
 
 [TWinTop][DlgOpn]['Midir' 0007]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Midir
 My lady! You're alright! Ahh...[n]
@@ -338,7 +338,7 @@ What a relief![k]
 [cs]
 My humblest apologies for all you had to go through!
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Midir, I'm just happy that you're not hurt.[k]
 [dcs]
@@ -359,13 +359,13 @@ I am greatly indebted to him for rescuing Jungby Castle for us, and you as well!
 # @@3341034@@
 
 [TWinTop][DlgOpn]['Sigurd' 0001]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Sigurd
 Aideen![n]
 I'm glad to see you're in one piece!
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Sir Sigurd![n]
 So you're the one behind my rescue![k]
@@ -378,7 +378,7 @@ No worries there. Everyone will just be glad to know that you're alright.[k]
 [cs]
 We have things under control here, Aideen. Why don't you head on back to Grandbell?
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 No, I'm staying. There's bound to be more injuries further along.[k]
 [dcs]
@@ -390,7 +390,7 @@ Aideen... Didn't you leave the knighthood to become a nun?[k]
 [cs]
 I think it suits you perfectly. I'd do well to learn a thing or two from you myself.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Actually, the sole reason I joined the nunnery is...[k]
 [dcs]
@@ -402,7 +402,7 @@ You must mean Brigid. She's been missing since your childhood, hasn't she...[k]
 [cs]
 You still believe you can find her, do you?
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 That's correct. And when I do, I must give the Holy Bow Ichival to her![k]
 
@@ -413,12 +413,12 @@ That's correct. And when I do, I must give the Holy Bow Ichival to her![k]
 # @@3341060@@
 
 [TWinTop][DlgOpn]['Azel' 000A]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Azel
 Lady Aideen! You're not hurt, are you?
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Azel of Velthomer? You've been helping out as well, have you?[k]
 [dcs]
@@ -428,7 +428,7 @@ Yeah, when I heard that you had been kidnapped, I couldn't concentrate on anythi
 [cs]
 I came as fast as I could.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Your brother is Lord Alvis, isn't he? Did you get his permission before coming?[k]
 [dcs]
@@ -437,7 +437,7 @@ Your brother is Lord Alvis, isn't he? Did you get his permission before coming?[
 Nope...[n]
 And he's not going to be happy with me either.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Then why did you do such a silly thing? Besides, I thought you hated fighting.[k]
 [dcs]
@@ -445,7 +445,7 @@ Then why did you do such a silly thing? Besides, I thought you hated fighting.[k
 [TWinTop] # Azel
 Well, I, uh...
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 What's that, Azel?[k]
 [dcs]
@@ -460,12 +460,12 @@ Er... nevermind.[k]
 # @@3341097@@
 
 [TWinTop][DlgOpn]['Ethlin' 0011]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Ethlin
 Aideen, are you alright!? I heard that you'd been kidnapped... I was so worried!
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Oh, Ethlin! You were out here fighting for me too, were you...[k]
 [dcs]
@@ -485,14 +485,14 @@ This a Return Staff, isn't it? Thank you, Aideen! I'll put it to good use.[k]
 # @@3341128@@
 
 [TWinTop][DlgOpn]['Dew' 000F]
-[TWinBtm][DlgOpn]['Etain' 0017]
+[TWinBtm][DlgOpn]['Aideen' 0017]
 
 [TWinTop] # Dew
 Hey, Aideen. I got somethin' for ya. Check out this staff I found.[k]
 [cs]
 I can't get it t'do nothin', so there's no point in me keepin' it.
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Oh, this is a Warp Staff, Dew. Where'd you find it?[k]
 [dcs]
@@ -502,7 +502,7 @@ Umm... It was... over there! Yeah, that's where I found it.[k]
 [cs]
 I betcha one of the gods dropped 'er outta the sky just for you!
 
-[TWinBtm] # Etain
+[TWinBtm] # Aideen
 [Wait 10]
 Yeah right, Dew. Well, it will help out around here to have it. Thanks.[k]
 
@@ -611,12 +611,12 @@ That's very kind of you, Cuan.[k]
 # @@3341192@@
 
 [TWinTop][DlgOpn]['Dew' 000F]
-[TWinBtm][DlgOpn]['Laches' 0012]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
 
 [TWinTop] # Dew
 Lachesis... there you are. Hey, check out this cool sword I found for ya.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Wow, that's an unusual one, isn't it... What kind is it?[k]
 [dcs]
@@ -624,7 +624,7 @@ Wow, that's an unusual one, isn't it... What kind is it?[k]
 [TWinTop] # Dew
 It's a Thief Sword. Now you can tear into them bad guys!
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Er... thanks, Dew. But don't you want it for yourself?[k]
 [dcs]
@@ -692,7 +692,7 @@ I'd say your weapon needs a little upgrading. Here, try using this lance.
 
 [TWinBtm] # Finn
 [Wait 10]
-A Hero Lance... Are you sure about this?[k]
+A Brave Lance... Are you sure about this?[k]
 [dcs]
 
 [TWinTop] # Cuan
@@ -795,12 +795,12 @@ Me? Just a traveling bard, my friend.[k]
 # @@3341318@@
 
 [TWinTop][DlgOpn]['Beowulf' 000D]
-[TWinBtm][DlgOpn]['Laches' 0012]
+[TWinBtm][DlgOpn]['Lachesis' 0012]
 
 [TWinTop] # Beowulf
 Hey, aren't you that princess from Nodion?
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 How rude! Just who are you!?[k]
 [dcs]
@@ -808,7 +808,7 @@ How rude! Just who are you!?[k]
 [TWinTop] # Beowulf
 Er... sorry. Beowulf's the name. I'm just a mercenary, ma'am.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 So what do you want?[k]
 [dcs]
@@ -820,7 +820,7 @@ And you inexperienced types ain't makin' things easy for the rest of us.[k]
 [cs]
 Besides, this ain't no place for a princess. Why don't you get on back to your castle?
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Where do you get off speaking to me like that!? What I do out here is no business of yours![k]
 [dcs]
@@ -828,7 +828,7 @@ Where do you get off speaking to me like that!? What I do out here is no busines
 [TWinTop] # Beowulf
 Heh heh... tough little cookie, ain't ya. Remind me a bit of Eltshan.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Wait! You know my brother?[k]
 [dcs]
@@ -836,7 +836,7 @@ Wait! You know my brother?[k]
 [TWinTop] # Beowulf
 Sure do. We go way back. Don't mean t'be so nosy, but he asked me t'check up on ya.
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 Oh, I didn't realise. I'm sorry.[k]
 [dcs]
@@ -844,7 +844,7 @@ Oh, I didn't realise. I'm sorry.[k]
 [TWinTop] # Beowulf
 S'alright. Eltshan also asked me t'teach you a bit about warfare. How 'bout it?
 
-[TWinBtm] # Laches
+[TWinBtm] # Lachesis
 [Wait 10]
 That'd be great![k]
 
